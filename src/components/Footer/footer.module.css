@@ -1,0 +1,31 @@
+.footerWrapper{
+    background: #3d3e40;
+}
+.footerWrapper .footerTitle{
+    color: #ccc;
+    font-size: 1.38rem;
+    margin-top: 4.44rem;
+    margin-bottom: 1.38rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+}
+.footerWrapper .infoList li{
+    cursor: pointer;
+    color: #fff;
+    font-size: 1rem;
+    margin: 1.25rem 0;
+    line-height: 1.3rem;
+    cursor: pointer;
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+}
+.footerWrapper .footerBottom{
+    border: 1px solid #494a4d;
+    margin-top: 6.94rem;
+    width: 100%;
+    text-align: center;
+}
+.footerWrapper .copyright{
+    color: #999;
+    font-size: .75rem;
+    margin: 1.38rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+}

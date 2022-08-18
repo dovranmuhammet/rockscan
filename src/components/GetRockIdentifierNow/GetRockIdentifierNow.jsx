@@ -22,9 +22,9 @@ const GetRockIdentifierNow = () => {
               <div>
                 <h1 className={Classes.title}>Rock Scan now</h1>
                 <p className={Classes.description}>
-                  Try out Rock Identifier app on your phone and identify
-                  thousands of rocks for free Learn more info about rocks from
-                  our rich and growing database.
+                  Try out Rock Scan app on your phone and identify thousands of
+                  rocks for free Learn more info about rocks from our rich and
+                  growing database.
                 </p>
               </div>
             </div>

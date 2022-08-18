@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import HeaderLogo from '../../assets/images/prod_logo.webp'
+import HeaderLogo from '../../assets/images/download_logo.webp'
 import './navbar.css'
 
 const Navbar = () => {
@@ -27,6 +27,7 @@ const Navbar = () => {
                 <a href='#home'>
                   <img src={HeaderLogo} className='logo-img' alt='HeaderLogo' />
                 </a>
+                <p className='rockscan'>RockScan</p>
               </div>
               <ul className='d-flex align-items-center list-unstyled gap-5 nav-links'>
                 <li>

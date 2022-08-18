@@ -12,7 +12,7 @@ const Banner = () => {
         <div className='row'>
           <div className='col-md-7'>
             <div>
-              <h3 className={Classes.bannerTitle}>Rock Identifier</h3>
+              <h3 className={Classes.bannerTitle}>Rock Scan</h3>
               <p className={Classes.bannerSubtitle}>
                 AI rock expert in your pocket
               </p>

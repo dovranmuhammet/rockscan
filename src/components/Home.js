@@ -1,4 +1,3 @@
-import Navbar from "./header/Navbar";
 import Banner from "./Banner/Banner";
 import IdentifyRock from "./IdentifyRock/IdentifyRock";
 import SuperRichDatabase from "./SuperRichDatabase/SuperRichDatabase";
@@ -10,7 +9,6 @@ import Footer from "./Footer/Footer";
 function Home() {
   return (
     <div>
-      <Navbar />
       <Banner />
       <IdentifyRock />
       <SuperRichDatabase />

@@ -1,0 +1,60 @@
+.bannerWrapper {
+  min-height: 100vh;
+  background-image: url('../../assets/images/home_back.webp');
+  background-repeat: no-repeat;
+  background-position: right -52px top 0;
+  background-size: contain;
+  padding: 8rem 0;
+}
+.bannerWrapper .bannerTitle {
+  color: rgb(153, 122, 92);
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 700;
+  font-size: 2.625rem;
+}
+.bannerWrapper .bannerSubtitle {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 700;
+  font-size: 2.625rem;
+  color: #101010;
+  letter-spacing: 0;
+  line-height: 3.125rem;
+}
+.bannerWrapper .bannerDescription {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 400;
+  font-size: 1.375rem;
+  color: #666;
+  letter-spacing: 0;
+  margin-bottom: 1rem;
+}
+.bannerWrapper .bannerSubDescription {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: #666;
+  letter-spacing: 0;
+  margin-bottom: 2.88rem;
+}
+.downloadSection .qrCode img {
+  height: 150px;
+  width: 150px;
+  object-fit: contain;
+}
+.downloadSection .qrCodeInfo {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 400;
+  font-size: 0.75rem;
+  color: #333;
+  letter-spacing: 0;
+  text-align: center;
+  margin: 0;
+  left: 0;
+  right: 0;
+  bottom: -45px;
+}
+.downloadSection .appStore img {
+  height: 60px;
+  width: 185px;
+  object-fit: contain;
+}

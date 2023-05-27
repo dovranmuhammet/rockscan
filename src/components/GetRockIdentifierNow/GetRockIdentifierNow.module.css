@@ -1,0 +1,52 @@
+.getIdentifierWrapper{
+    padding: 50px 0;
+    margin-bottom: 50px;
+    scroll-margin: 100px;
+}
+.getIdentifierWrapper .title{
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 2.375rem;
+    color: #333;
+    letter-spacing: 0;
+    margin-bottom: 1.4375rem;
+}
+.getIdentifierWrapper .description{
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+    font-weight: 400;
+    font-size: 18px;
+    color: #666;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+.getIdentifierWrapper .scannerImg{
+    object-fit: contain;
+    height: 130px;
+    width: 130px;
+    min-width: 130px;
+}
+.downloadSection .qrCode img{
+    height: 122px;
+    width: 122px;
+    min-width: 122px;
+    object-fit: contain;
+}
+.downloadSection .qrCodeInfo{
+    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+    font-weight: 400;
+    font-size: .75rem;
+    color: #333;
+    letter-spacing: 0;
+    text-align: center;
+    margin: 0;
+    left: 0;
+    right: 0;
+    bottom: -32px;
+    line-height: 14px;
+}
+.downloadSection .appStore img{
+    height: 60px;
+    width: 185px;
+    object-fit: contain;
+}

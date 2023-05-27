@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import rockData from "./rocks.json";
 
 // Assuming that you have a list of 500 rocks
 const rockList = [
@@ -20,12 +21,12 @@ const RockList = () => {
     setSearchTerm(event.target.value);
   };
 
-  const filteredRocks = rockList.filter((rock) =>
+  const filteredRocks = rockData.filter((rock) =>
     rock.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
-    <div style={{}} className="rock-list">
+    <div className="rock-list">
       <input
         type="text"
         placeholder="Search for a rock..."
@@ -33,6 +34,7 @@ const RockList = () => {
         onChange={handleSearchChange}
         style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
       />
+      <p>{filteredRocks.length} Rocks</p>
       {filteredRocks.map((rock) => (
         <Rock key={rock.name} rock={rock} />
       ))}

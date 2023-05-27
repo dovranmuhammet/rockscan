@@ -1,0 +1,343 @@
+[
+    {
+        "name": "Granite",
+        "type": "Igneous",
+        "description": "A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.",
+        "image": ""
+    },
+    {
+        "name": "Basalt",
+        "type": "Igneous",
+        "description": "A dark, fine-grained volcanic rock that sometimes displays a columnar structure, typically composed largely of plagioclase with pyroxene and olivine.",
+        "image": ""
+    },
+    {
+        "name": "Limestone",
+        "type": "Sedimentary",
+        "description": "A sedimentary rock composed primarily of calcite or dolomite. The rock includes also traces of fossils of calcite-secreting organisms.",
+        "image": ""
+    },
+    {
+        "name": "Sandstone",
+        "type": "Sedimentary",
+        "description": "A type of rock made from sediment — a sedimentary rock. The sediment particles are clasts, or pieces, of minerals and fragments of rock, thus sandstone is a clastic sedimentary rock.",
+        "image": ""
+    },
+    {
+        "name": "Slate",
+        "type": "Metamorphic",
+        "description": "A fine-grained, foliated, homogeneous metamorphic rock derived from an original shale-type sedimentary rock composed of clay or volcanic ash through low-grade regional metamorphism.",
+        "image": ""
+    },
+        {
+            "name": "Diorite",
+            "type": "Igneous",
+            "description": "A grey to dark-grey intermediate intrusive igneous rock composed principally of plagioclase feldspar, biotite, hornblende, and pyroxene.",
+            "image": ""
+        },
+        {
+            "name": "Gabbro",
+            "type": "Igneous",
+            "description": "A dark, coarse-grained, intrusive mafic igneous rocks chemically equivalent to basalt, being its coarse-grained analogue.",
+            "image": ""
+        },
+        {
+            "name": "Obsidian",
+            "type": "Igneous",
+            "description": "A naturally occurring volcanic glass formed as an extrusive igneous rock. It is produced when felsic lava extruded from a volcano cools rapidly with minimal crystal growth.",
+            "image": ""
+        },
+        {
+            "name": "Pumice",
+            "type": "Igneous",
+            "description": "A type of extrusive volcanic rock, produced when lava with a very high content of water and gases is discharged from a volcano.",
+            "image": ""
+        },
+        {
+            "name": "Rhyolite",
+            "type": "Igneous",
+            "description": "A light-colored, fine-grained, extrusive igneous rock that typically contains quartz and feldspar minerals.",
+            "image": ""
+        },
+        {
+            "name": "Andesite",
+            "type": "Igneous",
+            "description": "An extrusive rock, intermediate in composition between rhyolite and basalt, typically porphyritic, containing larger crystals (phenocrysts) set in a fine-grained groundmass.",
+            "image": ""
+        },
+        {
+            "name": "Pegmatite",
+            "type": "Igneous",
+            "description": "A very coarse-grained igneous rock, with grain size over 2 cm, which often contains rare minerals not found in other rocks.",
+            "image": ""
+        },
+        {
+            "name": "Peridotite",
+            "type": "Igneous",
+            "description": "A dense, coarse-grained igneous rock, consisting mostly of the minerals olivine and pyroxene. Peridotite is ultramafic, as the rock contains less than 45% silica.",
+            "image": ""
+        },
+        {
+            "name": "Scoria",
+            "type": "Igneous",
+            "description": "A dark-colored, vesicular, extrusive igneous rock. The vesicles are a result of trapped gas within the melt at the time of solidification.",
+            "image": ""
+        },
+        {
+            "name": "Tuff",
+            "type": "Igneous",
+            "description": "A type of rock made of volcanic ash ejected from a vent during a volcanic eruption. Following ejection and deposition, the ash is compacted into a solid rock in a process called consolidation.",
+            "image": ""
+        },
+            {
+                "name": "Shale",
+                "type": "Sedimentary",
+                "description": "A fine-grained sedimentary rock that forms from the compaction of silt and clay-size mineral particles, often contains fossils.",
+                "image": ""
+            },
+            {
+                "name": "Conglomerate",
+                "type": "Sedimentary",
+                "description": "A coarse-grained sedimentary rock composed of rounded fragments within a matrix of finer grained material.",
+                "image": ""
+            },
+            {
+                "name": "Breccia",
+                "type": "Sedimentary",
+                "description": "A rock composed of broken fragments of minerals or rock cemented together by a fine-grained matrix.",
+                "image": ""
+            },
+            {
+                "name": "Chalk",
+                "type": "Sedimentary",
+                "description": "A soft, white, porous sedimentary rock which is a form of limestone composed of the mineral calcite.",
+                "image": ""
+            },
+            {
+                "name": "Coal",
+                "type": "Sedimentary",
+                "description": "A black or brownish-black sedimentary rock that's primarily composed of carbon along with various other elements, such as hydrogen, sulfur, oxygen, and nitrogen.",
+                "image": ""
+            },
+            {
+                "name": "Dolomite",
+                "type": "Sedimentary",
+                "description": "A sedimentary rock similar to limestone but contains magnesium as well as calcium.",
+                "image": ""
+            },
+            {
+                "name": "Flint",
+                "type": "Sedimentary",
+                "description": "A hard sedimentary rock, a variety of quartz, used in the past for making tools and recently for building walls.",
+                "image": ""
+            },
+            {
+                "name": "Gypsum",
+                "type": "Sedimentary",
+                "description": "A sedimentary rock composed primarily of calcium sulfate dihydrate, widely used for plaster, wallboard and sculptures.",
+                "image": ""
+            },
+            {
+                "name": "Lignite",
+                "type": "Sedimentary",
+                "description": "A soft, brownish coal showing traces of plant structure, intermediate between bituminous coal and peat.",
+                "image": ""
+            },
+            {
+                "name": "Chert",
+                "type": "Sedimentary",
+                "description": "A hard, dense, sedimentary rock composed of microcrystalline quartz.",
+                "image": ""
+            },
+            {
+                "name": "Oolite",
+                "type": "Sedimentary",
+                "description": "A sedimentary rock formed from ooids, spherical grains composed of concentric layers.",
+                "image": ""
+            },
+            {
+                "name": "Travertine",
+                "type": "Sedimentary",
+                "description": "A form of limestone deposited by mineral springs, especially hot springs.",
+                "image": ""
+            },
+            {
+                "name": "Siltstone",
+                "type": "Sedimentary",
+                "description": "A fine-grained sedimentary rock which is formed by the consolidation and compaction of silt.",
+                "image": ""
+            },
+            {
+                "name": "Peat",
+                "type": "Sedimentary",
+                "description": "A brown, soil-like material characterized by its high carbon content, formed from the remains of decayed plants over thousands of years.",
+                "image": ""
+            },
+            {
+                "name": "Loess",
+                "type": "Sedimentary",
+                "description": "A wind-blown sediment of silt-sized particles, typically light brown, loosely cemented by calcium carbonate.",
+                "image": ""
+            },
+            {
+                "name": "Mudstone",
+                "type": "Sedimentary",
+                "description": "A type of mudrock whose original constituents were clays or muds. Grain size is up to 0.0625 mm with individual grains too small to be distinguished without a microscope.",
+                "image": ""
+            },
+            {
+                "name": "Oil Shale",
+                "type": "Sedimentary",
+                "description": "A fine-grained sedimentary rock that contains significant amounts of kerogen (a solid mixture of organic chemical compounds), from which liquid hydrocarbons can be produced.",
+                "image": ""
+            },
+            {
+                "name": "Arkose",
+                "type": "Sedimentary",
+                "description": "A type of sandstone containing at least 25% feldspar.",
+                "image": ""
+            },
+            {
+                "name": "Greywacke",
+                "type": "Sedimentary",
+                "description": "A variety of sandstone generally characterized by its hardness, dark color, and poorly sorted angular grains of quartz, feldspar, and small rock fragments set in a compact, clay-fine matrix.",
+                "image": ""
+            },
+            {
+                "name": "Phosphorite",
+                "type": "Sedimentary",
+                "description": "A type of rock primarily rich in phosphate. Its deposition can be marine or terrestrial.",
+                "image": ""
+            },
+                {
+                    "id": 26,
+                    "name": "The Shadow Buttress",
+                    "image": ""
+                },
+                {
+                    "id": 27,
+                    "name": "Flintstone Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 28,
+                    "name": "The Book of Bitter Aspects",
+                    "image": ""
+                },
+                {
+                    "id": 29,
+                    "name": "Huckleberry Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 30,
+                    "name": "The Idol Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 31,
+                    "name": "The Anchor Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 32,
+                    "name": "The Frontline Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 33,
+                    "name": "The Backline Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 34,
+                    "name": "The Beach Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 35,
+                    "name": "The Boulder on the Hill",
+                    "image": ""
+                },
+                {
+                    "id": 36,
+                    "name": "The Lighthouse Boulder",
+                    "image": ""
+                },
+                {
+                    "id": 37,
+                    "name": "The Boulder in the Woods",
+                    "image": ""
+                },
+                {
+                    "id": 38,
+                    "name": "The Boulder by the Water",
+                    "image": ""
+                },
+                {
+                    "id": 39,
+                    "name": "The Boulder on the Beach",
+                    "image": ""
+                },
+                {
+                    "id": 40,
+                    "name": "The Boulder in the Field",
+                    "image": ""
+                },
+                {
+                    "id": 41,
+                    "name": "The Boulder on the Hillside",
+                    "image": ""
+                },
+                {
+                    "id": 42,
+                    "name": "The Boulder on the Edge",
+                    "image": ""
+                },
+                {
+                    "id": 43,
+                    "name": "The Boulder in the Clearing",
+                    "image": ""
+                },
+                {
+                    "id": 44,
+                    "name": "The Boulder on the Slope",
+                    "image": ""
+                },
+                {
+                    "id": 45,
+                    "name": "The Boulder in the Shade",
+                    "image": ""
+                },
+                {
+                    "id": 46,
+                    "name": "The Boulder by the Stream",
+                    "image": ""
+                },
+                {
+                    "id": 47,
+                    "name": "The Boulder on the Cliff",
+                    "image": ""
+                },
+                {
+                    "id": 48,
+                    "name": "The Boulder on the Bluff",
+                    "image": ""
+                },
+                {
+                    "id": 49,
+                    "name": "The Boulder on the Ridge",
+                    "image": ""
+                },
+                {
+                    "id": 50,
+                    "name": "The Boulder in the Grove",
+                    "image": ""
+                }
+          
+            
+     
+        
+    
+    
+]

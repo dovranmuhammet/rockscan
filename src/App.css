@@ -1,9 +1,10 @@
 body {
-    padding-top: 5em; /* Adjust this value based on the height of your navbar */
+    padding-top: 3em; /* Adjust this value based on the height of your navbar */
   }
 .rock-list {
     min-height: 100em;
-    max-width: 20em;
+    max-width: 45em;
     margin: auto;
-    padding: 1em
+    padding: 1em;
+    text-align: center;
   }

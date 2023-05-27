@@ -2,6 +2,7 @@ body {
     padding-top: 5em; /* Adjust this value based on the height of your navbar */
   }
 .rock-list {
+    min-height: 100em;
     max-width: 20em;
     margin: auto;
     padding: 1em

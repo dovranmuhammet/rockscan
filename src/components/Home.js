@@ -4,7 +4,6 @@ import SuperRichDatabase from "./SuperRichDatabase/SuperRichDatabase";
 import ExclusiveConsultation from "./IdentifyRock/ExclusiveConsultation";
 import GetRockIdentifierNow from "./GetRockIdentifierNow/GetRockIdentifierNow";
 import FAQ from "./FAQ/FAQ";
-import Footer from "./Footer/Footer";
 
 function Home() {
   return (
@@ -15,7 +14,6 @@ function Home() {
       <ExclusiveConsultation />
       <GetRockIdentifierNow />
       <FAQ />
-      <Footer />
     </div>
   );
 }

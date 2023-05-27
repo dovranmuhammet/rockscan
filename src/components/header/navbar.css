@@ -6,7 +6,7 @@
   transition: all 0.1s ease-in-out;
 }
 .navbar-wrapper {
-  padding: 1rem 0;
+  padding: 0.5rem 0;
 }
 .navbar-wrapper .logo-img {
   height: 3.13rem;

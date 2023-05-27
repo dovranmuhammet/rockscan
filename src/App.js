@@ -3,7 +3,7 @@ import { Router, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import "./App.css";
 import Navbar from "./components/header/Navbar";
-
+import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <div>
@@ -12,6 +12,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/rocks" element={<RockList />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

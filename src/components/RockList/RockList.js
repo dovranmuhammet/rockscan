@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import rockData from "./rocks.json";
+import rockDataJson from "./rocks.json";
 import axios from "axios";
 
 // useEffect(() => {
@@ -42,6 +42,7 @@ const Rock = ({ rock, data }) => {
 
 const RockList = () => {
   const [data, setData] = useState(null);
+  const [rockData, setRockData] = useState(rockDataJson);
   const [searchTerm, setSearchTerm] = useState("");
 
   const handleSearchChange = (event) => {
@@ -52,43 +53,82 @@ const RockList = () => {
     rock.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  useEffect(() => {
-    const getRockWikipediaData = async (name) => {
-      const data = // await axios.get(
-        //   `https://en.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts&exintro=&explaintext=&format=json&titles=${name}`
-        // )
-        (
-          await axios.get(
-            `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=pageimages%7Cdescription%7Cextracts&list=&titles=${name}&redirects=1&formatversion=2&piprop=original&pithumbsize=200&exintro=1&explaintext=1&exsentences=${5}`
-          )
-        ).data;
-      let pages = data.query.pages;
-      let page = pages[Object.keys(pages)[0]];
-      // console.log(data.query.pages[0]);
-      // console.log(firstHalf);
-      return data.query.pages[0];
+  //   useEffect(() => {
+  //     const getRockWikipediaData = async (name) => {
+  //       const data = // await axios.get(
+  //         //   `https://en.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts&exintro=&explaintext=&format=json&titles=${name}`
+  //         // )
+  //         (
+  //           await axios.get(
+  //             `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=pageimages%7Cdescription%7Cextracts&list=&titles=${name}&redirects=1&formatversion=2&piprop=original&pithumbsize=200&exintro=1&explaintext=1&exsentences=${5}`
+  //           )
+  //         ).data;
+  //       let pages = data.query.pages;
+  //       let page = pages[Object.keys(pages)[0]];
+  //       // console.log(data.query.pages[0]);
+  //       // console.log(firstHalf);
+  //       return data.query.pages[0];
+  //     };
+  //     const getData = async () => {
+  //       let newRockData = [];
+  //       for (let i = 0; i < rockData.length; i++) {
+  //         const rockWikiData = await getRockWikipediaData(rockData[i].name);
+  //         //console.log(rockData[i].name);
+  //         const newRockObj = {
+  //           name: rockData[i].name,
+  //           type: rockData[i].type,
+  //           description: rockData[i].description,
+  //           wikiExtract: rockWikiData.extract,
+  //           wikiDescription: rockWikiData.description,
+  //           wikiImage: rockWikiData.original?.source,
+  //           image: "",
+  //         };
+  //         newRockData.push(newRockObj);
+  //         console.log(newRockObj);
+  //       }
+  //       console.log(newRockData);
+  //     };
+  //     // getData();
+  //   }, []);
+
+  const getRockWikipediaData = async (name) => {
+    const data = // await axios.get(
+      //   `https://en.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts&exintro=&explaintext=&format=json&titles=${name}`
+      // )
+      (
+        await axios.get(
+          `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=pageimages%7Cdescription%7Cextracts&list=&titles=${name}&redirects=1&formatversion=2&piprop=original&pithumbsize=200&exintro=1&explaintext=1&exsentences=${5}`
+        )
+      ).data;
+    let pages = data.query.pages;
+    let page = pages[Object.keys(pages)[0]];
+    // console.log(data.query.pages[0]);
+    const wikiRock = data.query.pages[0];
+    const newRockObj = {
+      name: name,
+      description: wikiRock.description,
+      wikiExtract: wikiRock.extract,
+      wikiImage: wikiRock.original?.source,
     };
-    const getData = async () => {
-      let newRockData = [];
-      for (let i = 0; i < rockData.length; i++) {
-        const rockWikiData = await getRockWikipediaData(rockData[i].name);
-        //console.log(rockData[i].name);
-        const newRockObj = {
-          name: rockData[i].name,
-          type: rockData[i].type,
-          description: rockData[i].description,
-          wikiExtract: rockWikiData.extract,
-          wikiDescription: rockWikiData.description,
-          wikiImage: rockWikiData.original?.source,
-          image: "",
-        };
-        newRockData.push(newRockObj);
-        console.log(newRockObj);
-      }
-      console.log(newRockData);
-    };
-    // getData();
-  }, []);
+    console.log(newRockObj);
+    setRockData([newRockObj]);
+    return wikiRock;
+  };
+  //   const getData = async () => {
+  //     let newRockData = [];
+  //       const rockWikiData = await getRockWikipediaData(rockData[i].name);
+  //       //console.log(rockData[i].name);
+  //       const newRockObj = {
+  //         name: rockData.name,
+  //         type: rockData[i].type,
+  //         description: rockData[i].description,
+  //         wikiExtract: rockWikiData.extract,
+  //         wikiDescription: rockWikiData.description,
+  //         wikiImage: rockWikiData.original?.source,
+  //         image: "",
+  //       };
+  //     console.log(newRockData);
+  //   };
 
   //   useEffect(() => {
   //     // Fetch all pages in the 'Rocks' category
@@ -126,9 +166,14 @@ const RockList = () => {
           onChange={handleSearchChange}
           style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
         />
-        <button className="search-wikipedia-btn">Search Wikipedia</button>
+        <button
+          className="search-wikipedia-btn"
+          onClick={() => getRockWikipediaData(searchTerm)}
+        >
+          Search Wikipedia
+        </button>
       </div>
-      <p>{filteredRocks.length} Rocks</p>
+      {/* <p>{filteredRocks.length} Rocks</p> */}
       {filteredRocks.map((rock) => (
         <Rock key={rock.name} rock={rock} />
       ))}

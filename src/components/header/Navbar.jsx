@@ -31,6 +31,11 @@ const Navbar = () => {
               </div>
               <ul className="d-flex align-items-center list-unstyled gap-5 nav-links">
                 <li>
+                  <a href="/rocks" className="text-decoration-none">
+                    Rocks
+                  </a>
+                </li>
+                <li>
                   <a href="#Features" className="text-decoration-none">
                     Features
                   </a>

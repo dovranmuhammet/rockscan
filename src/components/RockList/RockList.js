@@ -24,7 +24,7 @@ const Rock = ({ rock, data }) => {
       <div className="rock-body">
         <h2>{rock.name}</h2>
         <p>{rock.description}</p>
-        <button className="wikipedia-btn">Read more from Wikipedia</button>
+        {/* <button className="wikipedia-btn">Read more from Wikipedia</button> */}
 
         <div className="rock-wikipedia-info">
           <p>
@@ -89,15 +89,45 @@ const RockList = () => {
     };
     // getData();
   }, []);
+
+  //   useEffect(() => {
+  //     // Fetch all pages in the 'Rocks' category
+  //     const getAllRocks = () => {
+  //       fetch(
+  //         `https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Rocks&format=json&origin=*&cmlimit=max`
+  //       )
+  //         .then((response) => response.json())
+  //         .then((data) => {
+  //           // Fetch data for each rock page
+  //           let rockPromises = data.query.categorymembers.map((page) =>
+  //             fetch(
+  //               `https://en.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts&format=json&explaintext=true&titles=${page.title}`
+  //             ).then((response) => response.json())
+  //           );
+
+  //           return Promise.all(rockPromises);
+  //         })
+  //         .then((rockData) => {
+  //           //setData(rockData);
+  //           console.log(rockData);
+  //         })
+  //         .catch((error) => console.error(error));
+  //     };
+  //     getAllRocks();
+  //   }, []);
+
   return (
     <div className="rock-list">
-      <input
-        type="text"
-        placeholder="Search for a rock..."
-        value={searchTerm}
-        onChange={handleSearchChange}
-        style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
-      />
+      <div>
+        <input
+          type="text"
+          placeholder="Search for a rock..."
+          value={searchTerm}
+          onChange={handleSearchChange}
+          style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
+        />
+        <button className="search-wikipedia-btn">Search Wikipedia</button>
+      </div>
       <p>{filteredRocks.length} Rocks</p>
       {filteredRocks.map((rock) => (
         <Rock key={rock.name} rock={rock} />

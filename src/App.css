@@ -17,9 +17,17 @@ body {
   }
   .rock-image-container {
     width: 30%;
+    
   }
-  .wikipedia-btn {
+  .rock-image-container img {
+    border-radius: 20px;
+  }
+  .search-wikipedia-btn {
+    position: absolute;
+    top: 4.3em;
+    right: 15.5em;
     border: none;
+    padding: 0.45em;
     border-radius: 10px;
     background-color: rgb(153, 122, 92);
     color: #fff;

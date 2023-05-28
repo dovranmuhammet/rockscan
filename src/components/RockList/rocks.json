@@ -3,341 +3,485 @@
         "name": "Granite",
         "type": "Igneous",
         "description": "A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.",
+        "wikiExtract": "Granite () is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, and plagioclase. It forms from magma with a high content of silica and alkali metal oxides that slowly cools and solidifies underground. It is common in the continental crust of Earth, where it is found in igneous intrusions. These range in size from dikes only a few centimeters across to batholiths exposed over hundreds of square kilometers.\nGranite is typical of a larger family of granitic rocks, or granitoids, that are composed mostly of coarse-grained quartz and feldspars in varying proportions.",
+        "wikiDescription": "Common type of intrusive, felsic, igneous rock with granular structure",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Fj%C3%A6regranitt3.JPG",
         "image": ""
     },
     {
         "name": "Basalt",
         "type": "Igneous",
         "description": "A dark, fine-grained volcanic rock that sometimes displays a columnar structure, typically composed largely of plagioclase with pyroxene and olivine.",
+        "wikiExtract": "Basalt (UK: ; US: ) is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron (mafic lava) exposed at or very near the surface of a rocky planet or moon. More than 90% of all volcanic rock on Earth is basalt. Rapid-cooling, fine-grained basalt is chemically equivalent to slow-cooling, coarse-grained gabbro. The eruption of basalt lava is observed by geologists at about 20 volcanoes per year. Basalt is also an important rock type on other planetary bodies in the Solar System.",
+        "wikiDescription": "Magnesium- and iron-rich extrusive igneous rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg",
         "image": ""
     },
     {
         "name": "Limestone",
         "type": "Sedimentary",
         "description": "A sedimentary rock composed primarily of calcite or dolomite. The rock includes also traces of fossils of calcite-secreting organisms.",
+        "wikiExtract": "Limestone (calcium carbonate CaCO3) is a type of carbonate sedimentary rock which is the main source of the material lime. It is composed mostly of the minerals calcite and aragonite, which are different crystal forms of CaCO3. Limestone forms when these minerals precipitate out of water containing dissolved calcium. This can take place through both biological and nonbiological processes, though biological processes, such as the accumulation of corals and shells in the sea, have likely been more important for the last 540 million years. Limestone often contains fossils which provide scientists with information on ancient environments and on the evolution of life.About 20% to 25% of sedimentary rock is carbonate rock, and most of this is limestone.",
+        "wikiDescription": "Sedimentary rocks made of calcium carbonate",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/ElTorcal0408.jpg",
         "image": ""
     },
     {
         "name": "Sandstone",
         "type": "Sedimentary",
         "description": "A type of rock made from sediment — a sedimentary rock. The sediment particles are clasts, or pieces, of minerals and fragments of rock, thus sandstone is a clastic sedimentary rock.",
+        "wikiExtract": "Sandstone is a clastic sedimentary rock composed mainly of sand-sized (0.0625 to 2 mm) silicate grains. Sandstones comprise about 20–25% of all sedimentary rocks.Most sandstone is composed of quartz or feldspar (both silicates) because they are the most resistant minerals to weathering processes at the Earth's surface. Like uncemented sand, sandstone may be any color due to impurities within the minerals, but the most common colors are tan, brown, yellow, red, grey, pink, white, and black. Since sandstone beds often form highly visible cliffs and other topographic features, certain colors of sandstone have been strongly identified with certain regions.\nRock formations that are primarily composed of sandstone usually allow the percolation of water and other fluids and are porous enough to store large quantities, making them valuable aquifers and petroleum reservoirs.Quartz-bearing sandstone can be changed into quartzite through metamorphism, usually related to tectonic compression within orogenic belts.",
+        "wikiDescription": "Type of sedimentary rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/USDA_Mineral_Sandstone_93c3955.jpg",
         "image": ""
     },
     {
         "name": "Slate",
         "type": "Metamorphic",
         "description": "A fine-grained, foliated, homogeneous metamorphic rock derived from an original shale-type sedimentary rock composed of clay or volcanic ash through low-grade regional metamorphism.",
+        "wikiExtract": "Slate is a fine-grained, foliated, homogeneous, metamorphic rock derived from an original shale-type sedimentary rock composed of clay or volcanic ash through low-grade, regional metamorphism. It is the finest-grained foliated metamorphic rock. Foliation may not correspond to the original sedimentary layering, but instead is in planes perpendicular to the direction of metamorphic compression.The foliation in slate, called \"slaty cleavage\", is caused by strong compression in which fine-grained clay forms flakes to regrow in planes perpendicular to the compression. When expertly \"cut\" by striking parallel to the foliation, with a specialized tool in the quarry, many slates display a property called fissility, forming smooth, flat sheets of stone, which have long been used for roofing, floor tiles, and other purposes. Slate is frequently grey in color, especially when seen en masse covering roofs.",
+        "wikiDescription": "Metamorphic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SlateUSGOV.jpg",
         "image": ""
     },
-        {
-            "name": "Diorite",
-            "type": "Igneous",
-            "description": "A grey to dark-grey intermediate intrusive igneous rock composed principally of plagioclase feldspar, biotite, hornblende, and pyroxene.",
-            "image": ""
-        },
-        {
-            "name": "Gabbro",
-            "type": "Igneous",
-            "description": "A dark, coarse-grained, intrusive mafic igneous rocks chemically equivalent to basalt, being its coarse-grained analogue.",
-            "image": ""
-        },
-        {
-            "name": "Obsidian",
-            "type": "Igneous",
-            "description": "A naturally occurring volcanic glass formed as an extrusive igneous rock. It is produced when felsic lava extruded from a volcano cools rapidly with minimal crystal growth.",
-            "image": ""
-        },
-        {
-            "name": "Pumice",
-            "type": "Igneous",
-            "description": "A type of extrusive volcanic rock, produced when lava with a very high content of water and gases is discharged from a volcano.",
-            "image": ""
-        },
-        {
-            "name": "Rhyolite",
-            "type": "Igneous",
-            "description": "A light-colored, fine-grained, extrusive igneous rock that typically contains quartz and feldspar minerals.",
-            "image": ""
-        },
-        {
-            "name": "Andesite",
-            "type": "Igneous",
-            "description": "An extrusive rock, intermediate in composition between rhyolite and basalt, typically porphyritic, containing larger crystals (phenocrysts) set in a fine-grained groundmass.",
-            "image": ""
-        },
-        {
-            "name": "Pegmatite",
-            "type": "Igneous",
-            "description": "A very coarse-grained igneous rock, with grain size over 2 cm, which often contains rare minerals not found in other rocks.",
-            "image": ""
-        },
-        {
-            "name": "Peridotite",
-            "type": "Igneous",
-            "description": "A dense, coarse-grained igneous rock, consisting mostly of the minerals olivine and pyroxene. Peridotite is ultramafic, as the rock contains less than 45% silica.",
-            "image": ""
-        },
-        {
-            "name": "Scoria",
-            "type": "Igneous",
-            "description": "A dark-colored, vesicular, extrusive igneous rock. The vesicles are a result of trapped gas within the melt at the time of solidification.",
-            "image": ""
-        },
-        {
-            "name": "Tuff",
-            "type": "Igneous",
-            "description": "A type of rock made of volcanic ash ejected from a vent during a volcanic eruption. Following ejection and deposition, the ash is compacted into a solid rock in a process called consolidation.",
-            "image": ""
-        },
-            {
-                "name": "Shale",
-                "type": "Sedimentary",
-                "description": "A fine-grained sedimentary rock that forms from the compaction of silt and clay-size mineral particles, often contains fossils.",
-                "image": ""
-            },
-            {
-                "name": "Conglomerate",
-                "type": "Sedimentary",
-                "description": "A coarse-grained sedimentary rock composed of rounded fragments within a matrix of finer grained material.",
-                "image": ""
-            },
-            {
-                "name": "Breccia",
-                "type": "Sedimentary",
-                "description": "A rock composed of broken fragments of minerals or rock cemented together by a fine-grained matrix.",
-                "image": ""
-            },
-            {
-                "name": "Chalk",
-                "type": "Sedimentary",
-                "description": "A soft, white, porous sedimentary rock which is a form of limestone composed of the mineral calcite.",
-                "image": ""
-            },
-            {
-                "name": "Coal",
-                "type": "Sedimentary",
-                "description": "A black or brownish-black sedimentary rock that's primarily composed of carbon along with various other elements, such as hydrogen, sulfur, oxygen, and nitrogen.",
-                "image": ""
-            },
-            {
-                "name": "Dolomite",
-                "type": "Sedimentary",
-                "description": "A sedimentary rock similar to limestone but contains magnesium as well as calcium.",
-                "image": ""
-            },
-            {
-                "name": "Flint",
-                "type": "Sedimentary",
-                "description": "A hard sedimentary rock, a variety of quartz, used in the past for making tools and recently for building walls.",
-                "image": ""
-            },
-            {
-                "name": "Gypsum",
-                "type": "Sedimentary",
-                "description": "A sedimentary rock composed primarily of calcium sulfate dihydrate, widely used for plaster, wallboard and sculptures.",
-                "image": ""
-            },
-            {
-                "name": "Lignite",
-                "type": "Sedimentary",
-                "description": "A soft, brownish coal showing traces of plant structure, intermediate between bituminous coal and peat.",
-                "image": ""
-            },
-            {
-                "name": "Chert",
-                "type": "Sedimentary",
-                "description": "A hard, dense, sedimentary rock composed of microcrystalline quartz.",
-                "image": ""
-            },
-            {
-                "name": "Oolite",
-                "type": "Sedimentary",
-                "description": "A sedimentary rock formed from ooids, spherical grains composed of concentric layers.",
-                "image": ""
-            },
-            {
-                "name": "Travertine",
-                "type": "Sedimentary",
-                "description": "A form of limestone deposited by mineral springs, especially hot springs.",
-                "image": ""
-            },
-            {
-                "name": "Siltstone",
-                "type": "Sedimentary",
-                "description": "A fine-grained sedimentary rock which is formed by the consolidation and compaction of silt.",
-                "image": ""
-            },
-            {
-                "name": "Peat",
-                "type": "Sedimentary",
-                "description": "A brown, soil-like material characterized by its high carbon content, formed from the remains of decayed plants over thousands of years.",
-                "image": ""
-            },
-            {
-                "name": "Loess",
-                "type": "Sedimentary",
-                "description": "A wind-blown sediment of silt-sized particles, typically light brown, loosely cemented by calcium carbonate.",
-                "image": ""
-            },
-            {
-                "name": "Mudstone",
-                "type": "Sedimentary",
-                "description": "A type of mudrock whose original constituents were clays or muds. Grain size is up to 0.0625 mm with individual grains too small to be distinguished without a microscope.",
-                "image": ""
-            },
-            {
-                "name": "Oil Shale",
-                "type": "Sedimentary",
-                "description": "A fine-grained sedimentary rock that contains significant amounts of kerogen (a solid mixture of organic chemical compounds), from which liquid hydrocarbons can be produced.",
-                "image": ""
-            },
-            {
-                "name": "Arkose",
-                "type": "Sedimentary",
-                "description": "A type of sandstone containing at least 25% feldspar.",
-                "image": ""
-            },
-            {
-                "name": "Greywacke",
-                "type": "Sedimentary",
-                "description": "A variety of sandstone generally characterized by its hardness, dark color, and poorly sorted angular grains of quartz, feldspar, and small rock fragments set in a compact, clay-fine matrix.",
-                "image": ""
-            },
-            {
-                "name": "Phosphorite",
-                "type": "Sedimentary",
-                "description": "A type of rock primarily rich in phosphate. Its deposition can be marine or terrestrial.",
-                "image": ""
-            },
-                {
-                    "id": 26,
-                    "name": "The Shadow Buttress",
-                    "image": ""
-                },
-                {
-                    "id": 27,
-                    "name": "Flintstone Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 28,
-                    "name": "The Book of Bitter Aspects",
-                    "image": ""
-                },
-                {
-                    "id": 29,
-                    "name": "Huckleberry Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 30,
-                    "name": "The Idol Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 31,
-                    "name": "The Anchor Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 32,
-                    "name": "The Frontline Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 33,
-                    "name": "The Backline Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 34,
-                    "name": "The Beach Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 35,
-                    "name": "The Boulder on the Hill",
-                    "image": ""
-                },
-                {
-                    "id": 36,
-                    "name": "The Lighthouse Boulder",
-                    "image": ""
-                },
-                {
-                    "id": 37,
-                    "name": "The Boulder in the Woods",
-                    "image": ""
-                },
-                {
-                    "id": 38,
-                    "name": "The Boulder by the Water",
-                    "image": ""
-                },
-                {
-                    "id": 39,
-                    "name": "The Boulder on the Beach",
-                    "image": ""
-                },
-                {
-                    "id": 40,
-                    "name": "The Boulder in the Field",
-                    "image": ""
-                },
-                {
-                    "id": 41,
-                    "name": "The Boulder on the Hillside",
-                    "image": ""
-                },
-                {
-                    "id": 42,
-                    "name": "The Boulder on the Edge",
-                    "image": ""
-                },
-                {
-                    "id": 43,
-                    "name": "The Boulder in the Clearing",
-                    "image": ""
-                },
-                {
-                    "id": 44,
-                    "name": "The Boulder on the Slope",
-                    "image": ""
-                },
-                {
-                    "id": 45,
-                    "name": "The Boulder in the Shade",
-                    "image": ""
-                },
-                {
-                    "id": 46,
-                    "name": "The Boulder by the Stream",
-                    "image": ""
-                },
-                {
-                    "id": 47,
-                    "name": "The Boulder on the Cliff",
-                    "image": ""
-                },
-                {
-                    "id": 48,
-                    "name": "The Boulder on the Bluff",
-                    "image": ""
-                },
-                {
-                    "id": 49,
-                    "name": "The Boulder on the Ridge",
-                    "image": ""
-                },
-                {
-                    "id": 50,
-                    "name": "The Boulder in the Grove",
-                    "image": ""
-                }
-          
-            
-     
-        
-    
-    
+    {
+        "name": "Diorite",
+        "type": "Igneous",
+        "description": "A grey to dark-grey intermediate intrusive igneous rock composed principally of plagioclase feldspar, biotite, hornblende, and pyroxene.",
+        "wikiExtract": "Diorite ( DY-ə-ryte) is an intrusive igneous rock formed by the slow cooling underground of magma (molten rock) that has a moderate content of silica and a relatively low content of alkali metals. It is intermediate in composition between low-silica (mafic) gabbro and high-silica (felsic) granite.\nDiorite is found in mountain-building belts (orogens) on the margins of continents. It has the same composition as the fine-grained volcanic rock, andesite, which is also common in orogens.\nDiorite has been used since prehistoric times as decorative stone.",
+        "wikiDescription": "Igneous rock type",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/15/Diorite2.tif",
+        "image": ""
+    },
+    {
+        "name": "Gabbro",
+        "type": "Igneous",
+        "description": "A dark, coarse-grained, intrusive mafic igneous rocks chemically equivalent to basalt, being its coarse-grained analogue.",
+        "wikiExtract": "Gabbro () is a phaneritic (coarse-grained), mafic intrusive igneous rock formed from the slow cooling of magnesium-rich and iron-rich magma into a holocrystalline mass deep beneath the Earth's surface. Slow-cooling, coarse-grained gabbro is chemically equivalent to rapid-cooling, fine-grained basalt. Much of the Earth's oceanic crust is made of gabbro, formed at mid-ocean ridges. Gabbro is also found as plutons associated with continental volcanism. Due to its variant nature, the term gabbro may be applied loosely to a wide range of intrusive rocks, many of which are merely \"gabbroic\".",
+        "wikiDescription": "Coarse-grained mafic intrusive rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/90/1gabbro.jpg",
+        "image": ""
+    },
+    {
+        "name": "Obsidian",
+        "type": "Igneous",
+        "description": "A naturally occurring volcanic glass formed as an extrusive igneous rock. It is produced when felsic lava extruded from a volcano cools rapidly with minimal crystal growth.",
+        "wikiExtract": "Obsidian () is a naturally occurring volcanic glass formed when lava extruded from a volcano cools rapidly with minimal crystal growth. It is an igneous rock.Obsidian is produced from felsic lava, rich in the lighter elements such as silicon, oxygen, aluminium, sodium, and potassium. It is commonly found within the margins of rhyolitic lava flows known as obsidian flows. These flows have a high content of silica, granting them a high viscosity. The high viscosity inhibits diffusion of atoms through the lava, which inhibits the first step (nucleation) in the formation of mineral crystals.",
+        "wikiDescription": "Naturally occurring volcanic glass",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lipari-Obsidienne_%285%29.jpg",
+        "image": ""
+    },
+    {
+        "name": "Pumice",
+        "type": "Igneous",
+        "description": "A type of extrusive volcanic rock, produced when lava with a very high content of water and gases is discharged from a volcano.",
+        "wikiExtract": "Pumice ( ), called pumicite in its powdered or dust form, is a volcanic rock that consists of highly vesicular rough-textured volcanic glass, which may or may not contain crystals. It is typically light-colored. Scoria is another vesicular volcanic rock that differs from pumice in having larger vesicles, thicker vesicle walls, and being dark colored and denser.Pumice is created when super-heated, highly pressurized rock is rapidly ejected from a volcano. The unusual foamy configuration of pumice happens because of simultaneous rapid cooling and rapid depressurization. The depressurization creates bubbles by lowering the solubility of gases (including water and CO2) that are dissolved in the lava, causing the gases to rapidly exsolve (like the bubbles of CO2 that appear when a carbonated drink is opened).",
+        "wikiDescription": "Light colored highly vesicular volcanic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Teidepumice.jpg",
+        "image": ""
+    },
+    {
+        "name": "Rhyolite",
+        "type": "Igneous",
+        "description": "A light-colored, fine-grained, extrusive igneous rock that typically contains quartz and feldspar minerals.",
+        "wikiExtract": "Rhyolite ( RY-ə-lyte) is the most silica-rich of volcanic rocks. It is generally glassy or fine-grained (aphanitic) in texture, but may be porphyritic, containing larger mineral crystals (phenocrysts) in an otherwise fine-grained groundmass. The mineral assemblage is predominantly quartz, sanidine, and plagioclase. It is the extrusive equivalent to granite.\nRhyolitic magma is extremely viscous, due to its high silica content.",
+        "wikiDescription": "Igneous, volcanic rock, of felsic (silica-rich) composition",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/PinkRhyolite.tif",
+        "image": ""
+    },
+    {
+        "name": "Andesite",
+        "type": "Igneous",
+        "description": "An extrusive rock, intermediate in composition between rhyolite and basalt, typically porphyritic, containing larger crystals (phenocrysts) set in a fine-grained groundmass.",
+        "wikiExtract": "Andesite () is a volcanic rock of intermediate composition. In a general sense, it is the intermediate type between silica-poor basalt and silica-rich rhyolite. It is fine-grained (aphanitic) to porphyritic in texture, and is composed predominantly of sodium-rich plagioclase plus pyroxene or hornblende.Andesite is the extrusive equivalent of plutonic diorite. Characteristic of subduction zones, andesite represents the dominant rock type in island arcs. The average composition of the continental crust is andesitic.",
+        "wikiDescription": "Type of volcanic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Amygdaloidal_andesite.jpg",
+        "image": ""
+    },
+    {
+        "name": "Pegmatite",
+        "type": "Igneous",
+        "description": "A very coarse-grained igneous rock, with grain size over 2 cm, which often contains rare minerals not found in other rocks.",
+        "wikiExtract": "A pegmatite is an igneous rock showing a very coarse texture, with large interlocking crystals usually greater in size than 1 cm (0.4 in) and sometimes greater than 1 meter (3 ft). Most pegmatites are composed of quartz, feldspar, and mica, having a similar silicic composition to granite. However, rarer intermediate composition and mafic pegmatites are known.\nMany of the world's largest crystals are found within pegmatites. These include crystals of microcline, quartz, mica, spodumene, beryl, and tourmaline.",
+        "wikiDescription": "Igneous rock with very large interlocked crystals",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alkaline_pegmatite.jpg",
+        "image": ""
+    },
+    {
+        "name": "Peridotite",
+        "type": "Igneous",
+        "description": "A dense, coarse-grained igneous rock, consisting mostly of the minerals olivine and pyroxene. Peridotite is ultramafic, as the rock contains less than 45% silica.",
+        "wikiExtract": "Peridotite (US:  PERR-ih-doh-tyte, pə-RID-ə-) is a dense, coarse-grained igneous rock consisting mostly of the silicate minerals olivine and pyroxene. Peridotite is ultramafic, as the rock contains less than 45% silica. It is high in magnesium (Mg2+), reflecting the high proportions of magnesium-rich olivine, with appreciable iron. Peridotite is derived from Earth's mantle, either as solid blocks and fragments, or as crystals accumulated from magmas that formed in the mantle. The compositions of peridotites from these layered igneous complexes vary widely, reflecting the relative proportions of pyroxenes, chromite, plagioclase, and amphibole.",
+        "wikiDescription": "Coarse-grained ultramafic igneous rock type",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olivine-Dunit.jpg",
+        "image": ""
+    },
+    {
+        "name": "Scoria",
+        "type": "Igneous",
+        "description": "A dark-colored, vesicular, extrusive igneous rock. The vesicles are a result of trapped gas within the melt at the time of solidification.",
+        "wikiExtract": "Scoria is a pyroclastic, highly vesicular, dark-colored volcanic rock that was ejected from a volcano as a molten blob and cooled in the air to form discrete grains or clasts. It is typically dark in color (generally dark brown, black or purplish-red), and basaltic or andesitic in composition. Scoria is relatively low in density as a result of its numerous macroscopic ellipsoidal vesicles, but in contrast to pumice, all scoria has a specific gravity greater than 1 and sinks in water. \nThe holes or vesicles form when gases that were dissolved in the magma come out of solution as it erupts, creating bubbles in the molten rock, some of which are frozen in place as the rock cools and solidifies. Scoria may form as part of a lava flow, typically near its surface, or as fragmental ejecta (lapilli, blocks and bombs), for instance in Strombolian eruptions that form steep-sided scoria cones.",
+        "wikiDescription": "Dark vesicular volcanic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Scoria_Macro_Digon3.jpg",
+        "image": ""
+    },
+    {
+        "name": "Tuff",
+        "type": "Igneous",
+        "description": "A type of rock made of volcanic ash ejected from a vent during a volcanic eruption. Following ejection and deposition, the ash is compacted into a solid rock in a process called consolidation.",
+        "wikiExtract": "Tuff is a type of rock made of volcanic ash ejected from a vent during a volcanic eruption. Following ejection and deposition, the ash is lithified into a solid rock. Rock that contains greater than 75% ash is considered tuff, while rock containing 25% to 75% ash is described as tuffaceous (for example, tuffaceous sandstone). Tuff composed of sandy volcanic material can be referred to as volcanic sandstone.Tuff is a relatively soft rock, so it has been used for construction since ancient times. Because it is common in Italy, the Romans used it often for construction.",
+        "wikiDescription": "Rock consolidated from volcanic ash",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandelier-Pockmarked_Cliff.jpg",
+        "image": ""
+    },
+    {
+        "name": "Shale",
+        "type": "Sedimentary",
+        "description": "A fine-grained sedimentary rock that forms from the compaction of silt and clay-size mineral particles, often contains fossils.",
+        "wikiExtract": "Shale is a fine-grained, clastic sedimentary rock formed from mud that is a mix of flakes of clay minerals (hydrous aluminium phyllosilicates, e.g. kaolin, Al2Si2O5(OH)4) and tiny fragments (silt-sized particles) of other minerals, especially quartz and calcite.  Shale is characterized by its tendency to split into thin layers (laminae) less than one centimeter in thickness. This property is called fissility. Shale is the most common sedimentary rock.The term shale is sometimes applied more broadly, as essentially a synonym for mudrock, rather than in the more narrow sense of clay-rich fissile mudrock.",
+        "wikiDescription": "Fine-grained, clastic sedimentary rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chattanooga_Shale_%28Upper_Devonian%3B_Burkesville_West_Rt._90_roadcut%2C_Kentucky%2C_USA%29_25_%2840541681100%29.jpg",
+        "image": ""
+    },
+    {
+        "name": "Conglomerate",
+        "type": "Sedimentary",
+        "description": "A coarse-grained sedimentary rock composed of rounded fragments within a matrix of finer grained material.",
+        "wikiExtract": "Conglomerate or conglomeration may refer to:",
+        "wikiDescription": "Topics referred to by the same term",
+        "image": ""
+    },
+    {
+        "name": "Breccia",
+        "type": "Sedimentary",
+        "description": "A rock composed of broken fragments of minerals or rock cemented together by a fine-grained matrix.",
+        "wikiExtract": "Breccia () is a rock composed of large angular broken fragments of minerals or rocks cemented together by a fine-grained matrix.\nThe word has its origins in the Italian language, in which it means \"rubble\". A breccia may have a variety of different origins, as indicated by the named types including sedimentary breccia, tectonic breccia, igneous breccia, impact breccia, and hydrothermal breccia.\nA megabreccia is a breccia composed of very large rock fragments, sometimes kilometers across, which can be formed by landslides, impact events, or caldera collapse.",
+        "wikiDescription": "Rock composed of broken fragments cemented by a matrix",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/5/56/Basalt_breccia.jpg",
+        "image": ""
+    },
+    {
+        "name": "Chalk",
+        "type": "Sedimentary",
+        "description": "A soft, white, porous sedimentary rock which is a form of limestone composed of the mineral calcite.",
+        "wikiExtract": "Chalk is a soft, white, porous, sedimentary carbonate rock. It is a form of limestone composed of the mineral calcite and originally formed deep under the sea by the compression of microscopic plankton that had settled to the sea floor. Chalk is common throughout Western Europe, where deposits underlie parts of France, and steep cliffs are often seen where they meet the sea in places such as the Dover cliffs on the Kent coast of the English Channel.\nChalk is mined for use in industry, such as for quicklime, bricks and builder's putty, and in agriculture, for raising pH in soils with high acidity. It is also used for \"blackboard chalk\" for writing and drawing on various types of surfaces, although these can also be manufactured from other carbonate-based minerals, or gypsum.",
+        "wikiDescription": "Soft, white, porous sedimentary rock made of calcium carbonate",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Seven_Sisters_3.jpg",
+        "image": ""
+    },
+    {
+        "name": "Coal",
+        "type": "Sedimentary",
+        "description": "A black or brownish-black sedimentary rock that's primarily composed of carbon along with various other elements, such as hydrogen, sulfur, oxygen, and nitrogen.",
+        "wikiExtract": "Coal is a combustible black or brownish-black sedimentary rock, formed as rock strata called coal seams. Coal is mostly carbon with variable amounts of other elements, chiefly hydrogen, sulfur, oxygen, and nitrogen.\nCoal is a type of fossil fuel, formed when dead plant matter decays into peat and is converted into coal by the heat and pressure of deep burial over millions of years. Vast deposits of coal originate in former wetlands called coal forests that covered much of the Earth's tropical land areas during the late Carboniferous (Pennsylvanian) and Permian times. Many significant coal deposits are younger than this and originate from the Mesozoic and Cenozoic eras.",
+        "wikiDescription": "Combustible sedimentary rock composed primarily of carbon",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bituminous_Coal.JPG",
+        "image": ""
+    },
+    {
+        "name": "Dolomite",
+        "type": "Sedimentary",
+        "description": "A sedimentary rock similar to limestone but contains magnesium as well as calcium.",
+        "wikiExtract": "Dolomite may refer to:",
+        "wikiDescription": "Topics referred to by the same term",
+        "image": ""
+    },
+    {
+        "name": "Flint",
+        "type": "Sedimentary",
+        "description": "A hard sedimentary rock, a variety of quartz, used in the past for making tools and recently for building walls.",
+        "wikiExtract": "Flint, occasionally flintstone, is a sedimentary cryptocrystalline form of the mineral quartz, categorized as the variety of chert that occurs in chalk or marly limestone. Flint was widely used historically to make stone tools and start fires.\nFlint occurs chiefly as nodules and masses in sedimentary rocks, such as chalks and limestones. Inside the nodule, flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance. A thin, oxidised layer on the outside of the nodules is usually different in colour, typically white and rough in texture.",
+        "wikiDescription": "Cryptocrystalline form of the mineral quartz",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Miorcani_flint.jpg",
+        "image": ""
+    },
+    {
+        "name": "Gypsum",
+        "type": "Sedimentary",
+        "description": "A sedimentary rock composed primarily of calcium sulfate dihydrate, widely used for plaster, wallboard and sculptures.",
+        "wikiExtract": "Gypsum is a soft sulfate mineral composed of calcium sulfate dihydrate, with the chemical formula CaSO4·2H2O. It is widely mined and is used as a fertilizer and as the main constituent in many forms of plaster, blackboard or sidewalk chalk, and drywall. Alabaster, a fine-grained white or lightly tinted variety of gypsum, has been used for sculpture by many cultures including Ancient Egypt, Mesopotamia, Ancient Rome, the Byzantine Empire, and the Nottingham alabasters of Medieval England. Gypsum also crystallizes as translucent crystals of selenite. It forms as an evaporite mineral and as a hydration product of anhydrite.\nThe Mohs scale of mineral hardness defines gypsum as hardness value 2 based on scratch hardness comparison.",
+        "wikiDescription": "Soft calcium sulfate mineral",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gypse_Caresse.jpg",
+        "image": ""
+    },
+    {
+        "name": "Lignite",
+        "type": "Sedimentary",
+        "description": "A soft, brownish coal showing traces of plant structure, intermediate between bituminous coal and peat.",
+        "wikiExtract": "Lignite, often referred to as brown coal, is a soft, brown, combustible, sedimentary rock formed from naturally compressed peat. It has a carbon content around 25–35%, and is considered the lowest rank of coal due to its relatively low heat content. When removed from the ground, it contains a very high amount of moisture which partially explains its low carbon content. Lignite is mined all around the world and is used almost exclusively as a fuel for steam-electric power generation.\nThe combustion for lignite produces less heat for the amount of carbon dioxide and sulfur released than other ranks of coal.",
+        "wikiDescription": "Soft, brown, combustible, sedimentary rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lignite-coal.jpg",
+        "image": ""
+    },
+    {
+        "name": "Chert",
+        "type": "Sedimentary",
+        "description": "A hard, dense, sedimentary rock composed of microcrystalline quartz.",
+        "wikiExtract": "Chert () is a hard, fine-grained sedimentary rock composed of microcrystalline or cryptocrystalline quartz, the mineral form of silicon dioxide (SiO2). Chert is characteristically of biological origin, but may also occur inorganically as a chemical precipitate or a diagenetic replacement, as in petrified wood.Chert is typically composed of the petrified remains of siliceous ooze, the biogenic sediment that covers large areas of the deep ocean floor, and which contains the silicon skeletal remains of diatoms, silicoflagellates, and radiolarians. Precambrian cherts are notable for the presence of fossil cyanobacteria. In addition to microfossils, chert occasionally contains macrofossils. However, some chert is devoid of any fossils.Chert varies greatly in color, from white to black, but is most often found as gray, brown, grayish brown and light green to rusty red and occasionally as dark green.",
+        "wikiDescription": "Hard, fine-grained sedimentary rock composed of cryptocrystalline silica",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/1c/ChertUSGOV.jpg",
+        "image": ""
+    },
+    {
+        "name": "Oolite",
+        "type": "Sedimentary",
+        "description": "A sedimentary rock formed from ooids, spherical grains composed of concentric layers.",
+        "wikiExtract": "Oolite or oölite (from Ancient Greek  ᾠόν (ōión) 'egg stone') is a sedimentary rock formed from ooids, spherical grains composed of concentric layers. Strictly, oolites consist of ooids of diameter 0.25–2 millimetres; rocks composed of ooids larger than 2 mm are called pisolites. The term oolith can refer to oolite or individual ooids.",
+        "wikiDescription": "Sedimentary rock formed from ooids",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ooids%2C_Joulter_Cays%2C_Bahamas.jpg",
+        "image": ""
+    },
+    {
+        "name": "Travertine",
+        "type": "Sedimentary",
+        "description": "A form of limestone deposited by mineral springs, especially hot springs.",
+        "wikiExtract": "Travertine ( TRAV-ər-teen) is a form of terrestrial limestone deposited around mineral springs, especially hot springs. It often has a fibrous or concentric appearance and exists in white, tan, cream-colored, and even rusty varieties. It is formed by a process of rapid precipitation of calcium carbonate, often at the mouth of a hot spring or in a limestone cave. In the latter, it can form stalactites, stalagmites, and other speleothems. It is frequently used in Italy and elsewhere as a building material.",
+        "wikiDescription": "Form of limestone deposited by mineral springs",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mammoth_Terraces.jpg",
+        "image": ""
+    },
+    {
+        "name": "Siltstone",
+        "type": "Sedimentary",
+        "description": "A fine-grained sedimentary rock which is formed by the consolidation and compaction of silt.",
+        "wikiExtract": "Siltstone, also known as aleurolite, is a clastic sedimentary rock that is composed mostly of silt. It is a form of mudrock with a low clay mineral content, which can be distinguished from shale by its lack of fissility.Although its permeability and porosity is relatively low, siltstone is sometimes a tight gas reservoir rock, an unconventional reservoir for natural gas that requires hydraulic fracturing for economic gas production.Siltstone was prized in ancient Egypt for manufacturing statuary and cosmetic palettes. The siltstone quarried at Wadi Hammamat was a hard, fine-grained siltstone that resisted flaking and was almost ideal for such uses.",
+        "wikiDescription": "Sedimentary rock which has a grain size in the silt range",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/4/42/SiltstoneUSGOV.jpg",
+        "image": ""
+    },
+    {
+        "name": "Peat",
+        "type": "Sedimentary",
+        "description": "A brown, soil-like material characterized by its high carbon content, formed from the remains of decayed plants over thousands of years.",
+        "wikiExtract": "Peat () is an accumulation of partially decayed vegetation or organic matter. It is unique to natural areas called peatlands, bogs, mires, moors, or muskegs. The peatland ecosystem covers 3.7 million square kilometres (1.4 million square miles) and is the most efficient carbon sink on the planet, because peatland plants capture carbon dioxide (CO2) naturally released from the peat, maintaining an equilibrium. In natural peatlands, the \"annual rate of biomass production is greater than the rate of decomposition\", but it takes \"thousands of years for peatlands to develop the deposits of 1.5 to 2.3 m [4.9 to 7.5 ft], which is the average depth of the boreal [northern] peatlands\", which store around 415 gigatonnes (Gt) of carbon (about 46 times 2019 global CO2 emissions). Globally, peat stores up to 550 Gt of carbon, 42% of all soil carbon, which exceeds the carbon stored in all other vegetation types, including the world's forests, although it covers just 3% of the land's surface.Sphagnum moss, also called peat moss, is one of the most common components in peat, although many other plants can contribute.",
+        "wikiDescription": "Accumulation of partially decayed vegetation",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Peat_%2849302157252%29.jpg",
+        "image": ""
+    },
+    {
+        "name": "Loess",
+        "type": "Sedimentary",
+        "description": "A wind-blown sediment of silt-sized particles, typically light brown, loosely cemented by calcium carbonate.",
+        "wikiExtract": "A loess (US: , UK: ; from German: Löss [lœs]) is a clastic, predominantly silt-sized sediment that is formed by the accumulation of wind-blown dust. Ten percent of Earth's land area is covered by loesses or similar deposits.A loess is a periglacial or aeolian (windborne) sediment, defined as an accumulation of 20% or less of clay with a balance of roughly equal parts sand and silt (with a typical grain size from 20 to 50 micrometers), often loosely cemented by calcium carbonate. Usually, they are homogeneous and highly porous and have vertical capillaries that permit the sediment to fracture and form vertical bluffs.",
+        "wikiDescription": "Sediment of accumulated wind-blown dust",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/8/87/LoessVicksburg.jpg",
+        "image": ""
+    },
+    {
+        "name": "Mudstone",
+        "type": "Sedimentary",
+        "description": "A type of mudrock whose original constituents were clays or muds. Grain size is up to 0.0625 mm with individual grains too small to be distinguished without a microscope.",
+        "wikiExtract": "Mudstone, a type of mudrock, is a fine-grained sedimentary rock whose original constituents were clays or muds. Mudstone is distinguished from shale by its lack of fissility (parallel layering).The term mudstone is also used to describe carbonate rocks (limestone or dolomite) that are composed predominantly of carbonate mud. However, in most contexts, the term refers to siliciclastic mudstone, composed mostly of silicate minerals.The NASA Curiosity rover has found deposits of mudstone on Mars that contain organic substances such as propane, benzene and toluene.",
+        "wikiDescription": "Fine grained sedimentary rock whose original constituents were clays or muds",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/East_Beach_1_2006.JPG",
+        "image": ""
+    },
+    {
+        "name": "Oil Shale",
+        "type": "Sedimentary",
+        "description": "A fine-grained sedimentary rock that contains significant amounts of kerogen (a solid mixture of organic chemical compounds), from which liquid hydrocarbons can be produced.",
+        "wikiExtract": "Oil shale is an organic-rich fine-grained sedimentary rock containing kerogen (a solid mixture of organic chemical compounds) from which liquid hydrocarbons can be produced. In addition to kerogen, general composition of oil shales constitutes inorganic substance and bitumens. Based on their deposition environment, oil shales are classified as marine, lacustrine and terrestrial oil shales. Oil shales differ from oil-bearing shales, shale deposits that contain petroleum (tight oil) that is sometimes produced from drilled wells. Examples of oil-bearing shales are the Bakken Formation, Pierre Shale, Niobrara Formation, and Eagle Ford Formation.",
+        "wikiDescription": "Organic-rich fine-grained sedimentary rock containing kerogen",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Oilshale.jpg",
+        "image": ""
+    },
+    {
+        "name": "Arkose",
+        "type": "Sedimentary",
+        "description": "A type of sandstone containing at least 25% feldspar.",
+        "wikiExtract": "Arkose () or arkosic sandstone is a detrital sedimentary rock, specifically a type of sandstone containing at least 25% feldspar. Arkosic sand is sand that is similarly rich in feldspar, and thus the potential precursor of arkose. \nQuartz is commonly the dominant mineral component, and some mica is often present. Apart from the mineral content, rock fragments may also be a significant component. Arkose usually contains small amounts of calcite cement, which causes it to effervesce (fizz) slightly in dilute hydrochloric acid; sometimes the cement also contains iron oxide.",
+        "wikiDescription": "Type of sandstone containing at least 25% feldspar",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Arkose_with_K-feldspar_%28pinkish-orangish%29_and_quartz_%28gray%29_grains.jpg",
+        "image": ""
+    },
+    {
+        "name": "Greywacke",
+        "type": "Sedimentary",
+        "description": "A variety of sandstone generally characterized by its hardness, dark color, and poorly sorted angular grains of quartz, feldspar, and small rock fragments set in a compact, clay-fine matrix.",
+        "wikiExtract": "Greywacke or graywacke (German grauwacke, signifying a grey, earthy rock) is a variety of sandstone generally characterized by its hardness, dark color, and poorly sorted angular grains of quartz, feldspar, and small rock fragments or lithic fragments set in a compact, clay-fine matrix. It is a texturally immature sedimentary rock generally found in Paleozoic strata. The larger grains can be sand- to gravel-sized, and matrix materials generally constitute more than 15% of the rock by volume. The term \"greywacke\" can be confusing, since it can refer to either the immature (rock fragment) aspect of the rock or its fine-grained (clay) component.\nThe origin of greywacke was unknown until turbidity currents and turbidites were understood, since, according to the normal laws of sedimentation, gravel, sand and mud should not be laid down together.",
+        "wikiDescription": "Hard, dark sandstone with poorly sorted angular grains in a compact, clay-fine matrix",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/4/41/Feldspathic-wacke.jpg",
+        "image": ""
+    },
+    {
+        "name": "Phosphorite",
+        "type": "Sedimentary",
+        "description": "A type of rock primarily rich in phosphate. Its deposition can be marine or terrestrial.",
+        "wikiExtract": "Phosphorite, phosphate rock or rock phosphate is a non-detrital sedimentary rock that contains high amounts of phosphate minerals. The phosphate content of phosphorite (or grade of phosphate rock) varies greatly, from 4% to 20% phosphorus pentoxide (P2O5). Marketed phosphate rock is enriched (\"beneficiated\") to at least 28%, often more than 30% P2O5. This occurs through washing, screening, de-liming, magnetic separation or flotation. By comparison, the average phosphorus content of sedimentary rocks is less than 0.2%.",
+        "wikiDescription": "Sedimentary rock containing large amounts of phosphate minerals",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Peloidal_phosphorite_Phosphoria_Formation_Simplot_Mine_Idaho.jpg",
+        "image": ""
+    },
+    {
+        "name": "Marble",
+        "type": "Metamorphic",
+        "description": "A metamorphic rock composed of recrystallized carbonate minerals, most commonly calcite or dolomite.",
+        "wikiExtract": "Marble is a metamorphic rock consisting of carbonate minerals that recrystallize under the influence of heat, pressure and aqueous solutions, most commonly calcite  (CaCO3) or dolomite (CaMg(CO3)2) and has a crystalline texture of varying thickness. Marble is typically not foliated (layered), although there are exceptions.\nIn geology, the term marble refers to metamorphosed limestone, but its use in stonemasonry more broadly encompasses unmetamorphosed limestone. Marble is commonly used for sculpture and as a building material.",
+        "wikiDescription": "Type of rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/05/Marmo_z17.JPG",
+        "image": ""
+    },
+    {
+        "name": "Quartzite",
+        "type": "Metamorphic",
+        "description": "A hard metamorphic rock which was originally sandstone. Through heating and pressure usually related to tectonic compression, its sand grains are welded together.",
+        "wikiExtract": "Quartzite is a hard, non-foliated metamorphic rock which was originally pure quartz sandstone. Sandstone is converted into quartzite through heating and pressure usually related to tectonic compression within orogenic belts. Pure quartzite is usually white to grey, though quartzites often occur in various shades of pink and red due to varying amounts of hematite. Other colors, such as yellow, green, blue  and orange, are due to other minerals.\nThe term quartzite is also sometimes used for very hard but unmetamorphosed sandstones that are composed of quartz grains thoroughly cemented with additional quartz.",
+        "wikiDescription": "Hard, non-foliated metamorphic rock which was originally pure quartz sandstone",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/2/22/Quartzite_Solli%C3%A8res.jpg",
+        "image": ""
+    },
+    {
+        "name": "Schist",
+        "type": "Metamorphic",
+        "description": "A medium-grade metamorphic rock with medium to large, flat, sheet-like grains in a preferred orientation.",
+        "wikiExtract": "Schist ( SHIST) is a medium-grained metamorphic rock showing pronounced schistosity. This means that the rock is composed of mineral grains easily seen with a low-power hand lens, oriented in such a way that the rock is easily split into thin flakes or plates. This texture reflects a high content of platy minerals, such as micas, talc, chlorite, or graphite. These are often interleaved with more granular minerals, such as feldspar or quartz.\nSchist typically forms during regional metamorphism accompanying the process of mountain building (orogeny) and usually reflects a medium grade of metamorphism.",
+        "wikiDescription": "Easily split medium-grained metamorphic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Schist_detail.jpg",
+        "image": ""
+    },
+    {
+        "name": "Gneiss",
+        "type": "Metamorphic",
+        "description": "A high-grade metamorphic rock in which mineral grains recrystallized under intense heat and pressure.",
+        "wikiExtract": "Gneiss ( NICE) is a common and widely distributed type of metamorphic rock. It is formed by high-temperature and high-pressure metamorphic processes acting on formations composed of igneous or sedimentary rocks. Gneiss forms at higher temperatures and pressures than schist. Gneiss nearly always shows a banded texture characterized by alternating darker and lighter colored bands and without a distinct cleavage.\nGneisses are common in the ancient crust of continental shields.",
+        "wikiDescription": "Common high-grade metamorphic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gneiss.jpg",
+        "image": ""
+    },
+    {
+        "name": "Amphibolite",
+        "type": "Metamorphic",
+        "description": "A metamorphic rock that consists mainly of amphibole and plagioclase.",
+        "wikiExtract": "Amphibolite () is a metamorphic rock that contains amphibole, especially hornblende and actinolite, as well as plagioclase feldspar, but with little or no quartz. It is typically dark-colored and dense, with a weakly foliated or schistose (flaky) structure. The small flakes of black and white in the rock often give it a salt-and-pepper appearance.\nAmphibolite frequently forms by metamorphism of mafic igneous rocks, such as basalt. However, because metamorphism creates minerals entirely based upon the chemistry of the protolith, certain 'dirty marls' and volcanic sediments may also metamorphose to an amphibolite assemblage.",
+        "wikiDescription": "A metamorphic rock containing mainly amphibole and plagioclase",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/2/27/Amphibolite_Geopark_Prague_2014_1.jpg",
+        "image": ""
+    },
+    {
+        "name": "Phyllite",
+        "type": "Metamorphic",
+        "description": "A type of foliated metamorphic rock created from slate that is further metamorphosed so that very fine grained white mica achieves a preferred orientation.",
+        "wikiExtract": "Phyllite ( FIL-yte) is a type of foliated metamorphic rock formed from slate that is further metamorphosed so that very fine grained white mica achieves a preferred orientation. It is primarily composed of quartz, sericite mica, and chlorite.Phyllite has fine-grained mica flakes, whereas slate has extremely fine mica flakes, and schist has large mica flakes, all mica flakes of which have achieved a preferred orientation. Among foliated metamorphic rocks, it represents a gradation in the degree of metamorphism between slate and schist.The minute crystals of graphite, sericite, or chlorite, or the translucent fine-grained white mica, impart a silky, sometimes golden sheen to the surfaces of cleavage, called \"phyllitic luster\".The word comes from the Greek phyllon, meaning \"leaf\".The protolith (or parent rock) for phyllite is shale or pelite; or slate, which in turn came from a shale protolith. Its constituent platy minerals are larger than those in slate but are not visible with the naked eye. Phyllites are said to have a texture called \"phyllitic sheen,\" and are usually classified as having formed through low-grade metamorphic conditions through regional metamorphism metamorphic facies.",
+        "wikiDescription": "Type of foliated metamorphic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Phyllite_Cenulation.jpg",
+        "image": ""
+    },
+    {
+        "name": "Migmatite",
+        "type": "Metamorphic",
+        "description": "A rock at the frontier between igneous and metamorphic rocks. They can also be known as diatexite.",
+        "wikiExtract": "Migmatite is a composite rock found in medium and high-grade metamorphic environments, commonly within Precambrian cratonic blocks. It consists of two or more constituents often layered repetitively: one layer is an older metamorphic rock that was reconstituted subsequently by partial melting (\"neosome\"), while the alternate layer has a pegmatitic, aplitic, granitic or generally plutonic appearance (\"paleosome\"). Commonly, migmatites occur below deformed metamorphic rocks that represent the base of eroded mountain chains.Migmatites form under extreme temperature and pressure conditions during prograde metamorphism, when partial melting occurs in metamorphic paleosome. Components exsolved by partial melting are called neosome (meaning ‘new body’), which may or may not be heterogeneous at the microscopic to macroscopic scale. Migmatites often appear as tightly, incoherently folded veins (ptygmatic folds).",
+        "wikiDescription": "Mixture of metamorphic rock and igneous rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ptigmatite.jpg",
+        "image": ""
+    },
+    {
+        "name": "Eclogite",
+        "type": "Metamorphic",
+        "description": "A high-pressure, high-temperature metamorphic rock that forms from basaltic and gabbroic precursors.",
+        "wikiExtract": "Eclogite ( ) is a metamorphic rock containing garnet (almandine-pyrope) hosted in a matrix of sodium-rich pyroxene (omphacite). Accessory minerals include kyanite, rutile, quartz, lawsonite, coesite, amphibole, phengite, paragonite, zoisite, dolomite, corundum and, rarely, diamond. The chemistry of primary and accessory minerals is used to classify three types of eclogite (A, B, and C). The broad range of eclogitic compositions has led a longstanding debate on the origin of eclogite xenoliths as subducted, altered oceanic crust.",
+        "wikiDescription": "A dense metamorphic rock formed under high pressure",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eclogite_Norway.jpg",
+        "image": ""
+    },
+    {
+        "name": "Soapstone",
+        "type": "Metamorphic",
+        "description": "A type of metamorphic rock that is largely composed of the mineral talc, and is thus rich in magnesium.",
+        "wikiExtract": "Soapstone (also known as steatite or soaprock) is a talc-schist, which is a type of metamorphic rock.  It is composed largely of the magnesium rich mineral talc.  It is produced by dynamothermal metamorphism and metasomatism, which occur in the zones where tectonic plates are subducted, changing rocks by heat and pressure, with influx of fluids, but without melting. It has been a medium for carving for thousands of years.",
+        "wikiDescription": "Talc-bearing metamorphic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Soapstone_%28Speckstein%29_-_several_colored_samples.jpg",
+        "image": ""
+    },
+    {
+        "name": "Blueschist",
+        "type": "Metamorphic",
+        "description": "A metavolcanic rock that forms by the metamorphism of basalt and rocks with similar composition at high pressures and low temperatures.",
+        "wikiExtract": "Blueschist ( ), also called glaucophane schist, is a metavolcanic rock that forms by the metamorphism of basalt and rocks with similar composition at high pressures and low temperatures (200–500 °C (392–932 °F)), approximately corresponding to a depth of 15–30 km (9.3–18.6 mi). The blue color of the rock comes from the presence of the predominant minerals glaucophane and lawsonite.\nBlueschists are schists typically found within orogenic belts as terranes of lithology in faulted contact with greenschist or rarely eclogite facies rocks.",
+        "wikiDescription": "Type of metavolcanic rock",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Schistes_bleus.jpg",
+        "image": ""
+    },
+    {
+        "name": "Greenstone",
+        "type": "Metamorphic",
+        "description": "An altered basalt or chert. It is often used by gold miners for it often contains gold.",
+        "wikiExtract": "Greenstone may refer to:",
+        "wikiDescription": "Topics referred to by the same term",
+        "image": ""
+    },
+    {
+        "name": "Serpentinite",
+        "type": "Metamorphic",
+        "description": "A rock composed of one or more serpentine group minerals. Minerals in this group are formed by serpentinization, a hydration and metamorphic transformation of ultramafic rock from the Earth's mantle.",
+        "wikiExtract": "Serpentinite is a rock composed predominantly of one or more serpentine group minerals, the name originating from the similarity of the texture of the rock to that of the skin of a snake. Serpentinite has been called serpentine or serpentine rock, particularly in older geological texts and in wider cultural settings.",
+        "wikiDescription": "Rock formed by hydration and metamorphic transformation of olivine",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Serpentinite_sur_gneiss.jpg",
+        "image": ""
+    },
+    {
+        "name": "Hornfels",
+        "type": "Metamorphic",
+        "description": "A fine-grained metamorphic rock formed by the action of heat on clay rocks, known as contact metamorphism.",
+        "wikiExtract": "Hornfels is the group name for a set of contact metamorphic rocks that have been baked and hardened by the heat of intrusive igneous masses and have been rendered massive, hard, splintery, and in some cases exceedingly tough and durable. These properties are due to fine grained non-aligned crystals with platy or prismatic habits, characteristic of metamorphism at high temperature but without accompanying deformation.  The term is derived from the German word Hornfels, meaning \"hornstone\", because of its exceptional toughness and texture both reminiscent of animal horns. These rocks were referred to by miners in northern England as whetstones.Most hornfels are fine-grained, and while the original rocks (such as sandstone, shale, slate and limestone) may have been more or less fissile owing to the presence of bedding or cleavage planes, this structure is effaced or rendered inoperative in the hornfels. Though many hornfels show vestiges of the original bedding, they break across this as readily as along it; in fact, they tend to separate into cubical fragments rather than into thin plates.",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hornfels.jpg",
+        "image": ""
+    },
+    {
+        "name": "Myrmekite",
+        "type": "Metamorphic",
+        "description": "A texture found in granitic rocks, consisting of irregular rims of quartz surrounding and replacing feldspar.",
+        "wikiExtract": "Myrmekite is a vermicular, or wormy, intergrowth of quartz in plagioclase. The intergrowths are microscopic in scale, typically with maximum dimensions less than 1 millimeter. The plagioclase is sodium-rich, usually albite or oligoclase.  These quartz-plagioclase intergrowths are associated with and commonly in contact with potassium feldspar. Myrmekite is formed under metasomatic conditions, usually in conjunction with tectonic deformations.",
+        "wikiDescription": "Tiny intergrowths of quartz and feldspar in rocks",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Myrmekite.JPG",
+        "image": ""
+    },
+    {
+        "name": "Glaucophane-Schist",
+        "type": "Metamorphic",
+        "description": "A type of blueschist composed predominantly of the blue amphibole glaucophane and the mica mineral muscovite.",
+        "image": ""
+    },
+    {
+        "name": "Pseudotachylite",
+        "type": "Metamorphic",
+        "description": "A dark, glassy vein filling or fault rock, created by frictional melting and/or decomposition of rocks.",
+        "wikiExtract": "Pseudotachylyte (sometimes written as pseudotachylite) is an extremely fine-grained to glassy, dark, cohesive rock occurring as veins that form through frictional melting and subsequent quenching during earthquakes, large-scale landslides, and impacts events. Chemical composition of pseudotachylyte generally reflects the local bulk chemistry, though may skew to slightly more mafic compositions due to the preferential incorporation of hydrous and ferro-magnesian minerals (mica and amphibole, respectively) into the melt phase.Pseudotachylyte was first documented by Shand in the Vredefort Impact Structure and was named due to its close resemblance to tachylyte, a basaltic glass. Though pseudotachylyte is reported to have a glassy appearance, they are extremely susceptible to alteration and are thus rarely found to be entirely composed of glass. Typically, they are completely devitrified into a very fine-grained material with quench textures such as chilled margins, radial and concentric clusters of microcrystalites (spherulites) or as radial overgrowths of microcrystalites on clasts, as well as skeletal and spinifex microcrystalites.",
+        "wikiDescription": "Glassy, or very fine-grained, rock type",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pseudotachylyte_ladder_veins.jpg",
+        "image": ""
+    },
+    {
+        "name": "Garnet Mica-Schist",
+        "type": "Metamorphic",
+        "description": "A schist with predominant mica and garnet used for purposes like roofing and decoration.",
+        "image": ""
+    },
+    {
+        "name": "Granulite",
+        "type": "Metamorphic",
+        "description": "A metamorphic rock that experienced high-temperature and moderate-pressure metamorphism.",
+        "wikiExtract": "Granulites are a class of high-grade metamorphic rocks of the granulite facies that have experienced high-temperature and moderate-pressure metamorphism. They are medium to coarse–grained and mainly composed of feldspars sometimes associated with quartz and anhydrous ferromagnesian minerals, with granoblastic texture and gneissose to massive structure. They are of particular interest to geologists because many granulites represent samples of the deep continental crust. Some granulites experienced decompression from deep in the Earth to shallower crustal levels at high temperature; others cooled while remaining at depth in the Earth.\nThe minerals present in a granulite will vary depending on the parent rock of the granulite and the temperature and pressure conditions experienced during metamorphism.",
+        "wikiDescription": "Class of high-grade medium to coarse grained metamorphic rocks",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mineraly.sk_-_granulit.jpg",
+        "image": ""
+    },
+    {
+        "name": "Skarn",
+        "type": "Metamorphic",
+        "description": "A metamorphic rock that has been chemically and mineralogically altered by metasomatism.",
+        "wikiExtract": "Skarns or tactites are hard, coarse-grained metamorphic rocks that form by a process called metasomatism. Skarns tend to be rich in calcium-magnesium-iron-manganese-aluminium silicate minerals, which are also referred to as calc-silicate minerals. These minerals form as a result of alteration which occurs when hydrothermal fluids interact with a protolith of either igneous or sedimentary origin. In many cases, skarns are associated with the intrusion of a granitic pluton found in and around faults or shear zones that commonly intrude into a carbonate layer composed of either dolomite or limestone. Skarns can form by regional, or contact metamorphism and therefore form in relatively high temperature environments.",
+        "wikiDescription": "Hard, coarse-grained, hydrothermally altered metamorphic rocks",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Skarn2.jpg",
+        "image": ""
+    },
+    {
+        "name": "Metaquartzite",
+        "type": "Metamorphic",
+        "description": "A highly resistant and durable siliceous metamorphic rock, mainly composed of quartz.",
+        "wikiExtract": "Quartzite is a hard, non-foliated metamorphic rock which was originally pure quartz sandstone. Sandstone is converted into quartzite through heating and pressure usually related to tectonic compression within orogenic belts. Pure quartzite is usually white to grey, though quartzites often occur in various shades of pink and red due to varying amounts of hematite. Other colors, such as yellow, green, blue  and orange, are due to other minerals.\nThe term quartzite is also sometimes used for very hard but unmetamorphosed sandstones that are composed of quartz grains thoroughly cemented with additional quartz.",
+        "wikiDescription": "Hard, non-foliated metamorphic rock which was originally pure quartz sandstone",
+        "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/2/22/Quartzite_Solli%C3%A8res.jpg",
+        "image": ""
+    }
 ]

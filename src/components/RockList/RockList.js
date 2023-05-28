@@ -1,20 +1,47 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import rockData from "./rocks.json";
+import axios from "axios";
 
-// Assuming that you have a list of 500 rocks
-const rockList = [
-  // ... your list of rocks
-];
+// useEffect(() => {
+//   fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${rockType}`)
+//     .then((response) => response.json())
+//     .then((data) => setData(data.extract))
+//     .catch((error) => console.error(error));
+// }, [rockType]);
 
-const Rock = ({ rock }) => (
-  <div style={{ margin: "20px", padding: "10px", border: "1px solid black" }}>
-    <h2>{rock.name}</h2>
-    <p>{rock.description}</p>
-    {/* Add more rock details here */}
-  </div>
-);
+const Rock = ({ rock, data }) => {
+  const [rockWikiData, setRockWikiData] = useState();
+  const wikipediaUrl = `https://en.wikipedia.org/wiki/${rock.name.replace(
+    / /g,
+    "_"
+  )}`;
+
+  return (
+    <div className="rock-container">
+      <div className="rock-image-container">
+        <img src={rock?.wikiImage} alt={rock.name} />
+      </div>
+      <div className="rock-body">
+        <h2>{rock.name}</h2>
+        <p>{rock.description}</p>
+        <button className="wikipedia-btn">Read more from Wikipedia</button>
+
+        <div className="rock-wikipedia-info">
+          <p>
+            {rock.wikiExtract + "\n"}
+            <a href={wikipediaUrl} target="_blank" rel="noopener noreferrer">
+              Wikipedia
+            </a>
+          </p>
+        </div>
+      </div>
+      {/* Add more rock details here */}
+    </div>
+  );
+};
 
 const RockList = () => {
+  const [data, setData] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
 
   const handleSearchChange = (event) => {
@@ -25,6 +52,43 @@ const RockList = () => {
     rock.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+  useEffect(() => {
+    const getRockWikipediaData = async (name) => {
+      const data = // await axios.get(
+        //   `https://en.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts&exintro=&explaintext=&format=json&titles=${name}`
+        // )
+        (
+          await axios.get(
+            `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=pageimages%7Cdescription%7Cextracts&list=&titles=${name}&redirects=1&formatversion=2&piprop=original&pithumbsize=200&exintro=1&explaintext=1&exsentences=${5}`
+          )
+        ).data;
+      let pages = data.query.pages;
+      let page = pages[Object.keys(pages)[0]];
+      // console.log(data.query.pages[0]);
+      // console.log(firstHalf);
+      return data.query.pages[0];
+    };
+    const getData = async () => {
+      let newRockData = [];
+      for (let i = 0; i < rockData.length; i++) {
+        const rockWikiData = await getRockWikipediaData(rockData[i].name);
+        //console.log(rockData[i].name);
+        const newRockObj = {
+          name: rockData[i].name,
+          type: rockData[i].type,
+          description: rockData[i].description,
+          wikiExtract: rockWikiData.extract,
+          wikiDescription: rockWikiData.description,
+          wikiImage: rockWikiData.original?.source,
+          image: "",
+        };
+        newRockData.push(newRockObj);
+        console.log(newRockObj);
+      }
+      console.log(newRockData);
+    };
+    // getData();
+  }, []);
   return (
     <div className="rock-list">
       <input

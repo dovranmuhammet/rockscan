@@ -3,8 +3,31 @@ body {
   }
 .rock-list {
     min-height: 100em;
-    max-width: 45em;
+    max-width: 65em;
     margin: auto;
     padding: 1em;
     text-align: center;
+  }
+  .rock-container {
+    display: flex;
+    align-items: center;
+   margin: 20px; 
+   padding: 10px; 
+   border: 1px solid black;
+  }
+  .rock-image-container {
+    width: 30%;
+  }
+  .wikipedia-btn {
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(153, 122, 92);
+    color: #fff;
+  }
+  .rock-wikipedia-info {
+    padding: 1em;
+    
+  }
+  .rock-body {
+    width: 70%;
   }

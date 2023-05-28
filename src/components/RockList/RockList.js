@@ -165,6 +165,7 @@ const RockList = () => {
           value={searchTerm}
           onChange={handleSearchChange}
           style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
+          className="search-bar"
         />
         <button
           className="search-wikipedia-btn"

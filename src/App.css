@@ -11,13 +11,19 @@ body {
   .rock-container {
     display: flex;
     align-items: center;
-   margin: 20px; 
-   padding: 10px; 
-   border: 1px solid black;
+   margin: 20px 5px; 
+   padding: 20px ; 
+   border: 1px solid rgba(153, 122, 92, 0.7);
+   border-radius: 10px;
+  }
+  .search-bar {
+    border: 1px solid rgba(153, 122, 92, 0.7);
+    border-radius: 10px;
   }
   .rock-image-container {
     width: 30%;
-    
+   
+
   }
   .rock-image-container img {
     border-radius: 20px;
@@ -31,6 +37,9 @@ body {
     border-radius: 10px;
     background-color: rgb(153, 122, 92);
     color: #fff;
+  }
+  .search-wikipedia-btn:hover {
+    background-color: rgba(153, 122, 92, 0.7);
   }
   .rock-wikipedia-info {
     padding: 1em;

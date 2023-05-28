@@ -15,6 +15,8 @@ body {
    padding: 20px ; 
    border: 1px solid rgba(153, 122, 92, 0.7);
    border-radius: 10px;
+   background-color: #fff;
+   min-height: 19em;
   }
   /* .searchbar-container {
     position: fixed;
@@ -51,4 +53,5 @@ body {
   }
   .rock-body {
     width: 70%;
+    padding: 0 1em;
   }

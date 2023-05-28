@@ -9,10 +9,10 @@ function Home() {
   return (
     <div>
       <Banner />
-      <IdentifyRock />
+      {/* <IdentifyRock /> */}
       <SuperRichDatabase />
       <ExclusiveConsultation />
-      <GetRockIdentifierNow />
+      {/* <GetRockIdentifierNow /> */}
       <FAQ />
     </div>
   );

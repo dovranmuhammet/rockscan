@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import rockDataJson from "./rocks.json";
 import axios from "axios";
+import Rock from "../Rock/Rock";
 
 // useEffect(() => {
 //   fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${rockType}`)
@@ -9,36 +10,36 @@ import axios from "axios";
 //     .catch((error) => console.error(error));
 // }, [rockType]);
 
-const Rock = ({ rock, data }) => {
-  const [rockWikiData, setRockWikiData] = useState();
-  const wikipediaUrl = `https://en.wikipedia.org/wiki/${rock.name.replace(
-    / /g,
-    "_"
-  )}`;
+// const Rock = ({ rock, data }) => {
+//   const [rockWikiData, setRockWikiData] = useState();
+//   const wikipediaUrl = `https://en.wikipedia.org/wiki/${rock.name.replace(
+//     / /g,
+//     "_"
+//   )}`;
 
-  return (
-    <div className="rock-container">
-      <div className="rock-image-container">
-        <img src={rock?.wikiImage} alt={rock.name} />
-      </div>
-      <div className="rock-body">
-        <h2>{rock.name}</h2>
-        <p>{rock.description}</p>
-        {/* <button className="wikipedia-btn">Read more from Wikipedia</button> */}
+//   return (
+//     <div className="rock-container">
+//       <div className="rock-image-container">
+//         <img src={rock?.wikiImage} alt={rock.name} />
+//       </div>
+//       <div className="rock-body">
+//         <h2>{rock.name}</h2>
+//         <p>{rock.description}</p>
+//         {/* <button className="wikipedia-btn">Read more from Wikipedia</button> */}
 
-        <div className="rock-wikipedia-info">
-          <p>
-            {rock.wikiExtract + "\n"}
-            <a href={wikipediaUrl} target="_blank" rel="noopener noreferrer">
-              Wikipedia
-            </a>
-          </p>
-        </div>
-      </div>
-      {/* Add more rock details here */}
-    </div>
-  );
-};
+//         <div className="rock-wikipedia-info">
+//           <p>
+//             {rock.wikiExtract + "\n"}
+//             <a href={wikipediaUrl} target="_blank" rel="noopener noreferrer">
+//               Wikipedia
+//             </a>
+//           </p>
+//         </div>
+//       </div>
+//       {/* Add more rock details here */}
+//     </div>
+//   );
+// };
 
 const RockList = () => {
   const [data, setData] = useState(null);

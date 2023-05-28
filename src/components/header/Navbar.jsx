@@ -24,27 +24,23 @@ const Navbar = () => {
           <div className="col-12">
             <div className="navbar-wrapper d-flex justify-content-between align-items-center">
               <div>
-                <a href="#home">
+                <a href="/">
                   <img src={HeaderLogo} className="logo-img" alt="HeaderLogo" />
                 </a>
                 <p className="rockscan">RockScan</p>
               </div>
               <ul className="d-flex align-items-center list-unstyled gap-5 nav-links">
                 <li>
+                  <a href="/" className="text-decoration-none">
+                    Home
+                  </a>
+                </li>
+                <li>
                   <a href="/rocks" className="text-decoration-none">
                     Rocks
                   </a>
                 </li>
-                <li>
-                  <a href="#Features" className="text-decoration-none">
-                    Features
-                  </a>
-                </li>
-                <li>
-                  <a href="#Download" className="text-decoration-none">
-                    Download
-                  </a>
-                </li>
+
                 <li>
                   <a href="#FAQ" className="text-decoration-none">
                     FAQ

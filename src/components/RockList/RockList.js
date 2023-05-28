@@ -158,7 +158,7 @@ const RockList = () => {
 
   return (
     <div className="rock-list">
-      <div>
+      <div className="searchbar-container">
         <input
           type="text"
           placeholder="Search for a rock..."

@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   padding-top: 3em; /* Adjust this value based on the height of your navbar */
 }
 .rock-list {
@@ -72,3 +73,61 @@ body {
 @media only screen and (min-width: 1024px) {
   /* Add your CSS styles here for mobile devices */
 }
+=======
+    padding-top: 3em; /* Adjust this value based on the height of your navbar */
+  }
+.rock-list {
+    min-height: 100em;
+    max-width: 65em;
+    margin: auto;
+    padding: 1em;
+    text-align: center;
+  }
+  .rock-container {
+    display: flex;
+    align-items: center;
+   margin: 20px 5px; 
+   padding: 20px ; 
+   border: 1px solid rgba(153, 122, 92, 0.7);
+   border-radius: 10px;
+   background-color: #fff;
+   min-height: 19em;
+  }
+  /* .searchbar-container {
+    position: fixed;
+    width: 60%
+  } */
+  .search-bar {
+    border: 1px solid rgba(153, 122, 92, 0.7);
+    border-radius: 10px;
+  }
+  .rock-image-container {
+    width: 30%;
+   
+
+  }
+  .rock-image-container img {
+    border-radius: 20px;
+  }
+  .search-wikipedia-btn {
+    position: absolute;
+    top: 4.3em;
+    right: 15.5em;
+    border: none;
+    padding: 0.45em;
+    border-radius: 10px;
+    background-color: rgb(153, 122, 92);
+    color: #fff;
+  }
+  .search-wikipedia-btn:hover {
+    background-color: rgba(153, 122, 92, 0.7);
+  }
+  .rock-wikipedia-info {
+    padding: 1em;
+    
+  }
+  .rock-body {
+    width: 70%;
+    padding: 0 1em;
+  }
+>>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5

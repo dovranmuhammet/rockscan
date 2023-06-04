@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 * {
+=======
+*{
+>>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
   box-sizing: border-box;
 }
 body {
@@ -14,6 +18,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
 img {
+=======
+img{
+>>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
   max-width: 100%;
 }

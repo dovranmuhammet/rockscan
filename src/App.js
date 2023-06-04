@@ -1,24 +1,22 @@
-import Navbar from './components/header/Navbar'
-import Banner from './components/Banner/Banner'
-import IdentifyRock from './components/IdentifyRock/IdentifyRock'
-import SuperRichDatabase from './components/SuperRichDatabase/SuperRichDatabase'
-import ExclusiveConsultation from './components/IdentifyRock/ExclusiveConsultation'
-import GetRockIdentifierNow from './components/GetRockIdentifierNow/GetRockIdentifierNow'
-import FAQ from './components/FAQ/FAQ'
-import Footer from './components/Footer/Footer'
+import RockList from "./components/RockList/RockList";
+import { Router, Route, Routes } from "react-router-dom";
+import Home from "./components/Home";
+import "./App.css";
+import Navbar from "./components/header/Navbar";
+import Footer from "./components/Footer/Footer";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 function App() {
   return (
     <div>
       <Navbar />
-      <Banner />
-      <IdentifyRock />
-      <SuperRichDatabase />
-      <ExclusiveConsultation />
-      <GetRockIdentifierNow />
-      <FAQ />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/rocks" element={<RockList />} />
+      </Routes>
       <Footer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

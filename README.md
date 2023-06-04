@@ -2,7 +2,7 @@ Certainly! Here's an example of a README.md file for your website, rockscanner.c
 
 # RockScanner
 
-[https://rockscanner.com/](https://rockscanner.com/assets/images/rockscanner-logo.png)
+https://rockscanner.com
 
 RockScanner is a website that allows users to search for information about rocks and minerals. It provides a user-friendly interface for finding detailed descriptions, images, and other relevant data about various geological specimens.
 

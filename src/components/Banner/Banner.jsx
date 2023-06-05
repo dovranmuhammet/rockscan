@@ -1,12 +1,8 @@
-import React from "react";
-import Classes from "./Banner.module.css";
-import QRCodeImg from "../../assets/images/qrcode.webp";
-import GoogleStoreImg from "../../assets/images/google_play.webp";
-import AppleStoreImg from "../../assets/images/app_store.webp";
-import BannerRightImg from "../../assets/images/home_front.webp";
-import Slider from "react-slick";
-import Rock from "../Rock/Rock";
-import rockDataJson from "../RockList/rocks.json";
+import React from 'react'
+import Classes from './Banner.module.css'
+import Slider from 'react-slick'
+import Rock from '../Rock/Rock'
+import rockDataJson from '../RockList/rocks.json'
 
 var settings = {
   dots: true,
@@ -16,17 +12,17 @@ var settings = {
   slidesToScroll: 1,
   autoplay: true,
   autoplaySpeed: 1000,
-};
+}
 const Banner = () => {
   return (
-    <div id="home" className={`${Classes.bannerWrapper}`}>
-      <div className="container">
-        <div className="row">
-          <div className="col-md-17">
+    <div id='home' className={`${Classes.bannerWrapper}`}>
+      <div className='container'>
+        <div className='row'>
+          <div className='col-md-17'>
             <div>
               <h3 className={Classes.bannerTitle}>
-                Rock Encyclopedia{" "}
-                <span style={{ fontSize: "2.5rem", color: "#c7c5b9" }}>
+                Rock Encyclopedia{' '}
+                <span style={{ fontSize: '2.5rem', color: '#c7c5b9' }}>
                   by RockScan
                 </span>
               </h3>
@@ -37,17 +33,17 @@ const Banner = () => {
                 Try out Rock Encyclopedia and identify thousands of rocks for
                 free
               </p>
-              <div style={{ textAlign: "center" }}>
+              <div style={{ textAlign: 'center' }}>
                 <a
-                  href="/rocks"
+                  href='/rocks'
                   style={{
-                    display: "inline",
-                    fontSize: "1.5rem",
-                    color: "brown",
-                    width: "100%",
+                    display: 'inline',
+                    fontSize: '1.5rem',
+                    color: 'brown',
+                    width: '100%',
                   }}
                 >
-                  Rocks{" "}
+                  Rocks{' '}
                 </a>
               </div>
               {/* <p className={Classes.bannerSubDescription}>
@@ -72,7 +68,7 @@ const Banner = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Banner;
+export default Banner

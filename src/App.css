@@ -22,32 +22,42 @@ body {
     position: fixed;
     width: 60%
   } */
+
 .search-bar {
   border: 1px solid rgba(153, 122, 92, 0.7);
   border-radius: 10px;
 }
+
 .rock-image-container {
   width: 30%;
 }
+
 .rock-image-container img {
   border-radius: 20px;
 }
+
 .search-wikipedia-btn {
   position: absolute;
-  /* top: 4.1em; */
+  top: 7em;
+
   right: 9.5em;
+  margin-top: 32px;
+
   border: none;
   padding: 0.65em;
   border-radius: 10px;
   background-color: rgb(153, 122, 92);
   color: #fff;
 }
+
 .search-wikipedia-btn:hover {
   background-color: rgba(153, 122, 92, 0.7);
 }
+
 .rock-wikipedia-info {
   padding: 1em;
 }
+
 .rock-body {
   width: 70%;
   padding: 0 1em;
@@ -60,6 +70,7 @@ body {
   padding: -3em;
   text-align: center;
 }
+
 .rock-container {
   display: flex;
   align-items: center;
@@ -74,16 +85,20 @@ body {
     position: fixed;
     width: 60%
   } */
+
 .search-bar {
   border: 1px solid rgba(153, 122, 92, 0.7);
   border-radius: 10px;
 }
+
 .rock-image-container {
   width: 30%;
 }
+
 .rock-image-container img {
   border-radius: 20px;
 }
+
 .search-wikipedia-btn {
   position: absolute;
   top: 5.1em;
@@ -97,12 +112,15 @@ body {
   background-color: rgb(153, 122, 92);
   color: #fff;
 }
+
 .search-wikipedia-btn:hover {
   background-color: rgba(153, 122, 92, 0.7);
 }
+
 .rock-wikipedia-info {
   padding: 1em;
 }
+
 .rock-body {
   width: 70%;
   padding: 0 1em;

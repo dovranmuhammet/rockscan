@@ -28,7 +28,7 @@ RockScan is designed to assist rock enthusiasts, geologists, and hobbyists in id
 
 To run RockScan locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/dovranmuhammet/rockscan.git`
+1. Clone the repository: https://github.com/dovranmuhammet/rockscan
 2. Navigate to the project directory: `cd rockscan`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`

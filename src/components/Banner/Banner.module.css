@@ -58,7 +58,6 @@
   width: 185px;
   object-fit: contain;
 }
-<<<<<<< HEAD
 
 /* Styles for mobile devices with screen width up to 480px */
 @media only screen and (max-width: 480px) {
@@ -79,5 +78,3 @@
 @media only screen and (min-width: 1024px) {
   /* Add your CSS styles here for mobile devices */
 }
-=======
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5

@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   padding-top: 3em; /* Adjust this value based on the height of your navbar */
 }
 .rock-list {
@@ -54,80 +53,57 @@ body {
   padding: 0 1em;
 }
 
-/* Styles for mobile devices with screen width up to 480px */
-@media only screen and (max-width: 480px) {
-  /* Add your CSS styles here for mobile devices */
-}
-
-/* Styles for mobile devices with screen width between 481px and 767px */
-@media only screen and (min-width: 481px) and (max-width: 767px) {
-  /* Add your CSS styles here for mobile devices */
-}
-
-/* Styles for mobile devices with screen width between 768px and 1023px */
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-  /* Add your CSS styles here for mobile devices */
-}
-
-/* Styles for mobile devices with screen width of 1024px and above */
-@media only screen and (min-width: 1024px) {
-  /* Add your CSS styles here for mobile devices */
-}
-=======
-    padding-top: 3em; /* Adjust this value based on the height of your navbar */
-  }
 .rock-list {
-    min-height: 100em;
-    max-width: 65em;
-    margin: auto;
-    padding: 1em;
-    text-align: center;
-  }
-  .rock-container {
-    display: flex;
-    align-items: center;
-   margin: 20px 5px; 
-   padding: 20px ; 
-   border: 1px solid rgba(153, 122, 92, 0.7);
-   border-radius: 10px;
-   background-color: #fff;
-   min-height: 19em;
-  }
-  /* .searchbar-container {
+  min-height: 100em;
+  max-width: 65em;
+  margin: auto;
+  padding: -3em;
+  text-align: center;
+}
+.rock-container {
+  display: flex;
+  align-items: center;
+  margin: 20px 5px;
+  padding: 20px;
+  border: 1px solid rgba(153, 122, 92, 0.7);
+  border-radius: 10px;
+  background-color: #fff;
+  min-height: 19em;
+}
+/* .searchbar-container {
     position: fixed;
     width: 60%
   } */
-  .search-bar {
-    border: 1px solid rgba(153, 122, 92, 0.7);
-    border-radius: 10px;
-  }
-  .rock-image-container {
-    width: 30%;
-   
+.search-bar {
+  border: 1px solid rgba(153, 122, 92, 0.7);
+  border-radius: 10px;
+}
+.rock-image-container {
+  width: 30%;
+}
+.rock-image-container img {
+  border-radius: 20px;
+}
+.search-wikipedia-btn {
+  position: absolute;
+  top: 5.1em;
 
-  }
-  .rock-image-container img {
-    border-radius: 20px;
-  }
-  .search-wikipedia-btn {
-    position: absolute;
-    top: 4.3em;
-    right: 15.5em;
-    border: none;
-    padding: 0.45em;
-    border-radius: 10px;
-    background-color: rgb(153, 122, 92);
-    color: #fff;
-  }
-  .search-wikipedia-btn:hover {
-    background-color: rgba(153, 122, 92, 0.7);
-  }
-  .rock-wikipedia-info {
-    padding: 1em;
-    
-  }
-  .rock-body {
-    width: 70%;
-    padding: 0 1em;
-  }
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
+  /* right: 15.5em; */
+  margin-right: 1px;
+  border: none;
+  /* padding: 0.45em; */
+  padding: 9px;
+  border-radius: 10px;
+  background-color: rgb(153, 122, 92);
+  color: #fff;
+}
+.search-wikipedia-btn:hover {
+  background-color: rgba(153, 122, 92, 0.7);
+}
+.rock-wikipedia-info {
+  padding: 1em;
+}
+.rock-body {
+  width: 70%;
+  padding: 0 1em;
+}

@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 import React, { useState, useEffect } from 'react'
 import rockDataJson from './rocks.json'
 import axios from 'axios'
 import Rock from '../Rock/Rock'
-=======
-import React, { useState, useEffect } from "react";
-import rockDataJson from "./rocks.json";
-import axios from "axios";
-import Rock from "../Rock/Rock";
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
 
 // useEffect(() => {
 //   fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${rockType}`)
@@ -49,7 +42,6 @@ import Rock from "../Rock/Rock";
 // };
 
 const RockList = () => {
-<<<<<<< HEAD
   const [data, setData] = useState(null)
   const [rockData, setRockData] = useState(rockDataJson)
   const [searchTerm, setSearchTerm] = useState('')
@@ -61,19 +53,6 @@ const RockList = () => {
   const filteredRocks = rockData.filter((rock) =>
     rock.name.toLowerCase().includes(searchTerm.toLowerCase())
   )
-=======
-  const [data, setData] = useState(null);
-  const [rockData, setRockData] = useState(rockDataJson);
-  const [searchTerm, setSearchTerm] = useState("");
-
-  const handleSearchChange = (event) => {
-    setSearchTerm(event.target.value);
-  };
-
-  const filteredRocks = rockData.filter((rock) =>
-    rock.name.toLowerCase().includes(searchTerm.toLowerCase())
-  );
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
 
   //   useEffect(() => {
   //     const getRockWikipediaData = async (name) => {
@@ -121,37 +100,21 @@ const RockList = () => {
         await axios.get(
           `https://en.wikipedia.org/w/api.php?origin=*&action=query&format=json&prop=pageimages%7Cdescription%7Cextracts&list=&titles=${name}&redirects=1&formatversion=2&piprop=original&pithumbsize=200&exintro=1&explaintext=1&exsentences=${5}`
         )
-<<<<<<< HEAD
       ).data
     let pages = data.query.pages
     let page = pages[Object.keys(pages)[0]]
     // console.log(data.query.pages[0]);
     const wikiRock = data.query.pages[0]
-=======
-      ).data;
-    let pages = data.query.pages;
-    let page = pages[Object.keys(pages)[0]];
-    // console.log(data.query.pages[0]);
-    const wikiRock = data.query.pages[0];
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
     const newRockObj = {
       name: name,
       description: wikiRock.description,
       wikiExtract: wikiRock.extract,
       wikiImage: wikiRock.original?.source,
-<<<<<<< HEAD
     }
     console.log(newRockObj)
     setRockData([newRockObj])
     return wikiRock
   }
-=======
-    };
-    console.log(newRockObj);
-    setRockData([newRockObj]);
-    return wikiRock;
-  };
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
   //   const getData = async () => {
   //     let newRockData = [];
   //       const rockWikiData = await getRockWikipediaData(rockData[i].name);
@@ -195,7 +158,6 @@ const RockList = () => {
   //   }, []);
 
   return (
-<<<<<<< HEAD
     <div className='rock-list'>
       <div className='searchbar-container'>
         <input
@@ -208,20 +170,6 @@ const RockList = () => {
         />
         <button
           className='search-wikipedia-btn'
-=======
-    <div className="rock-list">
-      <div className="searchbar-container">
-        <input
-          type="text"
-          placeholder="Search for a rock..."
-          value={searchTerm}
-          onChange={handleSearchChange}
-          style={{ width: "100%", padding: "10px", marginBottom: "20px" }}
-          className="search-bar"
-        />
-        <button
-          className="search-wikipedia-btn"
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5
           onClick={() => getRockWikipediaData(searchTerm)}
         >
           Search Wikipedia
@@ -232,14 +180,7 @@ const RockList = () => {
         <Rock key={rock.name} rock={rock} />
       ))}
     </div>
-<<<<<<< HEAD
   )
 }
 
 export default RockList
-=======
-  );
-};
-
-export default RockList;
->>>>>>> 867e57ff5db53ba2d302c6fde561e3ced7cc1cc5

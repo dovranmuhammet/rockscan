@@ -24,18 +24,6 @@ RockScan is designed to assist rock enthusiasts, geologists, and hobbyists in id
 - TensorFlow.js for image recognition and machine learning
 - HTML, CSS, and JavaScript for the overall web development
 
-## Setup
-
-To run RockScan locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/dovranmuhammet/rockscan.git`
-2. Navigate to the project directory: `cd rockscan`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your web browser and visit: `http://localhost:3000`
-
-Make sure you have Node.js and npm installed on your machine before running the above commands.
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to RockScan, please follow these steps:

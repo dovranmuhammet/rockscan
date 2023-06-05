@@ -177,7 +177,7 @@ const RockList = () => {
       </div>
       {/* <p>{filteredRocks.length} Rocks</p> */}
       {filteredRocks.map((rock) => (
-        <Rock key={rock.name} rock={rock} />
+        <Rock key={rock.id} rock={rock} />
       ))}
     </div>
   )

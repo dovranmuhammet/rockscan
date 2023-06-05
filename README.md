@@ -1,52 +1,58 @@
-Certainly! Here's an example of a README.md file for your website, rockscanner.com:
+# RockScan
+https://rockscanner.com/
 
-# RockScanner
+RockScan is a web application that allows users to identify rocks and minerals based on their visual characteristics. It utilizes image recognition and machine learning algorithms to provide accurate identification results.
 
-[https://rockscanner.com/](https://rockscanner.com/assets/images/rockscanner-logo.png)
+## Description
 
-RockScanner is a website that allows users to search for information about rocks and minerals. It provides a user-friendly interface for finding detailed descriptions, images, and other relevant data about various geological specimens.
+RockScan is designed to assist rock enthusiasts, geologists, and hobbyists in identifying various types of rocks and minerals. Users can upload images of rocks they want to identify, and the application will analyze the visual features and provide information about the most probable matches.
 
 ## Features
 
-- Search for rocks and minerals by name or specific properties.
-- Browse through a comprehensive database of geological specimens.
-- View detailed information about each rock or mineral, including its composition, formation process, and physical characteristics.
-- Explore high-quality images of rocks and minerals for visual reference.
-- Bookmark your favorite rocks for easy access later.
-- Get educational insights and fun facts about rocks and minerals.
-
-## Getting Started
-
-To access RockScanner, simply visit the website [rockscanner.com](https://rockscanner.com/) using a web browser.
+- User-friendly interface for easy image uploading
+- Advanced image recognition and machine learning algorithms
+- Extensive database of rock and mineral information
+- Detailed identification results with images and descriptions
+- Option to save identified rocks to a personal collection
+- User feedback and rating system for accuracy and improvement
 
 ## Technologies Used
 
-- HTML5: Markup language for building the website's structure.
-- CSS3: Styling language for designing the website's appearance.
-- JavaScript: Programming language for adding interactivity and functionality to the website.
+- React.js for the frontend development
+- Node.js and Express.js for the backend server
+- PostgreSQL for the database management
+- TensorFlow.js for image recognition and machine learning
+- HTML, CSS, and JavaScript for the overall web development
 
-## Installation
+## Setup
 
-To set up RockScanner locally on your machine, follow these steps:
+To run RockScan locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/rockscanner.git`
-2. Navigate to the project directory: `cd rockscanner`
-3. Install the necessary dependencies: `npm install`
+1. Clone the repository: `git clone https://github.com/dovranmuhammet/rockscan.git`
+2. Navigate to the project directory: `cd rockscan`
+3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit: `http://localhost:3000`
 
+Make sure you have Node.js and npm installed on your machine before running the above commands.
+
 ## Contributing
 
-Contributions to RockScanner are welcome! If you have any suggestions, bug reports, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/your-username/rockscanner) to submit an issue or pull request. Please follow the existing code style and provide clear descriptions for your contributions.
+Contributions are welcome! If you would like to contribute to RockScan, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name: `git checkout -b my-new-feature`
+3. Make your changes and commit them: `git commit -am 'Add some feature'`
+4. Push your changes to the branch: `git push origin my-new-feature`
+5. Submit a pull request explaining the changes you have made.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the code as per the terms of the license.
+RockScan is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
+## Authors
 
-If you have any questions or inquiries about RockScanner, you can reach out to the project maintainer at [dovranrustemov@gmail.com](mailto:dovranrustemov@gmail.com).
+- [Dovran](https://github.com/dovranmuhammet)
 
----
+Feel free to add yourself as an author and update the link to your GitHub profile.
 
-Feel free to customize this template to match the specific details and requirements of your website. The README.md file serves as a documentation resource for users and contributors, so make sure to include all the necessary information to help them understand, use, and contribute to your website effectively.

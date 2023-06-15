@@ -121,3 +121,36 @@ body {
   width: 70%;
   padding: 0 1em;
 }
+
+/* For Mobile Style */
+
+@media (max-width: 767px) {
+  .search-wikipedia-btn {
+    top: 5.1em;
+    margin-right: 1px;
+    border: none;
+    padding: 9px;
+  }
+
+  .rock-body {
+    width: 100%;
+  }
+
+  .rock-list {
+    padding: 2em;
+  }
+
+  .rock-container {
+    margin: 10px 5px;
+    padding: 10px;
+    min-height: auto;
+  }
+
+  .rock-image-container {
+    width: 100%;
+  }
+
+  .search-bar {
+    border-radius: 5px;
+  }
+}

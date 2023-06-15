@@ -45,3 +45,29 @@
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
+
+/* Mobile Styles */
+@media screen and (max-width: 480px) {
+  .navbar-wrapper {
+    padding: 1rem;
+  }
+
+  .navbar-wrapper .logo-img {
+    height: 2rem;
+  }
+
+  .navbar-wrapper .nav-links {
+    display: none;
+  }
+
+  .navbar-wrapper .nav-links.mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+  }
+
+  .navbar-wrapper .nav-links.mobile a {
+    margin: 0.5rem 0;
+  }
+}

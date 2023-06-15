@@ -91,6 +91,18 @@ body {
   color: #fff;
 }
 
+/* Mobile Style */
+
+@media only screen and (max-width: 768px) {
+  .search-wikipedia-btn {
+    top: 5.1em;
+    right: 0.5em;
+    margin-top: 12px;
+    padding: 9px;
+    font-size: 0.9rem;
+  }
+}
+
 .rock-wikipedia-info {
   padding: 1em;
 }

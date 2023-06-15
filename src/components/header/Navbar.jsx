@@ -32,24 +32,24 @@ const Navbar = () => {
               <ul className='d-flex align-items-center list-unstyled gap-5 nav-links'>
                 <li>
                   <a href='/' className='text-decoration-none'>
-                    Home
+                    <button className='home'>Home</button>
                   </a>
                 </li>
                 <li>
                   <a href='/rocks' className='text-decoration-none'>
-                    Rocks
+                    <button className='home'>Rocks</button>
                   </a>
                 </li>
 
-                <li>
+                {/* <li>
                   <a href='/geoexplore' className='text-decoration-none'>
-                    GeoExplore
+                    <button className='home'>GeoExplore</button>
                   </a>
-                </li>
+                </li> */}
 
                 <li>
                   <a href='#FAQ' className='text-decoration-none'>
-                    FAQ
+                    <button className='home'>FAQ</button>
                   </a>
                 </li>
               </ul>

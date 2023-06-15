@@ -26,3 +26,23 @@
 .rockscan {
   color: rgb(153, 122, 92);
 }
+
+.home {
+  background-color: rgb(2, 158, 255);
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+
+  border-radius: 18px;
+  border: none;
+
+  height: 36px;
+  width: 73px;
+
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+.home:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}

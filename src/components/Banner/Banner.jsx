@@ -39,11 +39,20 @@ const Banner = () => {
                   style={{
                     display: 'inline',
                     fontSize: '1.5rem',
-                    color: 'brown',
+                    color: 'white',
                     width: '100%',
+                    textDecoration: 'none',
+                    backgroundColor: 'lightblue',
+                    borderRadius: '10px',
+                    padding: '10px 20px',
+                    border: 'none',
+                    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.25)',
+                    transition:
+                      'background-color 0.3s, color 0.3s, transform 0.3s',
+                    cursor: 'pointer',
                   }}
                 >
-                  Rocks{' '}
+                  Rocks
                 </a>
               </div>
               {/* <p className={Classes.bannerSubDescription}>

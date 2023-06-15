@@ -157,6 +157,26 @@ const RockList = () => {
   //     getAllRocks();
   //   }, []);
 
+  const buttonStyle = {
+    height: '45px',
+    display: 'inline-block',
+    fontSize: '13px',
+    color: '#fff',
+    backgroundColor: 'lightBlue',
+    textDecoration: 'none',
+    borderRadius: '6px',
+    padding: '8px 16px',
+    border: 'none',
+    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
+    transition: 'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+    cursor: 'pointer',
+    textTransform: 'uppercase',
+    letterSpacing: '1px',
+    fontWeight: 'bold',
+    marginTop: '45px',
+    marginRight: '-5px',
+  }
+
   return (
     <div className='rock-list'>
       <div className='searchbar-container'>
@@ -171,6 +191,7 @@ const RockList = () => {
         <button
           className='search-wikipedia-btn'
           onClick={() => getRockWikipediaData(searchTerm)}
+          style={buttonStyle}
         >
           Search Wikipedia
         </button>

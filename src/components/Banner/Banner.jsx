@@ -37,19 +37,21 @@ const Banner = () => {
                 <a
                   href='/rocks'
                   style={{
-                    display: 'inline',
+                    display: 'inline-block',
                     fontSize: '1.5rem',
-                    color: 'white',
-                    width: '100%',
-                    textDecoration: 'none',
+                    color: '#fff',
                     backgroundColor: 'lightblue',
-                    borderRadius: '10px',
-                    padding: '10px 20px',
+                    textDecoration: 'none',
+                    borderRadius: '6px',
+                    padding: '12px 24px',
                     border: 'none',
-                    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.25)',
+                    boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
                     transition:
-                      'background-color 0.3s, color 0.3s, transform 0.3s',
+                      'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
                     cursor: 'pointer',
+                    textTransform: 'uppercase',
+                    letterSpacing: '1px',
+                    fontWeight: 'bold',
                   }}
                 >
                   Rocks

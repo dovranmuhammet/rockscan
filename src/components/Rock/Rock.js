@@ -20,6 +20,26 @@ const Rock = ({ rock, data, extractActive }) => {
     '_'
   )}`
 
+  //FOR MOBILE STYLE
+
+  const MobileButton = ({ isHovered }) => {
+  const mobileStyle = {
+    display: 'inline-block',
+    fontSize: '1.2rem',
+    color: '#fff',
+    backgroundColor: isHovered ? 'lightpink' : 'lightblue',
+    textDecoration: 'none',
+    borderRadius: '6px',
+    padding: '8px 16px',
+    border: 'none',
+    boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
+    transition: 'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+    cursor: 'pointer',
+    textTransform: 'uppercase',
+    letterSpacing: '1px',
+    fontWeight: 'bold',
+  };
+
   return (
     <div className='rock-container'>
       <div className='rock-image-container'>
@@ -34,9 +54,11 @@ const Rock = ({ rock, data, extractActive }) => {
           <p>
             {extractActive && rock.wikiExtract + '\n'}
             <a
+              className='vk-btn'
               href={wikipediaUrl}
               target='_blank'
               rel='noopener noreferrer'
+              style={mobileStyle}
               onMouseEnter={handleMouseEnter}
               onMouseLeave={handleMouseLeave}
               style={{

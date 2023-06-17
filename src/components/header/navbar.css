@@ -52,6 +52,11 @@
     padding: 1rem;
   }
 
+  .home {
+    font-size: 1rem;
+    padding: 6px 12px;
+  }
+
   .navbar-wrapper .logo-img {
     height: 2rem;
   }

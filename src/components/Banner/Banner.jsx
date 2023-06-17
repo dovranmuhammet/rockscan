@@ -35,6 +35,7 @@ const Banner = () => {
               </p>
               <div style={{ textAlign: 'center' }}>
                 <a
+                  className='blue_button'
                   href='/rocks'
                   style={{
                     display: 'inline-block',

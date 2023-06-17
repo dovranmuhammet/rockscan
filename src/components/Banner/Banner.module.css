@@ -64,6 +64,9 @@
   /* Add your CSS styles here for mobile devices */
 }
 
+@media (max-width: 767px) {
+}
+
 /* Styles for mobile devices with screen width between 481px and 767px */
 @media only screen and (min-width: 481px) and (max-width: 767px) {
   /* Add your CSS styles here for mobile devices */

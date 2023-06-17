@@ -49,7 +49,7 @@ const Navbar = () => {
 
                 <li>
                   <a href='#FAQ' className='text-decoration-none'>
-                    <button className='home'>FAQ</button>
+                    <button className='home-faq'>FAQ</button>
                   </a>
                 </li>
               </ul>

@@ -33,9 +33,12 @@ const Banner = () => {
                 Try out Rock Encyclopedia and identify thousands of rocks for
                 free
               </p>
-              <div style={{ textAlign: 'center' }}>
+              <div
+                style={{
+                  textAlign: 'center',
+                }}
+              >
                 <a
-                  className='blue_button'
                   href='/rocks'
                   style={{
                     display: 'inline-block',
@@ -66,7 +69,7 @@ const Banner = () => {
             <div
               className={`${Classes.downloadSection} d-flex align-items-center gap-4`}
             ></div>
-            <div>
+            <div className='box_card'>
               <Slider {...settings}>
                 {rockDataJson.map((rock) => (
                   <Rock key={rock.name} rock={rock} extractActive={false} />

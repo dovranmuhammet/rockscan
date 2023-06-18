@@ -1,6 +1,7 @@
 body {
   padding-top: 5em; /* Adjust this value based on the height of your navbar */
 }
+
 .rock-list {
   min-height: 100em;
   max-width: 65em;
@@ -79,30 +80,27 @@ body {
 
 .search-wikipedia-btn {
   position: absolute;
-  top: 7em;
+  top: 4.2em;
+  /* right: 10em; */
+  right: 157px;
 
-  right: 12.1em;
-  margin-top: 32px;
-
-  border: none;
-  padding: 0.65em;
-  border-radius: 10px;
-  background-color: rgb(153, 122, 92);
+  height: 45px;
+  display: inline-block;
+  font-size: 16px;
   color: #fff;
-}
-
-/* Mobile Style */
-
-@media only screen and (max-width: 768px) {
-  .search-wikipedia-btn {
-    top: 5.1em;
-    /* right: 0.5em; */
-    right: 3em;
-    margin-top: 12px;
-    padding: 9px;
-    font-size: 0.9rem;
-    width: 70px;
-  }
+  background-color: lightblue;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-top: 45px;
+  margin-right: -5px;
 }
 
 .rock-wikipedia-info {
@@ -132,10 +130,6 @@ body {
   background-color: #fff;
   min-height: 19em;
 }
-/* .searchbar-container {
-    position: fixed;
-    width: 60%
-  } */
 
 .search-bar {
   border: 1px solid rgba(153, 122, 92, 0.7);
@@ -150,24 +144,6 @@ body {
   border-radius: 20px;
 }
 
-.search-wikipedia-btn {
-  position: absolute;
-  top: 5.1em;
-
-  /* right: 15.5em; */
-  margin-right: 1px;
-  border: none;
-  /* padding: 0.45em; */
-  padding: 9px;
-  border-radius: 10px;
-  background-color: rgb(153, 122, 92);
-  color: #fff;
-}
-
-.search-wikipedia-btn:hover {
-  background-color: rgba(153, 122, 92, 0.7);
-}
-
 .rock-wikipedia-info {
   padding: 1em;
 }
@@ -180,15 +156,16 @@ body {
 /* For Mobile Style */
 
 @media (max-width: 767px) {
-  .search-wikipedia-btn {
-    top: 5.1em;
-    margin-right: 1px;
-    border: none;
-    padding: 9px;
-  }
-
   .rock-body {
     width: 100%;
+  }
+
+  .search-wikipedia-btn {
+    top: 7.1em;
+    margin-right: -124px;
+    /* right: 0.5em; */
+    margin-top: 13px;
+    font-size: 14px;
   }
 
   .rock-list {
@@ -207,5 +184,22 @@ body {
 
   .search-bar {
     border-radius: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .rock-container {
+    margin: 20px 3px;
+
+    min-height: auto;
+  }
+
+  .search-wikipedia-btn {
+    top: 12.4em;
+    margin-right: -125px;
+    /* right: 0.5em; */
+    margin-top: 13px;
+    font-size: 8px;
+    width: 80px;
   }
 }

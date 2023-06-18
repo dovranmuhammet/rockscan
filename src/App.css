@@ -153,6 +153,22 @@ body {
   padding: 0 1em;
 }
 
+.vk-btn {
+  display: inline-block;
+  font-size: 1.2rem;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
 /* For Mobile Style */
 
 @media (max-width: 767px) {
@@ -201,5 +217,10 @@ body {
     margin-top: 13px;
     font-size: 8px;
     width: 80px;
+  }
+
+  .vk-btn {
+    font-size: 12px;
+    padding: 4px 10px;
   }
 }

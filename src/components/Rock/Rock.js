@@ -41,21 +41,8 @@ const Rock = ({ rock, data, extractActive }) => {
               onMouseEnter={handleMouseEnter}
               onMouseLeave={handleMouseLeave}
               style={{
-                display: 'inline-block',
-                fontSize: '1.2rem',
                 color: '#fff',
                 backgroundColor: isHovered ? 'lightpink' : 'lightblue',
-                textDecoration: 'none',
-                borderRadius: '6px',
-                padding: '8px 16px',
-                border: 'none',
-                boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
-                transition:
-                  'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
-                cursor: 'pointer',
-                textTransform: 'uppercase',
-                letterSpacing: '1px',
-                fontWeight: 'bold',
               }}
             >
               Wikipedia

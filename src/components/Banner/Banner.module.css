@@ -60,6 +60,45 @@
   object-fit: contain;
 }
 
+.bannerTitle {
+  /* Add desired styles for the title */
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.titleText {
+  /* Add desired styles for the main title text */
+  color: #333;
+}
+
+.titleHighlight {
+  /* Add desired styles for the highlight text */
+  color: #c7c5b9;
+}
+
+.show {
+  /* Add animation styles for the show animation */
+  animation-name: fadeIn;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.bannerTitle {
+  animation: fadeIn 1.5s ease-in-out;
+}
+
 /* Styles for mobile devices with screen width up to 480px */
 @media only screen and (max-width: 480px) {
   /* Add your CSS styles here for mobile devices */

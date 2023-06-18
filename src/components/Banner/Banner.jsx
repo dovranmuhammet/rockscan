@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Classes from './Banner.module.css'
 import Slider from 'react-slick'
 import Rock from '../Rock/Rock'
@@ -14,17 +14,25 @@ var settings = {
   autoplaySpeed: 1000,
 }
 const Banner = () => {
+  const [showTitle, setShowTitle] = useState(false)
+
+  useEffect(() => {
+    setShowTitle(true)
+  }, [])
+
   return (
     <div id='home' className={`${Classes.bannerWrapper}`}>
       <div className='container'>
         <div className='row'>
           <div className='col-md-17'>
             <div>
-              <h3 className={Classes.bannerTitle}>
-                Rock Encyclopedia{' '}
-                <span style={{ fontSize: '2.5rem', color: '#c7c5b9' }}>
-                  by RockScan
-                </span>
+              <h3
+                className={`${Classes.bannerTitle} ${
+                  showTitle ? Classes.show : ''
+                }`}
+              >
+                <span className={Classes.titleText}>Rock Encyclopedia</span>
+                <span className={Classes.titleHighlight}>by RockScan</span>
               </h3>
               <p className={Classes.bannerSubtitle}>
                 Online rock encyclopedia and rock identifier
@@ -36,6 +44,10 @@ const Banner = () => {
               <div
                 style={{
                   textAlign: 'center',
+                  '@media screen and (max-width: 480px)': {
+                    fontSize: '1rem',
+                    padding: '2px 8px',
+                  },
                 }}
               >
                 <a

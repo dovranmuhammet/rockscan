@@ -32,7 +32,7 @@ const Banner = () => {
                 }`}
               >
                 <span className={Classes.titleText}>Rock Encyclopedia</span>
-                <span className={Classes.titleHighlight}>by RockScan</span>
+                <span className={Classes.titleHighlight}> {''}by RockScan</span>
               </h3>
               <p className={Classes.bannerSubtitle}>
                 Online rock encyclopedia and rock identifier

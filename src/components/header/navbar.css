@@ -29,6 +29,25 @@
   color: rgb(153, 122, 92);
 }
 
+.geo_clips {
+  background-color: rgb(153, 122, 92);
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 21px;
+  cursor: pointer;
+  transition: all 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.home:hover {
+  background-color: rgb(139, 115, 85);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
 .home {
   background-color: rgb(153, 122, 92);
   color: #fff;

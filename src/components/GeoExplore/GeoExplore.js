@@ -1,7 +1,7 @@
 import React from 'react'
 
 const GeoExplore = () => {
-  return <h1>GeoExplore</h1>
+  return <h1>About Us</h1>
 }
 
 export default GeoExplore

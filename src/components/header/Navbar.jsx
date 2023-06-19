@@ -41,11 +41,11 @@ const Navbar = () => {
                   </a>
                 </li>
 
-                {/* <li>
+                <li>
                   <a href='/geoexplore' className='text-decoration-none'>
-                    <button className='home'>GeoExplore</button>
+                    <button className='home'>About Us</button>
                   </a>
-                </li> */}
+                </li>
 
                 <li>
                   <a href='#FAQ' className='text-decoration-none'>

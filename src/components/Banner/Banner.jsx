@@ -56,7 +56,7 @@ const Banner = () => {
                     display: 'inline-block',
                     fontSize: '1.5rem',
                     color: '#fff',
-                    backgroundColor: 'lightblue',
+                    backgroundColor: 'rgb(120, 155, 200)',
                     textDecoration: 'none',
                     borderRadius: '6px',
                     padding: '12px 24px',

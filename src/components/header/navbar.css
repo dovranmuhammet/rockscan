@@ -30,7 +30,7 @@
 }
 
 .home {
-  background-color: #007bff;
+  background-color: rgb(153, 122, 92);
   color: #fff;
   font-weight: bold;
   font-size: 18px;
@@ -43,13 +43,13 @@
 }
 
 .home:hover {
-  background-color: #0056b3;
+  background-color: rgb(139, 115, 85);
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .home-faq {
-  background-color: #007bff;
+  background-color: rgb(153, 122, 92);
   color: #fff;
   font-weight: bold;
   border: none;
@@ -60,7 +60,7 @@
 }
 
 .home-faq:hover {
-  background-color: #0056b3;
+  background-color: rgb(139, 115, 85);
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }

@@ -16,7 +16,7 @@
   font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
   font-weight: 700;
   font-size: 2.625rem;
-  color: #101010;
+  color: #333741;
   letter-spacing: 0;
   line-height: 3.125rem;
 }
@@ -69,7 +69,8 @@
 
 .titleText {
   /* Add desired styles for the main title text */
-  color: #333;
+  /* color: #333; */
+  color: rgb(153, 122, 92);
 }
 
 .titleHighlight {

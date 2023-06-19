@@ -103,6 +103,12 @@
     font-size: 14px;
   }
 
+  .geo_clips {
+    padding: 4px 14px;
+    margin-top: 3px;
+    font-size: 14px;
+  }
+
   .navbar-wrapper .logo-img {
     height: 2rem;
   }

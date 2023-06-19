@@ -42,10 +42,12 @@ const Rock = ({ rock, data, extractActive }) => {
               onMouseLeave={handleMouseLeave}
               style={{
                 color: '#fff',
-                backgroundColor: isHovered ? 'lightpink' : 'lightblue',
+                backgroundColor: isHovered
+                  ? 'rgb(139, 115, 85)'
+                  : 'rgb(153, 122, 92)',
               }}
             >
-              Wikipedia
+              More info
             </a>
           </p>
         </div>

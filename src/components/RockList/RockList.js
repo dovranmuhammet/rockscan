@@ -172,7 +172,7 @@ const RockList = () => {
           className='search-wikipedia-btn'
           onClick={() => getRockWikipediaData(searchTerm)}
         >
-          Search Wikipedia
+          Search rocks
         </button>
       </div>
       {/* <p>{filteredRocks.length} Rocks</p> */}

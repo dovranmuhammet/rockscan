@@ -43,8 +43,8 @@ const Rock = ({ rock, data, extractActive }) => {
               style={{
                 color: '#fff',
                 backgroundColor: isHovered
-                  ? 'rgb(139, 115, 85)'
-                  : 'rgb(153, 122, 92)',
+                  ? 'rgb(153, 122, 92)'
+                  : 'rgb(173, 142, 112)',
               }}
             >
               More info

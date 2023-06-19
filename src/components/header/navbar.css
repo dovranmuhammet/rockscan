@@ -42,6 +42,12 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
+.geo_clips:hover {
+  background-color: rgb(139, 115, 85);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
 .home:hover {
   background-color: rgb(139, 115, 85);
   transform: translateY(-2px);

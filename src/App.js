@@ -7,6 +7,7 @@ import Footer from './components/Footer/Footer'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import GeoExplore from './components/GeoClips/GeoClips'
+import GeoClips from './components/GeoClips/GeoClips'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path='/rocks' element={<RockList />} />
         <Route path='/geoexplore' element={<GeoExplore />} />
       </Routes>
+      <GeoClips />
       <Footer />
     </div>
   )

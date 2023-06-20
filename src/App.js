@@ -6,7 +6,6 @@ import Navbar from './components/header/Navbar'
 import Footer from './components/Footer/Footer'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
-import GeoExplore from './components/GeoClips/GeoClips'
 import GeoClips from './components/GeoClips/GeoClips'
 
 function App() {
@@ -16,9 +15,8 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/rocks' element={<RockList />} />
-        <Route path='/geoexplore' element={<GeoExplore />} />
+        <Route path='/geoclips' element={<GeoClips />} />
       </Routes>
-      <GeoClips />
       <Footer />
     </div>
   )

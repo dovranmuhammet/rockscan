@@ -6,7 +6,7 @@ import Navbar from './components/header/Navbar'
 import Footer from './components/Footer/Footer'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
-import GeoExplore from './components/GeoExplore/GeoExplore'
+import GeoExplore from './components/GeoClips/GeoClips'
 
 function App() {
   return (

@@ -34,7 +34,13 @@ function GeoClips() {
           </CardContent>
           <CardActions className='card-actions'>
             <Button size='small'>Share</Button>
-            <Button size='small'>Learn More</Button>
+            <Button
+              size='small'
+              href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
+              target='_blank'
+            >
+              Learn More
+            </Button>
           </CardActions>
         </Card>
       ))}

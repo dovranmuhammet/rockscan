@@ -13,14 +13,18 @@
 .navbar-wrapper .logo-img {
   height: 3rem;
 }
+
 .navbar-wrapper .nav-links a {
   color: rgb(51, 51, 51);
   font-size: 1rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  transition: color 0.3s;
 }
+
 .navbar-wrapper .nav-links a:hover {
   color: rgb(153, 122, 92);
 }
+
 .nav-gray {
   background-color: #f0f2f5;
 }
@@ -29,7 +33,9 @@
   color: rgb(153, 122, 92);
 }
 
-.geo_clips {
+.geo_clips,
+.home,
+.home-faq {
   background-color: rgb(153, 122, 92);
   color: #fff;
   font-weight: bold;
@@ -42,52 +48,21 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
-.geo_clips:hover {
-  background-color: rgb(139, 115, 85);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-}
-
-.home:hover {
-  background-color: rgb(139, 115, 85);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-}
-
-.home {
-  background-color: rgb(153, 122, 92);
-  color: #fff;
-  font-weight: bold;
-  font-size: 18px;
-  border: none;
-  border-radius: 30px;
-  padding: 12px 32px;
-  cursor: pointer;
-  transition: all 0.3s;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-}
-
-.home:hover {
-  background-color: rgb(139, 115, 85);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-}
-
-.home-faq {
-  background-color: rgb(153, 122, 92);
-  color: #fff;
-  font-weight: bold;
-  border: none;
-  border-radius: 30px;
-  padding: 12px 40px;
-  transition: all 0.3s;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-}
-
+.geo_clips:hover,
+.home:hover,
 .home-faq:hover {
   background-color: rgb(139, 115, 85);
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.home,
+.home-faq {
+  padding: 12px 32px;
+}
+
+.home-faq {
+  padding: 12px 40px;
 }
 
 /* Mobile Styles */
@@ -96,27 +71,16 @@
     padding: 1rem;
   }
 
-  .home {
-    font-size: 1rem;
-    padding: 4px 8px;
-    margin-top: 3px;
-    font-size: 14px;
-  }
-
-  .home-faq {
-    padding: 4px 14px;
-    margin-top: 3px;
-    font-size: 14px;
-  }
-
+  .home,
+  .home-faq,
   .geo_clips {
-    padding: 4px 14px;
-    margin-top: 3px;
+    padding: 8px 12px;
+    margin-top: 5px;
     font-size: 14px;
   }
 
   .navbar-wrapper .logo-img {
-    height: 2rem;
+    height: 2.5rem;
   }
 
   .navbar-wrapper .nav-links {

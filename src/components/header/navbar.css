@@ -74,9 +74,10 @@
   .home,
   .home-faq,
   .geo_clips {
-    padding: 8px 12px;
+    padding: 5px 8px;
     margin-top: 5px;
     font-size: 14px;
+    flex-grow: 1;
   }
 
   .navbar-wrapper .logo-img {
@@ -89,12 +90,13 @@
 
   .navbar-wrapper .nav-links.mobile {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    justify-content: space-between;
     margin-top: 1rem;
   }
 
   .navbar-wrapper .nav-links.mobile a {
-    margin: 0.5rem 0;
+    margin: 0 5px;
   }
 }

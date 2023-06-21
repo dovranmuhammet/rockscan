@@ -9,50 +9,30 @@ import Geocss from './GeoClips.css'
 
 function GeoClips() {
   return (
-    <div
-      style={{
-        display: 'flex',
-        flexWrap: 'wrap',
-        gap: '80px',
-        justifyContent: 'center',
-        marginTop: '40px',
-        marginBottom: '40px',
-      }}
-    >
+    <div className='card-container'>
       {geoInfo.map((item) => (
-        <Card
-          key={item.id}
-          sx={{
-            maxWidth: 345,
-            boxShadow: '0 2px 10px rgba(0, 0, 0, 0.2)',
-            transition: 'box-shadow 0.3s ease-in-out',
-            '&:hover': {
-              boxShadow: '0 4px 20px rgba(0, 0, 0, 0.3)',
-            },
-          }}
-        >
+        <Card key={item.id} className='card'>
           <CardContent>
+            <div className='image-container'>
+              <img src={item.img} alt='Earth' className='card-image' />
+            </div>
             <Typography
               gutterBottom
               variant='h5'
               component='div'
-              style={{
-                fontWeight: 'bold',
-                marginBottom: '10px',
-                textAlign: 'center',
-              }}
+              className='card-title'
             >
               {item.topic}
             </Typography>
             <Typography
               variant='body2'
               color='text.secondary'
-              style={{ fontStyle: 'italic', lineHeight: '1.4' }}
+              className='card-description'
             >
               {item.description}
             </Typography>
           </CardContent>
-          <CardActions>
+          <CardActions className='card-actions'>
             <Button size='small'>Share</Button>
             <Button size='small'>Learn More</Button>
           </CardActions>

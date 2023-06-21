@@ -5,8 +5,28 @@
     "img": "https://earthsky.org/upl/2021/06/earth-rotation-NASA-EPIC.gif"
   },
   {
-    "topic": "",
-    "description": "",
+    "topic": "Plate tectonics is the scientific theory that explains the movement of the Earth's lithosphere.",
+    "description": "Plate tectonics is the scientific theory that explains the movement of the Earth's rigid tectonic plates. These plates float on the semi-fluid layer beneath them and are driven by convection currents in the Earth's mantle. Plate boundaries are classified as divergent (plates move apart), convergent (plates collide), or transform (plates slide past each other). Plate tectonics is responsible for earthquakes, volcanic activity, mountain formation, and the arrangement of continents and ocean basins. It is a fundamental concept in geology, revolutionizing our understanding of Earth's dynamic processes.",
+    "img": ""
+  },
+  {
+    "topic": "The Earth's core consists of a solid inner core and a liquid outer core.",
+    "description": "The Earth's core consists of a solid inner core and a liquid outer core. The solid inner core is primarily composed of iron and nickel, while the liquid outer core is also rich in these elements. The core plays a crucial role in generating Earth's magnetic field and influencing geologic processes such as plate tectonics and volcanism. It is a subject of ongoing scientific research to further understand its properties and behavior.",
+    "img": ""
+  },
+  {
+    "topic": "The Mohorovičić discontinuity, or Moho, is the boundary between the Earth's crust and the mantle.",
+    "description": "The Mohorovičić discontinuity, commonly known as the Moho, marks the boundary between the Earth's crust and the underlying mantle. It is a significant geological interface where there is a distinct change in composition and physical properties. The Moho plays a vital role in understanding the structure and dynamics of the Earth's lithosphere and is a subject of study in geophysics and seismology.",
+    "img": ""
+  },
+  {
+    "topic": "The three major types of rocks are igneous, sedimentary, and metamorphic.",
+    "description": "The three major types of rocks are igneous, sedimentary, and metamorphic. These rock types are formed through different geological processes. Igneous rocks are formed from the solidification of molten magma or lava. Sedimentary rocks are created through the accumulation and cementation of sediments, such as sand, silt, and organic matter. Metamorphic rocks are formed when existing rocks undergo changes in their composition and texture due to high temperatures and pressures. Understanding these rock types provides insights into Earth's history and the processes that shape its surface.",
+    "img": ""
+  },
+  {
+    "topic": "Granite is a common type of igneous rock found in continental crust.",
+    "description": "Granite is a prevalent type of igneous rock predominantly found in the continental crust. It is composed of interlocking mineral crystals, primarily feldspar, quartz, and mica. Granite forms deep underground through the slow cooling and solidification of magma. It is known for its durability, strength, and attractive appearance, making it a popular material in construction, countertops, and decorative applications.",
     "img": ""
   }
 ]

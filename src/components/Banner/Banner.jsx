@@ -44,7 +44,7 @@ const Banner = () => {
               <div
                 style={{
                   textAlign: 'center',
-                  '@media screen and (max-width: 480px)': {
+                  '@media screen and (maxWidth: 480px)': {
                     fontSize: '1rem',
                     padding: '2px 8px',
                   },

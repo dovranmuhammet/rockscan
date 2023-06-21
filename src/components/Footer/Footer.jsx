@@ -28,7 +28,7 @@ const Footer = () => {
               <li>
                 Contact Us:
                 <br />
-                support@rockscan.com{' '}
+                support@rockscanner.com{' '}
               </li>
             </ul>
           </div>

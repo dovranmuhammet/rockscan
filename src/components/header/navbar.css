@@ -65,6 +65,43 @@
   padding: 12px 40px;
 }
 
+/* Maximum width of 768 pixels, which covers most tablet devices. */
+
+@media screen and (max-width: 768px) {
+  .navbar-wrapper {
+    padding: 1rem;
+  }
+
+  .home,
+  .home-faq,
+  .geo_clips {
+    padding: 6px 23px;
+    margin-top: -7px;
+    font-size: 14px;
+    flex-grow: 1;
+  }
+
+  .navbar-wrapper .logo-img {
+    height: 2.5rem;
+  }
+
+  .navbar-wrapper .nav-links {
+    display: none;
+  }
+
+  .navbar-wrapper .nav-links.mobile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+
+  .navbar-wrapper .nav-links.mobile a {
+    margin: 0 5px;
+  }
+}
+
 /* Mobile Styles */
 @media screen and (max-width: 480px) {
   .navbar-wrapper {
@@ -74,10 +111,8 @@
   .home,
   .home-faq,
   .geo_clips {
-    padding: 5px 8px;
-    margin-top: 5px;
+    padding: 5px 5px;
     font-size: 14px;
-    flex-grow: 1;
   }
 
   .navbar-wrapper .logo-img {

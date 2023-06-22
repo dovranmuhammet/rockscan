@@ -24,50 +24,49 @@
   position: absolute;
   top: 10px;
   right: 10px;
-  width: 40px;
-  height: 40px;
-  background-color: #ff4d4d;
+  width: 24px;
+  height: 60px;
+  background-color: #f50057;
   cursor: pointer;
   transition: background-color 0.3s ease;
-  border-radius: 50%;
+  border-radius: 4px;
   display: flex;
   justify-content: center;
   align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .mark.clicked {
-  background-color: brown;
+  background-color: #d50000;
 }
 
 .mark:hover {
-  background-color: #ff6666;
+  background-color: #ff4081;
 }
 
 .mark.clicked:hover {
-  background-color: #b35959;
+  background-color: #b71c1c;
 }
 
 .card:hover .mark {
-  background-color: #ff6666;
+  background-color: #ff4081;
 }
 
 .card:hover .mark.clicked {
-  background-color: #b35959;
+  background-color: #b71c1c;
 }
 
 .mark:before {
   content: '';
   display: inline-block;
-  width: 16px;
+  width: 4px;
   height: 16px;
-  border-radius: 50%;
   background-color: white;
-  transition: transform 0.3s ease;
-  transform: scale(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .mark.clicked:before {
-  transform: scale(1);
+  transform: scale(0.8);
 }
 
 /* Finished here */

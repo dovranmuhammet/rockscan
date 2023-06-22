@@ -16,6 +16,59 @@
 }
 
 /* Remarkable button */
+.card {
+  position: relative;
+}
+
+.mark {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: #ff4d4d;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mark.clicked {
+  background-color: brown;
+}
+
+.mark:hover {
+  background-color: #ff6666;
+}
+
+.mark.clicked:hover {
+  background-color: #b35959;
+}
+
+.card:hover .mark {
+  background-color: #ff6666;
+}
+
+.card:hover .mark.clicked {
+  background-color: #b35959;
+}
+
+.mark:before {
+  content: '';
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: white;
+  transition: transform 0.3s ease;
+  transform: scale(0);
+}
+
+.mark.clicked:before {
+  transform: scale(1);
+}
 
 /* Finished here */
 

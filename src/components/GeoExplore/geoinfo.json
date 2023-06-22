@@ -1,75 +1,90 @@
 [
   {
+    "id": 1,
     "topic": "The Earth's age is approximately 4.5 billion years.",
     "description": "Earth is estimated to be 4.54 billion years old, plus or minus about 50 million years. Scientists have scoured the Earth searching for the oldest rocks to radiometrically date. In northwestern Canada, they discovered rocks about 4.03 billion years old. Then, in Australia, they discovered minerals about 4.3 billion years old. Researchers know that rocks are continuously recycling, due to the rock cycle, so they continued to search for data elsewhere. Since it is thought the bodies in the solar system may have formed at similar times, scientists analyzed moon rocks collected during the moon landing and even meteorites that have crash-landed on Earth. Both of these materials dated to between 4.4 and 4.5 billion years.",
     "img": "https://earthsky.org/upl/2021/06/earth-rotation-NASA-EPIC.gif"
   },
   {
+    "id": 2,
     "topic": "Plate tectonics is the scientific theory that explains the movement of the Earth's lithosphere.",
     "description": "Plate tectonics is the scientific theory that explains the movement of the Earth's rigid tectonic plates. These plates float on the semi-fluid layer beneath them and are driven by convection currents in the Earth's mantle. Plate boundaries are classified as divergent (plates move apart), convergent (plates collide), or transform (plates slide past each other). Plate tectonics is responsible for earthquakes, volcanic activity, mountain formation, and the arrangement of continents and ocean basins. It is a fundamental concept in geology, revolutionizing our understanding of Earth's dynamic processes.",
     "img": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/AW_DD125_WorldPlates_tvpdp0.jpg"
   },
   {
+    "id": 3,
     "topic": "The Earth's core consists of a solid inner core and a liquid outer core.",
     "description": "The Earth's core consists of a solid inner core and a liquid outer core. The solid inner core is primarily composed of iron and nickel, while the liquid outer core is also rich in these elements. The core plays a crucial role in generating Earth's magnetic field and influencing geologic processes such as plate tectonics and volcanism. It is a subject of ongoing scientific research to further understand its properties and behavior.",
     "img": "https://scx2.b-cdn.net/gfx/news/2015/earthssurpri.jpg"
   },
   {
+    "id": 4,
     "topic": "The Mohorovičić discontinuity, or Moho, is the boundary between the Earth's crust and the mantle.",
     "description": "The Mohorovičić discontinuity, commonly known as the Moho, marks the boundary between the Earth's crust and the underlying mantle. It is a significant geological interface where there is a distinct change in composition and physical properties. The Moho plays a vital role in understanding the structure and dynamics of the Earth's lithosphere and is a subject of study in geophysics and seismology.",
     "img": "https://geology.com/articles/images/moho-mohorovicic.gif"
   },
   {
+    "id": 5,
     "topic": "The three major types of rocks are igneous, sedimentary, and metamorphic.",
     "description": "The three major types of rocks are igneous, sedimentary, and metamorphic. These rock types are formed through different geological processes. Igneous rocks are formed from the solidification of molten magma or lava. Sedimentary rocks are created through the accumulation and cementation of sediments, such as sand, silt, and organic matter. Metamorphic rocks are formed when existing rocks undergo changes in their composition and texture due to high temperatures and pressures. Understanding these rock types provides insights into Earth's history and the processes that shape its surface.",
     "img": "https://fileserver.teachstarter.com/thumbnails/2306-types-rocks-posters-us-thumbnail-0-600x400.png"
   },
   {
+    "id": 6,
     "topic": "Granite is a common type of igneous rock found in continental crust.",
     "description": "Granite is a prevalent type of igneous rock predominantly found in the continental crust. It is composed of interlocking mineral crystals, primarily feldspar, quartz, and mica. Granite forms deep underground through the slow cooling and solidification of magma. It is known for its durability, strength, and attractive appearance, making it a popular material in construction, countertops, and decorative applications.",
     "img": "https://www.geologypage.com/wp-content/uploads/2019/05/Granite-Rocks-GeologyPage.jpg"
   },
   {
+    "id": 7,
     "topic": "The rock cycle describes the continuous transformation of rocks from one type to another over time.",
     "description": "The rock cycle describes the continuous transformation of rocks from one type to another over time. It encompasses the processes through which rocks can be formed, broken down, and changed into different types. This cycle involves various geological processes, including weathering, erosion, deposition, compaction, and cementation. Rocks can undergo metamorphism, melting, cooling, and crystallization, leading to the formation of igneous, sedimentary, and metamorphic rocks. The rock cycle is an essential concept in geology, highlighting the dynamic nature of Earth's crust and the interconnectedness of different rock types.",
     "img": "https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/rock-cycle2.png"
   },
   {
+    "id": 8,
     "topic": "Fossils are the preserved remains or traces of ancient organisms found in rocks.",
     "description": "Fossils are the preserved remains or traces of ancient organisms found in rocks. They provide valuable insights into the history of life on Earth and the processes of evolution. Fossils can include the actual remains of organisms, such as bones, shells, or teeth, as well as indirect evidence like imprints, tracks, or burrows. Through the study of fossils, scientists can reconstruct past ecosystems, understand evolutionary relationships, and document the existence of species that have long been extinct. Fossils are typically found in sedimentary rocks, where the conditions for preservation are optimal.",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNeUQzpu2DGFM_Zknwefrcton3xhbSSUqAGidTSZY_5H-weDu6nD9MWOiOp0wyidvqgx-ehxcAFC25jSfmQanfjbOLSwBFCg-YcoF8D8KYVLVM46Kbul6DWZOX5EFL8wAmm8k79FMgov0tbmc-KQbwSIjDwv_qZfnlbTzBHFA0-jFMQpnepqs3EXMT/s1244/Fossil%20fishing%20at%20the%20farm!%20Stunningly%20well-preserved%20remains%20(1).jpg"
   },
   {
+    "id": 9,
     "topic": "The study of past climates using geological evidence is known as paleoclimatology.",
     "description": "Paleoclimatology is the study of past climates using geological evidence. It involves examining various geological records to reconstruct and understand past climate conditions. Scientists analyze sources such as ice cores, sediment layers, tree rings, and fossil records to gather information about temperature patterns, precipitation levels, atmospheric composition, and other climate indicators. By studying these records, paleoclimatologists can gain insights into long-term climate changes, natural climate variability, the impact of human activities on climate, and the mechanisms driving climate processes over geological timescales.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/All_palaeotemps.svg/600px-All_palaeotemps.svg.png"
   },
   {
+    "id": 10,
     "topic": "Earthquakes occur when there is a sudden release of energy in the Earth's crust, resulting in seismic waves.",
     "description": "Earthquakes occur when there is a sudden release of energy in the Earth's crust, resulting in seismic waves. Most earthquakes are caused by the movement of tectonic plates, which make up Earth's rigid outer shell. When stress accumulates along plate boundaries or faults, it eventually overcomes the strength of the rocks, leading to sudden slippage and the release of energy in the form of seismic waves. These waves radiate outwards from the earthquake's focus, causing the ground to shake and potentially resulting in damage to structures and landscapes. Earthquakes can also be triggered by volcanic activity, human-induced activities like mining or reservoir-induced seismicity, or even by the movement of magma beneath the Earth's surface.",
     "img": "https://aliensguidebookofearth.weebly.com/uploads/5/3/8/0/53809113/276932617.jpg?412"
   },
   {
+    "id": 11,
     "topic": "Volcanoes are formed when molten rock, or magma, rises to the Earth's surface.",
     "description": "Volcanoes are formed when molten rock, or magma, rises to the Earth's surface. Volcanic activity occurs at locations where there are openings in the Earth's crust, such as divergent plate boundaries, convergent plate boundaries, or hotspots. When magma reaches the surface, it erupts, often accompanied by gases and ash. This eruption creates various volcanic landforms, such as mountains, cones, craters, and lava flows. Volcanoes are not only remarkable geological features but also play a significant role in shaping landscapes, influencing climate patterns, and contributing to the formation of new land through lava deposition.",
     "img": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/side_image/public/vhp_img5738.png?itok=9KiJbs3T"
   },
   {
+    "id": 12,
     "topic": "The Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur.",
     "description": "The Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur. It forms a horseshoe-shaped region and is associated with a large number of tectonic plate boundaries. The Ring of Fire stretches along the coasts of several continents, including the Pacific coasts of North and South America, Asia, and Oceania. This region is characterized by intense seismic and volcanic activity due to the subduction of oceanic plates beneath continental plates and the collision of tectonic plates. The high concentration of earthquakes and volcanic eruptions in the Ring of Fire makes it a geologically active and dynamic area.",
     "img": "https://cdn.britannica.com/57/5457-050-40B0E740/ring-volcanoes-arcs-tectonic-plate-boundaries-Pacific.jpg"
   },
   {
+    "id": 13,
     "topic": "Mountains are formed through tectonic forces, such as the collision of two continental plates.",
     "description": "Mountains are formed through tectonic forces, such as the collision of two continental plates. These forces cause the Earth's crust to undergo deformation, resulting in the uplift and formation of large landforms with significant elevation and steep slopes. Mountain-building processes involve compression, folding, faulting, and uplift. Over millions of years, as the tectonic forces act upon the Earth's crust, mountains can be formed through various mechanisms, including the folding and buckling of rock layers, the uplift of large fault blocks, or the accumulation of volcanic materials. Mountains are not only impressive physical features but also play crucial roles in shaping climates, influencing water systems, and providing habitats for diverse ecosystems.",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsJNUI17oKfYc9xDbWxFEbvlMV7YGFGri0m07zJlHjyGqHNvfDY7mTXzS5raTdT4G_ng&usqp=CAU"
   },
   {
+    "id": 14,
     "topic": "The Himalayas, including Mount Everest, are the result of the collision between the Indian and Eurasian plates.",
     "description": "The Himalayas, including Mount Everest, are the result of the ongoing collision between the Indian and Eurasian plates. This collision began around 50 million years ago and continues today. The immense forces generated by the convergence of these two continental plates have led to the uplift and formation of the Himalayan mountain range. The Himalayas, known as the 'roof of the world', are home to some of the highest peaks on Earth, including Mount Everest, which stands as the tallest mountain. This majestic mountain range showcases the remarkable geological processes involved in plate tectonics and serves as an iconic symbol of Earth's dynamic nature.",
     "img": "https://www.geolsoc.org.uk/~/media/shared/images/education%20careers/KS4/india%20migration.JPG?h=420&w=228&la=en"
   },
   {
+    "id": 15,
     "topic": "The Grand Canyon in Arizona, USA, was carved by the Colorado River over millions of years.",
     "description": "The Grand Canyon in Arizona, USA, was carved by the Colorado River over millions of years. This iconic natural wonder exhibits the power of erosion and the gradual shaping of landscapes. The Colorado River, aided by other erosional forces such as wind and weathering, has carved out the deep and expansive canyon over an estimated period of 6 million years. The exposed rock layers within the canyon provide a geological record spanning millions of years, showcasing the Earth's history and the processes that have shaped its surface. The Grand Canyon stands as a testament to the immense geological forces and the persistence of natural processes over vast timescales.",
     "img": "https://a-z-animals.com/media/2022/03/shutterstock_97706066.jpg"

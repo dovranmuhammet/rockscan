@@ -88,5 +88,41 @@
     "topic": "The Grand Canyon in Arizona, USA, was carved by the Colorado River over millions of years.",
     "description": "The Grand Canyon in Arizona, USA, was carved by the Colorado River over millions of years. This iconic natural wonder exhibits the power of erosion and the gradual shaping of landscapes. The Colorado River, aided by other erosional forces such as wind and weathering, has carved out the deep and expansive canyon over an estimated period of 6 million years. The exposed rock layers within the canyon provide a geological record spanning millions of years, showcasing the Earth's history and the processes that have shaped its surface. The Grand Canyon stands as a testament to the immense geological forces and the persistence of natural processes over vast timescales.",
     "img": "https://a-z-animals.com/media/2022/03/shutterstock_97706066.jpg"
+  },
+  {
+    "id": 16,
+    "topic": "The Great Barrier Reef in Australia is the largest coral reef system in the world.",
+    "description": "The Great Barrier Reef is the world’s largest coral reef system located in the Coral Sea off the shore of Queensland, northeastern Australia. It extends over a vast area of approximately 344,4000 sq. km and is is composed of over 2,900 individual reef systems, 760 fringe reefs, 300 coral rays and 900 islands that stretch over 2,300 km. The reef system is composed and built by billions of coral polyps and now supports a wide variety of marine life ranging from ancient sea turtles, reef fish and 134 species of sharks, 400 different hard and soft corals in addition to a plethora of seaweeds. The reef has also cultural significance, as it was used by the Aboriginal Australians and Torres Strait Islanders.",
+    "img": "https://greatbarrierreef.org/wp-content/uploads/2022/06/Lady-Musgrave-Island-Great-Barrier-Reef.jpg"
+  },
+  {
+    "id": 17,
+    "topic": "Tsunamis are large ocean waves caused by underwater earthquakes or volcanic eruptions.",
+    "description": "Tsunamis are a series of ocean waves caused by submarine earthquakes or volcanic eruptions. This means that they are secondary hazards. These tsunami waves travel through the ocean and can reach heights of over 30 metres on land. Earthquakes at convergent plate margins cause most tsunamis. Because of the movement from the earthquake, the seabed is displaced vertically. This, in turn, displaces the water column above. The speed of a tsunami depends on the depth of the ocean. As it approaches shallow water, the tsunami slows down and increases in height, making it very dangerous.It’s not just earthquakes that cause tsunamis – landslides and volcanic activity are also culprits!",
+    "img": "https://www.australianenvironmentaleducation.com.au/wp-content/uploads/2020/08/Tsunami-graphic-v2.jpg"
+  },
+  {
+    "id": 18,
+    "topic": "The water cycle involves the continuous movement of water between the atmosphere, land, and oceans.",
+    "description": "Tsunamis are a series of ocean waves caused by submarine earthquakes or volcanic eruptions. This means that they are secondary hazards. These tsunami waves travel through the ocean and can reach heights of over 30 metres on land. Earthquakes at convergent plate margins cause most tsunamis. Because of the movement from the earthquake, the seabed is displaced vertically. This, in turn, displaces the water column above. The speed of a tsunami depends on the depth of the ocean. As it approaches shallow water, the tsunami slows down and increases in height, making it very dangerous.It’s not just earthquakes that cause tsunamis – landslides and volcanic activity are also culprits!",
+    "img": "https://cdn.britannica.com/73/1473-050-D7FE3FD0/surface-hydrologic-cycle-water-values-oceans-land.jpg"
+  },
+  {
+    "id": 19,
+    "topic": "Groundwater is the water stored beneath the Earth's surface in aquifers.",
+    "description": "GroundwaterGuard is a comprehensive component designed to enlighten users about the significance and characteristics of groundwater—a vital resource stored beneath the Earth's surface in aquifers. Through engaging content and interactive visuals, GroundwaterGuard provides a deep dive into the world of groundwater, covering its role in the water cycle, its importance for human and ecological needs, and the challenges associated with its management and sustainability. Explore the hidden world of groundwater with GroundwaterGuard and uncover the secrets that lie beneath our feet.",
+    "img": "https://cdn.mos.cms.futurecdn.net/LSwaGChBCNMxZKr5DryM5j.jpg"
+  },
+  {
+    "id": 20,
+    "topic": "Karst landscapes, characterized by sinkholes and caves, are formed by the dissolution of soluble rocks such as limestone.",
+    "description": "Karst landscapes are unique land areas characterized by limestone dissolution, resulting in caves, sinkholes, and underground streams. Rainwater slowly erodes the porous limestone, forming distinct features such as caves and steep cliffs. Shilin in China's South China Karst and the cenotes in Mexico's Yucatán Peninsula are notable examples of karst formations. Shilin, known as the stone forest, showcases tall rock formations resembling trees, while cenotes are karst sinkholes filled with water, offering refreshing swimming spots. Discover the wonders of karst landscapes, from China to Mexico.",
+    "img": "https://qph.cf2.quoracdn.net/main-qimg-197753570e8d36d6ed133077e68eafe7-lq"
+  },
+  {
+    "id": 20,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
   }
 ]

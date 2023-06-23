@@ -6,8 +6,7 @@ import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
 import './geoclips.css'
-import './geoclips.css'
-import './geoclips.css'
+// import './geoclips.css'import './geoclips.css'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)

@@ -5,7 +5,10 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
-import './geoclips.css'
+import styles from './geoclips.css'
+
+// Access the CSS class names as properties of the imported 'styles' object
+// Example: <div className={styles.container}></div>
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)

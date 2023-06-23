@@ -5,7 +5,7 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
-import Geoclips from './GeoClips.css'
+import Geodata from './GeoClips.css'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)

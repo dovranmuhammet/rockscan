@@ -104,7 +104,7 @@
   {
     "id": 18,
     "topic": "The water cycle involves the continuous movement of water between the atmosphere, land, and oceans.",
-    "description": "Tsunamis are a series of ocean waves caused by submarine earthquakes or volcanic eruptions. This means that they are secondary hazards. These tsunami waves travel through the ocean and can reach heights of over 30 metres on land. Earthquakes at convergent plate margins cause most tsunamis. Because of the movement from the earthquake, the seabed is displaced vertically. This, in turn, displaces the water column above. The speed of a tsunami depends on the depth of the ocean. As it approaches shallow water, the tsunami slows down and increases in height, making it very dangerous.It’s not just earthquakes that cause tsunamis – landslides and volcanic activity are also culprits!",
+    "description": "The water cycle, also known as the hydrological cycle, is the continuous circulation of water on Earth. It involves various processes, including evaporation, condensation, precipitation, and runoff. Water evaporates from bodies of water, such as oceans, lakes, and rivers, into the atmosphere, where it condenses to form clouds. Eventually, the condensed water droplets fall back to the Earth as precipitation, which can take the form of rain, snow, sleet, or hail. This water then flows into streams, rivers, and groundwater, replenishing water sources and supporting plant and animal life. The water cycle plays a crucial role in maintaining the Earth's water balance and sustaining ecosystems worldwide.",
     "img": "https://cdn.britannica.com/73/1473-050-D7FE3FD0/surface-hydrologic-cycle-water-values-oceans-land.jpg"
   },
   {
@@ -121,6 +121,72 @@
   },
   {
     "id": 21,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  }
+   {
+    "id": 22,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 23,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },
+   {
+    "id": 24,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },
+   {
+    "id": 25,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },
+   {
+    "id": 26,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },
+   {
+    "id": 27,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 28,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },
+   {
+    "id": 29,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 30,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 31,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 32,
+    "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
+    "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
+    "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"
+  },  {
+    "id": 33,
     "topic": "The Ozone layer is a region in the Earth's stratosphere that protects against harmful ultraviolet radiation.",
     "description": "The Ozone layer is a crucial region in the Earth's stratosphere that acts as a protective shield against harmful ultraviolet (UV) radiation from the sun. It is formed by a high concentration of ozone molecules, which absorb and block a significant portion of the UV rays. This protective barrier plays a vital role in safeguarding life on Earth by reducing the harmful effects of UV radiation, such as skin cancer, cataracts, and damage to ecosystems. The depletion of the Ozone layer, primarily caused by human activities releasing ozone-depleting substances, poses a significant environmental concern and has led to international efforts to mitigate further damage and promote its recovery.",
     "img": "https://www.teachengineering.org/content/cub_/lessons/cub_air/cub_air_lesson08_figure1new.png"

@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import Heart from 'react-animated-heart'
 import Card from '@mui/material/Card'
 import CardActions from '@mui/material/CardActions'
 import CardContent from '@mui/material/CardContent'
@@ -8,6 +9,7 @@ import geoinfo from './geoinfo.json'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
+  const [isClick, setClick] = useState(false)
 
   const handleMarkClick = (itemId) => {
     const updatedGeoInfo = geoInfo.map((item) => {
@@ -57,12 +59,10 @@ function GeoClips() {
             >
               Share
             </Button>
-            <button class='like-button' onclick='handleLikeClick()'>
-              <img
-                src='https://cdn-icons-png.flaticon.com/512/7579/7579706.png'
-                alt='Like'
-              />
-            </button>
+
+            <div className='App'>
+              <Heart isClick={isClick} onClick={() => setClick(!isClick)} />
+            </div>
 
             <Button
               size='small'

@@ -20,6 +20,16 @@
   letter-spacing: 0;
   line-height: 3.125rem;
 }
+
+.bannerSubtitle {
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 700;
+  font-size: 2.625rem;
+  color: #333741;
+  letter-spacing: 0;
+  line-height: 3.125rem;
+}
+
 .bannerWrapper .bannerDescription {
   font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
   font-weight: 400;

@@ -51,7 +51,13 @@ function GeoClips() {
             </Typography>
           </CardContent>
           <CardActions className='card-actions'>
-            <Button size='small'>Share</Button>
+            <Button
+              className={`like-button ${item.isMarked ? 'liked' : ''}`}
+              size='small'
+            >
+              Share
+            </Button>
+            <Button size='small'>Like</Button>
             <Button
               size='small'
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'

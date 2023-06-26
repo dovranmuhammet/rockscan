@@ -11,7 +11,9 @@ function Home() {
       <Banner />
       {/* <IdentifyRock /> */}
       <SuperRichDatabase />
+
       <ExclusiveConsultation />
+
       {/* <GetRockIdentifierNow /> */}
       <FAQ />
     </div>

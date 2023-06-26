@@ -73,10 +73,6 @@ const Banner = () => {
                   Rocks
                 </a>
               </div>
-              {/* <p className={Classes.bannerSubDescription}>
-                Try out Rock Identifier app on your phone and identify thousands
-                of rocks for free
-              </p> */}
             </div>
             <div
               className={`${Classes.downloadSection} d-flex align-items-center gap-4`}
@@ -89,9 +85,6 @@ const Banner = () => {
               </Slider>
             </div>
           </div>
-          {/* <div className='col-md-5'>
-            <img src={BannerRightImg} alt='BannerRightImg' />
-          </div> */}
         </div>
       </div>
     </div>

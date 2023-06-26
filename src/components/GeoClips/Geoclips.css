@@ -119,40 +119,6 @@
   margin: 0 8px;
 }
 
-/* Like__Button */
+/* Heart__button */
 
-.like-button {
-  background-color: transparent;
-  color: #333741;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  transition: color 0.3s ease;
-}
-
-.like-button:hover {
-  color: red;
-}
-
-.like-button.liked {
-  color: red;
-}
-
-/* Animation */
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-.like-button.liked {
-  animation: pulse 0.6s linear infinite;
-}
-
-/* Finish__Like__Button */
+/* Finish__heart__Button */

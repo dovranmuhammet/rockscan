@@ -57,7 +57,13 @@ function GeoClips() {
             >
               Share
             </Button>
-            <Button size='small'>Like</Button>
+            <button class='like-button' onclick='handleLikeClick()'>
+              <img
+                src='https://cdn-icons-png.flaticon.com/512/7579/7579706.png'
+                alt='Like'
+              />
+            </button>
+
             <Button
               size='small'
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'

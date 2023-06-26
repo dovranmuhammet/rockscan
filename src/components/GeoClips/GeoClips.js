@@ -69,7 +69,7 @@ function GeoClips() {
               />
             </div>
 
-            {/* Lear-More--Button */}
+            {/* Lear-More */}
             <Button
               size='small'
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'

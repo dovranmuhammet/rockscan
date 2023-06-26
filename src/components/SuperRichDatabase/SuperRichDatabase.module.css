@@ -1,16 +1,44 @@
-.identifyRockWrapper{
-    padding: 50px 0;
+.identifyRockWrapper {
+  padding: 50px 0;
 }
-.identifyRockWrapper .title{
-    color: #000;
-    font-size: 2.63rem;
-    line-height: 3.13rem;
-    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
-    font-weight: 500;
+.identifyRockWrapper .title {
+  color: #000;
+  font-size: 2.63rem;
+  line-height: 3.13rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+  font-weight: 500;
 }
-.identifyRockWrapper .description{
-    color: #666;
-    font-size: 1.25rem;
-    margin-top: 2.38rem;
-    font-family: -apple-system,BlinkMacSystemFont,"Microsoft YaHei";
+.identifyRockWrapper .description {
+  color: #666;
+  font-size: 1.25rem;
+  margin-top: 2.38rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Microsoft YaHei';
+}
+
+.carousel {
+  margin-top: 200px;
+  /* Other styles if needed */
+}
+
+/* Title of GeoClips */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 80px;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.card {
+  max-width: 345px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Remarkable button */
+.card {
+  position: relative;
 }

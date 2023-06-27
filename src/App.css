@@ -343,3 +343,12 @@ body {
 .card-actions button {
   margin: 0 8px;
 }
+
+@keyframes waterCircle {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}

@@ -8,7 +8,6 @@ import CardContent from '@mui/material/CardContent'
 import CardMedia from '@mui/material/CardMedia'
 import Typography from '@mui/material/Typography'
 import { Button, CardActionArea, CardActions } from '@mui/material'
-import { Fade } from 'react-reveal'
 
 const SuperRichDatabase = () => {
   const navigate = useNavigate()
@@ -34,36 +33,34 @@ const SuperRichDatabase = () => {
 
           {/* Card-Component */}
           <div style={{ textAlign: 'center' }}>
-            <Fade duration={1000} delay={500}>
-              <h1
-                className='titleGeoclips'
-                style={{
-                  color: '#000',
-                  fontSize: '3.5rem',
-                  lineHeight: '1.2',
-                  fontFamily:
-                    '-apple-system, BlinkMacSystemFont, "Microsoft YaHei"',
-                  fontWeight: 'bold',
-                  marginTop: '77px',
-                }}
-              >
-                Geoclips
-              </h1>
-            </Fade>
-            <Fade duration={1000} delay={1000}>
-              <h2
-                className='subtitleGeoclips'
-                style={{
-                  color: '#666',
-                  fontSize: '1.5rem',
-                  marginTop: '1.5rem',
-                  fontFamily:
-                    '-apple-system, BlinkMacSystemFont, "Microsoft YaHei"',
-                }}
-              >
-                Explore the Fascinating World of Geology
-              </h2>
-            </Fade>
+            <h1
+              className='titleGeoclips'
+              style={{
+                color: '#000',
+                fontSize: '2.5rem',
+                lineHeight: '1.2',
+                fontFamily:
+                  '-apple-system, BlinkMacSystemFont, "Microsoft YaHei"',
+                fontWeight: '600',
+                marginTop: '77px',
+              }}
+            >
+              Discover the Wonders of Geology
+            </h1>
+
+            <h2
+              className='subtitleGeoclips'
+              style={{
+                color: '#666',
+                fontSize: '1.5rem',
+                marginTop: '1.5rem',
+                fontFamily:
+                  '-apple-system, BlinkMacSystemFont, "Microsoft YaHei"',
+                animation: 'fadeInUp 1s ease-in-out',
+              }}
+            >
+              Embark on an Enthralling Geological Exploration
+            </h2>
           </div>
 
           <div className='card-container '>

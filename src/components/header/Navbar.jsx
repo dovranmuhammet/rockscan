@@ -43,7 +43,7 @@ const Navbar = () => {
 
                 <li>
                   <a href='/geoclips' className='text-decoration-none'>
-                    <button className='geo_clips'>GeoClips</button>
+                    <button className='geo_clips'>GeoWonder</button>
                   </a>
                 </li>
 

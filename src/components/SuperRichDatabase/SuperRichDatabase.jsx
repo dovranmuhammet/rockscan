@@ -1,4 +1,5 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import Classes from './SuperRichDatabase.module.css'
 import Feature2 from '../../assets/images/feature2.webp'
 import geoinfo from '../GeoClips/geoinfo.json'
@@ -10,6 +11,12 @@ import { Button, CardActionArea, CardActions } from '@mui/material'
 import { Fade } from 'react-reveal'
 
 const SuperRichDatabase = () => {
+  const navigate = useNavigate()
+
+  const navigateToGeoClips = () => {
+    navigate('/geoclips')
+  }
+
   return (
     <div className={`${Classes.identifyRockWrapper} mt-4`}>
       <div className='container'>
@@ -77,7 +84,11 @@ const SuperRichDatabase = () => {
                     </CardContent>
                   </CardActionArea>
                   <CardActions>
-                    <Button size='small' color='primary'>
+                    <Button
+                      size='small'
+                      color='primary'
+                      onClick={navigateToGeoClips}
+                    >
                       Learn More
                     </Button>
                   </CardActions>

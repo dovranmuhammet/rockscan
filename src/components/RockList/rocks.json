@@ -2,7 +2,7 @@
   {
     "name": "Granite",
     "type": "Igneous",
-    "description": "A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.",
+    "description": "Granite is a coarse-grained igneous rock composed mainly of quartz, feldspar, and mica. It is typically light-colored, ranging from white to gray or pink, with specks of darker minerals scattered throughout. Granite is known for its durability and strength, making it a popular choice for construction and architectural purposes. It is commonly used as a building material for countertops, flooring, and monuments. With its attractive appearance and ability to withstand weathering and erosion, granite is also frequently used in decorative applications.",
     "wikiExtract": "Granite () is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, and plagioclase. It forms from magma with a high content of silica and alkali metal oxides that slowly cools and solidifies underground. It is common in the continental crust of Earth, where it is found in igneous intrusions. These range in size from dikes only a few centimeters across to batholiths exposed over hundreds of square kilometers.\nGranite is typical of a larger family of granitic rocks, or granitoids, that are composed mostly of coarse-grained quartz and feldspars in varying proportions.",
     "wikiDescription": "Common type of intrusive, felsic, igneous rock with granular structure",
     "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Fj%C3%A6regranitt3.JPG",
@@ -11,7 +11,7 @@
   {
     "name": "Basalt",
     "type": "Igneous",
-    "description": "A dark, fine-grained volcanic rock that sometimes displays a columnar structure, typically composed largely of plagioclase with pyroxene and olivine.",
+    "description": "Basalt is a fine-grained igneous rock that is commonly dark in color, ranging from black to gray. It is formed from the rapid cooling of lava on the Earth's surface. Basalt is known for its dense and durable nature, making it a common material for construction and paving. It often exhibits a columnar structure due to the contraction and cracking of the rock as it cools. Basalt can be found in volcanic regions around the world and is used in various applications such as road construction, building foundations, and as an aggregate in concrete.",
     "wikiExtract": "Basalt (UK: ; US: ) is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron (mafic lava) exposed at or very near the surface of a rocky planet or moon. More than 90% of all volcanic rock on Earth is basalt. Rapid-cooling, fine-grained basalt is chemically equivalent to slow-cooling, coarse-grained gabbro. The eruption of basalt lava is observed by geologists at about 20 volcanoes per year. Basalt is also an important rock type on other planetary bodies in the Solar System.",
     "wikiDescription": "Magnesium- and iron-rich extrusive igneous rock",
     "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg",
@@ -962,6 +962,22 @@
     "wikiExtract": "Skarns or tactites are hard, coarse-grained metamorphic rocks that form by a process called metasomatism. Skarns tend to be rich in calcium-magnesium-iron-manganese-aluminium silicate minerals, which are also referred to as calc-silicate minerals. These minerals form as a result of alteration which occurs when hydrothermal fluids interact with a protolith of either igneous or sedimentary origin. In many cases, skarns are associated with the intrusion of a granitic pluton found in and around faults or shear zones that commonly intrude into a carbonate layer composed of either dolomite or limestone. Skarns can form by regional, or contact metamorphism and therefore form in relatively high temperature environments.",
     "wikiDescription": "Hard, coarse-grained, hydrothermally altered metamorphic rocks",
     "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Skarn2.jpg",
+    "image": ""
+  },
+  {
+    "name": "Calcite",
+    "type": "Carbonate",
+    "description": "Calcite is a carbonate mineral that is commonly found in sedimentary rocks. It has a chemical formula of CaCO3, which means it is composed of calcium, carbon, and oxygen atoms.",
+    "wikiExtract": "Calcite is a common mineral that typically occurs in the form of transparent to translucent crystals. It has a vitreous luster and can display a wide range of colors, including colorless, white, yellow, orange, pink, green, and blue. Calcite is known for its characteristic rhombohedral cleavage, which means it breaks into rhombus-shaped fragments. It has a relatively low hardness of 3 on the Mohs scale, making it susceptible to scratching. Calcite is widely used in various industries, including construction, agriculture, and the production of lime and cement. It also has cultural and metaphysical significance, being associated with properties such as grounding, clarity, and amplifying energy.",
+    "wikiImage": "https://www.mindat.org/imagecache/6b/c3/06158290014946246527583.jpg",
+    "image": ""
+  },
+  {
+    "name": "Hematite",
+    "type": "Oxide group",
+    "description": "Hematite is an iron oxide mineral belonging to the oxide group. It is commonly found in a range of colors, including red, black, and metallic gray. Hematite has a distinctive reddish-brown streak and a hardness of 5.5-6.5 on the Mohs scale. It often occurs in various crystal habits, such as botryoidal (globular), tabular, or massive forms. Hematite is an important ore of iron and has industrial uses in the production of steel and pigments. It is also valued for its aesthetic appeal and is used as a gemstone in jewelry.",
+    "wikiExtract": "Calcite is a common mineral that typically occurs in the form of transparent to translucent crystals. It has a vitreous luster and can display a wide range of colors, including colorless, white, yellow, orange, pink, green, and blue. Calcite is known for its characteristic rhombohedral cleavage, which means it breaks into rhombus-shaped fragments. It has a relatively low hardness of 3 on the Mohs scale, making it susceptible to scratching. Calcite is widely used in various industries, including construction, agriculture, and the production of lime and cement. It also has cultural and metaphysical significance, being associated with properties such as grounding, clarity, and amplifying energy.",
+    "wikiImage": "https://cdn11.bigcommerce.com/s-shgxgky0/images/stencil/1280x1280/products/1668/7980/Hematite_polished_point_1-3__39180.1656456200.jpg?c=2",
     "image": ""
   }
 ]

@@ -163,7 +163,7 @@
   {
     "name": "Arkose",
     "description": "Arkose is a type of sedimentary rock that is primarily composed of sand-sized grains of quartz and feldspar, along with smaller amounts of other minerals. It typically has a coarse-grained texture and often exhibits a reddish or brownish color due to the presence of iron oxide minerals. Arkose forms in environments where there is a high supply of sediment, such as river channels or alluvial plains. It is commonly associated with the erosion of granitic or metamorphic rocks, with the weathering and transport of these materials leading to the deposition and eventual consolidation of the arkose sediment. Arkose is used in various applications, including as a building stone, aggregate in construction, and as a reservoir rock for groundwater.",
-    "wikiImage": "https://thumbs.dreamstime.com/b/arkose-rock-white-background-arkose-type-sandstone-contains-lots-feldspar-grains-180002017.jpg"
+    "wikiImage": "https://www.sciencesource.com/pix/182/1822770-new-haven-arkose.jpg"
   },
   {
     "name": "Greywacke",
@@ -178,7 +178,7 @@
   {
     "name": "Marble",
     "description": "Marble is a metamorphic rock that forms from the recrystallization of limestone or dolomite under high pressure and temperature conditions. It is known for its stunning beauty and elegant appearance, characterized by its smooth texture and wide range of colors and patterns. Marble is composed primarily of calcite or dolomite crystals, which give it a distinct veined or mottled appearance. It is a popular choice for sculptures, architectural elements, and decorative purposes due to its aesthetic appeal and durability. Marble has been used throughout history in various famous structures, art pieces, and monuments, showcasing its timeless elegance and cultural significance.",
-    "wikiImage": "https://c8.alamy.com/comp/KPA9H4/pebble-from-white-marble-natural-mineral-stone-KPA9H4.jpg"
+    "wikiImage": "https://media.istockphoto.com/id/530863591/photo/stone-gray-on-white.jpg?s=170667a&w=0&k=20&c=RlpJVTXTGMmULmPMjTuESCoapNI43U74osRpZF9YU3Q="
   },
   {
     "name": "Quartzite",
@@ -193,7 +193,7 @@
   {
     "name": "Gneiss",
     "description": "Gneiss is a metamorphic rock characterized by its banded or foliated appearance, resulting from the recrystallization of pre-existing rocks under high temperature and pressure. It typically exhibits alternating layers or bands of different minerals, giving it a distinct texture. Gneiss is composed of minerals such as quartz, feldspar, mica, and amphibole, and its color and composition can vary widely. It is known for its durability, strength, and aesthetic appeal, making it a popular choice for various applications, including building materials, countertops, and decorative stone. Gneiss is also used in the construction of monuments and sculptures due to its pleasing appearance and ability to take a high polish.",
-    "wikiImage": "https://media.istockphoto.com/id/490063595/photo/metamorphic-gneiss-rock-texture.jpg?s=612x612&w=0&k=20&c=4PYrO2H-5x4XwOWqrqyhUqTQrOpr7ewHxTSX9hOMva0="
+    "wikiImage": "https://media.istockphoto.com/id/152548053/photo/isolated-sample-of-gneiss.jpg?s=612x612&w=0&k=20&c=i1wdmmTp1Rgp0hknS4wSQyDgI18CWo4OTIl4t3CKFfE="
   },
   {
     "name": "Amphibolite",
@@ -202,12 +202,9 @@
   },
   {
     "name": "Phyllite",
-    "type": "Metamorphic",
     "description": "A type of foliated metamorphic rock created from slate that is further metamorphosed so that very fine grained white mica achieves a preferred orientation.",
-    "wikiExtract": "Phyllite ( FIL-yte) is a type of foliated metamorphic rock formed from slate that is further metamorphosed so that very fine grained white mica achieves a preferred orientation. It is primarily composed of quartz, sericite mica, and chlorite.Phyllite has fine-grained mica flakes, whereas slate has extremely fine mica flakes, and schist has large mica flakes, all mica flakes of which have achieved a preferred orientation. Among foliated metamorphic rocks, it represents a gradation in the degree of metamorphism between slate and schist.The minute crystals of graphite, sericite, or chlorite, or the translucent fine-grained white mica, impart a silky, sometimes golden sheen to the surfaces of cleavage, called \"phyllitic luster\".The word comes from the Greek phyllon, meaning \"leaf\".The protolith (or parent rock) for phyllite is shale or pelite; or slate, which in turn came from a shale protolith. Its constituent platy minerals are larger than those in slate but are not visible with the naked eye. Phyllites are said to have a texture called \"phyllitic sheen,\" and are usually classified as having formed through low-grade metamorphic conditions through regional metamorphism metamorphic facies.",
-    "wikiDescription": "Type of foliated metamorphic rock",
-    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Phyllite_Cenulation.jpg",
-    "image": ""
+
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Phyllite_Cenulation.jpg"
   },
   {
     "name": "Migmatite",

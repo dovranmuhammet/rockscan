@@ -21,38 +21,18 @@ const Rock = ({ rock, data, extractActive }) => {
   )}`
 
   return (
-    <div className='rock-container'>
-      <div className='rock-image-container'>
-        <img src={rock?.wikiImage} alt={rock.name} />
+    <div className='side-container'>
+      <div className='article-container'>
+        <article className='article-card'>
+          <figure className='article-image'>
+            <img src={rock?.wikiImage} alt={rock.name} />
+          </figure>
+          <div className='article-content'>
+            <h3 className='card-title'>{rock.name}</h3>
+            <p className='rock-description'>{rock.description}</p>
+          </div>
+        </article>
       </div>
-      <div className='rock-body'>
-        <h2>{rock.name}</h2>
-        <p>{rock.description}</p>
-        {/* <button className="wikipedia-btn">Read more from Wikipedia</button> */}
-
-        <div className='rock-wikipedia-info'>
-          <p>
-            {extractActive && rock.wikiExtract + '\n'}
-            <a
-              className='vk-btn'
-              href={wikipediaUrl}
-              target='_blank'
-              rel='noopener noreferrer'
-              onMouseEnter={handleMouseEnter}
-              onMouseLeave={handleMouseLeave}
-              style={{
-                color: '#fff',
-                backgroundColor: isHovered
-                  ? 'rgb(153, 122, 92)'
-                  : 'rgb(173, 142, 112)',
-              }}
-            >
-              More info
-            </a>
-          </p>
-        </div>
-      </div>
-      {/* Add more rock details here */}
     </div>
   )
 }

@@ -1,1 +1,72 @@
 /* Mobile Styles */
+.side-container {
+  margin: 2rem auto;
+  max-width: calc(100% -80);
+}
+
+.article-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(265px 1fr));
+  gap: 2rem;
+}
+
+.article-image {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.article-image wikiImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px 20px 0 0;
+}
+
+.article-card {
+  background: white;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.article-card:hover {
+  box-shadow: 0 4px 20px 0 rgba(34, 68, 123, 0.2);
+  cursor: pointer;
+}
+
+.article-content .card-category {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  color: #6b82a7;
+  display: block;
+  text-decoration: none;
+}
+
+.article-content .card-title {
+  margin: 1rem 0;
+  color: #22447b;
+}
+
+.article-content .-description {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #6b82a7;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .site-container {
+    max-width: 608px;
+  }
+  .article-card {
+    display: grid;
+    grid-template-rows: 220px 1fr;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .site-container {
+    max-width: 1156px;
+  }
+}

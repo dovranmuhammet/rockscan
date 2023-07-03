@@ -77,7 +77,6 @@ const Banner = () => {
                 </a>
               </div>
             </div>
-            s
             {/* <div className='card-container'>
               {rockDataJson.slice.map((rock) => (
                 <Rock key={rock.name} rock={rock} extractActive={false} />

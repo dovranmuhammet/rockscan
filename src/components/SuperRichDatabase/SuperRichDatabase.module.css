@@ -20,6 +20,11 @@
   /* Other styles if needed */
 }
 
+.learnButton:hover {
+  background-color: #345a8b !important;
+  color: #fff !important;
+}
+
 /* Title of GeoClips */
 .card-container {
   display: flex;

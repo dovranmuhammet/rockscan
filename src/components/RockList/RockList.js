@@ -90,7 +90,7 @@ const RockList = () => {
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
               target='_blank'
               style={{
-                backgroundColor: '#22447b',
+                backgroundColor: '#345a8b ',
                 color: '#fff',
                 borderRadius: '6px',
                 padding: '8px 16px',

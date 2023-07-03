@@ -100,8 +100,21 @@ const Banner = () => {
                         </Typography>
                       </CardContent>
                     </CardActionArea>
-                    <CardActions style={{ justifyContent: 'center' }}>
-                      <Button size='small' color='primary' href='/rocks'>
+                    <CardActions
+                      style={{
+                        justifyContent: 'center',
+                        '& button:hover': {
+                          backgroundColor: '#22447b',
+                          color: '#fff',
+                        },
+                      }}
+                    >
+                      <Button
+                        className={Classes.learnButton}
+                        size='small'
+                        color='primary'
+                        href='/rocks'
+                      >
                         Learn More
                       </Button>
                     </CardActions>

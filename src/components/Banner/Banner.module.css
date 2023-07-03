@@ -110,6 +110,11 @@
   animation: fadeIn 1.5s ease-in-out;
 }
 
+.learnButton:hover {
+  background-color: #345a8b !important;
+  color: #fff !important;
+}
+
 /* Styles for mobile devices with screen width up to 480px */
 @media only screen and (max-width: 480px) {
   /* Add your CSS styles here for mobile devices */

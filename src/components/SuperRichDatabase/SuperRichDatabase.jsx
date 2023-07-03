@@ -85,11 +85,21 @@ const SuperRichDatabase = () => {
                       </Typography>
                     </CardContent>
                   </CardActionArea>
-                  <CardActions style={{ justifyContent: 'center' }}>
+                  <CardActions
+                    style={{
+                      justifyContent: 'center',
+                      '& button:hover': {
+                        backgroundColor: '#22447b',
+                        color: '#fff',
+                      },
+                    }}
+                  >
                     <Button
                       size='small'
                       color='primary'
                       onClick={navigateToGeoClips}
+                      className={Classes.learnButton}
+                      style={{ color: '#22447b' }}
                     >
                       Learn More
                     </Button>

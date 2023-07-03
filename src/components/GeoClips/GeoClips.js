@@ -37,6 +37,7 @@ function GeoClips() {
               variant='h5'
               component='div'
               className='card-title'
+              style={{ color: '#345a8b' }}
             >
               {item.topic}
             </Typography>

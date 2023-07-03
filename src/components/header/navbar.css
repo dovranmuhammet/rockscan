@@ -36,7 +36,7 @@
 .geo_clips,
 .home,
 .home-faq {
-  background-color: rgb(153, 122, 92);
+  background-color: #22447b;
   color: #fff;
   font-weight: bold;
   font-size: 18px;
@@ -51,7 +51,7 @@
 .geo_clips:hover,
 .home:hover,
 .home-faq:hover {
-  background-color: rgb(139, 115, 85);
+  background-color: #345a8b;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
@@ -63,6 +63,10 @@
 
 .home-faq {
   padding: 12px 40px;
+}
+
+.rockscan {
+  color: rgb(34, 68, 123);
 }
 
 /* Maximum width of 768 pixels, which covers most tablet devices. */

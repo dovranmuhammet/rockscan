@@ -17,19 +17,21 @@
     "description": "The hardest mineral on the Mohs scale is diamond. Diamond is an allotrope of carbon and is renowned for its exceptional hardness. It scores a perfect 10 on the Mohs scale, making it the hardest naturally occurring substance known to man. Its hardness is a result of its atomic structure, which consists of a tightly bonded network of carbon atoms. Due to its hardness, diamond is widely used in various industries, including jewelry, cutting tools, and industrial applications where a durable and abrasive material is required. Diamonds are formed deep within the Earth's mantle under high pressure and temperature conditions over millions of years.",
     "img": "https://cdn.hswstatic.com/gif/Mohs-hardness-scale.jpg"
   },
+
   {
     "id": 4,
-    "topic": "What type of rock is formed from the cooling and solidification of lava or magma?",
-    "description": "The type of rock formed from the cooling and solidification of lava or magma is called igneous rock. Igneous rocks are formed through the process of solidification, where molten material, either lava erupted from a volcano or magma within the Earth's crust, cools and hardens. As the molten material cools, mineral crystals begin to form and interlock, creating a solid rock. The texture of igneous rocks can vary depending on the cooling rate. Rapid cooling results in fine-grained rocks, while slower cooling allows for the formation of larger mineral crystals, resulting in a coarse-grained texture. Examples of igneous rocks include basalt, granite, and pumice. Igneous rocks are significant in the Earth's geology as they provide insights into the history of volcanic activity and the composition of the Earth's interior.",
-    "img": "https://www.thoughtco.com/thmb/x3-kUASUiITfQzrkBTR38MHNB2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/about-igneous-rocks-1438950_final_CORRECTED2FINAL-f8d738e151b9437caa256d21155d091f.png"
+    "topic": "What is the term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure?",
+    "description": "The term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure is a mineral. Minerals are the building blocks of rocks and can be found in various forms and types throughout the Earth's crust. They are classified based on their chemical composition and physical properties. Minerals play a crucial role in geological processes, provide valuable resources, and have various industrial and scientific applications. Examples of minerals include quartz, feldspar, calcite, and diamond.",
+    "img": "https://images.slideplayer.com/39/10975156/slides/slide_2.jpg"
   },
 
   {
     "id": 5,
-    "topic": "What is the process of breaking down rocks into smaller particles called?",
-    "description": "The process of breaking down rocks into smaller particles is called weathering. Weathering is a fundamental geological process that occurs through various mechanisms, including physical, chemical, and biological processes. Physical weathering involves the physical disintegration of rocks into smaller fragments without changing their chemical composition. This can occur due to factors such as temperature fluctuations, freeze-thaw cycles, abrasion by wind and water, and the growth of plant roots. Chemical weathering, on the other hand, involves the chemical alteration of rocks through reactions with water, acids, and atmospheric gases. This process can dissolve minerals, alter their composition, and weaken the rock structure. Finally, biological weathering involves the actions of living organisms, such as plants and animals, which can contribute to rock breakdown through root growth, burrowing, and other activities. Together, these weathering processes play a crucial role in shaping the Earth's surface, eroding mountains, forming soils, and contributing to the cycling of minerals and nutrients.",
-    "img": "https://images.nationalgeographic.org/image/upload/v1638891619/EducationHub/photos/weathered-rock.jpg"
+    "topic": "What type of rock is formed from the cooling and solidification of lava or magma? ",
+    "description": "The type of rock formed from the cooling and solidification of lava or magma is called igneous rock. Igneous rocks are formed through the process of solidification, where molten material, either lava erupted from a volcano or magma within the Earth's crust, cools and hardens. As the molten material cools, mineral crystals begin to form and interlock, creating a solid rock. The texture of igneous rocks can vary depending on the cooling rate. Rapid cooling results in fine-grained rocks, while slower cooling allows for the formation of larger mineral crystals, resulting in a coarse-grained texture. Examples of igneous rocks include basalt, granite, and pumice. Igneous rocks are significant in the Earth's geology as they provide insights into the history of volcanic activity and the composition of the Earth's interior.",
+    "img": "https://www.thoughtco.com/thmb/x3-kUASUiITfQzrkBTR38MHNB2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/about-igneous-rocks-1438950_final_CORRECTED2FINAL-f8d738e151b9437caa256d21155d091f.png"
   },
+
   {
     "id": 6,
     "topic": "Which type of rock is formed from the accumulation and compression of plant and animal remains?",
@@ -39,9 +41,9 @@
 
   {
     "id": 7,
-    "topic": " What is the process by which sedimentary rocks are formed through the accumulation of sediments?",
-    "description": "Sedimentary rocks form through the process of sedimentation. Sediments, like sand and clay, accumulate over time and undergo compaction and cementation, turning them into solid rocks. This process preserves Earth's history and often contains fossils and clues about past environments.",
-    "img": "https://cdn.britannica.com/05/2705-004-314DA145/composition-sedimentary-rocks.jpg"
+    "topic": "What is the process of breaking down rocks into smaller particles called?",
+    "description": "The process of breaking down rocks into smaller particles is called weathering. Weathering is a fundamental geological process that occurs through various mechanisms, including physical, chemical, and biological processes. Physical weathering involves the physical disintegration of rocks into smaller fragments without changing their chemical composition. This can occur due to factors such as temperature fluctuations, freeze-thaw cycles, abrasion by wind and water, and the growth of plant roots. Chemical weathering, on the other hand, involves the chemical alteration of rocks through reactions with water, acids, and atmospheric gases. This process can dissolve minerals, alter their composition, and weaken the rock structure. Finally, biological weathering involves the actions of living organisms, such as plants and animals, which can contribute to rock breakdown through root growth, burrowing, and other activities. Together, these weathering processes play a crucial role in shaping the Earth's surface, eroding mountains, forming soils, and contributing to the cycling of minerals and nutrients.",
+    "img": "https://images.nationalgeographic.org/image/upload/v1638891619/EducationHub/photos/weathered-rock.jpg"
   },
 
   {
@@ -57,12 +59,14 @@
     "description": "Plate tectonics is the theory explaining the movement of Earth's lithospheric plates. It describes how these plates, which make up the Earth's outer layer, interact and move due to underlying convective currents in the mantle. This movement leads to geological phenomena like earthquakes, volcanoes, and the formation of mountains. Plate tectonics provides a framework for understanding Earth's dynamic nature and has revolutionized our understanding of its history and geological processes.",
     "img": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1652341266/EducationHub/photos/san-andreas-fault.jpg"
   },
+
   {
     "id": 10,
     "topic": "What type of rock is formed from the transformation of pre-existing rock types through heat and pressure?",
     "description": "Metamorphic rock is a type of rock that forms from the transformation of pre-existing rock types, such as sedimentary or igneous rocks, through the application of heat and pressure. This process, known as metamorphism, causes changes in the mineral composition, texture, and structure of the original rock, resulting in the formation of a new rock with distinct characteristics. Metamorphic rocks can exhibit a wide range of colors, textures, and patterns, reflecting the intense forces and conditions they have undergone deep within the Earth's crust. Some common examples of metamorphic rocks include marble, slate, and gneiss.",
     "img": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892111/EducationHub/photos/metamorphic-rock-isua.jpg"
   },
+
   {
     "id": 11,
     "topic": "What is the layer of the Earth's atmosphere where most weather phenomena occur?",
@@ -165,12 +169,14 @@
     "description": "Tectonic uplift is a geological process characterized by the upward movement of the Earth's crust, resulting in the elevation of land surfaces to higher levels. It occurs due to various tectonic forces, including the collision of tectonic plates, the compression of rock layers, and the activity of volcanic systems. As tectonic plates interact and undergo complex movements, areas of the Earth's crust can be subjected to intense pressure and deformation, leading to uplift. Over long periods of time, this uplift can shape the landscape, giving rise to majestic mountain ranges, expansive plateaus, and elevated terrains. Tectonic uplift plays a significant role in shaping the Earth's topography and has profound effects on regional geology, climate patterns, and the distribution of ecosystems.",
     "img": "https://assets.coursehero.com/study-guides/lumen/images/astronomy/earths-crust/OSC_Astro_08_02_RiftZone4.jpg"
   },
+
   {
     "id": 28,
-    "topic": "What is the term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure?",
-    "description": "The term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure is a mineral. Minerals are the building blocks of rocks and can be found in various forms and types throughout the Earth's crust. They are classified based on their chemical composition and physical properties. Minerals play a crucial role in geological processes, provide valuable resources, and have various industrial and scientific applications. Examples of minerals include quartz, feldspar, calcite, and diamond.",
-    "img": "https://images.slideplayer.com/39/10975156/slides/slide_2.jpg"
+    "topic": " What is the process by which sedimentary rocks are formed through the accumulation of sediments?",
+    "description": "Sedimentary rocks form through the process of sedimentation. Sediments, like sand and clay, accumulate over time and undergo compaction and cementation, turning them into solid rocks. This process preserves Earth's history and often contains fossils and clues about past environments.",
+    "img": "https://cdn.britannica.com/05/2705-004-314DA145/composition-sedimentary-rocks.jpg"
   },
+
   {
     "id": 29,
     "topic": " What is the term for the wearing away of rocks and soil by the action of water, wind, or ice?",

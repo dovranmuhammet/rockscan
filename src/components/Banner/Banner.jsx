@@ -7,15 +7,6 @@ import Typography from '@mui/material/Typography'
 import { Button, CardActionArea, CardActions } from '@mui/material'
 import rockDataJson from '../RockList/rocks.json'
 
-var settings = {
-  dots: true,
-  infinite: true,
-  speed: 500,
-  slidesToShow: 2,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 1000,
-}
 const Banner = () => {
   const [showTitle, setShowTitle] = useState(false)
 
@@ -82,7 +73,7 @@ const Banner = () => {
                 <Rock key={rock.name} rock={rock} extractActive={false} />
               ))}
             </div> */}
-            <div className='card-container '>
+            <div className='card-container'>
               {rockDataJson.slice(0, 6).map((rock) => (
                 <div className='card'>
                   <Card sx={{ maxWidth: 500 }}>
@@ -92,6 +83,7 @@ const Banner = () => {
                         height='240'
                         image={rock.wikiImage}
                         alt={rock.name}
+                        extractActive={false}
                       />
                       <CardContent>
                         <Typography

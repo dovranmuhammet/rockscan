@@ -1,12 +1,10 @@
 import React, { useState, useEffect } from 'react'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
-import CardMedia from '@mui/material/CardMedia'
 import Typography from '@mui/material/Typography'
-import { Button, CardActionArea, CardActions } from '@mui/material'
+import { Button, CardActions } from '@mui/material'
 import rockDataJson from './rocks.json'
 import axios from 'axios'
-import Rock from '../Rock/Rock'
 
 const RockList = () => {
   const [data, setData] = useState(null)
@@ -86,13 +84,23 @@ const RockList = () => {
 
           {/* Share-Button */}
           <CardActions className='card-actions'>
-            <Button size='small'>Share</Button>
-
             {/* Lear-More */}
             <Button
               size='small'
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
               target='_blank'
+              style={{
+                backgroundColor: '#22447b',
+                color: '#fff',
+                borderRadius: '6px',
+                padding: '8px 16px',
+                fontWeight: 'bold',
+                boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+                transition:
+                  'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+                cursor: 'pointer',
+                textTransform: 'uppercase',
+              }}
             >
               Learn More
             </Button>

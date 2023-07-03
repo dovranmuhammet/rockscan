@@ -143,7 +143,6 @@ const RockList = () => {
               <Button
                 size='small'
                 onClick={() => getRockWikipediaData(rock.name)}
-                href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
                 target='_blank'
                 style={{
                   backgroundColor: '#345a8b ',

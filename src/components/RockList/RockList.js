@@ -44,70 +44,93 @@ const RockList = () => {
   }
 
   return (
-    <div className='card-container'>
-      {/* {Data fetching} */}
+    <div>
+      <div
+        className='input'
+        style={{ display: 'flex', justifyContent: 'center' }}
+      >
+        <input
+          type='search'
+          placeholder='Search rocks'
+          value={searchTerm}
+          onChange={handleSearchChange}
+          style={{
+            padding: '12px 18px',
+            borderRadius: '20px',
+            border: '1.5px solid #ddd',
+            boxShadow: '0px 2px 6px rgba(0, 0, 0, 0.1)',
+            outline: 'none',
+            fontSize: '16px',
+            width: '800px',
+            margin: '10px',
+          }}
+        />
+      </div>
+      <div className='card-container'>
+        {/* {Data fetching} */}
 
-      {filteredRocks.map((rock) => (
-        <Card key={rock.id} className='card'>
-          <CardContent>
-            <div className='image-container'>
-              <img src={rock.wikiImage} alt='Earth' className='card-image' />
-            </div>
+        {filteredRocks.map((rock) => (
+          <Card key={rock.id} className='card'>
+            <CardContent>
+              <div className='image-container'>
+                <img src={rock.wikiImage} alt='Earth' className='card-image' />
+              </div>
 
-            {/* Topic-Title */}
+              {/* Topic-Title */}
 
-            <Typography
-              gutterBottom
-              variant='h5'
-              component='div'
-              className='card-title'
-              style={{
-                textAlign: 'center',
-                color: '#22447b',
-                fontWeight: '550',
-                marginTop: '25px',
-              }}
-            >
-              {rock.name}
-            </Typography>
+              <Typography
+                gutterBottom
+                variant='h5'
+                component='div'
+                className='card-title'
+                style={{
+                  textAlign: 'center',
+                  color: '#22447b',
+                  fontWeight: '550',
+                  marginTop: '25px',
+                }}
+              >
+                {rock.name}
+              </Typography>
 
-            {/* Description of the topic */}
+              {/* Description of the topic */}
 
-            <Typography
-              variant='body2'
-              color='text.secondary'
-              className='card-description'
-            >
-              {rock.description}
-            </Typography>
-          </CardContent>
+              <Typography
+                variant='body2'
+                color='text.secondary'
+                className='card-description'
+              >
+                {rock.description}
+              </Typography>
+            </CardContent>
 
-          {/* Share-Button */}
-          <CardActions className='card-actions'>
-            {/* Lear-More */}
-            <Button
-              size='small'
-              onClick={() => getRockWikipediaData(rock.name)}
-              href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
-              target='_blank'
-              style={{
-                backgroundColor: '#345a8b ',
-                color: '#fff',
-                borderRadius: '6px',
-                padding: '8px 16px',
-                fontWeight: 'bold',
-                boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
-                transition:
-                  'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
-                cursor: 'pointer',
-                textTransform: 'uppercase',
-              }}
-            >
-              Learn More
-            </Button>
-          </CardActions>
-        </Card>
-      ))}
+            {/* Share-Button */}
+            <CardActions className='card-actions'>
+              {/* Lear-More */}
+              <Button
+                size='small'
+                onClick={() => getRockWikipediaData(rock.name)}
+                href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
+                target='_blank'
+                style={{
+                  backgroundColor: '#345a8b ',
+                  color: '#fff',
+                  borderRadius: '6px',
+                  padding: '8px 16px',
+                  fontWeight: 'bold',
+                  boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+                  transition:
+                    'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+                  cursor: 'pointer',
+                  textTransform: 'uppercase',
+                }}
+              >
+                Learn More
+              </Button>
+            </CardActions>
+          </Card>
+        ))}
+      </div>
     </div>
   )
 }

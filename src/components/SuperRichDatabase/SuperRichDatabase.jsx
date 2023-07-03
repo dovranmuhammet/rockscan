@@ -36,7 +36,7 @@ const SuperRichDatabase = () => {
             <h1
               className='titleGeoclips'
               style={{
-                color: '#000',
+                color: '#22447b',
                 fontSize: '2.5rem',
                 lineHeight: '1.2',
                 fontFamily:
@@ -51,7 +51,7 @@ const SuperRichDatabase = () => {
             <h2
               className='subtitleGeoclips'
               style={{
-                color: '#666',
+                color: '#333',
                 fontSize: '1.5rem',
                 marginTop: '1.5rem',
                 fontFamily:
@@ -75,12 +75,17 @@ const SuperRichDatabase = () => {
                       alt={item.topic}
                     />
                     <CardContent>
-                      <Typography gutterBottom variant='h5' component='div'>
+                      <Typography
+                        gutterBottom
+                        variant='h5'
+                        component='div'
+                        style={{ color: '#22447b' }}
+                      >
                         {item.topic}
                       </Typography>
                     </CardContent>
                   </CardActionArea>
-                  <CardActions>
+                  <CardActions style={{ justifyContent: 'center' }}>
                     <Button
                       size='small'
                       color='primary'

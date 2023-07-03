@@ -13,10 +13,6 @@ const Navbar = () => {
     }
   }
 
-  useEffect(() => {
-    changeBackground()
-    window.addEventListener('scroll', changeBackground)
-  })
   return (
     <header className={`header-wrapper fixed-top ${nav ? 'nav-gray' : ''}`}>
       <nav className='container'>

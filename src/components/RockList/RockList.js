@@ -87,6 +87,7 @@ const RockList = () => {
             {/* Lear-More */}
             <Button
               size='small'
+              onClick={() => getRockWikipediaData(rock.name)}
               href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
               target='_blank'
               style={{

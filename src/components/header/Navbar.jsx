@@ -5,13 +5,21 @@ import './navbar.css'
 const Navbar = () => {
   const [nav, setNav] = useState(false)
   const changeBackground = () => {
-    //console.log(window.scrollY);
     if (window.scrollY >= 66) {
       setNav(true)
     } else {
       setNav(false)
     }
   }
+
+  useEffect(() => {
+    changeBackground()
+    window.addEventListener('scroll', changeBackground)
+
+    return () => {
+      window.removeEventListener('scroll', changeBackground)
+    }
+  }, [])
 
   return (
     <header className={`header-wrapper fixed-top ${nav ? 'nav-gray' : ''}`}>
@@ -25,7 +33,16 @@ const Navbar = () => {
                 </a>
                 <p className='rockscan'>RockScan</p>
               </div>
-              <ul className='d-flex align-items-center list-unstyled gap-5 nav-links'>
+              <a href='#' className='togglebutton'>
+                <span className='bar'></span>
+                <span className='bar'></span>
+                <span className='bar'></span>
+              </a>
+              <ul
+                className={`d-flex align-items-center list-unstyled gap-5 nav-links ${
+                  nav ? 'center-links' : ''
+                }`}
+              >
                 <li>
                   <a href='/' className='text-decoration-none'>
                     <button className='home'>Home</button>
@@ -36,13 +53,11 @@ const Navbar = () => {
                     <button className='home'>Rocks</button>
                   </a>
                 </li>
-
                 <li>
                   <a href='/geoclips' className='text-decoration-none'>
                     <button className='geo_clips'>GeoWonder</button>
                   </a>
                 </li>
-
                 <li>
                   <a href='#FAQ' className='text-decoration-none'>
                     <button className='home-faq'>FAQ</button>

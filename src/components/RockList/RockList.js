@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import Typography from '@mui/material/Typography'
@@ -13,6 +14,13 @@ const RockList = () => {
 
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value)
+  }
+
+  const handleScrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    })
   }
 
   const filteredRocks = rockData.filter((rock) =>
@@ -65,6 +73,31 @@ const RockList = () => {
             margin: '10px',
           }}
         />
+        <button
+          className='up-button'
+          onClick={handleScrollToTop}
+          style={{
+            position: 'fixed',
+            bottom: '20px',
+            right: '20px',
+            backgroundColor: '#345a8b',
+            color: '#fff',
+            borderRadius: '50%',
+            width: '40px',
+            height: '40px',
+            border: 'none',
+            boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+            transition:
+              'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+            cursor: 'pointer',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            zIndex: '1',
+          }}
+        >
+          <ArrowUpwardIcon style={{ fontSize: '24px' }} />
+        </button>
       </div>
       <div className='card-container'>
         {/* {Data fetching} */}

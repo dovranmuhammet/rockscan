@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import Heart from 'react-animated-heart'
 import Card from '@mui/material/Card'
 import CardActions from '@mui/material/CardActions'
@@ -19,8 +20,39 @@ function GeoClips() {
     )
   }
 
+  const handleScrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    })
+  }
+
   return (
     <div className='card-container'>
+      <button
+        className='up-button'
+        onClick={handleScrollToTop}
+        style={{
+          position: 'fixed',
+          bottom: '20px',
+          right: '20px',
+          backgroundColor: '#345a8b',
+          color: '#fff',
+          borderRadius: '50%',
+          width: '40px',
+          height: '40px',
+          border: 'none',
+          boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+          transition: 'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+          cursor: 'pointer',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          zIndex: '1',
+        }}
+      >
+        <ArrowUpwardIcon style={{ fontSize: '24px' }} />
+      </button>
       {/* {Data fetching} */}
 
       {geoInfo.map((item) => (

@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from 'react'
 import Classes from './Banner.module.css'
-import Slider from 'react-slick'
-import Rock from '../Rock/Rock'
+import Card from '@mui/material/Card'
+import CardContent from '@mui/material/CardContent'
+import CardMedia from '@mui/material/CardMedia'
+import Typography from '@mui/material/Typography'
+import { Button, CardActionArea, CardActions } from '@mui/material'
 import rockDataJson from '../RockList/rocks.json'
 
 var settings = {
@@ -74,15 +77,46 @@ const Banner = () => {
                 </a>
               </div>
             </div>
-            <div
-              className={`${Classes.downloadSection} d-flex align-items-center gap-4`}
-            ></div>
-            <div className='box_card'>
-              <Slider {...settings}>
-                {rockDataJson.map((rock) => (
-                  <Rock key={rock.name} rock={rock} extractActive={false} />
-                ))}
-              </Slider>
+            s
+            {/* <div className='card-container'>
+              {rockDataJson.slice.map((rock) => (
+                <Rock key={rock.name} rock={rock} extractActive={false} />
+              ))}
+            </div> */}
+            <div className='card-container '>
+              {rockDataJson.slice(0, 6).map((rock) => (
+                <div className='card'>
+                  <Card sx={{ maxWidth: 500 }}>
+                    <CardActionArea>
+                      <CardMedia
+                        component='img'
+                        height='240'
+                        image={rock.wikiImage}
+                        alt={rock.name}
+                      />
+                      <CardContent>
+                        <Typography
+                          gutterBottom
+                          variant='h5'
+                          component='div'
+                          style={{
+                            textAlign: 'center',
+                            color: '#22447b',
+                            fontWeight: '550',
+                          }}
+                        >
+                          {rock.name}
+                        </Typography>
+                      </CardContent>
+                    </CardActionArea>
+                    <CardActions style={{ justifyContent: 'center' }}>
+                      <Button size='small' color='primary' href='/rocks'>
+                        Learn More
+                      </Button>
+                    </CardActions>
+                  </Card>
+                </div>
+              ))}
             </div>
           </div>
         </div>

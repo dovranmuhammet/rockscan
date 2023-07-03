@@ -1,4 +1,9 @@
 import React, { useState, useEffect } from 'react'
+import Card from '@mui/material/Card'
+import CardContent from '@mui/material/CardContent'
+import CardMedia from '@mui/material/CardMedia'
+import Typography from '@mui/material/Typography'
+import { Button, CardActionArea, CardActions } from '@mui/material'
 import rockDataJson from './rocks.json'
 import axios from 'axios'
 import Rock from '../Rock/Rock'
@@ -41,26 +46,58 @@ const RockList = () => {
   }
 
   return (
-    <div className='wiki-container'>
-      <div className='searchbar-container'>
-        <input
-          type='text'
-          placeholder='Search for a rock...'
-          value={searchTerm}
-          onChange={handleSearchChange}
-          style={{ width: '100%', padding: '10px', marginBottom: '20px' }}
-          className='search-bar'
-        />
-        <button
-          className='search-wikipedia-btn'
-          onClick={() => getRockWikipediaData(searchTerm)}
-        >
-          Search rocks
-        </button>
-      </div>
-      {/* <p>{filteredRocks.length} Rocks</p> */}
+    <div className='card-container'>
+      {/* {Data fetching} */}
+
       {filteredRocks.map((rock) => (
-        <Rock key={rock.id} rock={rock} />
+        <Card key={rock.id} className='card'>
+          <CardContent>
+            <div className='image-container'>
+              <img src={rock.wikiImage} alt='Earth' className='card-image' />
+            </div>
+
+            {/* Topic-Title */}
+
+            <Typography
+              gutterBottom
+              variant='h5'
+              component='div'
+              className='card-title'
+              style={{
+                textAlign: 'center',
+                color: '#22447b',
+                fontWeight: '550',
+                marginTop: '25px',
+              }}
+            >
+              {rock.name}
+            </Typography>
+
+            {/* Description of the topic */}
+
+            <Typography
+              variant='body2'
+              color='text.secondary'
+              className='card-description'
+            >
+              {rock.description}
+            </Typography>
+          </CardContent>
+
+          {/* Share-Button */}
+          <CardActions className='card-actions'>
+            <Button size='small'>Share</Button>
+
+            {/* Lear-More */}
+            <Button
+              size='small'
+              href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
+              target='_blank'
+            >
+              Learn More
+            </Button>
+          </CardActions>
+        </Card>
       ))}
     </div>
   )

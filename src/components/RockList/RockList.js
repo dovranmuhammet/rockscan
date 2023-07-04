@@ -135,6 +135,15 @@ const RockList = () => {
               >
                 {rock.description}
               </Typography>
+
+              {/* Wiki Extract */}
+              <Typography
+                variant='body2'
+                color='text.secondary'
+                className='card-extract'
+              >
+                {rock.wikiExtract}
+              </Typography>
             </CardContent>
 
             {/* Share-Button */}

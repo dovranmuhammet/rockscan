@@ -8,7 +8,6 @@ import rockDataJson from './rocks.json'
 import axios from 'axios'
 
 const RockList = () => {
-  const [data, setData] = useState(null)
   const [rockData, setRockData] = useState(rockDataJson)
   const [searchTerm, setSearchTerm] = useState('')
 
@@ -39,16 +38,9 @@ const RockList = () => {
     let pages = data.query.pages
     let page = pages[Object.keys(pages)[0]]
     // console.log(data.query.pages[0]);
-    const wikiRock = data.query.pages[0]
-    const newRockObj = {
-      name: name,
-      description: wikiRock.description,
-      wikiExtract: wikiRock.extract,
-      wikiImage: wikiRock.original?.source,
-    }
-    console.log(newRockObj)
-    setRockData([newRockObj])
-    return wikiRock
+
+    const wikiUrl = `https://en.wikipedia.org/?curid=${page.pageid}`
+    window.open(wikiUrl, '_blank')
   }
 
   return (
@@ -135,15 +127,6 @@ const RockList = () => {
               >
                 {rock.description}
               </Typography>
-
-              {/* Wiki Extract */}
-              <Typography
-                variant='body2'
-                color='text.secondary'
-                className='card-extract'
-              >
-                {rock.wikiExtract}
-              </Typography>
             </CardContent>
 
             {/* Share-Button */}
@@ -152,7 +135,6 @@ const RockList = () => {
               <Button
                 size='small'
                 onClick={() => getRockWikipediaData(rock.name)}
-                target='_blank'
                 style={{
                   backgroundColor: '#345a8b ',
                   color: '#fff',

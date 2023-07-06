@@ -7,10 +7,19 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
+import {
+  WhatsappShareButton,
+  FacebookShareButton,
+  TwitterShareButton,
+  EmailShareButton,
+} from 'react-share'
+import { FaWhatsapp, FaFacebook, FaTwitter, FaEnvelope } from 'react-icons/fa'
+import { WhatsappIcon, FacebookIcon, TwitterIcon, EmailIcon } from 'react-share'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
   const [isClick, setClick] = useState(false)
+  const [sharePopup, setSharePopup] = useState(null)
 
   const handleHeartClick = (itemId) => {
     setGeoInfo((prevGeoInfo) =>
@@ -25,6 +34,15 @@ function GeoClips() {
       top: 0,
       behavior: 'smooth',
     })
+  }
+
+  const handleShareClick = (event, itemId) => {
+    event.stopPropagation()
+    setSharePopup((prevPopup) => (prevPopup === itemId ? null : itemId))
+  }
+
+  const handleClosePopup = () => {
+    setSharePopup(null)
   }
 
   return (
@@ -53,16 +71,17 @@ function GeoClips() {
       >
         <ArrowUpwardIcon style={{ fontSize: '24px' }} />
       </button>
-      {/* {Data fetching} */}
 
       {geoInfo.map((item) => (
-        <Card key={item.id} className='card'>
+        <Card
+          key={item.id}
+          className='card'
+          data-description={item.description}
+        >
           <CardContent>
             <div className='image-container'>
               <img src={item.img} alt='Earth' className='card-image' />
             </div>
-
-            {/* Topic-Title */}
 
             <Typography
               gutterBottom
@@ -74,8 +93,6 @@ function GeoClips() {
               {item.topic}
             </Typography>
 
-            {/* Description of the topic */}
-
             <Typography
               variant='body2'
               color='text.secondary'
@@ -84,33 +101,79 @@ function GeoClips() {
               {item.description}
             </Typography>
           </CardContent>
-
-          {/* Share-Button */}
           <CardActions className='card-actions'>
             <Button
               className={`like-button ${item.isMarked ? 'liked' : ''}`}
               size='small'
+              onClick={(event) => handleShareClick(event, item.id)}
             >
               Share
             </Button>
 
-            {/* Heart-Animated-Button */}
             <div className='App'>
               <Heart
                 isClick={item.isClick}
                 onClick={() => handleHeartClick(item.id)}
               />
             </div>
-
-            {/* Lear-More */}
-            <Button
-              size='small'
-              href='https://education.nationalgeographic.org/resource/resource-library-age-earth/'
-              target='_blank'
-            >
-              Learn More
-            </Button>
           </CardActions>
+
+          {sharePopup === item.id && (
+            <div className='share-popup'>
+              <div className='share-popup-header'>Share via</div>
+              <div className='share-popup-icons'>
+                <a
+                  href={`whatsapp://send?text=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                  )}`}
+                  className='share-button'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                >
+                  <FaWhatsapp size={32} />
+                </a>
+                <a
+                  href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                    `${item.link}`
+                  )}&quote=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}`
+                  )}`}
+                  className='share-button'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                >
+                  <FaFacebook size={32} />
+                </a>
+                <a
+                  href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(
+                    `${item.link}`
+                  )}&text=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}`
+                  )}`}
+                  className='share-button'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                >
+                  <FaTwitter size={32} />
+                </a>
+                <a
+                  href={`mailto:?subject=${encodeURIComponent(
+                    item.topic
+                  )}&body=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                  )}`}
+                  className='share-button'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                >
+                  <FaEnvelope size={32} />
+                </a>
+              </div>
+              <Button className='close-button' onClick={handleClosePopup}>
+                Close
+              </Button>
+            </div>
+          )}
         </Card>
       ))}
     </div>

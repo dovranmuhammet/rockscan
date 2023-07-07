@@ -106,6 +106,18 @@ function GeoClips() {
               className={`like-button ${item.isMarked ? 'liked' : ''}`}
               size='small'
               onClick={(event) => handleShareClick(event, item.id)}
+              style={{
+                backgroundColor: '#345a8b ',
+                color: '#fff',
+                borderRadius: '6px',
+                padding: '8px 16px',
+                fontWeight: 'bold',
+                boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+                transition:
+                  'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+                cursor: 'pointer',
+                textTransform: 'uppercase',
+              }}
             >
               Share
             </Button>

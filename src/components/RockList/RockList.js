@@ -101,8 +101,40 @@ const RockList = () => {
           placeholder='Search rocks'
           value={searchTerm}
           onChange={handleSearchChange}
+          style={{
+            padding: '12px 18px',
+            borderRadius: '20px',
+            border: '1.5px solid #ddd',
+            boxShadow: '0px 2px 6px rgba(0, 0, 0, 0.1)',
+            outline: 'none',
+            fontSize: '16px',
+            width: '800px',
+            margin: '10px',
+          }}
         />
-        <button className='up-button' onClick={handleScrollToTop}>
+        <button
+          className='up-button'
+          onClick={handleScrollToTop}
+          style={{
+            position: 'fixed',
+            bottom: '20px',
+            right: '20px',
+            backgroundColor: '#345a8b',
+            color: '#fff',
+            borderRadius: '50%',
+            width: '40px',
+            height: '40px',
+            border: 'none',
+            boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+            transition:
+              'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+            cursor: 'pointer',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            zIndex: '1',
+          }}
+        >
           <ArrowUpwardIcon style={{ fontSize: '24px' }} />
         </button>
       </div>

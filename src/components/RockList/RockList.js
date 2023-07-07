@@ -45,7 +45,12 @@ const RockList = () => {
     )
     const pageId = Object.keys(data.data.query.pages)[0]
     const wikiUrl = `https://en.wikipedia.org/?curid=${pageId}`
-    window.open(wikiUrl, '_blank')
+
+    if (window.innerWidth <= 768) {
+      window.location.href = wikiUrl
+    } else {
+      window.open(wikiUrl, '_blank')
+    }
   }
 
   const shareWithWhatsApp = (rock) => {

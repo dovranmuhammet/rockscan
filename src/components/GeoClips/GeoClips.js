@@ -123,6 +123,19 @@ function GeoClips() {
               <div className='share-popup-header'>Share via</div>
               <div className='share-popup-icons'>
                 <a
+                  href={`mailto:?subject=${encodeURIComponent(
+                    item.topic
+                  )}&body=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                  )}`}
+                  className='share-button'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                >
+                  <FaEnvelope size={32} />
+                </a>
+
+                <a
                   href={`whatsapp://send?text=${encodeURIComponent(
                     `${item.topic}\n\n${item.description}\n\n${item.link}`
                   )}`}
@@ -132,18 +145,7 @@ function GeoClips() {
                 >
                   <FaWhatsapp size={32} />
                 </a>
-                <a
-                  href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-                    `${item.link}`
-                  )}&quote=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}`
-                  )}`}
-                  className='share-button'
-                  target='_blank'
-                  rel='noopener noreferrer'
-                >
-                  <FaFacebook size={32} />
-                </a>
+
                 <a
                   href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(
                     `${item.link}`
@@ -156,17 +158,18 @@ function GeoClips() {
                 >
                   <FaTwitter size={32} />
                 </a>
+
                 <a
-                  href={`mailto:?subject=${encodeURIComponent(
-                    item.topic
-                  )}&body=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                  href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                    `${item.link}`
+                  )}&quote=${encodeURIComponent(
+                    `${item.topic}\n\n${item.description}`
                   )}`}
                   className='share-button'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  <FaEnvelope size={32} />
+                  <FaFacebook size={32} />
                 </a>
               </div>
               <Button className='close-button' onClick={handleClosePopup}>

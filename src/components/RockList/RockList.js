@@ -53,6 +53,15 @@ const RockList = () => {
     }
   }
 
+  const shareWithEmail = (rock) => {
+    const subject = 'Rock Data'
+    const body = `Check out this rock: ${rock.name}\n\n${rock.description}`
+    const encodedSubject = encodeURIComponent(subject)
+    const encodedBody = encodeURIComponent(body)
+    const emailUrl = `mailto:?subject=${encodedSubject}&body=${encodedBody}`
+    window.open(emailUrl)
+  }
+
   const shareWithWhatsApp = (rock) => {
     const message = `Check out this rock: ${rock.name}\n\n${rock.description}`
     const encodedMessage = encodeURIComponent(message)
@@ -79,15 +88,6 @@ const RockList = () => {
     const encodedMessage = encodeURIComponent(message)
     const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedMessage}`
     window.open(facebookUrl, '_blank')
-  }
-
-  const shareWithEmail = (rock) => {
-    const subject = 'Rock Data'
-    const body = `Check out this rock: ${rock.name}\n\n${rock.description}`
-    const encodedSubject = encodeURIComponent(subject)
-    const encodedBody = encodeURIComponent(body)
-    const emailUrl = `mailto:?subject=${encodedSubject}&body=${encodedBody}`
-    window.open(emailUrl)
   }
 
   return (
@@ -180,6 +180,10 @@ const RockList = () => {
                 open={Boolean(shareMenuAnchor)}
                 onClose={handleShareMenuClose}
               >
+                <MenuItem onClick={() => shareWithEmail(shareMenuRock)}>
+                  Share via Email
+                </MenuItem>
+
                 <MenuItem onClick={() => shareWithWhatsApp(shareMenuRock)}>
                   Share on WhatsApp
                 </MenuItem>
@@ -191,9 +195,6 @@ const RockList = () => {
                 </MenuItem>
                 <MenuItem onClick={() => shareWithFacebook(shareMenuRock)}>
                   Share on Facebook
-                </MenuItem>
-                <MenuItem onClick={() => shareWithEmail(shareMenuRock)}>
-                  Share via Email
                 </MenuItem>
               </Menu>
               <Button

@@ -129,7 +129,7 @@ function GeoClips() {
                   href={`mailto:?subject=${encodeURIComponent(
                     item.topic
                   )}&body=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                    `${item.topic}\n\n${item.description}\n\n`
                   )}`}
                   className='share-button'
                   target='_blank'

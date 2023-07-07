@@ -150,6 +150,11 @@ const RockList = () => {
                 variant='h5'
                 component='div'
                 className='card-title'
+                style={{
+                  color: 'rgb(34, 68, 123)',
+                  fontWeight: '550',
+                  marginTop: '15px',
+                }}
               >
                 {rock.name}
               </Typography>

@@ -319,6 +319,22 @@ article-image img {
   margin: 0 8px;
 }
 
+/* Share-Popup-Icons */
+
+.share-popup-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.share-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------------------- */
+
 @keyframes waterCircle {
   0% {
     background-position: 0 0;

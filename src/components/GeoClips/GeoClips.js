@@ -7,18 +7,10 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
-import {
-  WhatsappShareButton,
-  FacebookShareButton,
-  TwitterShareButton,
-  EmailShareButton,
-} from 'react-share'
 import { FaWhatsapp, FaFacebook, FaTwitter, FaEnvelope } from 'react-icons/fa'
-import { WhatsappIcon, FacebookIcon, TwitterIcon, EmailIcon } from 'react-share'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
-  const [isClick, setClick] = useState(false)
   const [sharePopup, setSharePopup] = useState(null)
 
   const handleHeartClick = (itemId) => {
@@ -132,7 +124,6 @@ function GeoClips() {
 
           {sharePopup === item.id && (
             <div className='share-popup'>
-              <div className='share-popup-header'>Share via</div>
               <div className='share-popup-icons'>
                 <a
                   href={`mailto:?subject=${encodeURIComponent(

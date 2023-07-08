@@ -165,60 +165,75 @@ const RockList = () => {
               >
                 Learn More
               </Button>
-              {sharePopup === rock && (
-                <div className='share-popup'>
-                  <div>
-                    <IconButton
-                      className='share-icon'
-                      onClick={() => shareWithWhatsApp(rock)}
-                    >
-                      <FaWhatsapp style={{ color: 'var(--bs-link-color)' }} />
-                    </IconButton>
-
-                    <IconButton
-                      className='share-icon'
-                      onClick={() => shareWithEmail(rock)}
-                    >
-                      <FaEnvelope style={{ color: 'var(--bs-link-color)' }} />
-                    </IconButton>
-                  </div>
-                  <div>
-                    <IconButton
-                      className='share-icon'
-                      onClick={() => shareWithTwitter(rock)}
-                    >
-                      <FaTwitter style={{ color: 'var(--bs-link-color)' }} />
-                    </IconButton>
-
-                    <IconButton
-                      className='share-icon'
-                      onClick={() => shareWithInstagram(rock)}
-                    >
-                      <FaInstagram style={{ color: 'var(--bs-link-color)' }} />
-                    </IconButton>
-                  </div>
-                  <Button
-                    variant='contained'
-                    color='primary'
-                    size='small'
-                    onClick={handleClosePopup}
-                    style={{
-                      marginLeft: '25px',
-                      backgroundColor: 'var(--bs-link-color)',
-                      color: '#fff',
-                      fontWeight: 'bold',
-                      boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
-                      transition:
-                        'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
-                      cursor: 'pointer',
-                      textTransform: 'uppercase',
-                    }}
-                  >
-                    Close
-                  </Button>
-                </div>
-              )}
             </CardActions>
+
+            {sharePopup === rock && (
+              <div
+                className='share-popup'
+                style={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  gap: '10px',
+                }}
+              >
+                <Button
+                  className='close-button'
+                  onClick={handleClosePopup}
+                  style={{
+                    fontWeight: 'bold',
+                    top: '20px',
+                    left: '-40px',
+                  }}
+                >
+                  Close
+                </Button>
+                <div
+                  className='share-popup-icons'
+                  style={{ marginTop: '30px', marginLeft: '-13px' }}
+                >
+                  <IconButton
+                    className='share-icon'
+                    onClick={() => shareWithWhatsApp(rock)}
+                  >
+                    <FaWhatsapp
+                      size={30}
+                      style={{ color: 'var(--bs-link-color)' }}
+                    />
+                  </IconButton>
+
+                  <IconButton
+                    className='share-icon'
+                    onClick={() => shareWithEmail(rock)}
+                  >
+                    <FaEnvelope
+                      style={{ color: 'var(--bs-link-color)' }}
+                      size={30}
+                    />
+                  </IconButton>
+                </div>
+                <div lassName='share-popup-icons' style={{ marginTop: '30px' }}>
+                  <IconButton
+                    className='share-icon'
+                    onClick={() => shareWithTwitter(rock)}
+                  >
+                    <FaTwitter
+                      style={{ color: 'var(--bs-link-color)' }}
+                      size={30}
+                    />
+                  </IconButton>
+
+                  <IconButton
+                    className='share-icon'
+                    onClick={() => shareWithInstagram(rock)}
+                  >
+                    <FaInstagram
+                      style={{ color: 'var(--bs-link-color)' }}
+                      size={30}
+                    />
+                  </IconButton>
+                </div>
+              </div>
+            )}
           </Card>
         ))}
       </div>

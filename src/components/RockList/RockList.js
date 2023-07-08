@@ -181,7 +181,7 @@ const RockList = () => {
                   onClick={handleClosePopup}
                   style={{
                     fontWeight: 'bold',
-                    top: '20px',
+                    top: '22px',
                     left: '-40px',
                   }}
                 >

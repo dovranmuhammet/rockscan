@@ -120,7 +120,7 @@
 }
 
 .zoomImage:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 /* Styles for mobile devices with screen width up to 480px */

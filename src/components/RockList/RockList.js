@@ -6,8 +6,8 @@ import {
   Button,
   IconButton,
   CardActions,
-  Select,
   MenuItem,
+  TextField,
 } from '@mui/material'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
 import ShareIcon from '@mui/icons-material/Share'
@@ -120,16 +120,26 @@ const RockList = () => {
             margin: '10px',
           }}
         />
-        <Select
+
+        <TextField
+          select
+          label='Rock Type'
           value={selectedType}
           onChange={handleTypeChange}
-          style={{ margin: '10px' }}
+          variant='outlined'
+          style={{
+            margin: '10px',
+            width: '200px',
+            borderRadius: '8px',
+            background: '#fff',
+          }}
         >
           <MenuItem value='all'>All Types</MenuItem>
           <MenuItem value='Igneous'>Igneous</MenuItem>
           <MenuItem value='Sedimentary'>Sedimentary</MenuItem>
           <MenuItem value='Metamorphic'>Metamorphic</MenuItem>
-        </Select>
+          <MenuItem value='Mineral'>Mineral</MenuItem>
+        </TextField>
       </div>
 
       <div className='card-container'>

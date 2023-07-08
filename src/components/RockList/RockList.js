@@ -1,18 +1,18 @@
 import React, { useState } from 'react'
-import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import Typography from '@mui/material/Typography'
-import { Button, IconButton, CardActions, Menu, MenuItem } from '@mui/material'
+import { Button, IconButton, CardActions } from '@mui/material'
+import { FaWhatsapp, FaFacebook, FaTwitter, FaEnvelope } from 'react-icons/fa'
 import ShareIcon from '@mui/icons-material/Share'
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import rockDataJson from './rocks.json'
 import axios from 'axios'
 
 const RockList = () => {
   const [rockData, setRockData] = useState(rockDataJson)
   const [searchTerm, setSearchTerm] = useState('')
-  const [shareMenuAnchor, setShareMenuAnchor] = useState(null)
-  const [shareMenuRock, setShareMenuRock] = useState(null)
+  const [sharePopup, setSharePopup] = useState(null)
 
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value)
@@ -23,16 +23,6 @@ const RockList = () => {
       top: 0,
       behavior: 'smooth',
     })
-  }
-
-  const handleShareMenuOpen = (event, rock) => {
-    setShareMenuAnchor(event.currentTarget)
-    setShareMenuRock(rock)
-  }
-
-  const handleShareMenuClose = () => {
-    setShareMenuAnchor(null)
-    setShareMenuRock(null)
   }
 
   const filteredRocks = rockData.filter((rock) =>
@@ -53,9 +43,18 @@ const RockList = () => {
     }
   }
 
+  const handleShareClick = (event, rock) => {
+    event.stopPropagation()
+    setSharePopup(rock)
+  }
+
+  const handleClosePopup = () => {
+    setSharePopup(null)
+  }
+
   const shareWithEmail = (rock) => {
     const subject = 'Rock Data'
-    const body = `Check out this rock: ${rock.name}\n\n${rock.description}`
+    const body = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
     const encodedSubject = encodeURIComponent(subject)
     const encodedBody = encodeURIComponent(body)
     const emailUrl = `mailto:?subject=${encodedSubject}&body=${encodedBody}`
@@ -63,28 +62,21 @@ const RockList = () => {
   }
 
   const shareWithWhatsApp = (rock) => {
-    const message = `Check out this rock: ${rock.name}\n\n${rock.description}`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
     const encodedMessage = encodeURIComponent(message)
     const whatsappUrl = `https://api.whatsapp.com/send?text=${encodedMessage}`
     window.open(whatsappUrl, '_blank')
   }
 
-  const shareWithInstagram = (rock) => {
-    const message = `Check out this rock: ${rock.name}\n\n${rock.description}`
-    const encodedMessage = encodeURIComponent(message)
-    const instagramUrl = `https://www.instagram.com/?text=${encodedMessage}`
-    window.open(instagramUrl, '_blank')
-  }
-
   const shareWithTwitter = (rock) => {
-    const message = `Check out this rock: ${rock.name}\n\n${rock.description}`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
     const encodedMessage = encodeURIComponent(message)
     const twitterUrl = `https://twitter.com/intent/tweet?text=${encodedMessage}`
     window.open(twitterUrl, '_blank')
   }
 
   const shareWithFacebook = (rock) => {
-    const message = `Check out this rock: ${rock.name}\n\n${rock.description}`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
     const encodedMessage = encodeURIComponent(message)
     const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedMessage}`
     window.open(facebookUrl, '_blank')
@@ -112,31 +104,6 @@ const RockList = () => {
             margin: '10px',
           }}
         />
-        <button
-          className='up-button'
-          onClick={handleScrollToTop}
-          style={{
-            position: 'fixed',
-            bottom: '20px',
-            right: '20px',
-            backgroundColor: '#345a8b',
-            color: '#fff',
-            borderRadius: '50%',
-            width: '40px',
-            height: '40px',
-            border: 'none',
-            boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
-            transition:
-              'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
-            cursor: 'pointer',
-            display: 'flex',
-            justifyContent: 'center',
-            alignItems: 'center',
-            zIndex: '1',
-          }}
-        >
-          <ArrowUpwardIcon style={{ fontSize: '24px' }} />
-        </button>
       </div>
       <div className='card-container'>
         {filteredRocks.map((rock) => (
@@ -166,6 +133,7 @@ const RockList = () => {
                 {rock.description}
               </Typography>
             </CardContent>
+
             <CardActions className='card-actions'>
               <IconButton
                 style={{
@@ -175,34 +143,13 @@ const RockList = () => {
                   padding: '8px',
                   marginLeft: '8px',
                 }}
-                aria-label='share'
-                onClick={(event) => handleShareMenuOpen(event, rock)}
+                onClick={(event) => handleShareClick(event, rock)}
               >
                 <ShareIcon />
               </IconButton>
-              <Menu
-                anchorEl={shareMenuAnchor}
-                open={Boolean(shareMenuAnchor)}
-                onClose={handleShareMenuClose}
-              >
-                <MenuItem onClick={() => shareWithEmail(shareMenuRock)}>
-                  Share via Email
-                </MenuItem>
-
-                <MenuItem onClick={() => shareWithWhatsApp(shareMenuRock)}>
-                  Share on WhatsApp
-                </MenuItem>
-                <MenuItem onClick={() => shareWithInstagram(shareMenuRock)}>
-                  Share on Instagram
-                </MenuItem>
-                <MenuItem onClick={() => shareWithTwitter(shareMenuRock)}>
-                  Share on Twitter
-                </MenuItem>
-                <MenuItem onClick={() => shareWithFacebook(shareMenuRock)}>
-                  Share on Facebook
-                </MenuItem>
-              </Menu>
               <Button
+                variant='contained'
+                onClick={() => getRockWikipediaData(rock.name)}
                 style={{
                   backgroundColor: '#345a8b ',
                   color: '#fff',
@@ -215,16 +162,90 @@ const RockList = () => {
                   cursor: 'pointer',
                   textTransform: 'uppercase',
                 }}
-                size='small'
-                color='primary'
-                onClick={() => getRockWikipediaData(rock.name)}
               >
                 Learn More
               </Button>
+              {sharePopup === rock && (
+                <div className='share-popup'>
+                  <div>
+                    <IconButton
+                      className='share-icon'
+                      onClick={() => shareWithWhatsApp(rock)}
+                    >
+                      <FaWhatsapp />
+                    </IconButton>
+
+                    <IconButton
+                      className='share-icon'
+                      onClick={() => shareWithEmail(rock)}
+                    >
+                      <FaEnvelope />
+                    </IconButton>
+                  </div>
+                  <div>
+                    <IconButton
+                      className='share-icon'
+                      onClick={() => shareWithTwitter(rock)}
+                    >
+                      <FaTwitter />
+                    </IconButton>
+
+                    <IconButton
+                      className='share-icon'
+                      onClick={() => shareWithFacebook(rock)}
+                    >
+                      <FaFacebook />
+                    </IconButton>
+                  </div>
+                  <Button
+                    variant='contained'
+                    color='primary'
+                    size='small'
+                    onClick={handleClosePopup}
+                    style={{
+                      marginLeft: '23px',
+                      backgroundColor: '#345a8b ',
+                      color: '#fff',
+                      fontWeight: 'bold',
+                      boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+                      transition:
+                        'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+                      cursor: 'pointer',
+                      textTransform: 'uppercase',
+                    }}
+                  >
+                    Close
+                  </Button>
+                </div>
+              )}
             </CardActions>
           </Card>
         ))}
       </div>
+      <button
+        className='up-button'
+        onClick={handleScrollToTop}
+        style={{
+          position: 'fixed',
+          bottom: '20px',
+          right: '20px',
+          backgroundColor: '#345a8b',
+          color: '#fff',
+          borderRadius: '50%',
+          width: '40px',
+          height: '40px',
+          border: 'none',
+          boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+          transition: 'background-color 0.3s, transform 0.3s, box-shadow 0.3s',
+          cursor: 'pointer',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          zIndex: '1',
+        }}
+      >
+        <ArrowUpwardIcon style={{ fontSize: '24px' }} />
+      </button>
     </div>
   )
 }

@@ -89,6 +89,7 @@ function GeoClips() {
               variant='body2'
               color='text.secondary'
               className='card-description'
+              style={{ marginTop: '15px' }}
             >
               {item.description}
             </Typography>

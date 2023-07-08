@@ -2,7 +2,13 @@ import React, { useState } from 'react'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import Typography from '@mui/material/Typography'
-import { Button, IconButton, CardActions } from '@mui/material'
+import {
+  Button,
+  IconButton,
+  CardActions,
+  Select,
+  MenuItem,
+} from '@mui/material'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
 import ShareIcon from '@mui/icons-material/Share'
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
@@ -12,10 +18,16 @@ import axios from 'axios'
 const RockList = () => {
   const [rockData, setRockData] = useState(rockDataJson)
   const [searchTerm, setSearchTerm] = useState('')
+  const [selectedType, setSelectedType] = useState('all')
   const [sharePopup, setSharePopup] = useState(null)
 
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value)
+    setSelectedType('all') // Reset the selected type when the search term changes
+  }
+
+  const handleTypeChange = (event) => {
+    setSelectedType(event.target.value)
   }
 
   const handleScrollToTop = () => {
@@ -25,9 +37,13 @@ const RockList = () => {
     })
   }
 
-  const filteredRocks = rockData.filter((rock) =>
-    rock.name.toLowerCase().includes(searchTerm.toLowerCase())
-  )
+  const filteredRocks = rockData.filter((rock) => {
+    const isMatchedName = rock.name
+      .toLowerCase()
+      .includes(searchTerm.toLowerCase())
+    const isMatchedType = selectedType === 'all' || rock.type === selectedType
+    return isMatchedName && isMatchedType
+  })
 
   const getRockWikipediaData = async (name) => {
     const data = await axios.get(
@@ -104,10 +120,20 @@ const RockList = () => {
             margin: '10px',
           }}
         />
+        <Select
+          value={selectedType}
+          onChange={handleTypeChange}
+          style={{ margin: '10px' }}
+        >
+          <MenuItem value='all'>All Types</MenuItem>
+          <MenuItem value='igneous'>Igneous</MenuItem>
+          <MenuItem value='sedimentary'>Sedimentary</MenuItem>
+          <MenuItem value='metamorphic'>Metamorphic</MenuItem>
+        </Select>
       </div>
       <div className='card-container'>
         {filteredRocks.map((rock) => (
-          <Card key={rock.id} className='card'>
+          <Card key={rock.name} className='card'>
             <CardContent>
               <div className='image-container'>
                 <img src={rock.wikiImage} alt='Earth' className='card-image' />
@@ -211,7 +237,10 @@ const RockList = () => {
                     />
                   </IconButton>
                 </div>
-                <div lassName='share-popup-icons' style={{ marginTop: '35px' }}>
+                <div
+                  className='share-popup-icons'
+                  style={{ marginTop: '35px' }}
+                >
                   <IconButton
                     className='share-icon'
                     onClick={() => shareWithTwitter(rock)}

@@ -111,7 +111,7 @@ const RockList = () => {
           onChange={handleSearchChange}
           style={{
             padding: '12px 18px',
-            borderRadius: '20px',
+            borderRadius: '8px',
             border: '1.5px solid #ddd',
             boxShadow: '0px 2px 6px rgba(0, 0, 0, 0.1)',
             outline: 'none',

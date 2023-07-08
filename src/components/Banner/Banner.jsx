@@ -84,6 +84,7 @@ const Banner = () => {
                         image={rock.wikiImage}
                         alt={rock.name}
                         extractActive={false}
+                        className={Classes.zoomImage}
                       />
                       <CardContent>
                         <Typography

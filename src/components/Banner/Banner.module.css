@@ -115,6 +115,14 @@
   color: #fff !important;
 }
 
+.zoomImage {
+  transition: transform 0.7s;
+}
+
+.zoomImage:hover {
+  transform: scale(1.3);
+}
+
 /* Styles for mobile devices with screen width up to 480px */
 @media only screen and (max-width: 480px) {
   /* Add your CSS styles here for mobile devices */

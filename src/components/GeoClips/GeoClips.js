@@ -164,9 +164,9 @@ function GeoClips() {
                 </a>
 
                 <a
-                  href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                  href={`https://www.instagram.com/share?url=${encodeURIComponent(
                     `${item.link}`
-                  )}&quote=${encodeURIComponent(
+                  )}&caption=${encodeURIComponent(
                     `${item.topic}\n\n${item.description}`
                   )}`}
                   className='share-button'

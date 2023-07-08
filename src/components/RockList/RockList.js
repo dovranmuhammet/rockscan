@@ -3,7 +3,7 @@ import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import Typography from '@mui/material/Typography'
 import { Button, IconButton, CardActions } from '@mui/material'
-import { FaWhatsapp, FaFacebook, FaTwitter, FaEnvelope } from 'react-icons/fa'
+import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
 import ShareIcon from '@mui/icons-material/Share'
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import rockDataJson from './rocks.json'
@@ -75,11 +75,11 @@ const RockList = () => {
     window.open(twitterUrl, '_blank')
   }
 
-  const shareWithFacebook = (rock) => {
+  const shareWithInstagram = (rock) => {
     const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
     const encodedMessage = encodeURIComponent(message)
-    const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedMessage}`
-    window.open(facebookUrl, '_blank')
+    const instagramUrl = `https://www.instagram.com/?${encodedMessage}`
+    window.open(instagramUrl, '_blank')
   }
 
   return (
@@ -172,14 +172,14 @@ const RockList = () => {
                       className='share-icon'
                       onClick={() => shareWithWhatsApp(rock)}
                     >
-                      <FaWhatsapp />
+                      <FaWhatsapp style={{ color: 'var(--bs-link-color)' }} />
                     </IconButton>
 
                     <IconButton
                       className='share-icon'
                       onClick={() => shareWithEmail(rock)}
                     >
-                      <FaEnvelope />
+                      <FaEnvelope style={{ color: 'var(--bs-link-color)' }} />
                     </IconButton>
                   </div>
                   <div>
@@ -187,14 +187,14 @@ const RockList = () => {
                       className='share-icon'
                       onClick={() => shareWithTwitter(rock)}
                     >
-                      <FaTwitter />
+                      <FaTwitter style={{ color: 'var(--bs-link-color)' }} />
                     </IconButton>
 
                     <IconButton
                       className='share-icon'
-                      onClick={() => shareWithFacebook(rock)}
+                      onClick={() => shareWithInstagram(rock)}
                     >
-                      <FaFacebook />
+                      <FaInstagram style={{ color: 'var(--bs-link-color)' }} />
                     </IconButton>
                   </div>
                   <Button
@@ -203,8 +203,8 @@ const RockList = () => {
                     size='small'
                     onClick={handleClosePopup}
                     style={{
-                      marginLeft: '23px',
-                      backgroundColor: '#345a8b ',
+                      marginLeft: '25px',
+                      backgroundColor: 'var(--bs-link-color)',
                       color: '#fff',
                       fontWeight: 'bold',
                       boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',

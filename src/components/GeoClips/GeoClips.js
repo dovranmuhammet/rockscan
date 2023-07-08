@@ -7,7 +7,7 @@ import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
-import { FaWhatsapp, FaFacebook, FaTwitter, FaEnvelope } from 'react-icons/fa'
+import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
 
 function GeoClips() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
@@ -173,10 +173,16 @@ function GeoClips() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  <FaFacebook size={32} />
+                  <FaInstagram size={32} />
                 </a>
               </div>
-              <Button className='close-button' onClick={handleClosePopup}>
+              <Button
+                className='close-button'
+                onClick={handleClosePopup}
+                style={{
+                  fontWeight: 'bold',
+                }}
+              >
                 Close
               </Button>
             </div>

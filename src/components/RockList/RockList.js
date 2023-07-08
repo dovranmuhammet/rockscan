@@ -189,7 +189,7 @@ const RockList = () => {
                 </Button>
                 <div
                   className='share-popup-icons'
-                  style={{ marginTop: '30px', marginLeft: '-13px' }}
+                  style={{ marginTop: '35px', marginLeft: '-15px' }}
                 >
                   <IconButton
                     className='share-icon'
@@ -211,7 +211,7 @@ const RockList = () => {
                     />
                   </IconButton>
                 </div>
-                <div lassName='share-popup-icons' style={{ marginTop: '30px' }}>
+                <div lassName='share-popup-icons' style={{ marginTop: '35px' }}>
                   <IconButton
                     className='share-icon'
                     onClick={() => shareWithTwitter(rock)}

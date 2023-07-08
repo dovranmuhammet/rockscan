@@ -126,11 +126,12 @@ const RockList = () => {
           style={{ margin: '10px' }}
         >
           <MenuItem value='all'>All Types</MenuItem>
-          <MenuItem value='igneous'>Igneous</MenuItem>
-          <MenuItem value='sedimentary'>Sedimentary</MenuItem>
-          <MenuItem value='metamorphic'>Metamorphic</MenuItem>
+          <MenuItem value='Igneous'>Igneous</MenuItem>
+          <MenuItem value='Sedimentary'>Sedimentary</MenuItem>
+          <MenuItem value='Metamorphic'>Metamorphic</MenuItem>
         </Select>
       </div>
+
       <div className='card-container'>
         {filteredRocks.map((rock) => (
           <Card key={rock.name} className='card'>

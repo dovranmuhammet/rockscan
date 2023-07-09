@@ -4,8 +4,6 @@ import './navbar.css'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false)
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-
   const changeBackground = () => {
     if (window.scrollY >= 66) {
       setNav(true)
@@ -23,10 +21,6 @@ const Navbar = () => {
     }
   }, [])
 
-  const toggleMobileMenu = () => {
-    setMobileMenuOpen(!mobileMenuOpen)
-  }
-
   return (
     <header className={`header-wrapper fixed-top ${nav ? 'nav-gray' : ''}`}>
       <nav className='container'>
@@ -39,19 +33,11 @@ const Navbar = () => {
                 </a>
                 <p className='rockscan'>RockScan</p>
               </div>
-              <a
-                href='#'
-                className={`togglebutton ${mobileMenuOpen ? 'open' : ''}`}
-                onClick={toggleMobileMenu}
-              >
-                <span className='bar'></span>
-                <span className='bar'></span>
-                <span className='bar'></span>
-              </a>
+
               <ul
                 className={`d-flex align-items-center list-unstyled gap-5 nav-links ${
                   nav ? 'center-links' : ''
-                } ${mobileMenuOpen ? 'mobile-menu-open' : ''}`}
+                }`}
               >
                 <li>
                   <a href='/' className='text-decoration-none'>

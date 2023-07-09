@@ -74,7 +74,7 @@ const Banner = () => {
               ))}
             </div> */}
             <div className='card-container'>
-              {rockDataJson.slice(0, 6).map((rock) => (
+              {rockDataJson.slice(0, 5).map((rock) => (
                 <div className='card'>
                   <Card sx={{ maxWidth: 500 }}>
                     <CardActionArea>

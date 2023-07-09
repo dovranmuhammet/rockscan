@@ -351,10 +351,16 @@
     "type": "Igneous"
   },
   {
+    "name": "Pyroxenite",
+    "description": "Pyroxenite is a captivating ultramafic igneous rock renowned for its unique mineral composition and intriguing characteristics. It is primarily composed of pyroxene minerals, such as augite or enstatite, which give the rock its distinctive dark green to black color. Pyroxenite is known for its coarse-grained texture, with large crystals of pyroxene visible to the naked eye. The rock often occurs as intrusions within other rock formations, such as gabbro or peridotite. Pyroxenite is rich in iron and magnesium, making it a significant source of these elements. Due to its high melting point, pyroxenite is considered a refractory rock and is often used in industrial applications that require resistance to heat and chemical corrosion. Pyroxenite provides valuable insights into the processes occurring within the Earth's mantle and the formation of other rock types. With its unique mineral composition, striking coloration, and geological importance, pyroxenite stands as a testament to the dynamic nature of our planet's geology.",
+    "wikiImage": "https://www.collinsdictionary.com/images/full/pyroxenite_299251514_1000.jpg",
+    "type": "Igneous"
+  },
+  {
     "name": "Olivine",
     "description": "Olivine rock, also known as peridotite, is a common igneous rock composed primarily of the mineral olivine. It typically appears as a greenish-gray or olive-green rock with a granular or coarse texture. Olivine is a magnesium-iron silicate mineral that crystallizes under high temperatures and pressures deep within the Earth's mantle. Olivine rock is often associated with ultramafic rocks and is a major constituent of the Earth's upper mantle. It can also be found in meteorites and volcanic rocks such as basalt. Olivine rock has a high melting point and is resistant to weathering, making it a durable and stable mineral. It is used in various applications, including as a refractory material in high-temperature processes, as a component in building materials, and as a gemstone known as peridot when transparent and of high quality. The presence of olivine rock can provide important clues about the geological history and composition of a region",
     "wikiImage": "https://i.etsystatic.com/35856333/r/il/1451dd/4071810684/il_570xN.4071810684_fwbb.jpg",
-    "type": "Igneous"
+    "type": "Mineral"
   },
   {
     "name": "Anthracite",

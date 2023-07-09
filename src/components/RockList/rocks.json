@@ -32,15 +32,22 @@
   {
     "name": "Diorite",
     "description": "Diorite is a coarse-grained igneous rock that is composed primarily of plagioclase feldspar, biotite, hornblende, and/or pyroxene minerals. It is known for its intermediate composition between granite and gabbro, exhibiting a balance of light and dark minerals. Diorite typically appears gray to dark gray in color, although variations with green or brown hues can also occur. The rock is formed through the slow cooling and solidification of magma deep within the Earth's crust. Diorite's texture is generally coarse, with visible crystals that give it a granular appearance. It often displays a speckled or salt-and-pepper texture due to the contrasting colors of its constituent minerals. Diorite is a durable and hard rock, making it suitable for various construction purposes. It has been used as a building material for centuries, employed in the construction of walls, floors, countertops, and monuments. Its strength and resistance to weathering make it a popular choice for outdoor applications. Diorite can be found in various regions worldwide, including parts of North America, Europe, Asia, and Africa.",
-    "wikiImage": "https://rockhoundresource.com/wp-content/uploads/2022/09/Diorite-2-1024x788.jpg",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/3F23896590B547FAA06612CD6E93DBC3.jpeg",
     "type": "Igneous"
   },
   {
     "name": "Gabbro",
     "description": "Gabbro is a coarse-grained igneous rock composed mainly of plagioclase feldspar and pyroxene minerals. It is formed deep within the Earth's crust through the slow cooling and solidification of magma. Gabbro typically exhibits a dark color, ranging from dark gray to black, with a speckled or mottled appearance. Its texture is coarse and granular, characterized by visible crystals that give it a distinctive look. Known for its durability and strength, gabbro is commonly used in construction and architectural applications. It is frequently utilized as a dimension stone for countertops, flooring, and wall cladding due to its attractive appearance and resistance to wear and weathering. Gabbro's toughness and high compressive strength make it suitable for heavy-duty applications such as curbstones, paving stones, and building foundations. It is also used as crushed stone in road construction, railroad ballast, and aggregate for concrete. Gabbro is found in various parts of the world, with notable occurrences in regions with volcanic activity, including Norway, Scotland, the United States, and Canada.",
-    "wikiImage": "https://i0.wp.com/geologyscience.com/wp-content/uploads/2018/04/01317-gabbro-10-cm.jpg?fit=750%2C560&ssl=1",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/C435ABC3002C4CF78D565DBE56D7CF4B.jpeg",
     "type": "Igneous"
   },
+  {
+    "name": "Diatomite",
+    "description": "Diatomite is a remarkable sedimentary rock renowned for its unique composition and intriguing properties. It is formed from the accumulation of diatom microfossils, which are single-celled algae with intricate silica skeletons. These microscopic organisms live in bodies of water and their remains settle on the ocean or lake floor over time. Diatomite is composed almost entirely of silica, typically over 80%, making it one of the most silica-rich rocks on Earth. It has a light gray to white color and a fine, powdery texture. Due to its high silica content, diatomite is extremely lightweight and porous, often resembling a soft, chalk-like material. It is commonly used in a variety of industrial applications, including filtration, insulation, and as an abrasive material. Diatomite also holds great significance in paleontology, as the preserved diatom fossils provide valuable insights into ancient aquatic ecosystems and environmental conditions. With its unique composition, lightweight nature, and geological importance, diatomite stands as a testament to the intricate interactions between microscopic organisms and the Earth's geological processes.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-diatomite-0721.jpg",
+    "type": "Sedimentary"
+  },
+
   {
     "name": "Obsidian",
     "description": "Obsidian is a natural volcanic glass formed when molten lava cools rapidly without crystallization. It is characterized by its smooth, glassy texture and typically has a dark color, ranging from black to various shades of brown and green. Obsidian is primarily composed of silica, and its lack of crystalline structure gives it a unique appearance. It has been used by humans for thousands of years for various purposes, including tools, weapons, and decorative objects. Due to its sharp edges and ability to be flaked into thin, sharp blades, obsidian was extensively used by early humans for making arrowheads, knives, and other cutting tools. Today, it is still used in some surgical scalpels and blades. Obsidian is also highly valued as a gemstone due to its striking appearance. It is often used in jewelry and ornamental objects, such as pendants, beads, and sculptures. This volcanic glass can be found in volcanic areas around the world, with significant deposits in regions with past or present volcanic activity, including the western United States, Mexico, Japan, Italy, and Ethiopia.",
@@ -56,7 +63,13 @@
   {
     "name": "Rhyolite",
     "description": "Rhyolite is a fine-grained volcanic rock that is chemically similar to granite. It is formed from the rapid cooling and solidification of lava at or near the Earth's surface. Rhyolite typically has a light-colored appearance, ranging from pale gray to pink or reddish-brown. It is composed mainly of quartz, feldspar, and small amounts of other minerals such as mica and amphibole. The texture of rhyolite can vary, but it is generally porphyritic, meaning it contains larger crystals (phenocrysts) embedded in a finer-grained matrix. These phenocrysts are typically feldspar minerals. Rhyolite is known for its high silica content, which gives it a relatively low melting point compared to other volcanic rocks. It is commonly found in volcanic areas and can occur as lava flows, volcanic ash deposits, or as intrusive bodies such as dikes and sills. Rhyolite has been used as a building material and for decorative purposes throughout history. Its fine-grained texture and variety of colors make it suitable for architectural applications, as well as for making jewelry and ornamental objects.",
-    "wikiImage": "https://m.media-amazon.com/images/I/71q1BnrzgfL.jpg",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/0D1549015CC547CFB72774C8E42DB288.jpeg",
+    "type": "Igneous"
+  },
+  {
+    "name": "Monzonite",
+    "description": "Monzonite is a captivating igneous rock renowned for its unique composition and visually appealing characteristics. It falls within the granitoid rock family and is often described as an intermediate between syenite and diorite. Monzonite is primarily composed of plagioclase feldspar, orthoclase feldspar, and varying amounts of quartz and biotite or hornblende minerals. It exhibits a distinctive salt-and-pepper appearance, with contrasting light and dark mineral grains. Monzonite typically has a medium to coarse-grained texture, allowing for the visible identification of individual mineral crystals. The rock's mineral composition and texture give it a remarkable interplay of colors and patterns, making it a favored choice for architectural and decorative applications. Monzonite is commonly found in areas of volcanic activity, where it forms from the cooling and solidification of magma deep within the Earth's crust. Its durability, striking aesthetics, and versatile nature have made monzonite a prized material in construction, sculpture, and other artistic endeavors. With its unique composition, captivating visual appeal, and geological significance, monzonite stands as a testament to the intricate processes that shape our planet's diverse rock formations.",
+    "wikiImage": "https://www.sandatlas.org/wp-content/uploads/1423-1368-10.06.15_7-larvikite-17-cm-2.jpg",
     "type": "Igneous"
   },
   {
@@ -65,6 +78,14 @@
     "wikiImage": "https://mineralseducationcoalition.org/wp-content/uploads/andesite_366069737.jpg",
     "type": "Igneous"
   },
+
+  {
+    "name": "Coquina",
+    "description": "Coquina is a fascinating sedimentary rock renowned for its unique texture and captivating composition. It is formed from the accumulation of shell fragments and other organic debris, often found in marine environments. Coquina is composed primarily of calcium carbonate, derived from the shells of marine organisms such as mollusks and coral. Its distinct feature is its porous nature, with visible shell fragments creating a layered appearance. Coquina exhibits a range of colors, including shades of white, cream, and yellow, depending on the types of shells present. Due to its composition and porosity, coquina is relatively soft and can be easily shaped and cut. It has been used as a building material for centuries, with notable examples found in historic architecture. Coquina provides a unique window into the past, as the embedded shell fragments preserve a record of ancient marine life and the environmental conditions at the time of deposition. With its remarkable texture and fossil-rich composition, coquina stands as a testament to the intricate beauty and geological history of our planet.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-coquina-0721.jpg",
+    "type": "Sedimentary"
+  },
+
   {
     "name": "Pegmatite",
     "description": "Pegmatite is an igneous rock that forms in the final stages of magma cooling, characterized by its exceptionally large crystal size. It often occurs in dikes or veins within other rocks. Pegmatite crystals can range in size from a few centimeters to several meters, making them significantly larger than the crystals found in typical igneous rocks. The composition of pegmatite varies widely, but it commonly contains minerals such as quartz, feldspar, mica, and various gemstones. Due to its unique mineral composition and large crystal size, pegmatite is a valuable source of rare and precious minerals. It is particularly sought after for gemstone production, as well as for obtaining economically significant minerals like lithium, tantalum, and beryllium. The formation of pegmatite is often associated with the presence of granitic intrusions and hydrothermal processes. Its distinctive texture and mineral diversity make it a fascinating rock for geological study and a prized resource for both industrial and aesthetic purposes.",
@@ -86,7 +107,7 @@
   {
     "name": "Tuff",
     "description": "Tuff rock is a type of volcanic rock that forms when volcanic ash and fragments fuse together through a process called consolidation. Characterized by its porous and lightweight nature, tuff rock is an ideal material for various applications. Its composition typically includes a mixture of volcanic glass, mineral crystals, and small rock fragments, resulting in a range of colors from pale gray to brown or even red. The porous nature of tuff rock allows it to absorb and retain water, making it useful in horticulture for improving soil drainage and moisture retention. Its relatively soft and easily workable nature has historically made it a popular choice for construction materials like bricks and blocks. Additionally, its unique texture and appearance have rendered it valuable for decorative purposes in landscaping and architectural designs. The lightweight properties of tuff rock also make it easier to transport and handle, enhancing its versatility in construction projects of various scales.",
-    "wikiImage": "https://m.media-amazon.com/images/I/81mjIwNmouL.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-tuff-0721.jpg",
     "type": "Igneous"
   },
   {
@@ -128,7 +149,7 @@
   {
     "name": "Dolomite",
     "description": "Dolomite is a sedimentary rock composed primarily of calcium magnesium carbonate. It is often found in massive formations and can range in color from white to gray, pink, or even brown. Dolomite forms through the chemical alteration of limestone or lime mud in the presence of magnesium-rich groundwater. It is known for its distinctive rhombohedral crystal shape and can display a pearly or glassy luster. Dolomite is widely used in construction and industrial applications due to its hardness, durability, and resistance to weathering. It is commonly used as a crushed stone for road base, concrete aggregates, and as a flux in iron and steel production. In addition, dolomite is valued for its ornamental purposes, being carved into sculptures, countertops, and other decorative items. Some dolomite formations also contain significant mineral deposits, such as magnesium, which are of economic importance. With its unique composition and versatile applications, dolomite plays a crucial role in various industries and adds aesthetic appeal to architectural designs.",
-    "wikiImage": "https://3.bp.blogspot.com/-qaVdJE00m08/WH9z6TFoY6I/AAAAAAAAEYo/6TopxiuCZSAsJigQ7skyw0nh4fhC2yYhgCLcB/s1600/1750%2B13.08.15_3%2Bdolomite%2Bmarble%2B14%2Bcm.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-dolomite-0721.jpg",
     "type": "Sedimentary"
   },
   {
@@ -152,7 +173,7 @@
   {
     "name": "Chert",
     "description": "Chert is a hard, sedimentary rock primarily composed of microcrystalline or cryptocrystalline silica. It often occurs as nodules or layers in limestone, chalk, or dolomite formations. Chert is known for its smooth and glassy texture, and it can exhibit various colors such as white, gray, brown, black, or red, depending on the presence of impurities. It forms through the deposition of silica-rich materials in ancient marine or freshwater environments. Chert is commonly found in association with fossils, and it has been used by ancient civilizations for making tools, weapons, and ornaments due to its hardness and sharpness. It is also a common rock type in flintknapping, the ancient art of shaping stones into tools. Chert can have a conchoidal fracture, meaning it breaks with curved, shell-like patterns, making it ideal for creating sharp edges. In addition to its historical and archaeological significance, chert is valued today for its use in construction, road surfacing, and as a decorative stone in landscaping. Its durability and resistance to weathering make it a popular choice for outdoor applications.",
-    "wikiImage": "https://media.istockphoto.com/id/1343021917/photo/flint-rock.jpg?s=612x612&w=0&k=20&c=l2MdF-IUV1b3QOaTsMAfkpLM0N0qVg7fv8N59M3SBPE=",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/6134131A3ABB4E16853748610A4FDDEE.jpeg",
     "type": "Sedimentary"
   },
   {
@@ -188,7 +209,7 @@
   {
     "name": "Oil Shale",
     "description": "Oil shale is a sedimentary rock that contains organic matter known as kerogen, which can be converted into liquid hydrocarbons through a process called pyrolysis. It typically has a dark brown to black color and a fine-grained texture. Oil shale deposits are widespread and can be found in various parts of the world. They hold a significant amount of potential energy resources. Extracting oil from oil shale involves heating the rock to release the trapped hydrocarbons, which can then be further processed into usable fuels like shale oil. Oil shale is considered an unconventional source of energy and has both economic and environmental implications. While it holds the potential for increased energy independence and reduced reliance on traditional fossil fuels, its extraction and processing pose challenges due to high energy requirements and environmental impacts, such as greenhouse gas emissions and water usage. Ongoing research and development aim to improve the efficiency and sustainability of oil shale utilization as an energy resource.",
-    "wikiImage": "https://geology.utah.gov/wp-content/uploads/snt41-1_oil-shale.jpg",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/74B900964E88486CA93ECE44EF3EEBA5.jpeg",
     "type": "Sedimentary"
   },
   {
@@ -218,13 +239,13 @@
   {
     "name": "Quartzite",
     "description": "Quartzite is a metamorphic rock that originates from the transformation of quartz-rich sandstone under high heat and pressure. It is characterized by its stunning beauty and exceptional durability, making it a popular choice for various applications. Quartzite typically exhibits a range of colors, including shades of white, gray, beige, and even vibrant hues like pink and red, adding a touch of elegance to any space. Its natural veining and texture give each slab a unique and distinctive appearance. Due to its high quartz content, quartzite is incredibly resistant to heat, scratches, and chemical damage, making it an ideal option for countertops, flooring, and wall cladding. With its remarkable strength and timeless beauty, quartzite has become a sought-after material for both residential and commercial projects, offering an exquisite blend of aesthetic appeal and durability.",
-    "wikiImage": "https://thumbs.dreamstime.com/b/quartzite-nonfoliated-metamorphic-rock-composed-entirely-quartz-stone-isolated-white-background-215649607.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-quartzite-0721.jpg",
     "type": "Metamorphic"
   },
   {
     "name": "Schist",
     "description": "Schist is a metamorphic rock that forms through the intense pressure and heat acting upon existing rocks, particularly shale or slate. It is characterized by its foliated texture, displaying distinct layers or bands of minerals. Schist commonly exhibits a range of colors, including shades of gray, green, brown, and even metallic tones. Its foliation gives it a unique shimmering or sparkling appearance when viewed from different angles. Due to its high mica content, schist often has a smooth and slightly slippery texture. It is valued for its durability, making it suitable for applications such as flooring, wall cladding, and decorative purposes. Schist's aesthetic appeal and diverse color variations make it a popular choice in both interior and exterior design, adding a touch of natural beauty to any space. With its distinctive layered structure and inherent strength, schist offers a visually appealing and robust option for various architectural and construction projects.",
-    "wikiImage": "https://outforia.com/wp-content/uploads/2022/08/Schist-1.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-schist-0721.jpg",
     "type": "Metamorphic"
   },
   {
@@ -284,7 +305,7 @@
   {
     "name": "Hornfels",
     "description": "Hornfels is a fine-grained metamorphic rock that forms through the process of contact metamorphism. It is created when pre-existing rocks, such as shale, limestone, or sandstone, come into contact with high temperatures and pressures caused by nearby intrusions of magma or lava. As a result, the minerals within the rock recrystallize and form a dense, hard texture. Hornfels typically lacks any visible grain structure or foliation, giving it a uniform appearance. The rock often exhibits a dark color, ranging from gray to black, due to the recrystallization process. It is known for its durability and resistance to weathering and erosion. Hornfels is commonly found near igneous intrusions, such as dykes or sills, and is often used as a thermal indicator to determine the proximity of ancient magma bodies. Due to its hardness and durability, hornfels has been utilized as a construction material and can be found in various architectural applications.",
-    "wikiImage": "https://3.bp.blogspot.com/-Co2DZnxkp14/WLlnte8hngI/AAAAAAAAEsg/YXshMGnnjCgjiE44iHWvT5trCe2UQCm4gCLcB/s1600/hornfels.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-hornfels-0721.jpg",
     "type": "Metamorphic"
   },
   {
@@ -298,6 +319,12 @@
     "description": "Granulite rock is a high-grade metamorphic rock known for its coarse-grained texture and distinctive mineral composition. It forms under conditions of high temperature and pressure, typically deep within the Earth's crust. The name granulite refers to its granular appearance, characterized by the interlocking arrangement of its mineral grains. Composed primarily of minerals such as quartz, feldspar, and mafic minerals like pyroxene or amphibole, granulite often exhibits a banded or layered structure. Its formation involves the recrystallization and transformation of pre-existing rocks, resulting in the development of new mineral assemblages. Granulite rocks commonly occur in regions of ancient continental crust, and they are often associated with tectonic processes such as mountain building or collisional events. They provide valuable insights into the geological history of the Earth, including the processes of continental evolution and the formation of large-scale mountain ranges. The presence of granulite indicates the occurrence of significant heat and pressure in the past, and its study contributes to our understanding of the deep Earth processes and the dynamics of plate tectonics.",
     "wikiImage": "https://geodil.dperkins.org/i/362.jpg",
     "type": "Metamorphic"
+  },
+  {
+    "name": "Carbonatite",
+    "description": "Carbonatite is an extraordinary igneous rock known for its exceptional mineral composition and fascinating geological origins. It is primarily composed of carbonate minerals, such as calcite and dolomite, which give the rock its characteristic light color and distinctive appearance. Carbonatite is rich in rare earth elements and other exotic minerals, making it a valuable resource for scientific research and industrial applications. It forms through unique geological processes, often associated with the presence of deep-seated mantle plumes or carbonatite magma chambers. The rock's formation is a testament to the complex interactions between the Earth's mantle and crust. Carbonatite is relatively rare, making its discovery and study of great importance to geologists. It can also contain economic deposits of rare metals, such as niobium and phosphates, contributing to its commercial significance. With its unique mineral composition, intriguing origins, and scientific significance, carbonatite stands as a testament to the dynamic and diverse nature of our planet's geological processes.",
+    "wikiImage": "https://lh3.googleusercontent.com/-vDVcHgvOncc/VeqvMtUv0lI/AAAAAAAAK7A/Sg-bgoZ_gJ0/s512/1421%25252020.06.15_9%252520carbonatite%2525208%252520cm.jpg",
+    "type": "Igneous"
   },
   {
     "name": "Skarn",
@@ -332,7 +359,7 @@
   {
     "name": "Anthracite",
     "description": "Anthracite rock is a type of coal that is highly metamorphosed and has the highest carbon content among all coal types. It is known for its glossy black appearance and high energy content. Anthracite forms through the progressive metamorphism of bituminous coal over millions of years, resulting in a hard, dense, and almost pure carbon material. It has a low moisture and volatile content, which contributes to its high heating value and clean-burning properties. Anthracite is primarily used as a fuel source for residential and industrial heating due to its efficient combustion and long burn time. It is also utilized in the production of electricity, as a reducing agent in metallurgical processes, and as a component in water filtration systems. The compact nature of anthracite makes it resistant to weathering and erosion, allowing it to retain its properties over time. Its high carbon content and low impurities make anthracite a valuable resource for energy production and various industrial applications.",
-    "wikiImage": "https://lh3.googleusercontent.com/-HGNvuOp5JKs/USEMzgfeZ0I/AAAAAAAAIVo/hiLzKUcL38I/s512/IMG_8327%2525208%252520cm%252520anthracite.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-anthracite-0721.jpg",
     "type": "Metamorphic"
   },
   {
@@ -374,7 +401,7 @@
   {
     "name": "Dolerite",
     "description": "Dolerite is a medium-grained igneous rock that is primarily composed of plagioclase feldspar, pyroxene minerals (such as augite or hypersthene), and minor amounts of other minerals like olivine or biotite. It typically has a dark gray to black color and a fine-grained texture. Dolerite forms when magma solidifies below the Earth's surface, specifically in the upper part of the crust. It is an intrusive rock, commonly occurring as dikes or sills, and can also be found as large bodies called plutons. Due to its fine-grained nature, dolerite often displays a distinctive microscopic texture known as ophitic texture, where the larger plagioclase crystals are enclosed within pyroxene minerals. Dolerite is known for its high strength and durability, making it suitable for various construction purposes, including road surfacing, railroad ballast, and as a building stone. It is also used in the production of crushed stone and aggregate for concrete. The presence of dolerite in certain regions can indicate geological events such as volcanic activity or tectonic processes.",
-    "wikiImage": "https://static.wixstatic.com/media/dcc3a1_4a5132f18e044fae98694bae2a428eb7~mv2.jpg/v1/fill/w_3024,h_3024,al_c,q_85/dcc3a1_4a5132f18e044fae98694bae2a428eb7~mv2.jpg",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/2F2BC9072947470B8721B94F7AC0A34B.jpeg",
     "type": "Igneous"
   },
   {

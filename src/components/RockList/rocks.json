@@ -2,13 +2,13 @@
   {
     "name": "Granite",
     "description": "Granite is a coarse-grained igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It typically has a granular texture and is known for its durability and strength. Granite forms deep within the Earth's crust through the slow cooling and solidification of molten magma. It is abundant in continental crust and can be found in various colors, including gray, pink, white, and black. Granite is commonly used as a construction material due to its strength and resistance to weathering and erosion. It is often quarried and cut into slabs for use as countertops, flooring, and building facades. Granite is also used for decorative purposes, such as in monuments and sculptures. Its unique combination of beauty, durability, and versatility has made it a popular choice in architecture and design. Granite is considered one of the most common and widely distributed rocks on Earth.",
-    "wikiImage": "https://www.geologypage.com/wp-content/uploads/2019/05/Granite-Rocks-GeologyPage.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-granite-0721.jpg",
     "type": "Igneous"
   },
   {
     "name": "Basalt",
     "description": "Basalt is a dark-colored, fine-grained igneous rock that is formed from the rapid cooling of lava at or near the Earth's surface. It is composed primarily of minerals such as pyroxene, plagioclase feldspar, and olivine. Basalt is known for its dense and durable nature, making it a common rock type in volcanic regions and oceanic crust. Its color ranges from dark gray to black. Basaltic lava flows can create extensive volcanic landscapes known as basalt plateaus or flood basalts. Basalt rock is commonly used in construction for its strength and resistance to weathering. It is used in the production of crushed stone, concrete aggregates, and asphalt for road construction. Basalt is also utilized in making statues, sculptures, and jewelry due to its aesthetic appeal. Basalt is found in many regions around the world, including volcanic areas and areas of recent volcanic activity.",
-    "wikiImage": "https://lh3.googleusercontent.com/-QEomL5SCA88/UI_BYmrHC_I/AAAAAAAAIJI/sKrApW_pWlEAeB1BLvlqhLWj018HjGptgCHM/s512/Scoria-from-Etna.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-basalt-0721.jpg",
     "type": "Igneous"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "Obsidian",
     "description": "Obsidian is a natural volcanic glass formed when molten lava cools rapidly without crystallization. It is characterized by its smooth, glassy texture and typically has a dark color, ranging from black to various shades of brown and green. Obsidian is primarily composed of silica, and its lack of crystalline structure gives it a unique appearance. It has been used by humans for thousands of years for various purposes, including tools, weapons, and decorative objects. Due to its sharp edges and ability to be flaked into thin, sharp blades, obsidian was extensively used by early humans for making arrowheads, knives, and other cutting tools. Today, it is still used in some surgical scalpels and blades. Obsidian is also highly valued as a gemstone due to its striking appearance. It is often used in jewelry and ornamental objects, such as pendants, beads, and sculptures. This volcanic glass can be found in volcanic areas around the world, with significant deposits in regions with past or present volcanic activity, including the western United States, Mexico, Japan, Italy, and Ethiopia.",
-    "wikiImage": "https://2.bp.blogspot.com/-Zpns9AKQHnM/WIDiK2hlb6I/AAAAAAAAEcs/xZzzIPdbRicita-lyCymyKsjnXwuO5i5ACLcB/s1600/00588%2BIMG_8210%2B11%2Bcm%2Bobsidian%2BDzaraber%2BArmenia.jpg",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-obsidian-0721.jpg",
     "type": "Igneous"
   },
   {
@@ -87,7 +87,13 @@
     "name": "Tuff",
     "description": "Tuff rock is a type of volcanic rock that forms when volcanic ash and fragments fuse together through a process called consolidation. Characterized by its porous and lightweight nature, tuff rock is an ideal material for various applications. Its composition typically includes a mixture of volcanic glass, mineral crystals, and small rock fragments, resulting in a range of colors from pale gray to brown or even red. The porous nature of tuff rock allows it to absorb and retain water, making it useful in horticulture for improving soil drainage and moisture retention. Its relatively soft and easily workable nature has historically made it a popular choice for construction materials like bricks and blocks. Additionally, its unique texture and appearance have rendered it valuable for decorative purposes in landscaping and architectural designs. The lightweight properties of tuff rock also make it easier to transport and handle, enhancing its versatility in construction projects of various scales.",
     "wikiImage": "https://m.media-amazon.com/images/I/81mjIwNmouL.jpg",
-    "type": "Volcanic"
+    "type": "Igneous"
+  },
+  {
+    "name": "Anorthosite",
+    "description": "Anorthosite is a captivating igneous rock renowned for its unique composition and striking appearance. It is predominantly composed of a single mineral called plagioclase feldspar, specifically the variety known as labradorite. This gives anorthosite its characteristic light gray to white color, often with iridescent flashes of blue, green, or gold. The rock is known for its coarse-grained texture, with large crystals of plagioclase feldspar visible to the naked eye. Anorthosite is typically found in ancient mountain ranges and is associated with the early stages of crustal formation. It is often used as a building material and for decorative purposes due to its beautiful color and texture. Anorthosite provides valuable insights into the geological processes that occurred during the formation of the Earth's crust. With its distinctive mineral composition and captivating visual appeal, anorthosite stands as a testament to the remarkable diversity of rocks found in our planet's geological history.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-anorthosite-0721.jpg",
+    "type": "Igneous"
   },
   {
     "name": "Shale",
@@ -327,11 +333,11 @@
     "name": "Anthracite",
     "description": "Anthracite rock is a type of coal that is highly metamorphosed and has the highest carbon content among all coal types. It is known for its glossy black appearance and high energy content. Anthracite forms through the progressive metamorphism of bituminous coal over millions of years, resulting in a hard, dense, and almost pure carbon material. It has a low moisture and volatile content, which contributes to its high heating value and clean-burning properties. Anthracite is primarily used as a fuel source for residential and industrial heating due to its efficient combustion and long burn time. It is also utilized in the production of electricity, as a reducing agent in metallurgical processes, and as a component in water filtration systems. The compact nature of anthracite makes it resistant to weathering and erosion, allowing it to retain its properties over time. Its high carbon content and low impurities make anthracite a valuable resource for energy production and various industrial applications.",
     "wikiImage": "https://lh3.googleusercontent.com/-HGNvuOp5JKs/USEMzgfeZ0I/AAAAAAAAIVo/hiLzKUcL38I/s512/IMG_8327%2525208%252520cm%252520anthracite.jpg",
-    "type": "Sedimentary"
+    "type": "Metamorphic"
   },
   {
     "name": "Lapis lazuli",
-    "description": "Lapis lazuli is a vibrant blue metamorphic rock composed mainly of the mineral lazurite. It has been highly valued for centuries due to its intense blue color and is often used as a gemstone and in artistic creations. Lapis lazuli is also known for its distinctive golden pyrite inclusions, which add a sparkling effect to its appearance. It is believed to have been mined as early as 6,000 years ago and has been used in jewelry, decorative objects, and even as a pigment for paintings. This rock is associated with spirituality and is said to enhance wisdom, inner peace, and communication. Its rich history, mesmerizing color, and metaphysical properties make lapis lazuli a captivating and sought-after gemstone.",
+    "description": "Lapis lazuli is an enchanting metamorphic rock revered for its captivating deep blue color and exquisite beauty. Composed predominantly of lazurite, calcite, and pyrite, it has been highly cherished throughout history. This remarkable rock holds a storied past, with civilizations spanning the globe valuing it as a precious gemstone and a symbol of prestige and wisdom. The intense blue hue of lapis lazuli evokes a sense of mystery and tranquility, reminiscent of the vastness of the sky and the depths of the ocean. Its alluring appearance is further enhanced by the golden and white flecks of pyrite and calcite that shimmer within its velvety blue canvas. Lapis lazuli has been adored and used in various forms of art and adornment, including jewelry, sculptures, and decorative objects. Its timeless allure and association with spirituality make it a cherished stone, believed to enhance inner peace, stimulate clarity of thought, and foster spiritual growth. Lapis lazuli stands as a testament to the enduring fascination humans have held for this remarkable natural treasure.",
     "wikiImage": "https://www.jewelrycult.com/wp-content/uploads/2016/03/lapis-lazuli.jpg",
     "type": "Metamorphic"
   },
@@ -520,5 +526,65 @@
     "description": "Rhodochrosite is a captivating gemstone renowned for its vibrant pink to red coloration, often displaying bands or swirls of lighter and darker shades. It belongs to the carbonate mineral group and is composed of manganese carbonate. This beautiful gemstone is prized for its exceptional beauty and is often used in jewelry and ornamental objects. Rhodochrosite is known for its distinct and eye-catching patterns, which can resemble delicate floral designs or captivating landscapes. It is associated with the heart chakra and is believed to promote love, compassion, and emotional healing. The stone is highly sought after for its metaphysical properties, said to help release emotional blockages, enhance self-love, and foster a positive outlook. Rhodochrosite is found in various locations around the world, including Argentina, Peru, and the United States. It is often treasured as a collector's gemstone due to its rarity and unique appearance. The stone's vibrant color and intricate patterns make it a popular choice for statement jewelry pieces and decorative items",
     "wikiImage": "https://i.etsystatic.com/9859922/r/il/937f64/4898016246/il_fullxfull.4898016246_11wx.jpg",
     "type": "Mineral"
+  },
+  {
+    "name": "Greenschist",
+    "description": "Greenschist is a captivating metamorphic rock characterized by its vibrant green color and unique mineral composition. Composed primarily of minerals such as chlorite, actinolite, and epidote, it exhibits a fascinating blend of textures and hues. The name Greenschist is derived from the dominant green color imparted by the minerals within its structure. This rock forms through the process of regional metamorphism, where heat and pressure act upon existing rocks, transforming them into this distinct green stone. Greenschist is renowned for its attractive foliated appearance, displaying fine layers or bands that add depth and texture to its overall aesthetic. It often exhibits a silky or wavy texture, lending it a remarkable tactile quality. With its striking green tones, greenschist has found application in architectural projects, decorative purposes, and even as a semi-precious stone. Its unique combination of color, texture, and mineral composition makes greenschist a captivating and sought-after rock in the world of geology and design.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/8/86/Chlorite_schist.jpg",
+    "type": "Metamorphic"
+  },
+  {
+    "name": "Novaculite",
+    "description": "Novaculite is a fascinating sedimentary rock known for its remarkable hardness, fine-grained texture, and exceptional sharpening properties. Composed mainly of silica, it is formed from the accumulation of microcrystalline quartz over millions of years. Novaculite is characterized by its smooth, uniform appearance and can range in color from translucent white to gray or black. Its high density and hardness make it ideal for use as a sharpening stone, honing blades to a keen edge. The unique structure of novaculite allows it to fracture with extremely fine, sharp edges, making it a prized material for tool-making and sharpening implements. This versatile rock has been used for centuries by artisans and craftsmen for tasks that require precise cutting and shaping. Due to its exceptional sharpening properties, novaculite is highly sought after for use in the production of whetstones and honing tools. Its beauty, hardness, and sharpening capabilities make novaculite a truly remarkable and valuable rock in both geological and practical applications.",
+    "wikiImage": "https://flintknappingsupplies.com/cdn/shop/products/LGnovaculiteflakes.png?v=1613340122",
+    "type": "Sedimentary"
+  },
+  {
+    "name": "Calc-silicate",
+    "description": "Calc-silicate rock, also known as skarn, is a captivating metamorphic rock characterized by its remarkable combination of calcite and silicate minerals. This unique rock forms through the process of metasomatism, where fluids carrying elements like calcium and silica react with existing rocks, creating a distinct assemblage of minerals. Calc-silicate rocks often display intricate patterns of interlocking crystals, ranging in color from pale yellow to gray or green. The presence of calcite and silicate minerals, such as garnet, diopside, and wollastonite, gives calc-silicate rock its distinctive appearance and exceptional hardness. This rock's exceptional resistance to weathering and erosion has made it a favored material for construction and architectural purposes. In addition to its durability, calc-silicate rock is also highly valued in the field of geology as it provides valuable insights into the geological processes that have shaped the Earth's crust. With its intricate mineralogy and geological significance, calc-silicate rock stands as a testament to the complex and dynamic nature of our planet's geology.",
+    "wikiImage": "https://media.sciencephoto.com/c0/50/37/23/c0503723-800px-wm.jpg",
+    "type": "Metamorphic"
+  },
+  {
+    "name": "Mylonite",
+    "description": "Mylonite is an intriguing type of metamorphic rock renowned for its distinctive fabric and texture formed through intense deformation. This rock is created by the shearing and grinding of existing rocks along fault lines or during tectonic plate movements. Mylonite exhibits a pronounced foliation characterized by highly flattened minerals and a layered appearance. Its texture often appears granulated, resembling a fine-grained mixture of minerals. The rock is typically composed of minerals such as quartz, feldspar, mica, and amphibole, which contribute to its varied colors, including shades of gray, brown, and black. Mylonite's fabric is a result of extreme pressure and shear forces that cause the minerals to realign and recrystallize, imparting it with a unique appearance. This rock is commonly found in areas of intense geological activity, such as fault zones and mountain ranges. The intricate structure and fabric of mylonite provide valuable insights into the processes of rock deformation and the dynamic forces shaping the Earth's crust. With its distinct texture and geological significance, mylonite stands as a testament to the powerful forces that shape our planet.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/mylonite.jpg",
+    "type": "Metamorphic"
+  },
+  {
+    "name": "Quartz",
+    "description": "Quartz, often referred to as the Master Healer in the world of crystals, is a captivating mineral with a myriad of enchanting properties. It is one of the most abundant minerals on Earth and is known for its beautiful crystalline structure. Quartz comes in a variety of forms, including clear, smoky, rose, and amethyst, each with its own unique charm. Its colorless and transparent variety, known as clear quartz, is highly sought after for its pristine beauty. Quartz is prized for its exceptional clarity and brilliance, often resembling ice or crystal-clear water. It is renowned for its ability to amplify energy and is commonly used in spiritual practices and crystal healing. Quartz is also a key component of many technological advancements, including electronics and timekeeping devices. Its durability and resistance to weathering make it a favored material for jewelry and decorative objects. With its mesmerizing beauty, versatile applications, and metaphysical properties, quartz stands as a timeless symbol of clarity, energy, and harmony.",
+    "wikiImage": "https://cdn.britannica.com/48/100748-050-FFD5027B/Quartz-one-silica-varieties.jpg",
+    "type": "Mineral"
+  },
+  {
+    "name": "Dacite",
+    "description": "Dacite is a mesmerizing volcanic rock renowned for its striking appearance and intriguing composition. Formed through the cooling and solidification of silica-rich lava, it displays a unique combination of fine-grained texture and captivating mineral content. Dacite typically exhibits shades of gray, ranging from light to medium, and can occasionally feature hints of reddish or brownish hues. Composed primarily of plagioclase feldspar, quartz, and biotite or hornblende minerals, it possesses a balanced and intermediate composition on the silica-rich spectrum of igneous rocks. Its fine-grained nature gives dacite a smooth and uniform appearance, which adds to its aesthetic appeal. Due to its high silica content, dacite lava tends to be highly viscous, resulting in explosive volcanic activity. The diverse applications of dacite include its use in construction for producing aggregate, concrete, and road building materials. With its fascinating texture, unique mineral composition, and volcanic origins, dacite stands as a testament to the remarkable processes that shape our planet's dynamic geology.",
+    "wikiImage": "https://rockhoundresource.com/wp-content/uploads/2022/09/Dacite-2-1024x683.jpg",
+    "type": "Igneous"
+  },
+  {
+    "name": "Phonolite",
+    "description": "Phonolite is an extraordinary volcanic rock renowned for its distinctive composition and captivating appearance. It is formed through volcanic activity, specifically from highly alkaline magma that undergoes rapid cooling and solidification. Phonolite is characterized by its light gray to black color and fine-grained texture, giving it a smooth and uniform appearance. What sets phonolite apart is its unique mineral composition, which includes feldspar, nepheline, and augite or aegirine. These minerals contribute to its characteristic appearance and exceptional hardness. Phonolite often showcases beautiful phenocrysts, visible crystals embedded within the fine-grained matrix, adding an extra layer of visual interest. Due to its alkaline nature, phonolite lava tends to flow more easily and can create fascinating volcanic formations. Its aesthetic qualities have made it a favored material for decorative purposes and architectural applications. With its remarkable mineralogy and distinct volcanic origin, phonolite stands as a testament to the captivating diversity of rocks found in our planet's geological wonders.",
+    "wikiImage": "https://rockhoundresource.com/wp-content/uploads/2022/09/Dacite-2-1024x683.jpg",
+    "type": "Igneous"
+  },
+  {
+    "name": "Komatiite",
+    "description": "Komatiite is a captivating ultramafic volcanic rock renowned for its remarkable origin and unique characteristics. It was formed during the Archean Eon, a time when the Earth's mantle was hotter than it is today, resulting in the eruption of lava with extraordinary properties. Komatiite is known for its distinctive greenish to black color, which is derived from its high magnesium and iron content. It exhibits a striking spinifex texture, characterized by elongated crystals of olivine and pyroxene that give the rock a fibrous or Spiky appearance. Komatiite lava flows were incredibly hot, often reaching temperatures above 1,600 degrees Celsius, and were highly fluid, allowing them to travel significant distances before solidifying. This lava's unique characteristics have left a lasting impression on the rock, making it a sought-after specimen for scientific research and geological studies. Komatiite provides valuable insights into the early Earth's geological processes and the intense volcanic activity that shaped our planet's early history. With its extraordinary origin and distinct features, komatiite stands as a testament to the dynamic nature of our planet's geological evolution.",
+    "wikiImage": "https://i.pinimg.com/474x/93/11/bb/9311bb2195f00a6c908d6064132ba47e.jpg",
+    "type": "Igneous"
+  },
+  {
+    "name": "Porphyry",
+    "description": "Porphyry is a captivating igneous rock that displays a distinctive texture and mesmerizing composition. It is formed through the crystallization of magma in two distinct stages, resulting in a unique combination of large crystals embedded in a fine-grained matrix. Porphyry is characterized by its striking appearance, with contrasting colors and textures between the phenocrysts and the surrounding groundmass. The phenocrysts, which are larger crystals, can be composed of various minerals such as quartz, feldspar, or mica, and they often stand out due to their size and color. The groundmass, on the other hand, consists of smaller crystals or glassy material that fills the spaces between the phenocrysts. Porphyry is commonly associated with volcanic activity and can be found in volcanic rocks as well as in some plutonic intrusions. It has been highly valued throughout history for its decorative qualities and is often used in architecture, sculpture, and other artistic applications. With its intriguing texture, vibrant colors, and unique formation process, porphyry stands as a testament to the intricate beauty and diversity of igneous rocks.",
+    "wikiImage": "https://www.sandatlas.org/wp-content/uploads/1360-11.06.15_3-rhomb-porphyry-7-cm.jpg",
+    "type": "Igneous"
+  },
+  {
+    "name": "Lamprophyre",
+    "description": "Lamprophyre is an intriguing igneous rock known for its unique composition and captivating appearance. It is formed from the crystallization of magma deep within the Earth's crust. Lamprophyre typically exhibits a dark color, ranging from greenish-black to brown, with a fine-grained texture. The rock is characterized by its distinct mineral assemblage, which includes minerals such as biotite, amphibole, and feldspar. These minerals give lamprophyre its unique texture and contribute to its overall aesthetic appeal. Lamprophyre is often enriched in potassium and other trace elements, which adds to its geochemical significance. The rock is commonly found in association with other igneous rocks and can occur as dikes or veins intruding into surrounding rock formations. Due to its durability and attractive appearance, lamprophyre has been used in various applications, including decorative stone, paving, and construction materials. With its intriguing mineral composition and striking visual appeal, lamprophyre stands as a testament to the remarkable diversity of igneous rocks found in the Earth's crust.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/6880C19CB3B646D2A27DF384A78A9370.jpeg",
+    "type": "Igneous"
   }
 ]

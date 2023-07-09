@@ -85,7 +85,7 @@ const RockList = () => {
 
   const shareWithEmail = (rock) => {
     const subject = 'Rock Data'
-    const body = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
+    const body = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at https://www.rockscanner.com/`
     const encodedSubject = encodeURIComponent(subject)
     const encodedBody = encodeURIComponent(body)
     const emailUrl = `mailto:?subject=${encodedSubject}&body=${encodedBody}`
@@ -93,21 +93,21 @@ const RockList = () => {
   }
 
   const shareWithWhatsApp = (rock) => {
-    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at https://www.rockscanner.com/`
     const encodedMessage = encodeURIComponent(message)
     const whatsappUrl = `https://api.whatsapp.com/send?text=${encodedMessage}`
     window.open(whatsappUrl, '_blank')
   }
 
   const shareWithTwitter = (rock) => {
-    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at https://www.rockscanner.com/`
     const encodedMessage = encodeURIComponent(message)
     const twitterUrl = `https://twitter.com/intent/tweet?text=${encodedMessage}`
     window.open(twitterUrl, '_blank')
   }
 
   const shareWithInstagram = (rock) => {
-    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at 'https://www.rockscanner.com/'`
+    const message = `Check out this amazing rock: ${rock.name}\n\nDescription: ${rock.description}\n\nVisit my website at https://www.rockscanner.com/`
     const encodedMessage = encodeURIComponent(message)
     const instagramUrl = `https://www.instagram.com/?${encodedMessage}`
     window.open(instagramUrl, '_blank')

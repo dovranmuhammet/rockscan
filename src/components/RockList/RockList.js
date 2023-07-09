@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Card from '@mui/material/Card'
+import FavoriteIcon from '@mui/icons-material/Favorite'
 import CardContent from '@mui/material/CardContent'
 import Typography from '@mui/material/Typography'
 import {
@@ -22,6 +23,18 @@ const RockList = () => {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedType, setSelectedType] = useState('all')
   const [sharePopup, setSharePopup] = useState(null)
+  const [favorites, setFavorites] = useState([])
+
+  const handleFavoriteClick = (rock) => {
+    const updatedFavorites = favorites.includes(rock)
+      ? favorites.filter((favorite) => favorite !== rock)
+      : [...favorites, rock]
+    setFavorites(updatedFavorites)
+  }
+
+  const isRockFavorite = (rock) => {
+    return favorites.includes(rock)
+  }
 
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value)
@@ -175,6 +188,19 @@ const RockList = () => {
             </CardContent>
 
             <CardActions className='card-actions'>
+              <IconButton
+                style={{
+                  backgroundColor: isRockFavorite(rock) ? 'red' : '#345a8b',
+                  color: '#fff',
+                  borderRadius: '50%',
+                  padding: '8px',
+                  marginLeft: '8px',
+                }}
+                onClick={() => handleFavoriteClick(rock)}
+              >
+                <FavoriteIcon />
+              </IconButton>
+
               <IconButton
                 style={{
                   backgroundColor: '#345a8b',

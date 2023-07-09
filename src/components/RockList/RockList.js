@@ -8,6 +8,7 @@ import {
   CardActions,
   MenuItem,
   TextField,
+  useMediaQuery,
 } from '@mui/material'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
 import ShareIcon from '@mui/icons-material/Share'
@@ -16,6 +17,7 @@ import rockDataJson from './rocks.json'
 import axios from 'axios'
 
 const RockList = () => {
+  const isMobile = useMediaQuery('(max-width: 600px)')
   const [rockData, setRockData] = useState(rockDataJson)
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedType, setSelectedType] = useState('all')
@@ -116,7 +118,8 @@ const RockList = () => {
             boxShadow: '0px 2px 6px rgba(0, 0, 0, 0.1)',
             outline: 'none',
             fontSize: '16px',
-            width: '800px',
+            width: isMobile ? '100%' : '800px',
+            maxWidth: '800px', // Adjust the maxWidth as needed
             margin: '10px',
           }}
         />

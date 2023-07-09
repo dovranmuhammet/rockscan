@@ -109,7 +109,8 @@
 /* Mobile Styles */
 @media screen and (max-width: 480px) {
   .navbar-wrapper {
-    padding: 3px;
+    padding: 7px;
+    padding-left: 1px;
   }
 
   .home,

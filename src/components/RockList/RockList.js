@@ -182,6 +182,12 @@ const RockList = () => {
                 variant='body2'
                 color='text.secondary'
                 className='card-description'
+                style={{
+                  marginTop: '15px',
+                  lineHeight: '25px',
+                  color: '#333',
+                  fontSize: '14px',
+                }}
               >
                 {rock.description}
               </Typography>

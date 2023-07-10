@@ -6,9 +6,9 @@ import CardActions from '@mui/material/CardActions'
 import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
+import './GeoWonder.css'
 import geoinfo from './geoinfo.json'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
-import './GeoWonder.css'
 
 function GeoWonder() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
@@ -81,7 +81,11 @@ function GeoWonder() {
               variant='h5'
               component='div'
               className='card-title'
-              style={{ color: '#345a8b' }}
+              style={{
+                color: 'rgb(34, 68, 123)',
+                fontWeight: '550',
+                marginTop: '15px',
+              }}
             >
               {item.topic}
             </Typography>
@@ -89,8 +93,13 @@ function GeoWonder() {
             <Typography
               variant='body2'
               color='text.secondary'
-              className='card-description'
-              style={{ marginTop: '15px' }}
+              className='card-description-wonder'
+              style={{
+                marginTop: '15px',
+                lineHeight: '25px',
+                color: '#333',
+                fontSize: '14px',
+              }}
             >
               {item.description}
             </Typography>

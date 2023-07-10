@@ -15,62 +15,6 @@
   overflow: hidden;
 }
 
-/* Remarkable button */
-.card {
-  position: relative;
-}
-
-.mark {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  width: 24px;
-  height: 60px;
-  background-color: #f50057;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  border-radius: 4px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.mark.clicked {
-  background-color: #d50000;
-}
-
-.mark:hover {
-  background-color: #ff4081;
-}
-
-.mark.clicked:hover {
-  background-color: #b71c1c;
-}
-
-.card:hover .mark {
-  background-color: #ff4081;
-}
-
-.card:hover .mark.clicked {
-  background-color: #b71c1c;
-}
-
-.mark:before {
-  content: '';
-  display: inline-block;
-  width: 4px;
-  height: 16px;
-  background-color: white;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.mark.clicked:before {
-  transform: scale(0.8);
-}
-
-/* Finished here Mark Button */
-
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
@@ -83,22 +27,22 @@
 .image-container {
   height: 200px;
   overflow: hidden;
-  border-radius: 8px 8px 0 0; /* Add border radius to the top corners */
+  border-radius: 8px 8px 0 0;
 }
 
 .card-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 8px 8px 0 0; /* Add border radius to the top corners */
+  border-radius: 8px 8px 0 0;
 }
 
 .card-title {
   font-weight: bold;
   margin-bottom: 10px;
   text-align: center;
-  color: #333; /* Change the color of the title */
-  font-size: 18px; /* Adjust the font size of the title */
+  color: #333;
+  font-size: 18px;
 }
 
 .card-description-wonder {
@@ -113,10 +57,59 @@
 .card-actions {
   display: flex;
   justify-content: center;
+  margin-top: 16px;
 }
 
 .card-actions button {
   margin: 0 8px;
+  background-color: #345a8b;
+  color: #fff;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
 }
 
-/* ---------------------- */
+.card-actions button:hover {
+  background-color: #3f83b5;
+}
+
+.card-actions .like-button.liked {
+  background-color: #f50057;
+}
+
+.card-actions .like-button.liked:hover {
+  background-color: #d50000;
+}
+
+.share-popup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.share-popup-icons {
+  display: flex;
+  gap: 16px;
+}
+
+.share-popup-icons a {
+  color: #fff;
+  font-size: 24px;
+  transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.share-popup-icons a:hover {
+  color: #b3b3b3;
+}

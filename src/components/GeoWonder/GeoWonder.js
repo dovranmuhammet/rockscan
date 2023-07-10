@@ -113,7 +113,7 @@ function GeoWonder() {
             >
               {item.showFullDescription
                 ? item.description
-                : item.description.split('. ').slice(0, 1).join('. ') + '.'}
+                : item.description.split('. ').slice(0, 3).join('. ') + '.'}
             </Typography>
 
             {item.description.split('. ').length > 1 && (

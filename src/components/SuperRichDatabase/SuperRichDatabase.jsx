@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import Classes from './SuperRichDatabase.module.css'
 import Feature2 from '../../assets/images/feature2.webp'
-import geoinfo from '../GeoClips/geoinfo.json'
+import geoinfo from '../GeoWonder/geoinfo.json'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import CardMedia from '@mui/material/CardMedia'
@@ -12,8 +12,8 @@ import { Button, CardActionArea, CardActions } from '@mui/material'
 const SuperRichDatabase = () => {
   const navigate = useNavigate()
 
-  const navigateToGeoClips = () => {
-    navigate('/geoclips')
+  const navigateToGeoWonder = () => {
+    navigate('/geowonder')
   }
 
   return (
@@ -97,7 +97,7 @@ const SuperRichDatabase = () => {
                     <Button
                       size='small'
                       color='primary'
-                      onClick={navigateToGeoClips}
+                      onClick={navigateToGeoWonder}
                       className={Classes.learnButton}
                       style={{ color: '#22447b' }}
                     >

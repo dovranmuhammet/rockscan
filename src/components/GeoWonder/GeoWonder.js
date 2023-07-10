@@ -8,8 +8,9 @@ import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
 import geoinfo from './geoinfo.json'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
+import './GeoWonder.css'
 
-function GeoClips() {
+function GeoWonder() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
   const [sharePopup, setSharePopup] = useState(null)
 
@@ -193,4 +194,4 @@ function GeoClips() {
   )
 }
 
-export default GeoClips
+export default GeoWonder

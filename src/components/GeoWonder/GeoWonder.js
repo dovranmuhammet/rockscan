@@ -191,21 +191,6 @@ function GeoWonder() {
                 onClick={handleClosePopup}
                 style={{
                   fontWeight: 'bold',
-                  fontSize: '14px',
-                  color: '#ff4081',
-                  cursor: 'pointer',
-                  transition: 'background-color 0.3s ease',
-                  border: 'none',
-                  outline: 'none',
-                  marginLeft: '15px',
-                }}
-                onMouseEnter={(e) => {
-                  e.target.style.color = '#fff'
-                  e.target.style.backgroundColor = '#ff4081'
-                }}
-                onMouseLeave={(e) => {
-                  e.target.style.color = '#ff4081'
-                  e.target.style.backgroundColor = 'transparent'
                 }}
               >
                 Close

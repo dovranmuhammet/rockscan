@@ -185,7 +185,7 @@ const RockList = () => {
                 style={{
                   marginTop: '15px',
                   lineHeight: '25px',
-                  color: '#333',
+                  color: 'rgb(51, 51, 51)',
                   fontSize: '14px',
                 }}
               >

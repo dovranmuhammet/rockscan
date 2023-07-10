@@ -196,6 +196,19 @@ const RockList = () => {
             <CardActions className='card-actions'>
               <IconButton
                 style={{
+                  backgroundColor: '#345a8b',
+                  color: '#fff',
+                  borderRadius: '50%',
+                  padding: '8px',
+                  marginLeft: '8px',
+                }}
+                onClick={(event) => handleShareClick(event, rock)}
+              >
+                <ShareIcon />
+              </IconButton>
+
+              <IconButton
+                style={{
                   backgroundColor: isRockFavorite(rock) ? 'red' : '#345a8b',
                   color: '#fff',
                   borderRadius: '50%',
@@ -207,18 +220,6 @@ const RockList = () => {
                 <FavoriteIcon />
               </IconButton>
 
-              <IconButton
-                style={{
-                  backgroundColor: '#345a8b',
-                  color: '#fff',
-                  borderRadius: '50%',
-                  padding: '8px',
-                  marginLeft: '8px',
-                }}
-                onClick={(event) => handleShareClick(event, rock)}
-              >
-                <ShareIcon />
-              </IconButton>
               <Button
                 variant='contained'
                 onClick={() => getRockWikipediaData(rock.name)}

@@ -38,6 +38,16 @@ function GeoWonder() {
     setSharePopup(null)
   }
 
+  const toggleDescription = (itemId) => {
+    setGeoInfo((prevGeoInfo) =>
+      prevGeoInfo.map((item) =>
+        item.id === itemId
+          ? { ...item, showFullDescription: !item.showFullDescription }
+          : item
+      )
+    )
+  }
+
   return (
     <div className='card-container'>
       <button
@@ -101,8 +111,24 @@ function GeoWonder() {
                 fontSize: '14px',
               }}
             >
-              {item.description}
+              {item.showFullDescription
+                ? item.description
+                : item.description.split('. ').slice(0, 1).join('. ') + '.'}
             </Typography>
+
+            {item.description.split('. ').length > 1 && (
+              <Button
+                onClick={() => toggleDescription(item.id)}
+                style={{
+                  fontWeight: 'bold',
+                  marginTop: '10px',
+                  color: '#345a8b',
+                  cursor: 'pointer',
+                }}
+              >
+                {item.showFullDescription ? 'Read Less' : 'Read More'}
+              </Button>
+            )}
           </CardContent>
           <CardActions className='card-actions'>
             <Button

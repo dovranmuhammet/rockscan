@@ -6,6 +6,7 @@ import CardActions from '@mui/material/CardActions'
 import CardContent from '@mui/material/CardContent'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
+import OpenInNewIcon from '@mui/icons-material/OpenInNew'
 import './GeoWonder.css'
 import geoinfo from './geoinfo.json'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
@@ -137,6 +138,42 @@ function GeoWonder() {
               </span>
               Fun Fact: {item.fun_fact}
             </div>
+
+            {/* Add the external links */}
+            {item.external_links && item.external_links.length > 0 && (
+              <div className='external-links'>
+                <Typography
+                  variant='body2'
+                  color='text.secondary'
+                  style={{
+                    fontWeight: 'bold',
+                    marginBottom: '8px',
+                    color: '#345a8b',
+                    marginTop: '10px',
+                  }}
+                >
+                  External Links:
+                </Typography>
+                {item.external_links.map((link) => (
+                  <Button
+                    key={link.id}
+                    variant='outlined'
+                    startIcon={<OpenInNewIcon />}
+                    href={link.url}
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='external-link-button'
+                    style={{
+                      color: '#345a8b',
+                      borderColor: '#345a8b',
+                      marginRight: '10px',
+                    }}
+                  >
+                    {link.title}
+                  </Button>
+                ))}
+              </div>
+            )}
           </CardContent>
           <CardActions className='card-actions'>
             <Button
@@ -144,7 +181,7 @@ function GeoWonder() {
               size='small'
               onClick={(event) => handleShareClick(event, item.id)}
               style={{
-                backgroundColor: '#345a8b ',
+                backgroundColor: '#345a8b',
                 color: '#fff',
                 borderRadius: '6px',
                 padding: '8px 16px',

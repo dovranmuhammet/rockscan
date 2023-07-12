@@ -1,6 +1,30 @@
 [
   {
     "id": 1,
+    "topic": "What is the estimated age of the Earth and how do scientists determine its age?",
+    "description": "Earth is estimated to be approximately 4.54 billion years old, with a margin of error of about 50 million years. Scientists have conducted extensive research to identify the oldest rocks on Earth and determine their ages using radiometric dating techniques. In northwestern Canada, rocks with an age of about 4.03 billion years were discovered, providing valuable insights into Earth's early history. Additionally, minerals found in Australia have been dated to be about 4.3 billion years old, further corroborating the ancient age of our planet. To gather additional data, scientists have turned to extraterrestrial sources. Moon rocks collected during the Apollo missions and meteorites that have crash-landed on Earth have been analyzed. These materials, believed to have formed around the same time as Earth, have been dated to be between 4.4 and 4.5 billion years old. This information supports the idea that the bodies within the solar system formed around a similar timeframe. However, due to the continuous recycling of rocks through the rock cycle, scientists remain diligent in their search for additional evidence to refine our understanding of Earth's early history and the precise age of our planet.",
+    "img": "https://earthsky.org/upl/2021/06/earth-rotation-NASA-EPIC.gif",
+    "fun_fact": "Did you know that the oldest minerals found on Earth, known as zircons, date back to about 4.4 billion years? These tiny crystals provide important clues about the early stages of our planet's formation. Zircons have been found in Western Greenland, Australia, and other locations worldwide."
+  },
+
+  {
+    "id": 2,
+    "topic": "What is the study of rocks, minerals, and the Earth's physical structure called?",
+    "description": "The study of rocks, minerals, and the Earth's physical structure is known as geology. Geology is a branch of Earth science that focuses on understanding the composition, structure, and history of the Earth and the processes that shape it. Geologists examine rocks and minerals to decipher their formation, properties, and distribution. They investigate various aspects of the Earth's physical structure, including the layers of the Earth, tectonic plate movements, and the formation of mountains, valleys, and other landforms. Geologists also study the Earth's past through the analysis of fossils, sedimentary layers, and geological records, helping to unravel the planet's evolutionary history. By understanding the Earth's geology, scientists gain insights into natural hazards such as earthquakes, volcanic eruptions, and landslides, and contribute to the exploration and extraction of Earth's resources, including minerals, water, and energy sources.",
+    "img": "https://previews.123rf.com/images/urfandadashov/urfandadashov1808/urfandadashov180815459/107445287-geology-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-geology-logo.jpg",
+    "fun_fact": "Did you know that the study of geology can also provide insights into extraterrestrial bodies? Geologists analyze meteorites, moon rocks, and even samples from other planets to understand their geological history and formation processes."
+  },
+
+  {
+    "id": 5,
+    "topic": "What type of rock is formed from the cooling and solidification of lava or magma?",
+    "description": "The type of rock formed from the cooling and solidification of lava or magma is called igneous rock. Igneous rocks are formed when molten material, either lava (above the Earth's surface) or magma (below the surface), cools and solidifies. As the molten material cools, minerals crystallize and interlock, giving igneous rocks their characteristic texture and composition. Igneous rocks can have a range of textures, from fine-grained to coarse-grained, depending on the rate of cooling. Rapid cooling results in fine-grained rocks, while slow cooling leads to the formation of coarse-grained rocks. Common examples of igneous rocks include basalt, granite, and obsidian. Igneous rocks provide valuable information about the Earth's geologic history, as their composition and texture reveal the conditions under which they formed. They are also significant in various industries, such as construction, where they are used as building materials, and in geothermal energy extraction, as they can serve as a heat source.",
+    "img": "https://www.thoughtco.com/thmb/x3-kUASUiITfQzrkBTR38MHNB2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/about-igneous-rocks-1438950_final_CORRECTED2FINAL-f8d738e151b9437caa256d21155d091f.png",
+    "fun_fact": "Did you know that the world's largest volcanic island is Mauna Loa in Hawaii? It is an active shield volcano and is part of the Hawaiian Islands, formed by successive lava flows over millions of years."
+  },
+
+  {
+    "id": 1,
     "topic": "What is the process of photosynthesis and why is it crucial for life on Earth?",
     "description": "Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose (a form of sugar) and oxygen. This remarkable process takes place in specialized cell structures called chloroplasts, which contain a pigment called chlorophyll that absorbs sunlight. During photosynthesis, chlorophyll captures the energy from sunlight, which is then used to convert carbon dioxide and water into glucose. Oxygen is released as a byproduct. Photosynthesis is crucial for life on Earth as it serves as the primary source of oxygen in the atmosphere, which is essential for the survival of many organisms, including humans. Additionally, photosynthesis is the foundation of most food chains, as plants produce organic compounds that serve as food for other organisms. Without photosynthesis, life as we know it would not be possible.",
     "img": "https://images.nationalgeographic.org/image/upload/v1638912503/EducationHub/photos/photosynthesis.jpg",
@@ -27,6 +51,14 @@
     "img": "https://images.nationalgeographic.org/image/upload/v1638912503/EducationHub/photos/great-barrier-reef.jpg",
     "fun_fact": "Did you know that the Great Barrier Reef can be seen from space? The reef's vibrant colors and vast expanse make it visible from satellite images, showcasing its immense size and beauty."
   },
+  {
+    "id": 51,
+    "topic": "What is the deepest part of the ocean and how deep is it?",
+    "description": "The Mariana Trench in the western Pacific Ocean is the deepest part of the ocean, reaching a depth of approximately 10,984 meters (36,070 feet). It is located in the floor of the western Pacific Ocean, to the east of the Mariana Islands. The trench is the result of tectonic plate subduction, where the Pacific Plate is forced beneath the Philippine Sea Plate. The extreme depth of the Mariana Trench remains one of the most challenging and least explored areas on Earth. Deep-sea explorations have revealed unique and mysterious organisms adapted to the extreme conditions of darkness and extreme pressure found in the trench.",
+    "img": "https://images.nationalgeographic.org/image/upload/v1638912503/EducationHub/photos/mariana-trench.jpg",
+    "fun_fact": "Did you know that if Mount Everest, the highest peak on land, were placed into the Mariana Trench, its summit would still be more than 2 kilometers (1.24 miles) below the ocean's surface?"
+  },
+
   {
     "id": 5,
     "topic": "What is the process of continental drift and how has it shaped Earth's landmasses?",
@@ -154,12 +186,21 @@
     "fun_fact": "Did you know that water molecules can go through multiple cycles in the water cycle? The same water molecule that evaporates from the ocean can eventually fall as rain, flow in rivers, evaporate again, and continue the cycle multiple times before eventually reaching the ocean again."
   },
   {
-    "id": 23,
-    "topic": "What are the different types of rocks and how are they formed?",
-    "description": "Rocks are the solid, naturally occurring materials that make up the Earth's lithosphere. There are three major types of rocks: igneous, sedimentary, and metamorphic. Igneous rocks are formed from the solidification of molten rock, known as magma or lava. They can be classified into two categories: intrusive igneous rocks, which cool and solidify beneath the Earth's surface, and extrusive igneous rocks, which cool and solidify on the Earth's surface. Examples of igneous rocks include granite, basalt, and obsidian. Sedimentary rocks are formed through the accumulation and compaction of sediments, which can be derived from the weathering and erosion of pre-existing rocks, the remains of plants and animals, or chemical precipitates. Sedimentary rocks can be further classified into three groups: clastic, organic, and chemical. Examples of sedimentary rocks include sandstone, limestone, and shale. Metamorphic rocks are formed from the transformation of pre-existing rock types through heat and pressure. The original rocks, known as protoliths, undergo profound changes in their mineralogy, texture, and structure. Examples of metamorphic rocks include marble, slate, and gneiss. The rock cycle describes the continuous transformation of rocks between these three types through geological processes.",
-    "img": "https://i.ytimg.com/vi/hJxTRXdq_sU/maxresdefault.jpg",
-    "fun_fact": "Did you know that the oldest rocks on Earth are over 4 billion years old? These ancient rocks provide valuable insights into the early history and formation of our planet."
+    "id": 2,
+    "topic": "What is the hardest mineral on the Mohs scale, and why is its exceptional hardness significant in various industries?",
+    "description": "The hardest mineral on the Mohs scale is diamond, which has a Mohs hardness of 10. Diamond's exceptional hardness is significant in various industries due to its remarkable physical properties. Its hardness makes diamond extremely resistant to scratching, making it ideal for industrial applications such as cutting, grinding, and polishing. Diamond tools are widely used in industries such as mining, construction, and machining, where high precision and durability are required. Additionally, diamond's hardness is valuable in the jewelry industry, as it ensures the longevity and brilliance of diamond gemstones. The hardness of diamond also plays a role in scientific research and technology, where it is utilized in fields like optics and electronics. Furthermore, diamond's exceptional hardness is significant for its use in manufacturing high-pressure environments, such as in diamond anvil cells used for studying materials under extreme conditions. Overall, diamond's unmatched hardness makes it a highly sought-after material in various industries, offering durability, precision, and unique properties for a wide range of applications.",
+    "img": "https://cdn.hswstatic.com/gif/Mohs-hardness-scale.jpg",
+    "fun_fact": "Did you know that diamonds are not only found on Earth? Scientists have discovered diamonds in meteorites that have fallen from space! These extraterrestrial diamonds provide insights into the formation processes of other celestial bodies."
   },
+
+  {
+    "id": 4,
+    "topic": "What is the term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure?",
+    "description": "The term for a naturally occurring, inorganic solid with a specific chemical composition and a crystalline structure is a mineral. Minerals are fundamental building blocks of rocks and are formed through various geological processes over extensive periods of time. They possess a well-defined chemical composition, meaning they are composed of specific elements arranged in a particular ratio. The atoms in minerals are organized in a repetitive, three-dimensional pattern, forming a crystalline structure. This arrangement gives minerals their characteristic external shape and internal atomic order. Minerals exhibit a diverse range of physical properties such as color, hardness, luster, cleavage, and specific gravity, which can be used for identification purposes. They occur in a wide variety of environments, including igneous, sedimentary, and metamorphic rocks, as well as in hydrothermal veins and as precipitates from solution. The study of minerals, known as mineralogy, provides insights into the Earth's composition, geological processes, and the conditions under which minerals form.",
+    "img": "https://images.slideplayer.com/39/10975156/slides/slide_2.jpg",
+    "fun_fact": "Did you know that there are over 5,000 known minerals on Earth? Each mineral has its own unique combination of chemical composition and crystal structure, resulting in a wide variety of colors, shapes, and properties."
+  },
+
   {
     "id": 24,
     "topic": "What is the process of erosion and how does it shape the Earth's surface?",

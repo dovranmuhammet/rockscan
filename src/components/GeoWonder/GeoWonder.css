@@ -124,12 +124,13 @@
 /* Add the animated fun_fact section */
 
 .card-fun-fact {
-  margin-top: 20px;
-  font-size: 14px;
+  margin-top: 10px;
+  font-size: 13px;
   font-style: italic;
-  color: #345a8b;
+  color: #666;
   opacity: 0;
   transition: opacity 0.3s;
+  line-height: 20px;
 }
 
 .card:hover .card-fun-fact {

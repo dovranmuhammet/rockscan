@@ -120,3 +120,36 @@
 }
 
 /* ---------------------- */
+
+ {
+  /* Add the animated fun_fact section */
+}
+
+.card-fun-fact {
+  margin-top: 10px;
+  font-size: 12px;
+  font-style: italic;
+  color: #666;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.card:hover .card-fun-fact {
+  opacity: 1;
+}
+
+.fun-fact-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+  animation: rotate 3s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

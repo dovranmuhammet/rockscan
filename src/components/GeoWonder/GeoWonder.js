@@ -129,6 +129,14 @@ function GeoWonder() {
                 {item.showFullDescription ? 'Read Less' : 'Read More'}
               </Button>
             )}
+
+            {/* Add the animated fun_fact section */}
+            <div className='card-fun-fact'>
+              <span className='fun-fact-icon' role='img' aria-label='Fun Fact'>
+                🎉
+              </span>
+              Fun Fact: {item.fun_fact}
+            </div>
           </CardContent>
           <CardActions className='card-actions'>
             <Button

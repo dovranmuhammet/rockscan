@@ -121,15 +121,13 @@
 
 /* ---------------------- */
 
- {
-  /* Add the animated fun_fact section */
-}
+/* Add the animated fun_fact section */
 
 .card-fun-fact {
-  margin-top: 10px;
-  font-size: 12px;
+  margin-top: 20px;
+  font-size: 14px;
   font-style: italic;
-  color: #666;
+  color: #345a8b;
   opacity: 0;
   transition: opacity 0.3s;
 }

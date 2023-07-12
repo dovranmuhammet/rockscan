@@ -149,7 +149,7 @@ function GeoWonder() {
                     fontWeight: 'bold',
                     marginBottom: '8px',
                     color: '#345a8b',
-                    marginTop: '10px',
+                    marginTop: '15px',
                   }}
                 >
                   External Links:

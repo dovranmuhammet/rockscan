@@ -7,6 +7,7 @@ import Footer from './components/Footer/Footer'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import GeoWonder from './components/GeoWonder/GeoWonder'
+import RockExpanse from './components/RockExpanse/RockExpanse'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/rocks' element={<RockList />} />
         <Route path='/geowonder' element={<GeoWonder />} />
+        <Route path='./rockexpanse' element={RockExpanse} />
       </Routes>
       <Footer />
     </div>

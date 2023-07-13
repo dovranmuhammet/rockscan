@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "name": "Granite",
+    "description": "Granite is a coarse-grained igneous rock that embodies the power and beauty of nature. Composed mainly of quartz, feldspar, and mica minerals, granite is formed deep within the Earth's crust through the slow cooling and solidification of molten magma. It features captivating granular texture and a breathtaking array of colors, making it a popular choice for architectural and artistic expression.",
+    "image": "https://example.com/granite.jpg",
+    "type": "Igneous",
+    "formation": "Granite is created through the extraordinary forces of nature. It begins as molten magma deep beneath the Earth's surface. As tectonic plates shift and collide, magma rises and forms immense underground chambers. Inside these chambers, under immense pressure, the magma cools slowly, allowing the minerals within to crystallize and interlock, giving rise to the remarkable structure and strength of granite.",
+    "features": [
+      "Exceptional hardness and resistance to heat, scratches, and stains",
+      "Retains lustrous shine and vibrant color for generations",
+      "Diverse range of colors, patterns, and mineral compositions",
+      "Symbolizes strength, endurance, and timeless beauty in human culture",
+      "Versatile and elegant choice for interior design"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Marble",
+    "description": "Marble is a metamorphic rock known for its stunning veined patterns and lustrous appearance. Composed primarily of calcite or dolomite minerals, marble forms when limestone is subjected to heat and pressure deep within the Earth's crust. It is widely used in architecture, sculpture, and decorative applications due to its beauty and versatility.",
+    "image": "https://example.com/marble.jpg",
+    "type": "Metamorphic",
+    "formation": "Marble is formed through the metamorphism of limestone, which occurs when the sedimentary rock is exposed to intense heat and pressure. This process causes the calcite crystals in limestone to recrystallize and merge, resulting in the distinctive veining and polished texture of marble.",
+    "features": [
+      "Exquisite veined patterns and lustrous appearance",
+      "Versatile and widely used in architecture and sculpture",
+      "Forms through the metamorphism of limestone",
+      "Symbolizes elegance, luxury, and artistic expression",
+      "Polished surface reflects light, creating a timeless beauty"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Quartz",
+    "description": "Quartz is a mineral renowned for its beauty, versatility, and abundance in the Earth's crust. It is composed of silicon and oxygen atoms arranged in a crystal lattice structure. Quartz exists in a wide variety of colors and forms, including clear quartz, amethyst, rose quartz, and smoky quartz. It is used in jewelry, electronics, and many industrial applications.",
+    "image": "https://example.com/quartz.jpg",
+    "type": "Mineral",
+    "formation": "Quartz forms in a variety of environments, including igneous, metamorphic, and sedimentary rocks. It is one of the most abundant minerals in the Earth's crust and can be found in many different geological settings. Quartz crystals grow when silicon dioxide-rich solutions or melts cool and solidify, resulting in the unique properties and forms of quartz.",
+    "features": [
+      "Wide variety of colors and forms",
+      "Versatile and used in jewelry, electronics, and industry",
+      "Abundant mineral in the Earth's crust",
+      "Hardness and durability make it suitable for various applications",
+      "Believed to possess healing and spiritual properties"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Basalt",
+    "description": "Basalt is a common extrusive igneous rock formed from the rapid cooling of lava on the Earth's surface. It is characterized by its fine-grained texture and dark gray to black color. Basalt is abundant in volcanic regions and is an important component of oceanic crust. It has various applications, including as a construction material and in the production of aggregates.",
+    "image": "https://example.com/basalt.jpg",
+    "type": "Igneous",
+    "formation": "Basalt forms when lava erupts from a volcano and rapidly cools on the Earth's surface. The rapid cooling prevents the growth of large crystals, resulting in a fine-grained texture. Basaltic lava flows can cover vast areas and build up thick layers, contributing to the formation of basalt rock formations.",
+    "features": [
+      "Fine-grained texture and dark gray to black color",
+      "Abundant in volcanic regions and oceanic crust",
+      "Used as a construction material and in aggregates",
+      "Rapid cooling results in small crystal size",
+      "Forms extensive lava flows and rock formations"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Limestone",
+    "description": "Limestone is a sedimentary rock primarily composed of calcium carbonate. It forms from the accumulation of marine organisms' shells and skeletal fragments. Limestone often exhibits a range of colors, including white, beige, gray, and yellow. It is used in construction, as a raw material in cement production, and as a decorative stone in architecture.",
+    "image": "https://example.com/limestone.jpg",
+    "type": "Sedimentary",
+    "formation": "Limestone forms in marine environments where calcium carbonate-rich materials accumulate. Over time, these materials are compacted and cemented together by pressure and chemical processes. Fossils and organic matter often become embedded in the rock, adding to its character and providing valuable paleontological information.",
+    "features": [
+      "Primarily composed of calcium carbonate",
+      "Forms from the accumulation of shells and skeletal fragments",
+      "Wide range of colors and textures",
+      "Used in construction and cement production",
+      "Contains valuable fossils and paleontological records"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Sandstone",
+    "description": "Sandstone is a sedimentary rock composed of sand-sized grains of minerals, rock fragments, and organic matter. It is characterized by its granular texture and wide range of colors, including white, yellow, red, and brown. Sandstone is commonly used as a building material and has been employed in construction for thousands of years.",
+    "image": "https://example.com/sandstone.jpg",
+    "type": "Sedimentary",
+    "formation": "Sandstone forms when sand-sized grains are compacted and cemented together. These grains can come from various sources, including the erosion of pre-existing rocks, minerals, and organic matter. Over time, the pressure and mineral-rich fluids bind the grains, creating the solid rock we know as sandstone.",
+    "features": [
+      "Composed of sand-sized grains, rock fragments, and organic matter",
+      "Granular texture and wide range of colors",
+      "Commonly used as a building material",
+      "Easily recognizable and widely distributed",
+      "Layers often preserve geological and paleontological records"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Slate",
+    "description": "Slate is a fine-grained metamorphic rock that possesses excellent splitting properties. It is derived from shale or claystone through low-grade regional metamorphism. Slate is characterized by its smooth texture, subtle colors, and ability to be split into thin sheets. It has been used for roofing, flooring, and as a writing surface for centuries.",
+    "image": "https://example.com/slate.jpg",
+    "type": "Metamorphic",
+    "formation": "Slate forms from the low-grade metamorphism of shale or claystone. The intense pressure and heat cause the clay minerals to recrystallize and align, resulting in the fine-grained texture and excellent splitting ability of slate. This rock is often found in regions with abundant sedimentary deposits and suitable metamorphic conditions.",
+    "features": [
+      "Fine-grained texture and excellent splitting properties",
+      "Derived from shale or claystone through low-grade metamorphism",
+      "Smooth surface and subtle colors",
+      "Used for roofing, flooring, and writing surfaces",
+      "Preserves cleavage planes, allowing easy splitting"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Gneiss",
+    "description": "Gneiss is a high-grade metamorphic rock characterized by its banded appearance and alternating light and dark mineral layers. It forms from the intense metamorphism of pre-existing rocks, such as granite or shale. Gneiss is renowned for its beauty and durability, making it suitable for a wide range of applications, including countertops and decorative stone.",
+    "image": "https://example.com/gneiss.jpg",
+    "type": "Metamorphic",
+    "formation": "Gneiss forms under high temperature and pressure conditions that result in the reorientation and segregation of minerals within pre-existing rocks. The alternating light and dark bands in gneiss are a result of this mineral segregation. Gneiss is often found in regions with complex geologic histories and has significant economic and aesthetic value.",
+    "features": [
+      "Banded appearance with alternating light and dark mineral layers",
+      "Forms from the intense metamorphism of pre-existing rocks",
+      "Renowned for its beauty and durability",
+      "Used in countertops and decorative applications",
+      "Reflects the geological history of the region"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Schist",
+    "description": "Schist is a medium- to coarse-grained metamorphic rock characterized by its foliated texture and high mineral content. It forms from the metamorphism of shale or mudstone and often contains mica minerals, giving it a shimmering appearance. Schist is widely used as a decorative stone, and certain varieties, such as garnet schist, have gemstone potential.",
+    "image": "https://example.com/schist.jpg",
+    "type": "Metamorphic",
+    "formation": "Schist forms when shale or mudstone undergoes intense metamorphism. The heat and pressure cause the minerals within the rock to recrystallize and align, giving rise to the foliated texture and high mineral content of schist. Mica minerals, such as biotite and muscovite, are commonly present and contribute to the rock's characteristic shimmering appearance.",
+    "features": [
+      "Foliated texture and high mineral content",
+      "Forms from the metamorphism of shale or mudstone",
+      "Often contains mica minerals, providing a shimmering appearance",
+      "Used as a decorative stone and for landscaping",
+      "Certain varieties have gemstone potential"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Obsidian",
+    "description": "Obsidian is a naturally occurring volcanic glass formed through the rapid cooling of lava. It is characterized by its smooth, glossy texture and dark color. Obsidian can be black, brown, or green and often exhibits conchoidal fractures. It has been used for tools, weapons, and ornamental objects by various cultures throughout history.",
+    "image": "https://example.com/obsidian.jpg",
+    "type": "Igneous",
+    "formation": "Obsidian forms when lava cools rapidly, preventing the crystallization of minerals. As a result, obsidian is a glassy substance with a smooth, glossy texture. The color variations in obsidian are attributed to impurities or the presence of mineral crystals. Obsidian is commonly found in areas with recent or ongoing volcanic activity.",
+    "features": [
+      "Smooth, glossy texture and dark color",
+      "Forms from the rapid cooling of lava",
+      "Characterized by conchoidal fractures",
+      "Used for tools, weapons, and ornamental objects",
+      "Occurs in areas with volcanic activity"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Jade",
+    "description": "Jade is a precious gemstone known for its vibrant green color and cultural significance. It is composed of two minerals: jadeite and nephrite. Jadeite, the rarer and more valuable variety, is prized for its vivid green hues and high translucency. Nephrite, the more common type, is known for its toughness and durability. Jade has been used for carving and jewelry for thousands of years.",
+    "image": "https://example.com/jade.jpg",
+    "type": "Mineral",
+    "formation": "Jadeite and nephrite form under different geological conditions. Jadeite is typically found in metamorphic rocks associated with subduction zones, while nephrite forms in metamorphosed serpentinite rocks. Both minerals have been highly regarded in many cultures, symbolizing purity, beauty, and spiritual power.",
+    "features": [
+      "Prized for vibrant green color and cultural significance",
+      "Composed of jadeite and nephrite minerals",
+      "Jadeite exhibits vivid green hues and high translucency",
+      "Nephrite is known for its toughness and durability",
+      "Used for carving and jewelry for thousands of years"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Opal",
+    "description": "Opal is a unique and captivating gemstone known for its play of colors, which can include a dazzling array of hues. It is composed of hydrated silica, and its internal structure diffracts light, creating the iridescent display. Opal can be transparent, translucent, or opaque and has been valued for its beauty and mystical properties throughout history.",
+    "image": "https://example.com/opal.jpg",
+    "type": "Mineral",
+    "formation": "Opal forms in the voids and cracks of rocks, most commonly in sedimentary or volcanic environments. It is created through the deposition of silica-rich solutions that fill these spaces over long periods. The arrangement of the silica spheres within opal determines the colors observed, giving rise to its mesmerizing play of colors.",
+    "features": [
+      "Unique and captivating play of colors",
+      "Composed of hydrated silica with an iridescent internal structure",
+      "Can be transparent, translucent, or opaque",
+      "Valued for its beauty and mystical properties",
+      "Forms in voids and cracks of rocks in sedimentary or volcanic environments"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Amethyst",
+    "description": "Amethyst is a stunning purple gemstone that belongs to the quartz family. Its purple color can range from light lavender to deep violet. Amethyst is prized for its beauty and has been used in jewelry and decorative items for centuries. It is also believed to possess spiritual and healing properties.",
+    "image": "https://example.com/amethyst.jpg",
+    "type": "Mineral",
+    "formation": "Amethyst forms in quartz veins and geodes when silica-rich fluids deposit minerals within cavities in rocks. The purple color of amethyst is due to the presence of iron impurities combined with natural irradiation. The intensity of the purple color can vary depending on the amount of impurities and the geological conditions during formation.",
+    "features": [
+      "Stunning purple color ranging from light lavender to deep violet",
+      "Believed to possess spiritual and healing properties",
+      "Used in jewelry and decorative items",
+      "Forms in quartz veins and geodes",
+      "Distinctive and alluring gemstone"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Diamond",
+    "description": "Diamond is a precious gemstone renowned for its brilliance, durability, and rarity. It is composed of carbon atoms arranged in a crystal lattice structure. Diamonds form deep within the Earth's mantle under extreme pressure and temperature conditions. They are the hardest known natural material and have been prized for their beauty and value for centuries.",
+    "image": "https://example.com/diamond.jpg",
+    "type": "Mineral",
+    "formation": "Diamonds form deep within the Earth's mantle, approximately 150 to 200 kilometers below the surface. The high pressure and temperature conditions cause carbon atoms to crystallize, forming diamonds over millions of years. Volcanic eruptions then bring diamonds closer to the surface, where they can be mined.",
+    "features": [
+      "Renowned for brilliance, durability, and rarity",
+      "Composed of carbon atoms in a crystal lattice structure",
+      "Forms deep within the Earth's mantle",
+      "Hardest known natural material",
+      "Prized for beauty and value"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Ruby",
+    "description": "Ruby is a precious gemstone known for its vibrant red color and exceptional hardness. It belongs to the corundum mineral family and is second in hardness only to diamond. Rubies have been treasured for their beauty and rarity throughout history and are often associated with royalty and passion.",
+    "image": "https://example.com/ruby.jpg",
+    "type": "Mineral",
+    "formation": "Rubies form when corundum crystals are exposed to specific geological conditions, including high temperature and pressure. The presence of trace elements, such as chromium, within the corundum structure gives rubies their intense red color. Rubies are typically found in metamorphic rocks, such as marble and schist.",
+    "features": [
+      "Vibrant red color and exceptional hardness",
+      "Believed to symbolize passion and royalty",
+      "Forms in metamorphic rocks under specific geological conditions",
+      "Contains trace elements, such as chromium",
+      "Highly prized for its beauty and rarity"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Sapphire",
+    "description": "Sapphire is a precious gemstone known for its captivating blue color, though it can occur in various other colors as well. It belongs to the corundum mineral family, just like ruby. Sapphires are prized for their hardness, durability, and brilliance and have been cherished for centuries.",
+    "image": "https://example.com/sapphire.jpg",
+    "type": "Mineral",
+    "formation": "Sapphires form under similar geological conditions as rubies, with corundum crystals exposed to high temperature and pressure. The presence of different trace elements, such as iron and titanium, leads to the diverse range of colors observed in sapphires. They are found in a variety of rock types, including metamorphic and igneous rocks.",
+    "features": [
+      "Captivating blue color, but occurs in various other colors too",
+      "Believed to symbolize wisdom and protection",
+      "Forms in metamorphic and igneous rocks",
+      "Hardness and durability make it suitable for jewelry",
+      "Highly valued for its beauty and brilliance"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Emerald",
+    "description": "Emerald is a precious gemstone known for its stunning green color and vividness. It is a variety of the mineral beryl and owes its green color to trace amounts of chromium and vanadium. Emeralds have been treasured for their beauty and rarity for thousands of years and are associated with luxury and prosperity.",
+    "image": "https://example.com/emerald.jpg",
+    "type": "Mineral",
+    "formation": "Emeralds form in hydrothermal veins and are typically found in association with rocks such as granite and schist. The presence of chromium and vanadium within the beryl structure imparts the distinctive green color to emeralds. Their formation requires specific geological conditions involving heat, pressure, and the presence of mineral-rich fluids.",
+    "features": [
+      "Stunning green color and vividness",
+      "Associated with luxury and prosperity",
+      "Forms in hydrothermal veins",
+      "Contains trace amounts of chromium and vanadium",
+      "Highly valued for its beauty and rarity"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Topaz",
+    "description": "Topaz is a versatile and captivating gemstone that occurs in a variety of colors. Its most common color is yellow, but it can also be found in shades of blue, pink, and peach. Topaz is prized for its brilliance and clarity and has been used in jewelry and ornamental objects for centuries.",
+    "image": "https://example.com/topaz.jpg",
+    "type": "Mineral",
+    "formation": "Topaz forms in igneous rocks, such as granite and pegmatite, as well as in hydrothermal veins. It occurs when aluminum-rich solutions infiltrate cavities within these rocks and deposit the mineral over time. The color variations in topaz are due to impurities or structural defects within the crystal lattice.",
+    "features": [
+      "Versatile gemstone occurring in a variety of colors",
+      "Prized for its brilliance and clarity",
+      "Forms in igneous rocks and hydrothermal veins",
+      "Color variations due to impurities or defects",
+      "Used in jewelry and ornamental objects"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Garnet",
+    "description": "Garnet is a group of minerals that occurs in a variety of colors, with red being the most common. It is known for its remarkable brilliance and is often used as a gemstone. Garnets have been prized for their beauty and durability for thousands of years.",
+    "image": "https://example.com/garnet.jpg",
+    "type": "Mineral",
+    "formation": "Garnets form in a variety of rock types, including metamorphic and igneous rocks. They crystallize from mineral-rich fluids that infiltrate the rock and undergo specific chemical reactions. Different garnet species can have distinct compositions and colors, but they all share the general crystal structure and similar physical properties.",
+    "features": [
+      "Group of minerals occurring in various colors",
+      "Remarkable brilliance and high refractive index",
+      "Forms in metamorphic and igneous rocks",
+      "Used as a gemstone and abrasive material",
+      "Prized for its beauty and durability"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Tourmaline",
+    "description": "Tourmaline is a fascinating gemstone that occurs in a wide range of colors. It is prized for its exceptional clarity and beautiful color variations. Tourmaline crystals can display a phenomenon called pleochroism, where the color changes when viewed from different angles. It has been used in jewelry and ornamental objects for centuries.",
+    "image": "https://example.com/tourmaline.jpg",
+    "type": "Mineral",
+    "formation": "Tourmaline forms in a variety of geological settings, including pegmatites, metamorphic rocks, and granitic veins. It crystallizes from mineral-rich solutions or melts that infiltrate these environments. The complex chemical composition of tourmaline results in its remarkable color variations and pleochroism.",
+    "features": [
+      "Fascinating gemstone occurring in a wide range of colors",
+      "Exceptional clarity and color variations",
+      "Exhibits pleochroism, with color changing when viewed from different angles",
+      "Forms in various geological settings",
+      "Used in jewelry and ornamental objects"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Malachite",
+    "description": "Malachite is a vibrant green mineral known for its striking banded patterns and polished appearance. It is composed of copper carbonate and forms through the weathering and oxidation of copper ore deposits. Malachite has been used as a decorative stone and in jewelry for thousands of years.",
+    "image": "https://example.com/malachite.jpg",
+    "type": "Mineral",
+    "formation": "Malachite forms as a secondary mineral in the oxidation zone of copper ore deposits. Over time, copper-rich solutions infiltrate the surrounding rocks, reacting with carbonates and forming malachite. The distinctive banded patterns are a result of the mineral's growth in layers.",
+    "features": [
+      "Vibrant green mineral with striking banded patterns",
+      "Composed of copper carbonate",
+      "Forms through the weathering and oxidation of copper ore deposits",
+      "Used as a decorative stone and in jewelry",
+      "Polished surface enhances its beauty"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Agate",
+    "description": "Agate is a type of chalcedony known for its banded and multicolored appearance. It is formed within volcanic or metamorphic rocks, where silica-rich fluids slowly deposit layers of minerals within cavities and cracks. Agate is prized for its beauty and is often used in jewelry and decorative objects.",
+    "image": "https://example.com/agate.jpg",
+    "type": "Mineral",
+    "formation": "Agate forms when silica-rich fluids infiltrate cavities and fractures within rocks, such as volcanic or metamorphic rocks. Over time, these fluids deposit layers of minerals, resulting in the banded and multicolored appearance of agate. The precise conditions of fluid composition, temperature, and pressure determine the colors and patterns observed.",
+    "features": [
+      "Banded and multicolored appearance",
+      "Forms within volcanic or metamorphic rocks",
+      "Deposited layers of minerals within cavities and cracks",
+      "Prized for its beauty and used in jewelry and decorative objects",
+      "Various color variations and patterns"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Jasper",
+    "description": "Jasper is an opaque variety of chalcedony known for its earthy colors and interesting patterns. It occurs in a wide range of colors, including red, brown, yellow, and green. Jasper is used in jewelry, carvings, and decorative objects due to its unique appearance and natural beauty.",
+    "image": "https://example.com/jasper.jpg",
+    "type": "Mineral",
+    "formation": "Jasper forms through the deposition of silica-rich fluids within sedimentary or volcanic environments. These fluids infiltrate porous rocks and deposit microcrystalline quartz, giving rise to the unique colors and patterns observed in jasper. The presence of various impurities contributes to the diverse range of jasper varieties.",
+    "features": [
+      "Opaque variety of chalcedony with earthy colors and interesting patterns",
+      "Occurs in a wide range of colors",
+      "Forms through the deposition of silica-rich fluids",
+      "Used in jewelry, carvings, and decorative objects",
+      "Unique appearance and natural beauty"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Onyx",
+    "description": "Onyx is a type of chalcedony known for its alternating black and white bands. It is formed in the same manner as agate, with layers of minerals deposited within cavities and fractures. Onyx has been used in jewelry and ornamental objects for centuries.",
+    "image": "https://example.com/onyx.jpg",
+    "type": "Mineral",
+    "formation": "Onyx forms through the same processes as agate, with silica-rich fluids depositing layers of minerals within cavities and fractures. The alternating black and white bands in onyx are a result of the deposition of different minerals or impurities. Onyx is often found in association with agate and other chalcedony varieties.",
+    "features": [
+      "Distinctive alternating black and white bands",
+      "Forms through the deposition of silica-rich fluids",
+      "Used in jewelry and ornamental objects",
+      "Similar formation process as agate",
+      "Prized for its unique appearance"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Calcite",
+    "description": "Calcite is a common mineral found in a variety of colors and crystal forms. It is composed of calcium carbonate and occurs in many geological settings, including sedimentary, metamorphic, and igneous rocks. Calcite is used in various industries, including construction, agriculture, and pharmaceuticals.",
+    "image": "https://example.com/calcite.jpg",
+    "type": "Mineral",
+    "formation": "Calcite forms through the precipitation of calcium carbonate from water-rich solutions. It can occur as a result of biological processes, such as the accumulation of shells or coral, or as a mineral deposit in caves. The crystal forms and colors of calcite can vary depending on the specific conditions of formation.",
+    "features": [
+      "Common mineral occurring in a variety of colors and crystal forms",
+      "Composed of calcium carbonate",
+      "Forms in sedimentary, metamorphic, and igneous rocks",
+      "Used in construction, agriculture, and pharmaceuticals",
+      "Various forms, including stalactites and rhombohedral crystals"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Fluorite",
+    "description": "Fluorite is a colorful mineral known for its fluorescence under ultraviolet light. It occurs in a wide range of colors, including purple, blue, green, yellow, and pink. Fluorite is used in various industries, including optics, metallurgy, and jewelry.",
+    "image": "https://example.com/fluorite.jpg",
+    "type": "Mineral",
+    "formation": "Fluorite forms in a variety of geological environments, often in association with hydrothermal ore deposits. It crystallizes from fluorine-rich fluids that infiltrate rocks and deposit minerals over time. The distinctive colors of fluorite are due to impurities or structural defects within the crystal lattice.",
+    "features": [
+      "Colorful mineral exhibiting fluorescence under UV light",
+      "Occurs in a wide range of colors",
+      "Forms in association with hydrothermal ore deposits",
+      "Used in optics, metallurgy, and jewelry",
+      "Distinctive crystal shapes and vibrant colors"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Pyrite",
+    "description": "Pyrite is a brassy yellow mineral known as 'fool's gold' due to its resemblance to gold. It is composed of iron sulfide and occurs in various geological settings, including sedimentary rocks and hydrothermal veins. Pyrite has been used in jewelry and as a source of sulfur and iron.",
+    "image": "https://example.com/pyrite.jpg",
+    "type": "Mineral",
+    "formation": "Pyrite forms in a variety of geological environments, including sedimentary rocks, hydrothermal veins, and as a replacement mineral in fossils. It crystallizes from iron-rich fluids that react with sulfur-bearing minerals, resulting in the formation of pyrite. The distinctive brassy yellow color and metallic luster of pyrite contribute to its nickname 'fool's gold'.",
+    "features": [
+      "Brassy yellow mineral resembling gold",
+      "Known as 'fool's gold'",
+      "Forms in various geological settings",
+      "Used in jewelry and as a source of sulfur and iron",
+      "Distinctive cubic crystal shape and metallic luster"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Hematite",
+    "description": "Hematite is a mineral known for its characteristic red-brown to black color and metallic luster. It is composed of iron oxide and occurs in various forms, including botryoidal (resembling a cluster of grapes) and specular (mirror-like) hematite. Hematite is used as an iron ore and as a pigment in paints and cosmetics.",
+    "image": "https://example.com/hematite.jpg",
+    "type": "Mineral",
+    "formation": "Hematite forms in a variety of geological environments, including sedimentary rocks, hydrothermal veins, and as a weathering product of iron-rich minerals. It crystallizes from iron-rich solutions or precipitates from water under specific conditions. Hematite often occurs in association with other iron-bearing minerals.",
+    "features": [
+      "Characteristic red-brown to black color and metallic luster",
+      "Forms in various geological settings",
+      "Used as an iron ore and as a pigment",
+      "Distinctive botryoidal and specular forms",
+      "Significant source of iron"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Chalcedony",
+    "description": "Chalcedony is a microcrystalline variety of quartz known for its waxy luster and smooth, translucent appearance. It occurs in a wide range of colors, including white, gray, blue, and pink. Chalcedony is used in jewelry and ornamental objects due to its beautiful and diverse forms.",
+    "image": "https://example.com/chalcedony.jpg",
+    "type": "Mineral",
+    "formation": "Chalcedony forms as a result of the precipitation of silica-rich fluids in cavities and fractures within rocks. Over time, these fluids deposit microcrystalline quartz, giving rise to the smooth and translucent appearance of chalcedony. The variety of colors and forms observed in chalcedony are attributed to different impurities and structural arrangements.",
+    "features": [
+      "Microcrystalline variety of quartz with waxy luster",
+      "Smooth, translucent appearance",
+      "Occurs in a wide range of colors",
+      "Forms in cavities and fractures within rocks",
+      "Used in jewelry and ornamental objects"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Quartz",
+    "description": "Quartz is one of the most abundant minerals in the Earth's crust and occurs in a variety of forms. It is composed of silicon dioxide and can be transparent, translucent, or opaque. Quartz has many uses, including in the production of glass, electronics, and gemstones.",
+    "image": "https://example.com/quartz.jpg",
+    "type": "Mineral",
+    "formation": "Quartz forms in a variety of geological environments, including igneous, metamorphic, and sedimentary rocks. It crystallizes from silica-rich solutions or precipitates from water in cavities and fractures. Quartz can exhibit different crystal forms and occur in a range of colors due to impurities and structural variations.",
+    "features": [
+      "One of the most abundant minerals in the Earth's crust",
+      "Composed of silicon dioxide",
+      "Occurs in a variety of forms and colors",
+      "Used in glass production, electronics, and gemstones",
+      "Versatile and valuable mineral"
+    ]
+  }
+]

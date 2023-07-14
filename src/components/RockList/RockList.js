@@ -1,4 +1,3 @@
-RockList Component
 import React, { useState } from 'react'
 import Card from '@mui/material/Card'
 import FavoriteIcon from '@mui/icons-material/Favorite'

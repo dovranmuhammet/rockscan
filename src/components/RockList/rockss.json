@@ -1,19 +1,5 @@
-{
-    "name": "Granite",
-    "description": "Granite is a coarse-grained igneous rock that embodies the power and beauty of nature. Composed mainly of quartz, feldspar, and mica minerals, granite is formed deep within the Earth's crust through the slow cooling and solidification of molten magma. It features captivating granular texture and a breathtaking array of colors, making it a popular choice for architectural and artistic expression.",
-    "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
-    "type": "Igneous",
-    "formation": "Granite is created through the extraordinary forces of nature. It begins as molten magma deep beneath the Earth's surface. As tectonic plates shift and collide, magma rises and forms immense underground chambers. Inside these chambers, under immense pressure, the magma cools slowly, allowing the minerals within to crystallize and interlock, giving rise to the remarkable structure and strength of granite.",
-    "features": [
-      "Exceptional hardness and resistance to heat, scratches, and stains",
-      "Retains lustrous shine and vibrant color for generations",
-      "Diverse range of colors, patterns, and mineral compositions",
-      "Symbolizes strength, endurance, and timeless beauty in human culture",
-      "Versatile and elegant choice for interior design"
-    ]
-  },
-
-{
+[
+  {
     "name": "Granite",
     "description": "Granite is a coarse-grained igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It typically has a granular texture and is known for its durability and strength. Granite forms deep within the Earth's crust through the slow cooling and solidification of molten magma. It is abundant in continental crust and can be found in various colors, including gray, pink, white, and black. Granite is commonly used as a construction material due to its strength and resistance to weathering and erosion. It is often quarried and cut into slabs for use as countertops, flooring, and building facades. Granite is also used for decorative purposes, such as in monuments and sculptures. Its unique combination of beauty, durability, and versatility has made it a popular choice in architecture and design. Granite is considered one of the most common and widely distributed rocks on Earth.",
     "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
@@ -633,5 +619,4 @@
     "wikiImage": "https://rockidentifier.com/wiki-image/1080/6880C19CB3B646D2A27DF384A78A9370.jpeg",
     "type": "Igneous"
   }
-
-  
+]

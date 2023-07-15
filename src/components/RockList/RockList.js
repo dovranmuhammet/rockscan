@@ -191,6 +191,25 @@ const RockList = () => {
               >
                 {rock.description}
               </Typography>
+
+              <Typography
+                variant='body2'
+                color='text.secondary'
+                className='card-features'
+                style={{
+                  marginTop: '15px',
+                  lineHeight: '25px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                }}
+              >
+                <strong>Features:</strong>
+                <ul>
+                  {rock.features.map((feature, index) => (
+                    <li key={index}>{feature}</li>
+                  ))}
+                </ul>
+              </Typography>
             </CardContent>
 
             <CardActions className='card-actions'>

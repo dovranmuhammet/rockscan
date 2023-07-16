@@ -242,7 +242,17 @@ const RockList = () => {
                 {rock.description}
               </Typography>
               {/* Render the formation description */}
-              <Typography variant='body2' className='card-section'>
+              <Typography
+                variant='body2'
+                className='card-section'
+                style={{
+                  lineHeight: '25px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                  fontStyle: 'italic',
+                  marginTop: '10px',
+                }}
+              >
                 <strong>Formation:</strong>{' '}
                 {expandedFormation.includes(rock) ? (
                   <>
@@ -266,7 +276,16 @@ const RockList = () => {
                 )}
               </Typography>
               {/* Render the characteristics */}
-              <Typography variant='body2' className='card-section'>
+              <Typography
+                variant='body2'
+                className='card-section'
+                style={{
+                  lineHeight: '25px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                  fontStyle: 'italic',
+                }}
+              >
                 <strong>Characteristics:</strong>
                 {expandedCharacteristics.includes(rock) ? (
                   <>
@@ -298,7 +317,16 @@ const RockList = () => {
                 )}
               </Typography>
               {/* Render the applications */}
-              <Typography variant='body2' className='card-section'>
+              <Typography
+                variant='body2'
+                className='card-section'
+                style={{
+                  lineHeight: '25px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                  fontStyle: 'italic',
+                }}
+              >
                 <strong>Applications:</strong>
                 {expandedApplications.includes(rock) ? (
                   <>
@@ -326,7 +354,16 @@ const RockList = () => {
                 )}
               </Typography>
               {/* Render the scientific significance */}
-              <Typography variant='body2' className='card-section'>
+              <Typography
+                variant='body2'
+                className='card-section'
+                style={{
+                  lineHeight: '25px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                  fontStyle: 'italic',
+                }}
+              >
                 <strong>Scientific Significance:</strong>{' '}
                 {expandedSignificance.includes(rock) ? (
                   <>

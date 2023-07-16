@@ -3,6 +3,7 @@
     "name": "Granite",
     "description": "Granite is a common type of igneous rock that is widely used in construction and architecture. It is formed through the slow crystallization of magma deep beneath the Earth's surface. With its unique combination of durability, beauty, and versatility, Granite has become a popular choice for countertops, flooring, monuments, and more.",
     "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
+    "type": "Igneous",
     "formation": {
       "description": "Granite forms when molten magma cools and solidifies over long periods of time. The slow cooling allows large mineral crystals to form, resulting in Granite's distinctive coarse-grained texture."
     },

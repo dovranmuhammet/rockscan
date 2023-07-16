@@ -163,7 +163,7 @@ const RockList = () => {
           <Card key={rock.name} className='card'>
             <CardContent>
               <div className='image-container'>
-                <img src={rock.wikiImage} alt='Earth' className='card-image' />
+                <img src={rock.image} alt='Earth' className='card-image' />
               </div>
               <Typography
                 gutterBottom
@@ -201,14 +201,53 @@ const RockList = () => {
                   lineHeight: '25px',
                   color: 'rgb(51, 51, 51)',
                   fontSize: '14px',
+                  fontStyle: 'italic',
                 }}
               >
-                <strong>Features:</strong>
-                <ul>
+                <strong
+                  style={{
+                    color: 'rgb(34, 68, 123)',
+                    fontSize: '15px',
+                  }}
+                >
+                  Features:
+                </strong>
+
+                <ul className='features-list'>
+                  {' '}
+                  {/* Add a class for styling */}
                   {rock.features.map((feature, index) => (
-                    <li key={index}>{feature}</li>
+                    <li key={index} className='feature-item'>
+                      {' '}
+                      {/* Add a class for styling */}
+                      <span
+                        className='feature-title'
+                        style={{ fontWeight: 'bold', marginRight: '5px' }}
+                      >
+                        {' '}
+                        {feature.title}:
+                      </span>
+                      <span className='feature-description'>
+                        {' '}
+                        {feature.description}{' '}
+                      </span>
+                    </li>
                   ))}
                 </ul>
+              </Typography>
+
+              <Typography
+                variant='body2'
+                color='text.secondary'
+                className='card-type'
+                style={{
+                  marginTop: '10px',
+                  color: 'rgb(51, 51, 51)',
+                  fontSize: '14px',
+                  fontStyle: 'italic',
+                }}
+              >
+                <strong>Type:</strong> {rock.type}
               </Typography>
             </CardContent>
 

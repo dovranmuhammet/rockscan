@@ -1,5 +1,82 @@
 [
   {
+    "id": "1",
+    "name": "Granite",
+    "description": "Granite is a durable and versatile igneous rock renowned for its strength and aesthetic appeal. Composed primarily of quartz, feldspar, and mica minerals, Granite forms deep within the Earth's crust through the cooling of molten magma. With its coarse-grained texture and a wide range of colors including gray, pink, white, and black, Granite is a popular choice in construction and art. It is commonly used for countertops, flooring, and building facades, adding elegance to architectural designs. Additionally, Granite lends itself to the creation of captivating monuments and sculptures. Discover the enduring charm and exceptional qualities of Granite.",
+    "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
+    "type": "Igneous",
+    "features": [
+      "Durable and versatile composition",
+      "Coarse-grained texture",
+      "Available in various colors",
+      "Used in construction for countertops, flooring, and facades",
+      "Ideal for monuments and sculptures"
+    ]
+  },
+
+  {
+    "id": "2",
+    "name": "Basalt",
+    "description": "Basalt is a durable and fine-grained igneous rock formed from the rapid cooling of lava near the Earth's surface. Composed primarily of pyroxene, plagioclase feldspar, and olivine, Basalt exhibits a dense and durable composition. It ranges in color from dark gray to black. Basalt is widely used in construction for its strength and resistance to weathering. It is commonly used in the production of crushed stone, concrete aggregates, and asphalt for road construction. Basalt is also favored for creating statues, sculptures, and jewelry due to its aesthetic appeal. Explore the remarkable qualities of Basalt and discover its versatility, durability, and timeless allure.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-basalt-0721.jpg",
+    "type": "Igneous",
+    "features": [
+      "Durable and fine-grained composition",
+      "Dark gray to black color range",
+      "Commonly used in construction",
+      "Suitable for statues, sculptures, and jewelry"
+    ]
+  },
+
+  {
+    "id": "3",
+    "name": "Limestone",
+    "description": "Limestone is a sedimentary rock known for its natural beauty and versatility. Composed mainly of calcium carbonate, Limestone exhibits a range of colors from white and cream to gray and beige. It forms through the accumulation of marine fossils and sedimentation over millions of years. Limestone is renowned for its durability and weather resistance, making it an excellent choice for construction projects. It is commonly used for building facades, flooring, and decorative features. Limestone's unique patterns and textures add a touch of elegance to both interior and exterior designs. Discover the timeless charm and practical applications of Limestone.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/E7A599B2500C4AA7984B0709A0B50876.jpeg",
+    "type": "Sedimentary",
+    "features": [
+      "Versatile sedimentary rock",
+      "Wide range of colors from white to gray",
+      "Durable and weather resistant",
+      "Commonly used in construction",
+      "Adds elegance to architectural designs"
+    ]
+  },
+
+  {
+    "id": "4",
+    "name": "Slate",
+    "description": "Slate is a fine-grained metamorphic rock renowned for its elegance and versatility. Formed from the metamorphosis of shale under high heat and pressure, Slate exhibits a smooth texture and comes in a variety of colors including gray, black, green, and purple. It is prized for its exceptional durability and resistance to heat, making it a popular choice for roofing, flooring, and wall cladding. Slate's unique ability to be split into thin layers, known as slates, allows for a wide range of design possibilities. It adds a touch of sophistication to both modern and traditional architectural styles. Explore the timeless beauty and practical applications of Slate.",
+    "wikiImage": "https://m.media-amazon.com/images/I/81DqWINkngL._AC_UF894,1000_QL80_.jpg",
+    "type": "Metamorphic",
+    "features": [
+      "Fine-grained metamorphic rock",
+      "Available in various colors including gray, black, green, and purple",
+      "Durable and heat resistant",
+      "Commonly used for roofing, flooring, and wall cladding",
+      "Adds sophistication to architectural designs"
+    ]
+  },
+
+  {
+    "id": "5",
+    "name": "Diorite",
+    "description": "Diorite is a coarse-grained intrusive igneous rock composed mainly of plagioclase feldspar, hornblende, and biotite. It forms deep within the Earth's crust through the slow cooling and solidification of magma. Diorite showcases a distinct speckled appearance with light and dark mineral grains, creating a visually appealing texture. It is valued for its durability and strength, making it a popular choice for construction projects. Diorite's neutral gray to black color and uniform texture create a versatile canvas for various design applications. It can be used for countertops, flooring, wall cladding, and decorative features, adding elegance and resilience to designs. Experience the timeless and sophisticated aesthetic of Diorite.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/3F23896590B547FAA06612CD6E93DBC3.jpeg",
+    "type": "Igneous",
+    "features": [
+      "Coarse-grained composition of plagioclase feldspar, hornblende, and biotite",
+      "Distinct speckled appearance with light and dark mineral grains",
+      "Durable and strong",
+      "Suitable for construction projects",
+      "Neutral gray to black color with uniform texture",
+      "Versatile for various design applications",
+      "Used for countertops, flooring, wall cladding, and decorative features",
+      "Adds elegance and resilience to designs",
+      "Creates a timeless and sophisticated aesthetic"
+    ]
+  },
+  {
     "name": "Granite",
     "description": "Granite is a coarse-grained igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It typically has a granular texture and is known for its durability and strength. Granite forms deep within the Earth's crust through the slow cooling and solidification of molten magma. It is abundant in continental crust and can be found in various colors, including gray, pink, white, and black. Granite is commonly used as a construction material due to its strength and resistance to weathering and erosion. It is often quarried and cut into slabs for use as countertops, flooring, and building facades. Granite is also used for decorative purposes, such as in monuments and sculptures. Its unique combination of beauty, durability, and versatility has made it a popular choice in architecture and design. Granite is considered one of the most common and widely distributed rocks on Earth.",
     "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",

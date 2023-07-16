@@ -24,6 +24,10 @@ const RockList = () => {
   const [selectedType, setSelectedType] = useState('all')
   const [sharePopup, setSharePopup] = useState(null)
   const [favorites, setFavorites] = useState([])
+  const [expandedCharacteristics, setExpandedCharacteristics] = useState([])
+  const [expandedApplications, setExpandedApplications] = useState([])
+  const [expandedSignificance, setExpandedSignificance] = useState([])
+  const [expandedFormation, setExpandedFormation] = useState([])
 
   const handleFavoriteClick = (rock) => {
     const updatedFavorites = favorites.includes(rock)
@@ -113,6 +117,52 @@ const RockList = () => {
     window.open(instagramUrl, '_blank')
   }
 
+  const handleReadMoreClick = (section, rock) => {
+    switch (section) {
+      case 'characteristics':
+        setExpandedCharacteristics([...expandedCharacteristics, rock])
+        break
+      case 'applications':
+        setExpandedApplications([...expandedApplications, rock])
+        break
+      case 'significance':
+        setExpandedSignificance([...expandedSignificance, rock])
+        break
+      case 'formation':
+        setExpandedFormation([...expandedFormation, rock])
+        break
+      default:
+        break
+    }
+  }
+
+  const handleReadLessClick = (section, rock) => {
+    switch (section) {
+      case 'characteristics':
+        setExpandedCharacteristics(
+          expandedCharacteristics.filter((r) => r !== rock)
+        )
+        break
+      case 'applications':
+        setExpandedApplications(expandedApplications.filter((r) => r !== rock))
+        break
+      case 'significance':
+        setExpandedSignificance(expandedSignificance.filter((r) => r !== rock))
+        break
+      case 'formation':
+        setExpandedFormation(expandedFormation.filter((r) => r !== rock))
+        break
+      default:
+        break
+    }
+  }
+
+  const readMoreButtonStyles = {
+    fontWeight: 'bold',
+    color: 'rgb(52, 90, 139)',
+    cursor: 'pointer',
+  }
+
   return (
     <div>
       <div
@@ -190,6 +240,114 @@ const RockList = () => {
                 }}
               >
                 {rock.description}
+              </Typography>
+              {/* Render the formation description */}
+              <Typography variant='body2' className='card-section'>
+                <strong>Formation:</strong>{' '}
+                {expandedFormation.includes(rock) ? (
+                  <>
+                    {rock.formation.description}
+                    <Button
+                      variant='text'
+                      onClick={() => handleReadLessClick('formation', rock)}
+                      style={readMoreButtonStyles}
+                    >
+                      Read Less
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    variant='text'
+                    onClick={() => handleReadMoreClick('formation', rock)}
+                    style={readMoreButtonStyles}
+                  >
+                    Read More
+                  </Button>
+                )}
+              </Typography>
+              {/* Render the characteristics */}
+              <Typography variant='body2' className='card-section'>
+                <strong>Characteristics:</strong>
+                {expandedCharacteristics.includes(rock) ? (
+                  <>
+                    <ul>
+                      <li>{rock.characteristics.color}</li>
+                      <li>{rock.characteristics.composition}</li>
+                      <li>{rock.characteristics.hardness}</li>
+                      <li>{rock.characteristics.density}</li>
+                      <li>{rock.characteristics.porosity}</li>
+                    </ul>
+                    <Button
+                      variant='text'
+                      onClick={() =>
+                        handleReadLessClick('characteristics', rock)
+                      }
+                      style={readMoreButtonStyles}
+                    >
+                      Read Less
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    variant='text'
+                    onClick={() => handleReadMoreClick('characteristics', rock)}
+                    style={readMoreButtonStyles}
+                  >
+                    Read More
+                  </Button>
+                )}
+              </Typography>
+              {/* Render the applications */}
+              <Typography variant='body2' className='card-section'>
+                <strong>Applications:</strong>
+                {expandedApplications.includes(rock) ? (
+                  <>
+                    <ul>
+                      <li>{rock.applications.construction}</li>
+                      <li>{rock.applications.monuments}</li>
+                      <li>{rock.applications.sculptures}</li>
+                    </ul>
+                    <Button
+                      variant='text'
+                      onClick={() => handleReadLessClick('applications', rock)}
+                      style={readMoreButtonStyles}
+                    >
+                      Read Less
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    variant='text'
+                    onClick={() => handleReadMoreClick('applications', rock)}
+                    style={readMoreButtonStyles}
+                  >
+                    Read More
+                  </Button>
+                )}
+              </Typography>
+              {/* Render the scientific significance */}
+              <Typography variant='body2' className='card-section'>
+                <strong>Scientific Significance:</strong>{' '}
+                {expandedSignificance.includes(rock) ? (
+                  <>
+                    {rock.scientificSignificance}
+                    <Button
+                      variant='text'
+                      onClick={() => handleReadLessClick('significance', rock)}
+                      style={readMoreButtonStyles}
+                    >
+                      Read Less
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    variant='text'
+                    onClick={() => handleReadMoreClick('significance', rock)}
+                    style={readMoreButtonStyles}
+                  >
+                    Read More
+                  </Button>
+                )}
               </Typography>
             </CardContent>
 

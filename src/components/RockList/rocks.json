@@ -510,7 +510,7 @@
     "id": "23",
     "name": "Coal",
     "description": "Coal is a combustible sedimentary rock that is primarily composed of carbon along with various other elements, such as hydrogen, sulfur, oxygen, and nitrogen. It forms from the remains of plants that lived and accumulated in swampy environments millions of years ago. Coal is a widely used fossil fuel and plays a crucial role in power generation and industrial processes.",
-    "wikiImage": "ttps://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_60070_16639360696318441.jpg",
+    "wikiImage": "https://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_60070_16639360696318441.jpg",
     "type": "Sedimentary",
     "formation": {
       "description": "Coal forms from the transformation of organic plant material under high pressure and heat over long periods of time. The process, known as coalification, involves the physical and chemical alteration of plant remains, resulting in the formation of different coal types based on their carbon content and properties."
@@ -690,5 +690,74 @@
       "sculptures": "Travertine has been used for centuries in various historical structures and monuments. Notable examples include the Colosseum in Rome, the ancient city of Hierapolis in Turkey, and numerous Renaissance buildings in Italy. Its use in historical architecture contributes to its cultural and historical significance."
     },
     "scientificSignificance": "Travertine has scientific significance in the study of sedimentary processes, mineral precipitation, and diagenesis. It provides insights into the formation of limestone and the interaction between groundwater, minerals, and geological features. Studying travertine can also help in understanding paleoclimates and past environments."
+  },
+  {
+    "id": "31",
+    "name": "Siltstone",
+    "description": "Siltstone is a sedimentary rock composed primarily of fine-grained particles known as silt. It forms through the deposition and compaction of silt-sized particles, which are smaller than sand but larger than clay. Siltstone typically has a smooth texture and often exhibits bedding planes or laminations. It is commonly found in riverbeds, lake bottoms, and coastal areas.",
+    "wikiImage": "https://images.wisegeek.com/siltstone-against-white-background.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Siltstone forms through the accumulation of silt-sized particles, which are transported and deposited by wind, water, or ice. Over time, these fine particles settle and undergo compaction due to the weight of overlying sediments. The compaction process removes air and water from the sediment, cementing the particles together to form solid rock."
+    },
+    "characteristics": {
+      "color": "Siltstone commonly appears in shades of gray, brown, or red. The specific mineral content and impurities present in the silt can influence its coloration.",
+      "composition": "Siltstone consists mainly of silt-sized particles, which are predominantly composed of quartz and feldspar minerals. It may also contain other minerals such as clay minerals, micas, and organic matter.",
+      "density": "Siltstone often exhibits distinct bedding planes or laminations, which are visible layers formed during the deposition process. These layers can vary in thickness and may contain different sedimentary structures or fossils.",
+      "hardness": "Siltstone has a relatively low to moderate hardness on the Mohs scale, typically ranging from 2 to 5. It is softer than sandstone but harder than clay-rich rocks. Siltstone is primarily composed of silt-sized particles, which have a diameter between 0.0625 and 0.004 millimeters. These fine grains give the rock its smooth texture.",
+      "porosity": "Siltstone has varying degrees of porosity, depending on factors such as grain size, compaction, and cementation. The presence of open pore spaces can affect its permeability and ability to store and transmit fluids. Siltstone is generally resistant to weathering and erosion due to its compact nature and cohesive grain-to-grain bonding. However, prolonged exposure to external forces can lead to the breakdown and disintegration of the rock."
+    },
+    "applications": {
+      "construction": "Siltstone is sometimes used as a building material for low-stress applications, such as decorative stones, veneers, and landscaping features. Its attractive appearance and smooth texture make it suitable for certain construction projects.",
+      "monuments": "Due to its fine-grained texture and subtle color variations, siltstone can be used for ornamental purposes. It is often employed in the creation of small sculptures, jewelry, and other artistic objects.",
+      "sculptures": "Siltstone is of significant importance in the field of geology. It serves as an indicator of ancient sedimentary environments, providing clues about past depositional processes, paleoclimate, and the history of the Earth's surface. Geologists study siltstone to understand the geological history of a region and to interpret the rock's depositional environment."
+    },
+    "scientificSignificance": "Siltstone plays a crucial role in sedimentary geology and the study of Earth's history. By examining the composition, bedding structures, and fossils preserved in siltstone, scientists can reconstruct past environments, track changes in climate, and gain insights into the geological processes that shaped the Earth."
+  },
+  {
+    "id": "32",
+    "name": "Loess",
+    "description": "Loess is a type of sedimentary deposit consisting of fine-grained, wind-blown particles. It is composed primarily of silt-sized particles with some clay and sand content. Loess deposits are typically found in areas with a history of wind activity, such as river valleys, floodplains, and deserts. The distinctive characteristics of loess include its pale color, high fertility, and ability to be easily eroded by wind and water.",
+    "wikiImage": "https://museumofedible.earth/wp-content/uploads/2021/01/CN001A_DSC0553.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Loess forms through the accumulation of wind-blown dust and silt particles. These particles are transported by wind over long distances and settle in areas where wind speeds decrease, such as behind obstructions or in depressions. Over time, the deposited silt and dust undergo compaction and cementation, forming coherent layers of loess."
+    },
+    "characteristics": {
+      "color": "Loess is commonly pale yellow or light brown in color, although it can also range from gray to tan. The color is influenced by the mineral composition and the degree of weathering and oxidation.",
+      "composition": "Loess is composed mainly of silt-sized particles, predominantly consisting of minerals such as quartz, feldspar, mica, and various clay minerals. The specific mineral composition can vary depending on the source region.",
+      "hardness": "Loess is characterized by its fine-grained nature, consisting primarily of silt-sized particles with diameters ranging from 0.002 to 0.06 millimeters. It may also contain smaller amounts of clay and sand. Loess deposits often exhibit a distinctive layering or stratification, with alternating bands of different particle sizes. This structure is the result of variations in wind intensity and sediment supply during deposition.",
+      "porosity": "Loess is characterized by its high porosity, which allows it to retain and store large amounts of water. This property contributes to its fertility and makes it suitable for agricultural use.",
+      "density": "Loess is highly susceptible to erosion by wind and water due to its loose, unconsolidated nature. It can be easily eroded, leading to the formation of steep slopes, gullies, and distinctive landforms."
+    },
+    "applications": {
+      "construction": "Loess is sometimes used as a construction material for low-stress applications. Its cohesive nature and relatively easy excavation make it suitable for certain construction projects, such as earthworks, embankments, and road foundations.",
+      "monuments": "Loess is highly valued for its fertility and ability to retain moisture, making it suitable for agricultural purposes. It is used as a soil amendment or as a topsoil component in farming and gardening to enhance soil quality and increase crop productivity.",
+      "sculptures": "Loess deposits provide important information about past environmental conditions, climate change, and landscape evolution. Geologists study loess to understand past wind patterns, sedimentation processes, and their implications for reconstructing Earth's history."
+    },
+    "scientificSignificance": "Loess deposits are significant in the fields of geology, geomorphology, and paleoclimatology. They serve as valuable archives of past environmental changes and provide insights into past climates, landscape dynamics, and human activities. By studying loess, scientists can reconstruct paleoenvironments, track changes in atmospheric circulation, and understand the interactions between climate, soils, and ecosystems."
+  },
+  {
+    "id": "33",
+    "name": "Mudstone",
+    "description": "Mudstone is a fine-grained sedimentary rock that is composed primarily of clay and silt-sized particles. It forms from the deposition and compaction of mud and sediment in low-energy environments such as lakes, swamps, and deep ocean basins. Mudstone is characterized by its smooth texture, low permeability, and ability to retain water. It often exhibits a gray or brown color, although variations can occur based on mineral content and weathering processes.",
+    "wikiImage": "https://media.istockphoto.com/id/507399916/photo/mineral-mudstone.jpg?s=612x612&w=0&k=20&c=s6doC5Z4VCK2Qv-8X3VfifjjThGPUyoSb3kk26ihZYg=",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Mudstone forms when fine particles of clay and silt settle and accumulate in quiet, low-energy environments. Over time, the weight of overlying sediment compresses the mud, causing compaction and the removal of water. The compacted mud becomes lithified, resulting in the formation of solid mudstone."
+    },
+    "characteristics": {
+      "color": "Mudstone commonly appears gray or brown, but it can also exhibit other colors depending on the presence of minerals and organic matter. Weathering processes can further affect the coloration of mudstone, leading to variations in hues.",
+      "composition": "Mudstone consists of fine-grained particles, predominantly clay and silt-sized. The individual grains are not easily visible to the naked eye and require microscopic examination for detailed analysis. The primary components of mudstone are clay minerals and silt-sized particles. These materials are typically derived from the erosion and weathering of pre-existing rocks. Other common constituents include quartz, feldspar, mica, and organic matter.",
+      "hardness": "Mudstone has a smooth, compact texture due to the fine-grained nature of its particles. It lacks visible layers or bedding structures and exhibits a homogeneous appearance throughout the rock.",
+      "porosity": "Mudstone has low permeability and porosity, which means it has minimal interconnected pore spaces. As a result, it retains water and is generally impermeable to fluid flow.",
+      "density": "Mudstone can preserve fossils exceptionally well due to its fine-grained nature and low permeability. Fossils found in mudstone often include small organisms, such as microfossils and plant fragments, providing valuable insights into ancient environments and ecosystems."
+    },
+    "applications": {
+      "construction": "Mudstone is not widely used in construction due to its relatively weak and easily eroded nature. However, it can be employed as a decorative stone for landscaping and garden features.",
+      "monuments": "Due to its clay-rich composition, mudstone is sometimes used for pottery and ceramic production. The fine particles can be molded and shaped when mixed with water and fired at high temperatures to create ceramic objects.",
+      "sculptures": "Mudstone is of great interest to scientists and researchers in various fields, including geology, paleontology, and environmental studies. It provides important information about ancient environments, sedimentary processes, and the preservation of fossils."
+    },
+    "scientificSignificance": "Mudstone plays a significant role in the study of Earth's history and past environments. It is a valuable record of sedimentation processes, climatic conditions, and the evolution of life on our planet. Mudstone deposits provide valuable insights into the ancient Earth, helping scientists reconstruct past landscapes, interpret climate changes, and understand the development of ecosystems over millions of years."
   }
 ]

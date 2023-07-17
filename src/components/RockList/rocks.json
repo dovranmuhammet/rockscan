@@ -136,5 +136,28 @@
       "monuments": "Diorite's durability and visual appeal make it suitable for various architectural projects, including facades, monuments, and landscaping."
     },
     "scientificSignificance": "Diorite has scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of magma crystallization and the composition of the Earth's crust. Diorite is studied to understand the evolution and dynamics of the Earth's deep subsurface."
+  },
+  {
+    "id": "7",
+    "name": "Gabbro",
+    "description": "Gabbro is a coarse-grained intrusive igneous rock composed mainly of plagioclase feldspar, pyroxene, and sometimes olivine. It is formed from the slow cooling and solidification of magma deep beneath the Earth's surface. Gabbro is known for its dark color and dense texture, making it a popular material in construction and as a decorative stone.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/C435ABC3002C4CF78D565DBE56D7CF4B.jpeg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Gabbro forms when molten magma cools and crystallizes slowly within the Earth's crust. The slow cooling allows large mineral crystals to develop, resulting in a coarse-grained texture.Gabbro is widely used as a construction material for various applications. It is commonly utilized in the production of countertops, flooring, wall cladding, and dimension stone. Gabbro's dark and uniform appearance also makes it a popular choice for decorative purposes."
+    },
+    "characteristics": {
+      "color": "Gabbro is typically dark in color, ranging from dark gray to black. The specific mineral composition and presence of other minerals such as olivine can influence the color variation.",
+      "composition": "Gabbro is primarily composed of plagioclase feldspar, pyroxene, and sometimes olivine. The exact mineral composition can vary, leading to differences in the rock's appearance and properties.",
+      "hardness": "Gabbro is a hard rock with a Mohs hardness rating of 6 to 7, making it resistant to scratching and abrasion.",
+      "density": "Gabbro has a relatively high density, typically ranging from 2.7 to 3.3 grams per cubic centimeter",
+      "texture": "Gabbro has a dense and uniform texture due to its coarse-grained nature. The individual mineral crystals are visible to the naked eye and give the rock its characteristic appearance."
+    },
+    "applications": {
+      "construction": "Gabbro is extensively used in construction for its strength, durability, and aesthetic appeal. It is commonly used as a material for countertops, flooring, wall cladding, and other architectural features.",
+      "monuments": "Gabbro's dark and uniform texture makes it a favored choice for decorative applications. It is often used in sculptures, monuments, and other artistic creations, adding a touch of elegance and sophistication.",
+      "sculptures": "Gabbro is well-suited for dimension stone applications due to its hardness, durability, and attractive appearance. It is used in the production of slabs, tiles, and other cut-to-size products for various design projects."
+    },
+    "scientificSignificance": "Gabbro plays a significant role in understanding the formation and composition of the Earth's crust. Its presence in different geological settings provides insights into the processes of magma crystallization, tectonic activities, and the evolution of igneous rocks."
   }
 ]

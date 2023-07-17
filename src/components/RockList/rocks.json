@@ -787,7 +787,7 @@
     "id": "35",
     "name": "Arkose",
     "description": "Arkose is a type of sedimentary rock that is primarily composed of sand-sized grains of quartz and feldspar. It is known for its high feldspar content, which gives it a distinctive pink or reddish color. Arkose is formed through the weathering and erosion of granitic rocks, and it is commonly found in areas with mountainous terrain and rivers.",
-    "wikiImage": "hhttps://www.sciencesource.com/pix/182/1822770-new-haven-arkose.jpg",
+    "wikiImage": "https://www.sciencesource.com/pix/182/1822770-new-haven-arkose.jpg",
     "type": "Sedimentary",
     "formation": {
       "description": "Arkose forms when granitic rocks are subjected to weathering and erosion. As the rocks break down, the quartz and feldspar minerals are transported and deposited by rivers and streams. The grains of quartz and feldspar become cemented together by natural binding agents, such as silica, calcium carbonate, or iron oxide, creating the consolidated rock known as arkose."

@@ -482,5 +482,97 @@
       "sculptures": "In some cases, breccia can serve as a host rock for mineral deposits. The fractures and open spaces within the rock can act as pathways for mineral-rich fluids, leading to the formation of ore deposits such as gold, copper, or uranium. Breccia has been used as a construction material in ancient structures and monuments. Studying the breccia used in archaeological sites can provide information about ancient civilizations, their building techniques, and the availability of local resources."
     },
     "scientificSignificance": "Breccia plays a significant role in geological research and provides important clues about Earth's geological history. It helps reconstruct past geological events, such as earthquakes, landslides, and impact events. Breccia also contributes to our understanding of sedimentary processes, faulting, and the evolution of Earth's crust."
+  },
+  {
+    "id": "22",
+    "name": "Chalk",
+    "description": "Chalk is a soft, porous, and fine-grained sedimentary rock that is primarily composed of calcium carbonate. It is formed from the accumulation of microscopic marine organisms such as planktonic algae and foraminifera. Chalk is renowned for its white color and is commonly associated with cliffs, chalk downs, and chalk formations.",
+    "wikiImage": "https://m.media-amazon.com/images/I/81+hxSmlXtL.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Chalk is formed in marine environments, specifically in areas with high biological productivity. The microscopic shells and skeletons of marine organisms settle on the ocean floor and accumulate over time. As the layers of sediment build up, pressure compacts the sediment and transforms it into solid chalk rock."
+    },
+    "characteristics": {
+      "color": "Chalk is typically white, although it can exhibit shades of gray, yellow, or brown due to impurities or weathering. The white color is a result of the high calcium carbonate content.",
+      "composition": "Chalk is primarily composed of calcium carbonate (CaCO3) derived from the shells of marine organisms. It can also contain small amounts of clay minerals, silt, and organic matter.",
+      "porosity": "Chalk has a soft and fine-grained texture. It can be easily crumbled or powdered by hand due to its low hardness and porosity. Chalk is highly porous, with numerous tiny interconnected spaces and channels. This porosity allows chalk to absorb and hold water.",
+      "hardness": "Chalk is a relatively soft rock with a Mohs hardness rating of 1 to 2. It can be easily scratched by a fingernail or a copper coin.",
+      "density": "The density of chalk varies depending on its porosity and mineral content. It typically ranges from 1.1 to 1.3 grams per cubic centimeter."
+    },
+    "applications": {
+      "construction": "Chalk has been traditionally used as a writing tool, especially in classrooms. It is commonly used on blackboards and chalkboards to write and draw. Chalk has been used as a construction material for centuries. Chalk has been used as a medium for various forms of art, including drawing, painting, and pastel artwork. Its soft texture allows for smooth and blendable strokes. It was historically used in the construction of buildings, walls, and fortifications. Its softness allows for easy shaping and carving.",
+      "monuments": "Chalk is of great significance in the field of geology. It serves as an indicator of past marine environments and can provide valuable insights into Earth's geological history, including sea levels, climate change, and the evolution of marine life.",
+      "sculptures": "Chalk has various industrial applications, including the production of cement, lime, and calcium carbonate fillers for paper, paints, plastics, and rubber."
+    },
+    "scientificSignificance": "Chalk is a valuable rock for scientific research and plays a significant role in understanding Earth's history. It helps reconstruct past marine ecosystems, study climate change, and investigate the deposition of sedimentary rocks. Chalk formations also serve as important aquifers and contribute to groundwater resources."
+  },
+  {
+    "id": "23",
+    "name": "Coal",
+    "description": "Coal is a combustible sedimentary rock that is primarily composed of carbon along with various other elements, such as hydrogen, sulfur, oxygen, and nitrogen. It forms from the remains of plants that lived and accumulated in swampy environments millions of years ago. Coal is a widely used fossil fuel and plays a crucial role in power generation and industrial processes.",
+    "wikiImage": "ttps://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_60070_16639360696318441.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Coal forms from the transformation of organic plant material under high pressure and heat over long periods of time. The process, known as coalification, involves the physical and chemical alteration of plant remains, resulting in the formation of different coal types based on their carbon content and properties."
+    },
+    "characteristics": {
+      "color": "Coal can range in color from black to brown, depending on its rank and composition. Higher-rank coals tend to be black and shiny, while lower-rank coals are often brownish or dull.",
+      "composition": "Coal is primarily composed of carbon, with varying levels of other elements. The carbon content determines the coal rank, with higher-rank coals having a higher carbon content and greater energy potential.",
+      "hardness": "Coal has a layered or stratified structure resulting from the accumulation of plant material. The texture can range from relatively homogeneous to banded or laminated. Coal is a relatively soft rock with a low to moderate hardness. It can be easily scratched with a fingernail or a knife.",
+      "density": "The density of coal varies depending on its rank and composition. It typically ranges from 1.1 to 1.5 grams per cubic centimeter.",
+      "porosity": "One of the defining characteristics of coal is its combustibility. When exposed to heat, coal can undergo combustion, releasing heat energy and producing various byproducts, including carbon dioxide, sulfur dioxide, and ash."
+    },
+    "applications": {
+      "construction": "Coal is a major source of fuel for electricity generation in many countries. It is burned in power plants to produce steam, which drives turbines to generate electricity. Coal is used as a fuel in various industrial processes, such as steel production, cement manufacturing, and chemical synthesis. It provides heat and energy for these processes. Coal has been traditionally used for heating homes and buildings. It can be burned in stoves, furnaces, and boilers to provide heat.",
+      "monuments": "Certain types of coal, such as bituminous coal, can be converted into charcoal through the process of carbonization. Charcoal is used for cooking, heating, and as a reducing agent in metallurgy.",
+      "sculptures": "Coal can be processed into activated carbon, which is widely used in water purification, air filtration, and industrial applications that require adsorption of contaminants. Coal is a source of carbon for various industrial applications. It is used in the production of carbon electrodes, carbon black, and other carbon-based products."
+    },
+    "scientificSignificance": "Coal plays a significant role in energy research, environmental studies, and understanding Earth's history. Its formation and composition provide insights into past ecosystems, climate change, and geological processes. Coal deposits also contain valuable geological information and can serve as reservoirs for oil, gas, and groundwater."
+  },
+  {
+    "id": "24",
+    "name": "Dolomite",
+    "description": "Dolomite is a sedimentary rock composed primarily of the mineral dolomite, which is a calcium magnesium carbonate. It forms from the chemical precipitation of calcium and magnesium-rich water in marine or evaporative environments. Dolomite is known for its distinctive sedimentary structures and is commonly used as a construction and decorative stone.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-dolomite-0721.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Dolomite forms through the alteration of limestone or lime mud in the presence of magnesium-rich water. The process, known as dolomitization, involves the replacement of calcium in the original limestone with magnesium, resulting in the formation of dolomite crystals."
+    },
+    "characteristics": {
+      "color": "Dolomite can occur in various colors, including white, gray, brown, and pink. The color variations depend on impurities present in the rock, such as iron oxide or organic matter.",
+      "composition": "Dolomite is primarily composed of the mineral dolomite, which is a double carbonate of calcium and magnesium. It typically contains around 50% to 70% dolomite mineral.",
+      "hardness": "Dolomite can exhibit a range of textures, including fine-grained to coarse-grained. It often has a crystalline structure and may display sedimentary features like bedding or fossil fragments. Dolomite has a hardness of 3.5 to 4 on the Mohs scale, making it relatively soft compared to other minerals. It can be scratched with a knife or a fingernail.",
+      "density": "The density of dolomite ranges from 2.8 to 2.9 grams per cubic centimeter, which is similar to the density of limestone.",
+      "porosity": "Dolomite can have varying porosity depending on its texture and the presence of fractures or pore spaces. It can range from low to moderate porosity."
+    },
+    "applications": {
+      "construction": "Dolomite is used as a construction material in the form of crushed stone and aggregate. It is commonly used for road base, concrete aggregate, and building stone. Dolomite's attractive appearance and variety of colors make it a popular choice for decorative stone applications. It is used for countertops, flooring, wall cladding, and landscaping. Certain forms of dolomite are used in pharmaceutical applications as a source of magnesium and calcium supplements.",
+      "monuments": "Due to its high magnesium content, dolomite is used in the production of refractory bricks and materials. These are used in high-temperature applications such as furnaces and kilns. Dolomite is of significant interest in geological studies as it provides insights into diagenesis, dolomitization processes, and ancient marine environments.",
+      "sculptures": "Dolomite is used in the ceramics industry as a source of magnesium oxide. It contributes to the durability and thermal resistance of ceramic products."
+    },
+    "scientificSignificance": "Dolomite has scientific significance in various fields, including geology, sedimentology, and paleoclimatology. It serves as a marker for ancient marine environments and can help reconstruct past climate conditions. Dolomite deposits also have economic importance as sources of valuable minerals and provide valuable geological information."
+  },
+  {
+    "id": "25",
+    "name": "Flint",
+    "description": "Flint is a hard, sedimentary cryptocrystalline form of the mineral quartz. It is commonly found as nodules or layers within sedimentary rocks. Flint is known for its conchoidal fracture and ability to produce sparks when struck against steel or another hard material. It has been used by humans for thousands of years for various purposes.",
+    "wikiImage": "https://m.media-amazon.com/images/I/61+Fsc-yn-L._AC_UF1000,1000_QL80_.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Flint forms through the chemical alteration of sedimentary rocks, primarily limestone, by silica-rich groundwater. The process of replacement and recrystallization results in the formation of compact, microcrystalline quartz known as flint."
+    },
+    "characteristics": {
+      "color": "Flint is usually black, gray, or dark brown in color. It can also exhibit streaks of white, red, or yellow due to impurities present in the rock.",
+      "composition": "Flint is composed mainly of microcrystalline quartz, with a high silica content. It may also contain small amounts of other minerals, such as chert or calcite.",
+      "hardness": "Flint has a hardness of 7 on the Mohs scale, which makes it relatively hard and resistant to scratching.",
+      "density": "The density of flint ranges from 2.6 to 2.8 grams per cubic centimeter, similar to that of other quartz-rich rocks.",
+      "porosity": "Flint exhibits a conchoidal fracture, meaning it breaks with smooth, curved surfaces resembling the interior of a seashell. This fracture pattern is characteristic of brittle materials. One of the notable properties of flint is its ability to produce sparks when struck against steel or another hard material. This property has made flint a valuable tool for creating fire in ancient times."
+    },
+    "applications": {
+      "construction": "Flint has been used by early humans to create tools and weapons due to its ability to produce sharp edges when properly knapped. It was commonly used for arrowheads, spear points, knives, and scrapers. In some regions, flint has been utilized as a building material. It has been used in construction for walls, foundations, and even entire buildings.",
+      "monuments": "Flint's spark generation property has made it a preferred material for starting fires. By striking flint against steel or pyrite, sparks are produced, which can ignite tinder and start a fire.",
+      "sculptures": "Flint has also been used as a material for decorative objects and ornaments. It can be polished and shaped into beads, pendants, and other jewelry items. Flint nodules and artifacts made from flint are of significant interest to archaeologists as they provide insights into human history, ancient technologies, and cultural practices."
+    },
+    "scientificSignificance": "Flint has scientific significance in various fields, including archaeology, geology, and materials science. It helps researchers understand human evolution, ancient tool-making techniques, and the geological processes involved in its formation. Flint also serves as an indicator of past environments and can provide information about ancient trade networks."
   }
 ]

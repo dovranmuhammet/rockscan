@@ -113,5 +113,28 @@
       "sculptures": "Slate's distinctive color variations and fine-grained texture make it a popular choice for wall cladding. It can create a visually appealing and textured surface in both residential and commercial settings."
     },
     "scientificSignificance": "Slate has scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of metamorphism and the transformation of sedimentary rocks. Slate's foliation and cleavage properties are studied to understand the deformation and tectonic history of regions where slate deposits are found."
+  },
+  {
+    "id": "6",
+    "name": "Diorite",
+    "description": "Diorite is a coarse-grained intrusive igneous rock composed mainly of plagioclase feldspar, hornblende, and biotite. It forms deep within the Earth's crust through the slow cooling and solidification of magma. Diorite showcases a distinct speckled appearance with light and dark mineral grains, creating a visually appealing texture. It is valued for its durability and strength, making it a popular choice for construction projects. Diorite's neutral gray to black color and uniform texture create a versatile canvas for various design applications.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/3F23896590B547FAA06612CD6E93DBC3.jpeg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Diorite forms when molten magma cools and solidifies deep within the Earth's crust. The slow cooling process allows large mineral crystals to develop, resulting in its coarse-grained texture."
+    },
+    "characteristics": {
+      "color": "Diorite typically exhibits a neutral gray to black color. The speckled appearance is a result of the contrasting light and dark mineral grains.",
+      "composition": "Diorite is primarily composed of plagioclase feldspar, hornblende, and biotite minerals. These minerals give Diorite its durability, strength, and distinctive appearance.",
+      "hardness": "Diorite is a relatively hard rock with a Mohs hardness rating of 6 to 7, making it resistant to scratching and abrasion.",
+      "density": "Diorite has a moderate density, typically ranging from 2.8 to 3 grams per cubic centimeter.",
+      "porosity": "Diorite's speckled appearance is created by the contrasting light and dark mineral grains. This unique texture adds visual interest to architectural and design applications."
+    },
+    "applications": {
+      "construction": "Diorite is commonly used for countertops in kitchens and bathrooms due to its durability, resistance to staining, and attractive speckled appearance.Diorite's strength and durability make it suitable for flooring in high-traffic areas. It can withstand heavy use and maintain its polished appearance.Diorite can be used for wall cladding, adding a touch of elegance and texture to both interior and exterior walls.",
+      "sculptures": "Diorite's distinctive appearance makes it a popular choice for decorative features such as sculptures, vases, and architectural elements.",
+      "monuments": "Diorite's durability and visual appeal make it suitable for various architectural projects, including facades, monuments, and landscaping."
+    },
+    "scientificSignificance": "Diorite has scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of magma crystallization and the composition of the Earth's crust. Diorite is studied to understand the evolution and dynamics of the Earth's deep subsurface."
   }
 ]

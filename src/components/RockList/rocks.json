@@ -759,5 +759,166 @@
       "sculptures": "Mudstone is of great interest to scientists and researchers in various fields, including geology, paleontology, and environmental studies. It provides important information about ancient environments, sedimentary processes, and the preservation of fossils."
     },
     "scientificSignificance": "Mudstone plays a significant role in the study of Earth's history and past environments. It is a valuable record of sedimentation processes, climatic conditions, and the evolution of life on our planet. Mudstone deposits provide valuable insights into the ancient Earth, helping scientists reconstruct past landscapes, interpret climate changes, and understand the development of ecosystems over millions of years."
+  },
+  {
+    "id": "34",
+    "name": "Oil Shale",
+    "description": "Oil shale is a sedimentary rock that contains organic matter, called kerogen, which can be extracted and processed to produce shale oil and other hydrocarbon products. It is characterized by its rich organic content and ability to generate combustible gases or liquid hydrocarbons through a process called pyrolysis. Oil shale deposits are found worldwide and can vary in composition, yielding different types of shale oil.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/74B900964E88486CA93ECE44EF3EEBA5.jpeg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Oil shale forms over long periods of time through the accumulation and burial of organic-rich material, such as algae and other marine organisms, in lake and marine environments. Over millions of years, the heat and pressure from overlying sediment and geological processes convert the organic matter into kerogen, which is the precursor to shale oil."
+    },
+    "characteristics": {
+      "color": "Oil shale typically appears black or dark brown due to its high organic content. However, it can exhibit variations in color depending on the presence of minerals and the degree of oil impregnation.",
+      "composition": "The main component of oil shale is kerogen, which makes up a significant portion of its organic matter. Kerogen consists of complex organic compounds that can be converted into shale oil through thermal processes. In addition to kerogen, oil shale also contains inorganic minerals and small amounts of bitumen and residual hydrocarbons.",
+      "hardness": "Oil shale has a high energy content due to its organic richness. When subjected to pyrolysis, the release of combustible gases and shale oil makes it a potential source of energy. However, the energy required for extraction and processing can be significant.",
+      "porosity": "Oil shale generally has low porosity and permeability, which limits its ability to naturally flow and release hydrocarbons. To extract shale oil, specialized techniques such as mining, in-situ extraction, or retorting are employed.",
+      "density": "The extraction and processing of oil shale can have environmental impacts. It requires significant energy inputs, generates greenhouse gas emissions, and poses challenges in terms of water usage and waste management. Careful planning and mitigation measures are necessary to minimize these impacts. Oil shale deposits can yield different types of shale oil based on their composition and thermal maturity. These include light shale oil, heavy shale oil, and shale oil with high sulfur content. The properties of shale oil influence its potential uses and refining processes."
+    },
+    "applications": {
+      "construction": "The primary application of oil shale is in shale oil production. Through pyrolysis or retorting, shale oil can be extracted from oil shale deposits and refined into various petroleum products, including gasoline, diesel, and heating oil.",
+      "monuments": "Oil shale can be used as a fuel for electricity generation in power plants. The shale oil extracted from oil shale deposits is burned to produce steam, which drives turbines to generate electricity. However, this process can emit greenhouse gases and require emission control technologies.",
+      "sculptures": "Shale oil derived from oil shale can serve as a chemical feedstock in the production of petrochemicals. It can be used as a raw material for manufacturing plastics, fertilizers, and other chemical compounds. Oil shale continues to be a subject of research and development for improving extraction technologies, reducing environmental impacts, and maximizing energy efficiency. Ongoing studies aim to enhance the economic viability and sustainability of oil shale utilization."
+    },
+    "scientificSignificance": "Oil shale is of scientific significance due to its potential as an unconventional hydrocarbon resource. It offers an alternative source of oil and energy, particularly in regions with abundant oil shale deposits. Understanding the geology, chemistry, and extraction techniques associated with oil shale contributes to the broader knowledge of energy resources and their role in global energy supply."
+  },
+  {
+    "id": "35",
+    "name": "Arkose",
+    "description": "Arkose is a type of sedimentary rock that is primarily composed of sand-sized grains of quartz and feldspar. It is known for its high feldspar content, which gives it a distinctive pink or reddish color. Arkose is formed through the weathering and erosion of granitic rocks, and it is commonly found in areas with mountainous terrain and rivers.",
+    "wikiImage": "hhttps://www.sciencesource.com/pix/182/1822770-new-haven-arkose.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Arkose forms when granitic rocks are subjected to weathering and erosion. As the rocks break down, the quartz and feldspar minerals are transported and deposited by rivers and streams. The grains of quartz and feldspar become cemented together by natural binding agents, such as silica, calcium carbonate, or iron oxide, creating the consolidated rock known as arkose."
+    },
+    "characteristics": {
+      "color": "Arkose is typically pink or reddish in color due to the abundance of feldspar minerals. The color can vary depending on the specific composition and weathering processes.",
+      "composition": "The main components of arkose are quartz and feldspar. Quartz is a mineral that provides hardness and durability to the rock, while feldspar contributes to its color and texture. Other minor minerals and rock fragments may also be present.",
+      "hardness": "Arkose consists of sand-sized grains, ranging from 0.0625 to 2 millimeters in diameter. The grains are visible to the naked eye and can be easily felt when touched. Arkose has a clastic texture, meaning it is composed of fragments or grains that are cemented together. The texture can range from coarse to fine, depending on the size of the grains and the degree of cementation.",
+      "porosity": "The porosity of arkose can vary depending on the degree of compaction and cementation. It typically has moderate to low porosity, which affects its permeability and ability to store and transmit fluids.",
+      "density": "Arkose is generally resistant to weathering due to the hardness and durability of quartz and feldspar minerals. However, prolonged exposure to physical and chemical weathering processes can lead to erosion and breakdown of the rock."
+    },
+    "applications": {
+      "construction": "Arkose is used in construction as a building material. Its durability, strength, and appealing color make it suitable for various applications, including as dimension stone, decorative stone, and paving stones.",
+      "monuments": "Crushed arkose can be used as an aggregate in concrete, asphalt, and road construction. It provides stability, strength, and good drainage properties to the finished products.",
+      "sculptures": "Arkose can be ground into a fine powder and used as a soil amendment. It improves soil drainage, fertility, and texture, making it suitable for agricultural and gardening purposes. Arkose is of interest to geologists and researchers studying sedimentary processes, as it provides insights into the weathering, erosion, and transport of granitic materials. Its presence in different geological formations contributes to the understanding of ancient environments and geological history."
+    },
+    "scientificSignificance": "Arkose is scientifically significant as it provides valuable information about past geological processes and environments. It helps geologists reconstruct the history of sedimentation, erosion, and mountain building. Studying arkose aids in understanding the evolution of landscapes, the movement of sediment, and the formation of sedimentary basins."
+  },
+  {
+    "id": "36",
+    "name": "Greywacke",
+    "description": "Greywacke is a type of sedimentary rock that is characterized by its dark gray color and coarse-grained texture. It is composed of a mixture of sand-sized grains, rock fragments, and clay or silt matrix. Greywacke is commonly found in areas with tectonic activity, such as mountain belts and regions adjacent to plate boundaries.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/AFE9A36FF9754921A8B4334B6711593D.jpeg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Greywacke is formed through the deposition and lithification of sediments in a marine or terrestrial environment. The sediments are typically derived from the erosion of preexisting rocks, including quartz, feldspar, and other mineral grains, as well as fragments of volcanic and metamorphic rocks. Over time, these sediments are compacted and cemented together by minerals, such as silica, calcite, or clay, resulting in the formation of greywacke."
+    },
+    "characteristics": {
+      "color": "Greywacke is primarily gray in color, ranging from light gray to dark gray. The color is influenced by the presence of dark minerals, such as mica, chlorite, or carbonaceous material.",
+      "composition": "Greywacke consists of a mixture of sand-sized grains, rock fragments, and clay or silt matrix. The predominant mineral components include quartz, feldspar, and lithic fragments. The specific composition can vary depending on the source rocks and depositional environment.",
+      "density": "Greywacke has a coarse-grained texture due to the presence of larger sand-sized grains and rock fragments. The grains and fragments are typically angular or subangular in shape, indicating limited transportation and minimal rounding.",
+      "hardness": "The matrix of greywacke consists of fine-grained clay or silt particles that fill the spaces between the larger grains and fragments. The matrix provides cohesion and binds the rock together. Greywacke has a variable hardness depending on the mineral composition and degree of cementation. It generally has a hardness of 6 to 7 on the Mohs scale, similar to that of granite.",
+      "porosity": "Greywacke exhibits varying degrees of weathering resistance depending on its composition and cementation. The presence of durable minerals, such as quartz and feldspar, enhances its resistance to physical and chemical weathering processes."
+    },
+    "applications": {
+      "construction": "Greywacke is used in construction for various purposes. Its durability, strength, and resistance to weathering make it suitable for building facades, retaining walls, and paving stones.",
+      "monuments": "Crushed greywacke is used as an aggregate in concrete and road construction. It provides stability, strength, and good drainage properties to the finished products. Greywacke can be quarried and cut into blocks or slabs for use as dimension stone. It is utilized in architectural projects, including countertops, flooring, and decorative elements.",
+      "sculptures": "In some cases, greywacke can serve as an aquifer, storing and transmitting groundwater. Its porosity and permeability allow for the movement and storage of water within the rock layers. Greywacke is of interest to geologists and researchers studying sedimentary processes, tectonic activity, and basin analysis. Its presence in different geological formations provides insights into ancient environments, sedimentary basin evolution, and the tectonic history of a region."
+    },
+    "scientificSignificance": "Greywacke has scientific significance as it provides valuable information about past sedimentary processes, tectonic activity, and basin formation. It helps in understanding the source rocks, transport mechanisms, and depositional environments of sediments. Studying greywacke aids in reconstructing ancient landscapes, analyzing sedimentary basins, and deciphering the tectonic history of a region."
+  },
+  {
+    "id": "37",
+    "name": "Phosphorite",
+    "description": "Phosphorite is a sedimentary rock that contains a high concentration of phosphate minerals. It is typically formed in marine environments through the accumulation of organic remains, such as bones, shells, and fecal matter, along with inorganic phosphate-rich minerals. Phosphorite deposits are important sources of phosphorus, which is a vital nutrient for plants and animals.",
+    "wikiImage": "https://mineralseducationcoalition.org/wp-content/uploads/Phosphorite_136389572.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Phosphorite forms through several processes, including the accumulation of organic remains, precipitation of phosphate minerals from seawater, and replacement of preexisting rocks by phosphate minerals. In marine environments, the organic matter from dead organisms, rich in phosphorus, settles on the ocean floor and undergoes compaction and diagenesis, leading to the formation of phosphorite beds."
+    },
+    "characteristics": {
+      "color": "Phosphorite can exhibit a range of colors, including shades of gray, brown, yellow, and green. The color is influenced by the presence of impurities, such as iron oxides or organic matter.",
+      "composition": "Phosphorite is primarily composed of phosphate minerals, such as apatite, francolite, and collophane. These minerals contain high levels of phosphorus, along with calcium, fluorine, and other elements. The specific composition can vary depending on the depositional environment and the degree of diagenetic alteration. Phosphorite can have a variety of textures, ranging from fine-grained to coarse-grained. The texture is influenced by the size and shape of the phosphate grains, as well as the presence of other minerals and sedimentary structures.",
+      "hardness": "Phosphorite has a variable hardness depending on the composition and degree of diagenesis. It generally has a hardness of 3.5 to 5 on the Mohs scale, which is relatively soft compared to many other rocks.",
+      "density": "The density of phosphorite can vary depending on its composition and porosity. It typically ranges from 2.2 to 3.0 grams per cubic centimeter.",
+      "porosity": "Phosphorite can have varying levels of porosity, depending on factors such as compaction and cementation. The porosity affects its ability to store and transmit fluids, including phosphorus-rich solutions."
+    },
+    "applications": {
+      "construction": "Phosphorite is a major source of phosphorus for the production of fertilizers. It is mined and processed to extract the phosphate minerals, which are then used to manufacture various types of fertilizers that enhance plant growth and crop yield.",
+      "monuments": "Phosphorite is also used as an animal feed supplement to provide essential phosphorus and other minerals to livestock. It helps promote healthy bone development, growth, and reproduction in animals.",
+      "sculptures": "Phosphorite is a key raw material for the production of phosphoric acid, which is used in various industries, including the manufacture of detergents, food and beverages, and pharmaceuticals. Phosphorite deposits are of significant interest to geologists and researchers studying sedimentary processes, paleoenvironments, and the global phosphorus cycle. Studying phosphorite helps understand past oceanic conditions, nutrient cycling, and the formation of economically important mineral resources."
+    },
+    "scientificSignificance": "Phosphorite has scientific significance in the study of paleoenvironments, nutrient cycling, and the global phosphorus cycle. It provides insights into the availability of phosphorus in ancient oceans, the role of phosphorus as a limiting nutrient for marine life, and the formation of phosphorite deposits through geological processes. Understanding phosphorite deposits contributes to our knowledge of Earth's history and the sustainable management of phosphorus resources."
+  },
+  {
+    "id": "38",
+    "name": "Marble",
+    "description": "Marble is a metamorphic rock that is formed from the recrystallization of limestone or dolomite. It is renowned for its elegance, beauty, and versatility, making it a popular choice for various applications in construction, sculpture, and decoration. Marble has been valued throughout history for its exquisite appearance and has been used in iconic buildings, statues, and artistic creations.",
+    "wikiImage": "https://m.media-amazon.com/images/I/61+txLzGS6L.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Marble forms when limestone or dolomite undergoes intense heat and pressure deep within the Earth's crust. This process, known as metamorphism, causes the minerals in the rock to recrystallize, resulting in a new texture and appearance. The presence of impurities can give marble a wide range of colors and patterns."
+    },
+    "characteristics": {
+      "color": "Marble exhibits a diverse range of colors, including white, gray, black, green, pink, and various combinations. The colors are determined by the mineral composition and impurities present in the original limestone or dolomite.",
+      "composition": "Marble is primarily composed of calcium carbonate (CaCO3), which is the main mineral present in limestone and dolomite. Other minerals, such as quartz, mica, and various metal oxides, can also be present in smaller amounts and contribute to the overall appearance of the marble. Marble has a smooth and typically polished texture, which enhances its aesthetic appeal. The recrystallization process during metamorphism creates interlocking mineral grains that give marble its characteristic texture and unique patterns.",
+      "hardness": "Marble has a hardness rating of 3 to 4 on the Mohs scale, which makes it relatively soft compared to other stones. This property allows marble to be easily carved and shaped into intricate designs.",
+      "density": "The density of marble ranges from 2.5 to 2.7 grams per cubic centimeter, depending on its composition and porosity.",
+      "porosity": "Marble can have varying levels of porosity, which refers to the amount of open spaces or pores within the rock. High-quality marble tends to have low porosity, while lower-quality marble may have higher porosity, making it more susceptible to staining and damage from moisture."
+    },
+    "applications": {
+      "construction": "Marble is widely used in architectural applications, such as flooring, wall cladding, countertops, and decorative elements. Its natural beauty, durability, and ability to take a high polish make it a preferred material for luxurious and prestigious buildings.",
+      "sculpture": "Marble has been employed in the construction of historical monuments and landmarks worldwide. Its enduring beauty, weather resistance, and ability to retain its appearance over time make it a favored material for lasting tributes. Marble has a long history of being used for sculpting. Its softness allows for intricate carving and the creation of detailed sculptures. Many famous statues and sculptures throughout history have been crafted from marble.",
+      "monuments": "Marble is utilized in decorative arts and interior design to create elegant and visually striking elements. It can be found in furniture, vases, columns, fireplace surrounds, and various ornamental pieces."
+    },
+    "scientificSignificance": "Marble holds scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of metamorphism and the transformation of sedimentary rocks into metamorphic rocks. Studying marble contributes to our understanding of the Earth's dynamic processes and the geological history of specific regions."
+  },
+  {
+    "id": "39",
+    "name": "Quartzite",
+    "description": "Quartzite is a metamorphic rock that is formed from the recrystallization of quartz-rich sandstone. It is known for its stunning beauty, durability, and resistance to heat and pressure. Quartzite is a popular choice for various applications in construction, architecture, and interior design due to its unique blend of elegance and strength.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-quartzite-0721.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Quartzite forms when sandstone is subjected to intense heat and pressure during the process of metamorphism. The heat and pressure cause the sand grains to recrystallize and fuse together, resulting in a dense and hard rock with a crystalline texture."
+    },
+    "characteristics": {
+      "color": "Quartzite commonly appears in shades of white and gray, but it can also occur in various hues, including pink, yellow, and red. The coloration is influenced by impurities present during its formation.",
+      "composition": "Quartzite is primarily composed of quartz, which makes up a significant portion of its mineral composition. It often contains minor amounts of other minerals, such as feldspar, mica, and iron oxides. Quartzite has a granular texture with interlocking quartz grains. The recrystallization process during metamorphism results in a compact and durable rock with a smooth surface.",
+      "hardness": "Quartzite is one of the hardest natural stones, with a Mohs hardness rating of 7. It is highly resistant to scratches and abrasion, making it suitable for various high-traffic areas.",
+      "density": "The density of quartzite ranges from 2.6 to 2.8 grams per cubic centimeter, depending on its mineral composition and porosity.",
+      "porosity": "Quartzite generally has low porosity, which means it has a minimal amount of open spaces or pores. This characteristic makes it resistant to water absorption and staining."
+    },
+    "applications": {
+      "construction": "Quartzite is a popular choice for kitchen and bathroom countertops due to its durability, heat resistance, and natural beauty. It can withstand high temperatures and is resistant to etching and scratching.",
+      "monuments": "Quartzite flooring is highly regarded for its strength and aesthetic appeal. It adds elegance to both residential and commercial spaces and can withstand heavy foot traffic. Quartzite is used as wall cladding to enhance the visual appeal of interior and exterior walls. Its natural patterns and colors create a striking and unique design element.",
+      "sculptures": "Quartzite's durability and resistance to weathering make it suitable for roofing applications. It can withstand harsh climatic conditions and provides long-lasting protection. Quartzite is utilized in decorative features, such as fireplace surrounds, staircases, and accent walls. Its luxurious appearance and unique patterns add a touch of sophistication to architectural designs."
+    },
+    "scientificSignificance": "Quartzite holds scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of metamorphism and the transformation of sedimentary rocks into metamorphic rocks. The study of quartzite contributes to our understanding of Earth's geological history and the tectonic forces that shape the planet's crust."
+  },
+  {
+    "id": "40",
+    "name": "Schist",
+    "description": "Schist is a medium-grade metamorphic rock characterized by its foliated texture and remarkable ability to split into thin, flat layers. It forms through the metamorphism of various rock types, such as shale, mudstone, and igneous rocks. Schist is known for its diverse mineral composition, unique patterns, and versatility in construction and decorative applications.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-schist-0721.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Schist forms under high temperature and pressure conditions during regional metamorphism. The recrystallization of minerals in pre-existing rocks causes the development of a foliated structure, resulting in the distinctive schistosity of the rock."
+    },
+    "characteristics": {
+      "color": "Schist exhibits a wide range of colors, including shades of gray, brown, green, blue, and red. The coloration is influenced by the types and abundance of minerals present, such as mica, chlorite, talc, and graphite.",
+      "composition": "Schist is primarily composed of mica minerals, such as biotite and muscovite, which give it its characteristic shine and foliated texture. It often contains other minerals, such as quartz, feldspar, garnet, and staurolite, depending on its specific type and origin. The foliated texture of schist is characterized by the parallel arrangement of minerals in thin, wavy layers. These layers can be easily split into flat sheets or flakes due to the preferred orientation of minerals along their planes of weakness.",
+      "hardness": "Schist has a variable hardness depending on its mineral composition. The presence of mica minerals contributes to its relatively low to medium hardness, typically ranging from 2.5 to 4 on the Mohs scale.",
+      "density": "The density of schist ranges from 2.5 to 3 grams per cubic centimeter, depending on its mineral composition and porosity.",
+      "porosity": "The prominent foliation in schist is a result of the alignment and segregation of minerals during metamorphism. It imparts a characteristic shimmering appearance and enhances the rock's aesthetic appeal."
+    },
+    "applications": {
+      "construction": "Schist is used as a decorative and functional building material. Its unique texture and color variations make it suitable for cladding, flooring, and wall applications, adding a natural and distinctive look to architectural designs. Schist is utilized in landscaping projects for pathways, garden features, and retaining walls. Its durable nature and attractive appearance make it a popular choice for enhancing outdoor spaces",
+      "monuments": "Schist is highly valued as an ornamental stone. It is carved into sculptures, vases, and other decorative objects. The foliated texture and shimmering luster of schist add a touch of elegance to artistic creations. Certain types of schist, known for their durability and weather resistance, are used as roofing materials. The ability of schist to split into thin, flat layers makes it suitable for creating durable and visually appealing roofs.",
+      "sculptures": "Schist is employed as a paving material for driveways, walkways, and patios. Its natural beauty, slip-resistant texture, and ability to withstand heavy foot traffic make it a practical choice for outdoor paving."
+    },
+    "scientificSignificance": "Schist is of great significance in geology and Earth sciences. Its formation provides valuable insights into the processes of regional metamorphism and the effects of temperature and pressure on rocks. Studying schist contributes to our understanding of Earth's geological history, tectonic processes, and the development of mineral resources."
   }
 ]

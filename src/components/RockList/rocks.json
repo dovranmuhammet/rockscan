@@ -574,5 +574,121 @@
       "sculptures": "Flint has also been used as a material for decorative objects and ornaments. It can be polished and shaped into beads, pendants, and other jewelry items. Flint nodules and artifacts made from flint are of significant interest to archaeologists as they provide insights into human history, ancient technologies, and cultural practices."
     },
     "scientificSignificance": "Flint has scientific significance in various fields, including archaeology, geology, and materials science. It helps researchers understand human evolution, ancient tool-making techniques, and the geological processes involved in its formation. Flint also serves as an indicator of past environments and can provide information about ancient trade networks."
+  },
+  {
+    "id": "26",
+    "name": "Gypsum",
+    "description": "Gypsum is a soft sulfate mineral composed of calcium sulfate dihydrate. It is commonly found in sedimentary rocks and is known for its white or colorless appearance. Gypsum has been used for various purposes throughout history, including construction, agriculture, and the manufacturing of plaster, cement, and fertilizer.",
+    "wikiImage": "https://assets.fishersci.com/TFS-Assets/CCG/Eisco/product-images/S41485.jpg-650.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Gypsum forms as a result of the evaporation of saline water or the precipitation of mineral-rich groundwater. It often occurs in association with other evaporite minerals, such as halite and anhydrite. Over time, the accumulation of gypsum deposits can form thick layers in sedimentary environments."
+    },
+    "characteristics": {
+      "color": "Gypsum is typically colorless or white. However, it can also exhibit shades of gray, yellow, or pink due to impurities.",
+      "composition": "The chemical formula of gypsum is CaSO4·2H2O, indicating its composition of calcium sulfate dihydrate. It has a relatively low hardness and can be easily scratched by a fingernail. Gypsum crystallizes in the monoclinic crystal system. Its crystals are often tabular or prismatic in shape and can exhibit striations on their surfaces.",
+      "hardness": "Gypsum has a hardness of 2 on the Mohs scale, which means it is a relatively soft mineral.",
+      "density": "The density of gypsum ranges from 2.3 to 2.8 grams per cubic centimeter, depending on its porosity and impurity content.",
+      "porosity": "Gypsum is soluble in water, and its solubility increases with higher temperatures. When dissolved and then reprecipitated, it can form various types of gypsum rocks and formations."
+    },
+    "applications": {
+      "construction": "Gypsum is widely used in the construction industry for making plaster, drywall, and other building materials. It is used as a binder in gypsum plaster, which is applied to walls and ceilings for a smooth finish. Drywall, also known as gypsum board, is a popular material for interior walls and partitions. In medicine, gypsum is used for making plaster casts to immobilize broken bones and support the healing process. It is also used in certain dental applications, such as dental impressions and models.",
+      "monuments": "Gypsum is used as a soil amendment in agriculture to improve soil structure and fertility. It helps break up heavy clay soils, enhance water infiltration, and provide a source of calcium and sulfur for plant growth.",
+      "sculptures": "Gypsum has various industrial applications. It is used in the production of cement, as an ingredient in the manufacture of gypsum board and plaster of Paris, and as a filler and pigment in paper, paints, and plastics.",
+      "artistic": "Gypsum has been used by artists and sculptors for centuries. It is a favored material for creating sculptures, decorative elements, and intricate architectural details."
+    },
+    "scientificSignificance": "Gypsum has scientific significance in various fields, including geology, chemistry, and materials science. It provides insights into sedimentary processes, such as evaporation and precipitation in ancient environments. Gypsum deposits and their associated features also serve as indicators of past climatic conditions and the hydrological history of an area."
+  },
+  {
+    "id": "27",
+    "name": "Lignite",
+    "description": "Lignite is a type of coal that is considered the lowest rank of coal due to its relatively low carbon content and energy value. It is a brownish-black sedimentary rock formed from compressed peat over millions of years. Lignite is characterized by its high moisture content, low energy density, and softness.",
+    "wikiImage": "https://www.collinsdictionary.com/images/full/lignite_28183639.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Lignite forms from the transformation of plant materials in wetland environments. Over time, the accumulation of organic matter, primarily from partially decayed plant debris, undergoes heat and pressure, resulting in the formation of lignite coal."
+    },
+    "characteristics": {
+      "color": "Lignite is typically brownish-black in color, often with visible layers or bands.",
+      "composition": "Lignite is composed mainly of carbon, along with varying amounts of moisture, volatile matter, ash, and sulfur. It has a high moisture content, typically ranging from 25% to 35% or more.",
+      "hardness": "The carbon content of lignite is relatively low, typically ranging from 25% to 35%. This low carbon content contributes to its lower energy value compared to other types of coal.",
+      "density": "Lignite has a lower energy value compared to other types of coal. It has a lower calorific value and releases less heat when burned.",
+      "porosity": "Lignite is a soft coal with a low hardness. It can be easily crumbled or crushed into powder. Lignite has a high moisture content, which can range from 25% to 35% or even higher. The high moisture content contributes to its lower energy density and combustion efficiency."
+    },
+    "applications": {
+      "construction": "Lignite is used as a fuel for electricity generation in power plants. It is burned to produce steam, which drives turbines to generate electricity. However, lignite's lower energy value and high moisture content make it less efficient compared to other types of coal.",
+      "monuments": "Lignite has limited industrial uses due to its lower energy content. It may be used as a source of heat in certain industrial processes or as a fuel for small-scale applications. Lignite can be processed to produce activated carbon, which is used in various applications, including water and air purification, gas adsorption, and treatment of industrial effluents.",
+      "sculptures": "Lignite can be processed to produce humic acid and other organic fertilizers. It is used in agricultural applications to improve soil fertility and enhance plant growth."
+    },
+    "scientificSignificance": "Lignite is of scientific significance in the study of coal formation, paleobotany, and energy resources. It provides insights into the early stages of coalification and the transformation of plant matter into coal. Lignite deposits are also valuable in understanding the paleoenvironmental conditions of ancient wetland ecosystems and the geological history of a region."
+  },
+  {
+    "id": "28",
+    "name": "Chert",
+    "description": "Chert is a type of sedimentary rock composed of microcrystalline or cryptocrystalline quartz. It typically forms in environments with high silica content, such as deep-sea deposits, organic-rich sediments, and hydrothermal systems. Chert is known for its hardness, toughness, and conchoidal fracture.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/6134131A3ABB4E16853748610A4FDDEE.jpeg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Chert forms through the precipitation or replacement of silica-rich materials. It can form in several ways, including the deposition of silica from seawater, the replacement of pre-existing rocks by silica, or the accumulation of silica-rich organisms, such as radiolarians or diatoms."
+    },
+    "characteristics": {
+      "color": "Chert can occur in various colors, including white, gray, brown, black, red, and green. The color is influenced by impurities and the presence of organic matter or other minerals.",
+      "composition": "Chert is primarily composed of microcrystalline or cryptocrystalline quartz, which is made up of silicon dioxide (SiO2). It may also contain small amounts of other minerals, such as iron oxides or clay minerals.",
+      "hardness": "Chert is a hard rock with a Mohs hardness rating ranging from 6.5 to 7. It is one of the hardest forms of silica-rich sedimentary rocks.",
+      "density": "Chert exhibits a conchoidal fracture, which means it breaks with smooth, curved surfaces resembling the inside of a seashell. This fracture pattern is a characteristic feature of chert and is a result of its high silica content and microcrystalline structure. Chert has a fine-grained texture due to the small size of its quartz crystals. It can appear smooth, waxy, or glassy, depending on its composition and degree of recrystallization.",
+      "porosity": "Chert can have varying degrees of porosity, ranging from highly porous to dense and compact. The porosity is influenced by factors such as the presence of fractures, the degree of cementation, and the original silica source."
+    },
+    "applications": {
+      "construction": "Chert has been used since ancient times for flint knapping, the process of shaping it into tools and weapons through controlled fracturing. Its hardness, conchoidal fracture, and fine-grained texture make it suitable for making arrowheads, blades, and other sharp-edged tools. Chert can be used as a construction material in the form of crushed stone or gravel. It is commonly used in road construction, concrete aggregate, railroad ballast, and as a filler material.",
+      "monuments": "Chert with attractive colors and patterns may be used as a gemstone or in jewelry. It can be cut and polished to create cabochons, beads, and other decorative items.",
+      "sculptures": "Chert artifacts and chert-bearing deposits have great archaeological significance. They provide valuable information about past human cultures, as chert was extensively used by early humans for making tools, weapons, and implements."
+    },
+    "scientificSignificance": "Chert has significant scientific value in various fields. Its presence can indicate the past environments in which it formed, such as deep-sea or freshwater settings. Chert deposits also serve as records of ancient life, preserving microfossils and other organic remains. Additionally, chert can provide insights into geological processes, such as diagenesis, silica mobility, and silica precipitation mechanisms."
+  },
+  {
+    "id": "29",
+    "name": "Oolite",
+    "description": "Oolite is a sedimentary rock composed of small spherical grains called ooids. These grains typically range in size from 0.25 to 2 millimeters and are made up of concentric layers of calcium carbonate. Oolite often forms in marine environments, particularly in warm and shallow seas.",
+    "wikiImage": "https://www.alexstrekeisen.it/immagini/diagrammi/oolite.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Oolite forms through the precipitation of calcium carbonate around a nucleus, such as a shell fragment or a sand grain, in shallow marine waters. The grains accumulate and grow in size as layers of calcium carbonate are deposited around them, resulting in the distinctive oolitic texture."
+    },
+    "characteristics": {
+      "color": "Oolite can exhibit a range of colors, including white, gray, yellow, brown, and red. The color is influenced by impurities, such as iron oxide or organic matter, present during its formation.",
+      "composition": "Oolite is primarily composed of calcium carbonate in the form of calcite or aragonite. The ooids, which make up the rock, consist of concentric layers of calcium carbonate that have precipitated from seawater.",
+      "hardness": "Oolite has a distinctive oolitic texture, characterized by the presence of ooids. The ooids are typically spherical in shape and have a concentric internal structure formed by successive layers of calcium carbonate.",
+      "porosity": "The porosity of oolite can vary depending on factors such as the packing arrangement of the ooids and the degree of cementation. It can range from highly porous to relatively dense and compact.",
+      "density": "Oolite is composed of small ooids with a diameter ranging from 0.25 to 2 millimeters. The grains are often well-sorted and can exhibit a uniform size distribution. Oolite can undergo diagenetic processes, such as compaction, cementation, and recrystallization, which can modify its porosity, texture, and overall fabric."
+    },
+    "applications": {
+      "construction": "Oolite has been used as a building material throughout history. Its attractive appearance, relatively easy workability, and durability make it suitable for construction purposes, including the production of dimension stone, decorative facades, and paving stones. Oolite with distinct colors and patterns is used for ornamental purposes, such as sculptures, carvings, and decorative elements in architecture.",
+      "monuments": "Some porous varieties of oolite can serve as a reservoir rock for groundwater. These porous oolites can act as aquifers and provide a potential source of freshwater.",
+      "sculptures": "Oolite has significant geological significance as it provides valuable information about past marine environments, sedimentary processes, and diagenetic changes. It is also used as an indicator of past climatic conditions and sea level fluctuations."
+    },
+    "scientificSignificance": "Oolite is of scientific interest due to its role in understanding sedimentary processes, diagenesis, and the interpretation of ancient environments. The study of oolite can provide insights into the conditions under which ooids form, the factors controlling their size and shape, and the preservation of sedimentary features in the rock record."
+  },
+  {
+    "id": "30",
+    "name": "Travertine",
+    "description": "Travertine is a form of limestone that is formed by the precipitation of calcium carbonate from groundwater. It is commonly found in geologically active regions where hot springs and mineral-rich water sources are present. Travertine is known for its distinct porous texture and various earthy colors, making it a popular choice for architectural and decorative applications.",
+    "wikiImage": "https://m.media-amazon.com/images/I/812lOzOb3OL.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Travertine forms when mineral-rich water, such as hot springs or groundwater, becomes supersaturated with calcium carbonate. As the water flows through limestone or other carbonate rocks, it dissolves the minerals and carries them to the surface. When the water reaches the surface, the dissolved minerals precipitate out, creating layers of calcium carbonate deposits that eventually solidify into travertine."
+    },
+    "characteristics": {
+      "color": "Travertine is available in a range of colors, including white, cream, beige, tan, brown, and even red or gold. The color variation is influenced by impurities and mineral content present during its formation",
+      "composition": "Travertine is composed primarily of calcium carbonate (CaCO3), similar to limestone, but with a different texture and structure. It often contains other minerals, such as clay, silt, iron oxides, and organic matter, which contribute to its unique appearance.",
+      "hardness": "Travertine has a distinct porous texture with visible voids and cavities caused by trapped gas bubbles during its formation. These voids can be left unfilled or filled with mineral deposits or artificial resins to enhance its appearance and durability. Travertine has a relatively low hardness compared to some other natural stones, with a Mohs hardness rating of 3 to 4. This makes it susceptible to scratching and abrasion, requiring proper care and maintenance.",
+      "porosity": "Travertine is highly porous due to its unique texture and the presence of voids. The porosity can vary depending on the specific type of travertine and its level of compaction. It is important to seal and protect travertine to prevent staining and water damage.",
+      "density": "Travertine can be cut in two primary orientations: cross-cut and vein-cut. Cross-cut travertine showcases a more uniform texture with concentric patterns, while vein-cut travertine displays linear veining caused by the cutting parallel to the layers of deposition."
+    },
+    "applications": {
+      "construction": "Travertine is widely used in architecture and construction for various applications. It is commonly used as flooring, wall cladding, countertops, and exterior facades due to its natural beauty, durability, and weather resistance.",
+      "monuments": "Travertine is popular for decorative purposes, such as sculptural elements, mosaics, and ornamental objects. Its unique texture and earthy colors add aesthetic appeal to interior and exterior spaces. Travertine is commonly employed in landscaping projects. It is used for paving patios, walkways, and pool surrounds, creating a natural and inviting outdoor environment.",
+      "sculptures": "Travertine has been used for centuries in various historical structures and monuments. Notable examples include the Colosseum in Rome, the ancient city of Hierapolis in Turkey, and numerous Renaissance buildings in Italy. Its use in historical architecture contributes to its cultural and historical significance."
+    },
+    "scientificSignificance": "Travertine has scientific significance in the study of sedimentary processes, mineral precipitation, and diagenesis. It provides insights into the formation of limestone and the interaction between groundwater, minerals, and geological features. Studying travertine can also help in understanding paleoclimates and past environments."
   }
 ]

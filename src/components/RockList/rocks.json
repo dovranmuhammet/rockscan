@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "Granite",
     "description": "Granite is a common type of igneous rock that is widely used in construction and architecture. It is formed through the slow crystallization of magma deep beneath the Earth's surface. With its unique combination of durability, beauty, and versatility, Granite has become a popular choice for countertops, flooring, monuments, and more.",
     "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
@@ -22,24 +23,95 @@
     "scientificSignificance": "Granite plays a significant role in geology and Earth sciences. It provides insights into the processes of magma crystallization, the formation of continents, and the dynamics of the Earth's crust. Granite is extensively studied to better understand the composition and evolution of the Earth's deep subsurface"
   },
   {
-    "name": "Granite",
-    "description": "Granite is a common type of igneous rock that is widely used in construction and architecture. It is formed through the slow crystallization of magma deep beneath the Earth's surface. With its unique combination of durability, beauty, and versatility, Granite has become a popular choice for countertops, flooring, monuments, and more.",
-    "wikiImage": "https://images.schoolspecialty.com/images/586255_ecommfullsize.jpg",
+    "id": "2",
+    "name": "Basalt",
+    "description": "Basalt is a common type of fine-grained igneous rock that is formed from the rapid cooling of lava at or near the Earth's surface. It is composed primarily of minerals such as pyroxene, plagioclase feldspar, and olivine. Basalt is known for its dense and durable nature, making it a common rock type in volcanic regions and oceanic crust. Its color ranges from dark gray to black.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-basalt-0721.jpg",
+    "type": "Igneous",
     "formation": {
-      "description": "Granite forms when molten magma cools and solidifies over long periods of time. The slow cooling allows large mineral crystals to form, resulting in Granite's distinctive coarse-grained texture."
+      "description": "Basalt forms when lava flows from volcanic eruptions cool rapidly on the Earth's surface. This rapid cooling prevents the growth of large mineral crystals, resulting in Basalt's fine-grained texture."
     },
     "characteristics": {
-      "color": "Granite comes in a wide range of colors, including shades of gray, pink, white, and black. The specific mineral composition determines the color variation.",
-      "composition": "Granite is primarily composed of quartz, feldspar, and mica minerals. These minerals give Granite its durability, strength, and resistance to wear and tear.",
-      "hardness": "Granite is a hard rock with a Mohs hardness rating of 6 to 7, making it highly resistant to scratching and abrasion.",
-      "density": "Granite has a relatively high density, typically ranging from 2.6 to 2.7 grams per cubic centimeter.",
-      "porosity": "Granite is known for its low porosity, which means it has very few open pores or cracks. This property makes it resistant to moisture absorption and staining."
+      "color": "Basalt is typically dark gray to black in color.",
+      "composition": "Basalt is primarily composed of minerals such as pyroxene, plagioclase feldspar, and olivine. The exact mineral composition can vary depending on the specific eruption and location.",
+      "hardness": "Basalt is a hard rock with a Mohs hardness rating of 6 to 7.",
+      "density": "Basalt has a density ranging from 2.8 to 3.0 grams per cubic centimeter.",
+      "porosity": "Basalt is generally low in porosity, which means it has minimal open spaces or cracks."
     },
     "applications": {
-      "construction": "Granite is widely used in construction for various purposes. It is a popular choice for countertops, flooring, wall cladding, and exterior facades due to its durability, heat resistance, and natural beauty.",
-      "monuments": "Granite has been used for centuries in the construction of monuments and memorials. Its ability to withstand weathering and retain its polished appearance makes it a preferred material for lasting tributes.",
-      "sculptures": "The strength and workability of Granite make it an excellent choice for sculptures and artistic creations. Many famous sculptures throughout history have been crafted from Granite."
+      "construction": "Basalt is used in construction for various purposes. It is commonly used as crushed stone for road construction, concrete aggregates, and railroad ballast.",
+      "monuments": "Basalt's durability and strength make it suitable for use as building materials, including for foundations, walls, and paving stones.",
+      "sculptures": "Basalt's fine-grained texture and ability to retain intricate details make it a favored material for sculptures and artistic creations."
     },
-    "scientificSignificance": "Granite plays a significant role in geology and Earth sciences. It provides insights into the processes of magma crystallization, the formation of continents, and the dynamics of the Earth's crust. Granite is extensively studied to better understand the composition and evolution of the Earth's deep subsurface"
+    "scientificSignificance": "Basalt is of great scientific significance as it is one of the most common rock types on Earth. It provides valuable information about volcanic activity, plate tectonics, and the history of the Earth's crust. Basaltic lava flows can create extensive volcanic landscapes known as basalt plateaus or flood basalts."
+  },
+  {
+    "id": "3",
+    "name": "Limestone",
+    "description": "Limestone is a sedimentary rock primarily composed of calcium carbonate. It forms from the accumulation of shells, coral, and other organic debris in marine environments. Limestone is renowned for its versatility, strength, and natural beauty, making it a popular choice for various applications in construction and architecture.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/E7A599B2500C4AA7984B0709A0B50876.jpeg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Limestone forms through the gradual compaction and cementation of sedimentary materials such as shells, coral, and other organic matter. Over time, these materials solidify into a dense rock with distinct patterns and colors."
+    },
+    "characteristics": {
+      "color": "Limestone exhibits a wide range of colors, including white, beige, gray, and brown. The color variations are influenced by impurities and mineral content.",
+      "composition": "Limestone is primarily composed of calcium carbonate (CaCO3), which makes up the majority of its mineral content. It may also contain traces of other minerals and organic matter.",
+      "hardness": "Limestone has a relatively low hardness on the Mohs scale, typically ranging from 3 to 4. It can be easily scratched by harder materials.",
+      "density": "Limestone has a moderate density, typically ranging from 2.3 to 2.7 grams per cubic centimeter.",
+      "porosity": "Limestone is relatively porous, allowing it to absorb and transmit water. Its porosity can vary depending on factors such as compaction and the presence of fractures."
+    },
+    "applications": {
+      "construction": "Limestone is widely used in construction for its durability and aesthetic appeal. It is utilized in the construction of buildings, facades, walls, flooring, and decorative elements. Limestone's natural beauty and versatility make it a preferred choice in both traditional and modern architectural designs.",
+      "monuments": "Limestone has been used for centuries in the creation of monuments and historical structures. Its ability to retain intricate carvings and details, combined with its durability, makes it a popular material for memorial sculptures and architectural landmarks.",
+      "sculptures": "The workability of limestone makes it a favored choice for sculptors. Its relatively soft nature allows for intricate carving and shaping, enabling artists to bring their creative visions to life."
+    },
+    "scientificSignificance": "Limestone plays a crucial role in Earth's history and ongoing geological processes. It provides valuable insights into ancient environments, climate change, and the formation of fossil fuels. Limestone deposits also serve as reservoirs for groundwater and contribute to the complex dynamics of hydrology."
+  },
+  {
+    "id": "4",
+    "name": "Sandstone",
+    "description": "Sandstone is a sedimentary rock composed mainly of sand-sized mineral particles or rock fragments. It forms through the compaction and cementation of sand grains over time. Sandstone is prized for its unique texture, vibrant colors, and versatility in various applications.",
+    "wikiImage": "https://rockhoundresource.com/wp-content/uploads/2022/09/Sandstone-1.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Sandstone forms as sand grains accumulate and undergo lithification, a process involving compaction and cementation. The sand grains are typically derived from weathered rocks and transported by wind, water, or ice, eventually depositing in layers."
+    },
+    "characteristics": {
+      "color": "Sandstone exhibits a wide range of colors, including shades of brown, yellow, red, white, and gray. The color variation is influenced by mineral impurities and the composition of the sand grains.",
+      "texture": "Sandstone possesses a unique texture characterized by its granular appearance and the visible interlocking of individual sand grains. It may have a fine, medium, or coarse texture depending on the size of the grains.",
+      "composition": "The primary component of sandstone is silica, typically in the form of quartz. Other common minerals found in sandstone include feldspar, mica, and rock fragments.",
+      "hardness": "Sandstone has a hardness ranging from 6 to 7 on the Mohs scale, making it relatively durable and resistant to weathering and abrasion.",
+      "porosity": "Sandstone has varying degrees of porosity, which affects its ability to absorb and retain water. Highly porous sandstones are used in applications requiring good drainage, while less porous varieties are suitable for construction and decorative purposes."
+    },
+    "applications": {
+      "construction": "Sandstone has been used in construction for centuries, prized for its strength and natural beauty. It is commonly used for building facades, walls, flooring, and paving. Sandstone's warm tones and distinct texture add a touch of elegance to architectural designs.",
+      "monuments": "Sandstone has been a preferred material for creating monumental structures and historical landmarks. Its ability to retain intricate carvings and details, coupled with its durability, makes it a popular choice for statues, monuments, and ornamental features.",
+      "landscaping": "Due to its natural appearance and versatility, sandstone is often used in landscaping projects. It can be used for creating retaining walls, garden pathways, stepping stones, and decorative elements, adding a unique touch to outdoor spaces."
+    },
+    "scientificSignificance": "Sandstone provides valuable insights into Earth's geological history, including the ancient environments in which it formed. Its distinct layering and sedimentary features offer clues about past climates, sedimentation processes, and the movement of ancient rivers and dunes."
+  },
+  {
+    "id": "5",
+    "name": "Slate",
+    "description": "Slate is a fine-grained metamorphic rock that is known for its unique texture and durability. It forms from the metamorphism of shale or mudstone under high pressure and heat deep within the Earth's crust. Slate has been used for centuries as a roofing material due to its ability to cleave into thin, flat sheets. Its distinct colors, ranging from gray and black to green and red, make it a popular choice for interior and exterior applications.",
+    "wikiImage": "https://m.media-amazon.com/images/I/81DqWINkngL._AC_UF894,1000_QL80_.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Slate forms through the metamorphism of shale or mudstone. The intense heat and pressure cause the minerals within the rock to recrystallize, resulting in a fine-grained texture and distinct foliation."
+    },
+    "characteristics": {
+      "color": "Slate comes in a wide range of colors, including shades of gray, black, green, and red. The color variations are a result of different mineral compositions and impurities.",
+      "composition": "Slate is primarily composed of clay minerals, such as muscovite, chlorite, and illite. These minerals give Slate its characteristic fine-grained texture and ability to cleave into thin sheets.",
+      "hardness": "Slate has a relatively low hardness, with a Mohs hardness rating of 3 to 4. It can be easily scratched with a knife or nail.",
+      "density": "Slate has a moderate density, typically ranging from 2.7 to 2.8 grams per cubic centimeter.",
+      "porosity": "Slate exhibits a prominent foliation, which is a layered structure resulting from the alignment of minerals during metamorphism. This foliation allows Slate to cleave into thin, flat sheets."
+    },
+    "applications": {
+      "construction": "Slate has been traditionally used as a roofing material due to its ability to cleave into thin, flat sheets. It provides excellent waterproofing and durability, making it ideal for withstanding the elements.",
+      "monuments": "Slate is commonly used as a flooring material due to its durability and unique texture. It adds a natural and elegant look to both indoor and outdoor spaces.",
+      "sculptures": "Slate's distinctive color variations and fine-grained texture make it a popular choice for wall cladding. It can create a visually appealing and textured surface in both residential and commercial settings."
+    },
+    "scientificSignificance": "Slate has scientific significance in the field of geology and Earth sciences. Its formation provides insights into the processes of metamorphism and the transformation of sedimentary rocks. Slate's foliation and cleavage properties are studied to understand the deformation and tectonic history of regions where slate deposits are found."
   }
 ]

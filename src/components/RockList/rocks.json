@@ -344,5 +344,143 @@
       "sculptures": "Certain pegmatites are renowned for their production of gemstones. Gem-quality minerals like beryl, tourmaline, and spodumene can be found in pegmatite deposits and are used in jewelry and decorative applications."
     },
     "scientificSignificance": "Pegmatites are of great scientific significance as they provide insights into the processes of magma crystallization, the formation of rare minerals, and the chemical differentiation of magmatic systems. They are studied to understand the conditions and processes that lead to the growth of large crystals and the formation of economically valuable mineral deposits."
+  },
+  {
+    "id": "16",
+    "name": "Peridotite",
+    "description": "Peridotite is a dense, coarse-grained igneous rock that is primarily composed of the minerals olivine, pyroxene, and sometimes garnet. It is one of the main rock types found in the Earth's upper mantle and is associated with tectonic plate boundaries and the formation of oceanic crust.",
+    "wikiImage": "https://m.media-amazon.com/images/I/81DL6+Ft6HL.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Peridotite forms through the solidification of mantle-derived magma deep within the Earth's mantle. It is typically formed in high-temperature, high-pressure environments such as subduction zones or during the ascent of mantle plumes."
+    },
+    "characteristics": {
+      "color": "Peridotite is typically dark green to black in color due to its high content of dark-colored minerals like olivine and pyroxene. However, weathering and alteration can sometimes result in lighter-colored varieties.",
+      "composition": "Peridotite is primarily composed of the minerals olivine, pyroxene (commonly clinopyroxene and orthopyroxene), and sometimes garnet. These minerals give peridotite its characteristic density and high melting point.",
+      "hardness": "Peridotite has a coarse-grained texture due to its slow cooling and crystallization deep within the Earth's mantle. The individual mineral grains are often visible to the naked eye.",
+      "density": "Peridotite has a high density, typically ranging from 3.2 to 3.4 grams per cubic centimeter. Its density is a result of the dense minerals present in its composition.",
+      "porosity": "Peridotite has a low porosity and is generally impermeable to fluids due to its dense nature and lack of interconnected pore spaces."
+    },
+    "applications": {
+      "construction": "Peridotite is of significant interest to geologists and researchers as it provides valuable insights into the composition and processes of the Earth's mantle. Studying peridotite can help in understanding the formation of tectonic plate boundaries, the movement of mantle plumes, and the geochemical processes occurring deep within the Earth.",
+      "monuments": "Certain varieties of peridotite can contain gem-quality olivine, known as peridot. Peridot is used as a gemstone and is valued for its vibrant green color.",
+      "sculptures": "Peridotite has limited industrial use due to its high density and limited occurrence near the Earth's surface. However, its dense nature and heat resistance make it potentially suitable for high-temperature applications."
+    },
+    "scientificSignificance": "Peridotite is of great scientific significance as it provides direct access to the Earth's upper mantle and allows scientists to study the composition and processes occurring at great depths. It plays a crucial role in understanding the dynamics of plate tectonics, the formation of oceanic crust, and the evolution of the Earth's interior."
+  },
+  {
+    "id": "17",
+    "name": "Scoria",
+    "description": "Scoria is a type of igneous rock that forms from the rapid cooling of lava or magma. It is characterized by its vesicular texture, which consists of numerous holes or cavities (vesicles) formed by gas bubbles during the volcanic eruption. Scoria is typically dark-colored and has a lightweight and porous structure.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Scoria_Macro_Digon3.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Scoria forms when lava or magma is ejected from a volcano during an explosive eruption. The rapid cooling of the lava near the surface traps gas bubbles, resulting in the formation of vesicles throughout the rock."
+    },
+    "characteristics": {
+      "color": "Scoria can range in color from dark brown to black or red, depending on the mineral composition and the degree of weathering.",
+      "composition": "Scoria is primarily composed of volcanic glass and minerals such as pyroxene, feldspar, and olivine. The specific mineral composition can vary depending on the original magma source.",
+      "porosity": "Scoria has a high porosity due to the presence of vesicles. This makes it lightweight and porous, allowing it to float on water in some cases.",
+      "density": "Scoria has a relatively low density compared to other types of rocks, typically ranging from 0.6 to 1.0 grams per cubic centimeter. Scoria has a vesicular texture, characterized by the presence of numerous cavities (vesicles) throughout the rock. These vesicles are the result of gas bubbles getting trapped in the rapidly cooling lava.",
+      "hardness": "Scoria is generally a soft rock with a low hardness on the Mohs scale. It can be easily broken or crushed. Scoria has various uses, including as a lightweight aggregate in concrete and as landscaping material for gardens and pathways. Its porous nature also makes it suitable for drainage applications."
+    },
+    "applications": {
+      "construction": "Scoria is used as a lightweight aggregate in concrete and masonry applications. Its low density and high porosity make it suitable for reducing the weight of concrete structures.",
+      "monuments": "Scoria is commonly used in landscaping for decorative purposes, such as in gardens, pathways, and as a mulch substitute. Its dark color and porous texture enhance visual appeal and provide good drainage.",
+      "sculptures": "Due to its porosity, scoria can be used in filtration systems to remove impurities from water or as a filter media in wastewater treatment."
+    },
+    "scientificSignificance": "Scoria is of scientific significance as it provides valuable information about volcanic eruptions and the nature of volcanic activity. Studying scoria helps in understanding volcanic processes, including the dynamics of explosive eruptions, magma degassing, and the interaction between lava and gas."
+  },
+  {
+    "id": "18",
+    "name": "Tuff",
+    "description": "Tuff is a type of sedimentary rock that forms from the consolidation of volcanic ash and other pyroclastic materials. It is formed when volcanic eruptions eject large quantities of ash into the atmosphere, which later settles and becomes compacted and cemented over time. Tuff is known for its porous nature and can vary in color and texture depending on the composition of the ash and the depositional environment.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-tuff-0721.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Tuff forms when volcanic ash and other pyroclastic materials are deposited and subsequently compacted and cemented. The ash is often produced during explosive volcanic eruptions and can travel long distances before settling on the Earth's surface."
+    },
+    "characteristics": {
+      "color": "Tuff can come in a range of colors, including shades of gray, brown, yellow, pink, and white. The color variation depends on the mineral content of the ash and any subsequent alteration or weathering processes.",
+      "composition": "Tuff is primarily composed of volcanic ash, which consists of fine-grained particles of volcanic glass, minerals, and rock fragments. The specific composition can vary depending on the original volcanic source.",
+      "density": "The density of tuff can vary depending on its porosity and the composition of the ash particles. It typically ranges from 0.6 to 1.2 grams per cubic centimeter. Tuff can have a variety of textures, ranging from fine-grained to coarse-grained, depending on the size of the ash particles and the degree of compaction. It may also exhibit layered or banded structures.",
+      "porosity": "Tuff is highly porous due to the presence of air-filled spaces between the ash particles. This porosity can make tuff lightweight and permeable to fluids.",
+      "hardness": "Tuff is generally a soft rock with a low hardness on the Mohs scale. It can be easily scratched or crumbled. Tuff has been used as a building material since ancient times due to its relatively soft and workable nature. It has been used for construction purposes, including in the construction of walls, buildings, and monuments. Tuff can also be used as a decorative stone and as an aggregate in concrete."
+    },
+    "applications": {
+      "construction": "Tuff has been used as a construction material in various architectural structures, such as walls and buildings. Its soft and workable nature allows for easy carving and shaping.",
+      "monuments": "Tuff has been utilized in the construction of monuments and historic structures due to its aesthetic appeal and ability to retain intricate details.",
+      "sculptures": "Tuff is often used as a decorative stone in landscaping and interior design applications. Its wide range of colors and textures can enhance the visual appeal of gardens, pathways, and interior spaces. Crushed tuff can be used as an aggregate in the production of concrete and asphalt. Its lightweight and porous nature can help reduce the weight of the final product and provide better insulation and drainage."
+    },
+    "scientificSignificance": "Tuff is of scientific significance as it provides valuable information about past volcanic eruptions and the history of volcanic activity in a particular region. The study of tuff deposits can help in understanding the eruptive behavior of volcanoes, volcanic ash transportation and deposition patterns, as well as the processes of sedimentation and diagenesis in volcanic environments."
+  },
+  {
+    "id": "19",
+    "name": "Anorthosite",
+    "description": "Anorthosite is a type of igneous rock that primarily consists of plagioclase feldspar minerals. It is characterized by its light-colored appearance, typically ranging from gray to white. Anorthosite is formed through the crystallization of molten magma deep within the Earth's crust and is commonly associated with the formation of large igneous provinces and anorthosite massifs.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-anorthosite-0721.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Anorthosite forms when molten magma rich in plagioclase feldspar cools and solidifies deep within the Earth's crust. The slow cooling allows for the growth of large plagioclase crystals, giving anorthosite its characteristic texture and appearance."
+    },
+    "characteristics": {
+      "color": "Anorthosite is predominantly light-colored, with shades of gray to white. The color is primarily determined by the abundance and composition of plagioclase feldspar minerals.",
+      "composition": "Anorthosite is composed mainly of plagioclase feldspar minerals, particularly the calcium-rich variety known as anorthite. Other minerals, such as pyroxene and olivine, may also be present but in smaller quantities.",
+      "hardness": "Anorthosite typically exhibits a coarse-grained texture, with individual mineral crystals visible to the naked eye. The size and arrangement of the crystals can vary depending on the cooling rate and other geological factors. Anorthosite has a hardness of 6 on the Mohs scale, making it relatively resistant to scratching and abrasion.",
+      "density": "The density of anorthosite ranges from 2.7 to 2.9 grams per cubic centimeter, which is similar to that of other igneous rocks.",
+      "porosity": "Anorthosite is generally a low-porosity rock, meaning it has few open spaces or pores. This characteristic contributes to its durability and resistance to weathering and erosion."
+    },
+    "applications": {
+      "construction": "Anorthosite has been used as a decorative stone in construction projects. Its light color and distinctive texture make it suitable for countertops, flooring, and wall cladding.",
+      "monuments": "Anorthosite has been utilized in the construction of monuments and memorials due to its aesthetic appeal and durability. Its ability to retain a polished appearance over time makes it a popular choice for lasting tributes.",
+      "sculptures": "Anorthosite, with its large crystal size and unique appearance, has been used as dimension stone for architectural and ornamental purposes. It can be cut into slabs, tiles, and other shapes for various applications. Anorthosite is of scientific interest as it provides valuable insights into the processes of magma crystallization, the formation of large igneous provinces, and the evolution of the Earth's crust. It is studied to better understand the composition and dynamics of magmatic systems."
+    },
+    "scientificSignificance": "Anorthosite holds scientific significance as it offers valuable information about the processes involved in the crystallization of magma and the formation of large igneous bodies. The study of anorthosite helps in understanding the evolution of the Earth's crust and the mechanisms that drive magmatic processes. Anorthosite occurrences also provide insights into the geological history of specific regions and the tectonic events that have influenced their formation."
+  },
+  {
+    "id": "20",
+    "name": "Shale",
+    "description": "Shale is a type of sedimentary rock that is characterized by its fine-grained texture and layered composition. It is formed from the accumulation of clay, silt, and organic matter over long periods of time. Shale is known for its ability to split easily into thin layers, making it a common rock type in geological formations.",
+    "wikiImage": "https://mineralseducationcoalition.org/wp-content/uploads/Conglomerate2_stone_160479908.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Shale forms through the compaction and cementation of fine-grained sediments, such as clay and silt. Over time, these sediments accumulate in depositional environments like lake beds, river deltas, and ocean floors. The weight of overlying layers and the chemical processes involved in lithification turn the sediments into solid shale rock."
+    },
+    "characteristics": {
+      "color": "Shale can exhibit a range of colors, including gray, black, brown, red, and green. The color variations are influenced by the presence of different minerals and organic matter.",
+      "composition": "Shale is primarily composed of clay minerals, such as illite, kaolinite, and smectite. It may also contain other minerals like quartz, feldspar, calcite, and pyrite. Organic matter, including plant and animal remains, can be present in varying amounts.",
+      "hardness": "Shale has a fine-grained texture, with individual mineral particles that are not easily visible to the naked eye. Its layers, known as bedding planes, give shale its characteristic fissility, allowing it to split into thin sheets. Shale is a relatively soft rock with a hardness of 2 to 3 on the Mohs scale. It can be easily scratched with a fingernail.",
+      "density": "The density of shale varies depending on its composition, but it typically ranges from 2.2 to 2.8 grams per cubic centimeter.",
+      "porosity": "Shale has a variable porosity, which refers to the amount of open space or pores within the rock. The porosity of shale can affect its ability to store and transmit fluids."
+    },
+    "applications": {
+      "construction": "Shale is not commonly used in construction due to its relatively low strength and tendency to weather and erode over time. However, in some regions, shale may be used as a building material for minor construction projects or as a raw material for manufacturing bricks and tiles.",
+      "monuments": "In geotechnical engineering, shale is studied for its engineering properties and behavior. It is important to understand shale's stability, shear strength, and response to excavation and construction activities in order to ensure the safety and integrity of engineering projects.",
+      "sculptures": "Shale is of great scientific interest as it provides valuable information about past environments, climate, and geological history. The analysis of shale's composition, fossil content, and sedimentary structures helps scientists reconstruct Earth's past conditions and study phenomena such as ancient climates, paleontology, and stratigraphy."
+    },
+    "scientificSignificance": "Shale plays a significant role in geology and Earth sciences as it provides important clues about the Earth's history and the processes that shaped its surface. It serves as a record of ancient environments, preserving fossils, sedimentary structures, and geochemical signatures. Shale formations also have implications for energy exploration and environmental studies, particularly regarding the extraction of natural gas and oil from shale reservoirs."
+  },
+  {
+    "id": "21",
+    "name": "Breccia",
+    "description": "Breccia is a type of sedimentary rock that consists of angular rock fragments and finer-grained material cemented together. It is characterized by its coarse-grained texture and the presence of sharp-edged clasts within the rock matrix. Breccia forms through various geological processes, including faulting, landslides, and impact events.",
+    "wikiImage": "https://www.thoughtco.com/thmb/_vbQp2qGK0sRD_vZxuAJpiemozY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sample-of-breccia-152543399-5b0aeefca474be003708160e.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Breccia forms when angular rock fragments, known as clasts, are rapidly deposited and subsequently cemented together by finer-grained material. The clasts can be derived from a variety of sources, including pre-existing rocks, volcanic eruptions, or meteorite impacts. The cementing material, which can be composed of minerals such as calcite, silica, or clay, fills the gaps between the clasts and solidifies over time."
+    },
+    "characteristics": {
+      "color": "Breccia can exhibit a range of colors depending on the composition of the clasts and matrix. It can be brown, gray, red, yellow, or a mixture of colors.",
+      "Composition": "The composition of the clasts in breccia can vary widely depending on the source rocks. It can include fragments of different rock types, such as granite, limestone, sandstone, or volcanic rocks. The presence of different clast types provides insights into the geological history of the area. The finer-grained material that cements the clasts together, known as the matrix, can vary in composition. It is often composed of sand, silt, clay, or a combination of these materials.",
+      "porosity": "Breccia can have variable porosity depending on the size and arrangement of the clasts. It can range from low to moderate porosity, affecting its permeability and ability to hold and transmit fluids.",
+      "hardness": "The clasts in breccia are cemented together by minerals that precipitate from pore fluids. Common cementing minerals include calcite, silica, iron oxides, and clay minerals. The hardness of breccia varies depending on the hardness of the clasts and the cementing minerals. It generally ranges from 2 to 7 on the Mohs scale.",
+      "density": "The density of breccia depends on the composition and compactness of the clasts and matrix. It typically ranges from 2.2 to 2.9 grams per cubic centimeter. Breccia has a coarse-grained texture due to the presence of the angular clasts. The clasts can have sharp edges and are often tightly packed within the matrix."
+    },
+    "applications": {
+      "construction": "Breccia is not commonly used as a construction material due to its variable strength and durability. However, it can be used for decorative purposes in landscaping and as an ornamental stone.",
+      "monuments": "Breccia is of great interest to geologists as it provides valuable information about past geological events and processes. Studying breccia can help understand faulting, landslides, impact events, and the tectonic history of an area. It can also provide insights into ancient sediment transport and deposition.",
+      "sculptures": "In some cases, breccia can serve as a host rock for mineral deposits. The fractures and open spaces within the rock can act as pathways for mineral-rich fluids, leading to the formation of ore deposits such as gold, copper, or uranium. Breccia has been used as a construction material in ancient structures and monuments. Studying the breccia used in archaeological sites can provide information about ancient civilizations, their building techniques, and the availability of local resources."
+    },
+    "scientificSignificance": "Breccia plays a significant role in geological research and provides important clues about Earth's geological history. It helps reconstruct past geological events, such as earthquakes, landslides, and impact events. Breccia also contributes to our understanding of sedimentary processes, faulting, and the evolution of Earth's crust."
   }
 ]

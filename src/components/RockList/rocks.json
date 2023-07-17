@@ -151,7 +151,7 @@
       "composition": "Gabbro is primarily composed of plagioclase feldspar, pyroxene, and sometimes olivine. The exact mineral composition can vary, leading to differences in the rock's appearance and properties.",
       "hardness": "Gabbro is a hard rock with a Mohs hardness rating of 6 to 7, making it resistant to scratching and abrasion.",
       "density": "Gabbro has a relatively high density, typically ranging from 2.7 to 3.3 grams per cubic centimeter",
-      "texture": "Gabbro has a dense and uniform texture due to its coarse-grained nature. The individual mineral crystals are visible to the naked eye and give the rock its characteristic appearance."
+      "porosity": "Gabbro has a dense and uniform texture due to its coarse-grained nature. The individual mineral crystals are visible to the naked eye and give the rock its characteristic appearance."
     },
     "applications": {
       "construction": "Gabbro is extensively used in construction for its strength, durability, and aesthetic appeal. It is commonly used as a material for countertops, flooring, wall cladding, and other architectural features.",
@@ -159,5 +159,73 @@
       "sculptures": "Gabbro is well-suited for dimension stone applications due to its hardness, durability, and attractive appearance. It is used in the production of slabs, tiles, and other cut-to-size products for various design projects."
     },
     "scientificSignificance": "Gabbro plays a significant role in understanding the formation and composition of the Earth's crust. Its presence in different geological settings provides insights into the processes of magma crystallization, tectonic activities, and the evolution of igneous rocks."
+  },
+  {
+    "id": "8",
+    "name": "Diatomite",
+    "description": "Diatomite, also known as diatomaceous earth, is a sedimentary rock primarily composed of the fossilized remains of diatoms, a type of microscopic algae. It forms through the accumulation of diatom shells over millions of years in freshwater or marine environments. Diatomite is valued for its unique properties, including its high porosity, low density, and abrasive nature, making it useful in various industrial applications.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-diatomite-0721.jpg",
+    "formation": {
+      "description": "Diatomite forms when diatoms, a type of single-celled algae, die and their silica-rich skeletons accumulate on the ocean or lake floor. Over time, these accumulated remains compact and cement together to form the sedimentary rock known as diatomite."
+    },
+    "characteristics": {
+      "color": "Diatomite can vary in color, ranging from white and light gray to yellow, brown, or even black. The color depends on factors such as the composition of the diatoms and the presence of impurities.",
+      "composition": "Diatomite is primarily composed of the silica skeletons of diatoms. These microscopic fossils are made of silica, a compound commonly found in rocks and minerals.",
+      "density": "Diatomite has a low density, typically ranging from 0.1 to 0.5 grams per cubic centimeter. This low density contributes to its lightweight nature.",
+      "porosity": "Diatomite is highly porous due to the intricate network of empty spaces left behind by the diatom skeletons. This high porosity gives diatomite its unique properties and makes it useful for filtration and absorption applications.",
+      "hardness": "Diatomite is known for its abrasive qualities, which make it useful in industrial applications such as polishing, filtration, and as an ingredient in various products.Diatomite has a wide range of industrial applications. It is commonly used as a filter media in water purification, as an abrasive in cleansers and polishes, as an absorbent in cat litter and spill cleanup products, and as a soil amendment in gardening and horticulture."
+    },
+    "applications": {
+      "construction": "Diatomite's high porosity and fine particle size make it an excellent filtration media. It is used in various industries, including water treatment, food and beverage processing, and pharmaceutical manufacturing.Due to its abrasive nature, diatomite is used in the production of polishes, cleansers, and scouring powders.It helps to remove dirt, stains, and contaminants from surfaces. The high porosity of diatomite enables it to absorb liquids and odors effectively. It is used in products such as cat litter, spill cleanup materials, and industrial absorbents.",
+      "monuments": "Diatomite is used as a soil amendment in gardening and horticulture. It improves soil drainage, enhances nutrient availability, and promotes healthy plant growth.",
+      "sculptures": "Diatomite is extensively studied for its geological and paleontological significance. The fossilized diatom remains preserved in diatomite provide valuable insights into past environments, climate change, and the evolution of microscopic organisms."
+    },
+    "scientificSignificance": "Diatomite is of great scientific significance due to its role in providing valuable insights into past environments and climate change. The fossilized diatom remains preserved in diatomite rock offer a window into ancient ecosystems and can help researchers reconstruct past ecological conditions. Furthermore, diatomite's unique characteristics and properties make it a subject of interest in various scientific disciplines, including geology, paleontology, environmental science, and sedimentology."
+  },
+  {
+    "id": "9",
+    "name": "Obsidian",
+    "description": "Obsidian is a natural volcanic glass formed when molten lava cools rapidly without crystallization. It is known for its smooth, glassy texture and striking appearance. With its unique properties, Obsidian has been used for various purposes throughout history, including tools, weapons, jewelry, and decorative objects.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-obsidian-0721.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Obsidian forms when lava rapidly cools down, preventing the crystallization process. The rapid cooling results in a glassy texture with no mineral crystals."
+    },
+    "characteristics": {
+      "color": "Obsidian is typically black, but it can also occur in shades of brown, gray, green, or red. The color variation is often due to impurities or inclusions.",
+      "composition": "Obsidian is primarily composed of silica, which gives it its glass-like appearance. It lacks any significant mineral crystals and is predominantly amorphous.",
+      "hardness": "Obsidian is a relatively hard material, typically ranging from 5 to 5.5 on the Mohs hardness scale. It is not as hard as some minerals but is still capable of producing sharp edges.",
+      "density": "Obsidian has a density that varies depending on its composition and the presence of impurities. It generally ranges from 2.3 to 2.6 grams per cubic centimeter.",
+      "porosity": "Obsidian is generally opaque, but thin pieces can exhibit translucency or a slight transparency when held up to light. Obsidian has been used throughout history for various purposes. It has been fashioned into tools, weapons, and cutting implements due to its sharpness. It is also used in jewelry and decorative objects for its striking appearance."
+    },
+    "applications": {
+      "construction": "Obsidian has been used by ancient civilizations to create sharp tools, such as blades and arrowheads. Its ability to hold a sharp edge made it valuable for cutting and piercing.",
+      "monuments": "Obsidian was used for weapons in the past due to its sharpness and ability to produce deep cuts. It was shaped into spearheads, knives, and other projectile points.",
+      "sculptures": "Obsidian's unique appearance and smooth texture make it a popular choice for jewelry. It is used in the creation of beads, pendants, and cabochons. Obsidian's glossy and glassy nature has made it a sought-after material for decorative objects and ornamental pieces."
+    },
+    "scientificSignificance": "Obsidian has scientific significance in several fields. It provides insights into volcanic activity, the rapid cooling of lava, and the geological processes involved in the formation of volcanic glass. Obsidian studies contribute to understanding past human civilizations, as it helps archaeologists determine trade routes and cultural connections based on the distribution of obsidian artifacts. Additionally, obsidian can be used in geochemical analyses to determine volcanic source regions and magma characteristics."
+  },
+  {
+    "id": "10",
+    "name": "Pumice",
+    "description": "Pumice is a type of volcanic rock characterized by its highly porous nature and lightweight properties. It is formed during volcanic eruptions when frothy lava rapidly cools and solidifies, trapping gas bubbles within its structure. Pumice has been used for various practical and aesthetic purposes, including as an abrasive material, lightweight aggregate, and in horticulture.",
+    "wikiImage": "https://www.thoughtco.com/thmb/CWjU63WP5fRWbUbehw_M8Cph9ZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pumice-stone-detail-isolated-on-white-119398150-5c7be1f2c9e77c00011c839e.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Pumice forms when highly viscous lava erupts from a volcano and undergoes rapid cooling and depressurization. The escape of gases during the eruption leads to the formation of numerous gas bubbles within the lava, resulting in the porous and lightweight nature of pumice."
+    },
+    "characteristics": {
+      "color": "Pumice can have various colors, including white, gray, beige, and even black, depending on the mineral content and impurities present.",
+      "composition": "Pumice is primarily composed of volcanic glass and various minerals, such as feldspar and pyroxene. Its high silica content contributes to its lightweight and abrasive properties.",
+      "porosity": "Pumice is highly porous, with a characteristic vesicular texture that is filled with interconnected gas bubbles. This porosity gives pumice its lightweight and buoyant characteristics.",
+      "density": "Due to its high porosity, pumice is exceptionally lightweight, with densities typically ranging from 0.25 to 0.65 grams per cubic centimeter. It can even float on water.",
+      "hardness": "Pumice is widely known for its abrasive properties. Its rough and porous surface makes it an effective material for exfoliating skin, cleaning surfaces, and polishing objects. Pumice has several practical applications, including as an abrasive material in beauty products, cleaning agents, and polishing compounds. It is also used as a lightweight aggregate in concrete and as a horticultural substrate in gardening and hydroponics."
+    },
+    "applications": {
+      "monuments": "Pumice is used as an abrasive material in various beauty and personal care products, such as soaps, exfoliating scrubs, and foot files.",
+      "sculptures": "The rough and porous surface of pumice makes it an effective material for cleaning surfaces, removing stains, and eliminating mineral deposits. Pumice is used as a polishing compound for achieving a smooth and polished finish on metals, glass, and other materials.",
+      "construction": "Pumice is utilized as a lightweight aggregate in the production of concrete and masonry products. Its low density improves the insulation and overall performance of the material."
+    },
+    "scientificSignificance": "Pumice has scientific significance in understanding volcanic eruptions and the dynamics of explosive volcanic activity. Its formation provides insights into the physical and chemical processes that occur during volcanic eruptions, including magma degassing and fragmentation. Pumice studies contribute to volcanic hazard assessments and the understanding of volcanic phenomena."
   }
 ]

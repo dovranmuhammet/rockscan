@@ -227,5 +227,122 @@
       "construction": "Pumice is utilized as a lightweight aggregate in the production of concrete and masonry products. Its low density improves the insulation and overall performance of the material."
     },
     "scientificSignificance": "Pumice has scientific significance in understanding volcanic eruptions and the dynamics of explosive volcanic activity. Its formation provides insights into the physical and chemical processes that occur during volcanic eruptions, including magma degassing and fragmentation. Pumice studies contribute to volcanic hazard assessments and the understanding of volcanic phenomena."
+  },
+  {
+    "id": "11",
+    "name": "Rhyolite",
+    "description": "Rhyolite is a volcanic rock characterized by its fine-grained texture and light color. It is formed from the rapid cooling and solidification of high-silica content magma, typically in volcanic eruptions. Rhyolite exhibits various colors, including shades of gray, pink, and white, and it often displays a banded or flow texture due to the movement of lava during eruption.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/0D1549015CC547CFB72774C8E42DB288.jpeg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Rhyolite forms when highly viscous magma, rich in silica, erupts from a volcano and cools rapidly on or near the Earth's surface. The rapid cooling prevents the growth of large mineral crystals, resulting in the fine-grained texture characteristic of rhyolite."
+    },
+    "characteristics": {
+      "color": "Rhyolite can exhibit various colors, including light gray, pink, white, and even shades of green or brown. The specific mineral content and impurities contribute to the color variation.",
+      "composition": "Rhyolite is primarily composed of quartz, feldspar, and other minerals rich in silica. It has a high silica content, making it similar in composition to granite but with a finer texture.",
+      "texture": "Rhyolite has a fine-grained texture due to its rapid cooling. It often displays a banded or flow texture, indicating the movement of lava during the volcanic eruption.",
+      "hardness": "Rhyolite has a hardness rating of 6 to 7 on the Mohs scale, similar to that of granite. It is relatively resistant to scratching and abrasion.",
+      "density": "The density of rhyolite ranges from 2.4 to 2.6 grams per cubic centimeter, which is slightly lower than that of granite.",
+      "porosity": "Rhyolite is generally less porous than other volcanic rocks, with low permeability and a lower water absorption rate. This property contributes to its durability and resistance to weathering."
+    },
+    "applications": {
+      "construction": "Rhyolite is used in construction for various purposes, including as a decorative stone for facades, walls, and flooring. Its unique colors and textures make it an attractive choice in architectural design.",
+      "monuments": "Rhyolite has been utilized in the construction of monuments and memorials, particularly for its aesthetic appeal and durability. It can withstand weathering and maintain its appearance over time.",
+      "sculptures": "Certain varieties of rhyolite, known as Rainforest Jasper or Rainforest Rhyolite, are used as gemstones in jewelry. They display intricate patterns resembling landscapes or foliage."
+    },
+    "scientificSignificance": "Rhyolite is significant in understanding volcanic processes and the evolution of magma in the Earth's crust. Its composition and texture provide insights into the chemical and physical conditions during volcanic eruptions. Studies of rhyolite aid in understanding the dynamics of volcanic activity, magma evolution, and the formation of volcanic deposits."
+  },
+  {
+    "id": "12",
+    "name": "Monzonite",
+    "description": "Monzonite is a type of intrusive igneous rock that shares similarities with both granite and syenite. It is characterized by its medium to coarse-grained texture and a balanced composition of plagioclase feldspar and orthoclase feldspar. Monzonite often displays a speckled appearance due to the presence of dark-colored minerals, such as biotite or hornblende.",
+    "wikiImage": "https://www.sandatlas.org/wp-content/uploads/1423-1368-10.06.15_7-larvikite-17-cm-2.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Monzonite forms as magma slowly cools and solidifies beneath the Earth's surface. The slow cooling allows for the growth of medium to coarse-grained crystals, giving monzonite its characteristic texture. The composition of monzonite is intermediate between granite and syenite, containing both plagioclase feldspar and orthoclase feldspar."
+    },
+    "characteristics": {
+      "color": "Monzonite commonly appears in shades of light gray, pink, or tan. The specific mineral composition, including the ratio of feldspars and dark-colored minerals, can influence its overall coloration.",
+      "composition": "Monzonite is primarily composed of plagioclase feldspar and orthoclase feldspar. It may also contain other minerals such as quartz, biotite, hornblende, or pyroxene. The balanced composition of feldspars distinguishes monzonite from other similar igneous rocks. Monzonite typically has a medium to coarse-grained texture, with individual mineral crystals visible to the naked eye. The interlocking arrangement of these crystals gives monzonite its strength and durability.",
+      "hardness": "Monzonite has a Mohs hardness rating similar to granite, ranging from 6 to 7. This makes it relatively resistant to scratching and abrasion.",
+      "density": "The density of monzonite ranges from 2.6 to 2.8 grams per cubic centimeter, similar to that of granite.",
+      "porosity": "Monzonite has low porosity, which means it has few open spaces or cracks. This property contributes to its durability and resistance to water absorption."
+    },
+    "applications": {
+      "construction": "Monzonite is widely used in construction for various purposes. Its durability, strength, and attractive appearance make it suitable for countertops, flooring, wall cladding, and exterior facades.",
+      "monuments": "Monzonite has been used for creating monuments and memorials due to its ability to withstand weathering and retain its polished appearance over time.",
+      "sculptures": "The workability and durability of monzonite make it a preferred choice for sculpting intricate artistic creations. Many sculptures and architectural details have been crafted from monzonite."
+    },
+    "scientificSignificance": "Monzonite plays a significant role in the field of geology as it provides insights into the processes of magma crystallization and the formation of intrusive igneous rocks. Its balanced composition and intermediate characteristics between granite and syenite contribute to our understanding of the Earth's crust and its evolution."
+  },
+  {
+    "id": "13",
+    "name": "Andesite",
+    "description": "Andesite is a type of volcanic rock that commonly occurs in volcanic arcs and mountain ranges. It is formed from the solidification of magma that is rich in silica and intermediate in composition between basalt and rhyolite. Andesite is known for its fine-grained texture and typically exhibits a gray to black coloration.",
+    "wikiImage": "https://mineralseducationcoalition.org/wp-content/uploads/andesite_366069737.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Andesite forms when magma solidifies below the Earth's surface or erupts onto the surface as lava. It is typically associated with volcanic activity in subduction zones, where oceanic crust is being subducted beneath continental crust. The slow cooling of andesitic magma results in the development of fine-grained crystals."
+    },
+    "characteristics": {
+      "color": "Andesite commonly appears in shades of gray to black, with occasional hints of brown, green, or red. The specific mineral composition and the presence of certain impurities contribute to its color variation.",
+      "composition": "Andesite is primarily composed of plagioclase feldspar and lesser amounts of other minerals such as pyroxene, hornblende, and biotite. The relative proportions of these minerals determine the overall composition and characteristics of andesite.",
+      "texture": "Andesite has a fine-grained texture, with individual mineral crystals too small to be seen with the naked eye. This results from the rapid cooling of magma or lava, which restricts crystal growth.",
+      "hardness": "Andesite has a Mohs hardness rating of 6 to 7, similar to granite. It is relatively resistant to scratching and abrasion.",
+      "density": "The density of andesite ranges from 2.6 to 2.8 grams per cubic centimeter, similar to that of granite.",
+      "porosity": "Andesite has low porosity, meaning it has minimal open spaces or cracks. This property contributes to its durability and resistance to water absorption."
+    },
+    "applications": {
+      "construction": "Andesite is used in construction for various purposes. It is commonly used as a decorative stone for building facades, flooring, and paving. Its durability and attractive appearance make it suitable for both indoor and outdoor applications.",
+      "monuments": "Andesite is often crushed and used as an aggregate material in road construction. Its strong and durable nature makes it suitable for use in pavement and road base layers. Due to its fine-grained texture and workability, andesite has been used for sculpting statues and artistic creations. Many historical and cultural artifacts have been crafted from andesite.",
+      "sculptures": "Andesite rocks are sometimes used in aquariums as substrate material. Their natural color and texture create a visually appealing environment for aquatic plants and animals."
+    },
+    "scientificSignificance": "Andesite plays a significant role in the study of volcanic processes and the Earth's crust. It provides valuable insights into subduction zone volcanism and the formation of volcanic arcs. The composition and textures of andesite rocks help scientists understand magma evolution, volcanic eruptions, and the interactions between magma and surrounding rocks."
+  },
+  {
+    "id": "14",
+    "name": "Coquina",
+    "description": "Coquina is a sedimentary rock composed primarily of fragmented shells and shell fragments. It forms in shallow marine environments where shell accumulation is abundant. Coquina is known for its porous and friable nature, giving it a unique appearance and texture.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-coquina-0721.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Coquina forms through the accumulation and lithification of shell fragments in coastal areas with active wave action. Over time, the shells become cemented together by calcium carbonate or other minerals, creating a solid rock."
+    },
+    "characteristics": {
+      "color": "Coquina commonly exhibits shades of light beige to yellowish-brown, depending on the types of shells present in the rock. The color variation is influenced by the composition of the shells and the presence of impurities.",
+      "composition": "Coquina is predominantly composed of shell fragments, including mollusk shells, coral fragments, and other marine organisms. The shells are typically composed of calcium carbonate, which gives coquina its characteristic composition.",
+      "hardness": "Coquina has a distinct texture characterized by visible shell fragments loosely cemented together. The rock is often described as friable, meaning it can be easily crumbled or broken apart due to its porous nature.",
+      "porosity": "Coquina has high porosity due to the presence of numerous interconnected pores and gaps between the shell fragments. This property allows coquina to absorb and store water, making it useful for certain applications.",
+      "density": "Due to its formation from marine organisms, coquina often contains well-preserved fossils. Fossilized shells and fragments can be found within the rock, providing valuable information about past marine life."
+    },
+    "applications": {
+      "construction": "Coquina has been used as a building material in coastal regions, especially during the colonial era. Its unique texture and appearance give structures a distinct aesthetic. However, its relatively soft nature limits its use to decorative elements rather than load-bearing components.",
+      "monuments": "Coquina can be used in landscaping projects to create attractive rock formations, retaining walls, and decorative features. Its porous nature allows for natural drainage and can support the growth of certain plants in suitable environments.",
+      "sculptures": "Coquina has historical significance in regions where it was traditionally used as a construction material. Structures built with coquina, such as forts and buildings, serve as cultural and historical landmarks, showcasing the architectural heritage of coastal areas."
+    },
+    "scientificSignificance": "Coquina provides valuable insights into past marine environments and the preservation of shell fragments. It is studied by geologists and paleontologists to understand ancient coastal ecosystems, changes in sea levels, and the processes involved in the formation and preservation of sedimentary rocks."
+  },
+  {
+    "id": "15",
+    "name": "Pegmatite",
+    "description": "Pegmatite is an igneous rock known for its exceptional mineral composition and large crystal size. It forms through the slow cooling of highly fractionated magma in the Earth's crust. Pegmatite deposits are rich sources of rare minerals and gemstones, making them of significant interest to mineral collectors and industry alike.",
+    "wikiImage": "https://www.alexstrekeisen.it/immagini/diagrammi/pegmatite2019(4).jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Pegmatite forms when magma with a high concentration of water and dissolved minerals undergoes slow cooling and crystallization. The slow cooling allows for the growth of exceptionally large crystals, often reaching several meters in size."
+    },
+    "characteristics": {
+      "color": "Pegmatite comes in a wide range of colors, depending on the minerals present. Common colors include white, gray, pink, and various shades of green, blue, and purple. The specific mineral composition determines the color variation.",
+      "composition": "Pegmatite is composed of a variety of minerals, including quartz, feldspar, mica, and often rare minerals such as beryl, tourmaline, and spodumene. These minerals can occur as large, well-formed crystals due to the slow cooling and ample space for crystal growth.",
+      "hardness": "One of the defining characteristics of pegmatite is its exceptionally large crystal size. Crystals in pegmatite can range from a few centimeters to several meters in length, making them highly sought after by mineral collectors and gemstone enthusiasts.",
+      "density": "Pegmatite typically has a coarse-grained texture due to the large size of its constituent minerals. The crystals are often intergrown and display complex patterns and structures within the rock.",
+      "porosity": "Pegmatite can have variable porosity, depending on the specific mineral composition and the presence of fractures or veins. Some pegmatites can be relatively porous, while others may exhibit low porosity."
+    },
+    "applications": {
+      "construction": "Pegmatite deposits are valuable sources of rare and valuable minerals, including gemstones, lithium, tantalum, and rare earth elements. They are actively mined for these minerals, which have various industrial and technological applications.",
+      "monuments": "Due to their exceptional crystal size and diverse mineral content, pegmatites are highly sought after by mineral collectors and enthusiasts. Collecting specimens from pegmatite deposits allows individuals to acquire unique and visually stunning mineral specimens.",
+      "sculptures": "Certain pegmatites are renowned for their production of gemstones. Gem-quality minerals like beryl, tourmaline, and spodumene can be found in pegmatite deposits and are used in jewelry and decorative applications."
+    },
+    "scientificSignificance": "Pegmatites are of great scientific significance as they provide insights into the processes of magma crystallization, the formation of rare minerals, and the chemical differentiation of magmatic systems. They are studied to understand the conditions and processes that lead to the growth of large crystals and the formation of economically valuable mineral deposits."
   }
 ]

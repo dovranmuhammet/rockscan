@@ -79,8 +79,8 @@
     },
     "characteristics": {
       "color": "Sandstone exhibits a wide range of colors, including shades of brown, yellow, red, white, and gray. The color variation is influenced by mineral impurities and the composition of the sand grains.",
-      "texture": "Sandstone possesses a unique texture characterized by its granular appearance and the visible interlocking of individual sand grains. It may have a fine, medium, or coarse texture depending on the size of the grains.",
-      "composition": "The primary component of sandstone is silica, typically in the form of quartz. Other common minerals found in sandstone include feldspar, mica, and rock fragments.",
+      "composition": "Sandstone possesses a unique texture characterized by its granular appearance and the visible interlocking of individual sand grains. It may have a fine, medium, or coarse texture depending on the size of the grains.",
+      "density": "The primary component of sandstone is silica, typically in the form of quartz. Other common minerals found in sandstone include feldspar, mica, and rock fragments.",
       "hardness": "Sandstone has a hardness ranging from 6 to 7 on the Mohs scale, making it relatively durable and resistant to weathering and abrasion.",
       "porosity": "Sandstone has varying degrees of porosity, which affects its ability to absorb and retain water. Highly porous sandstones are used in applications requiring good drainage, while less porous varieties are suitable for construction and decorative purposes."
     },
@@ -1000,7 +1000,7 @@
       "description": "Migmatite forms under conditions of high temperature and pressure during regional metamorphism. As the rock is subjected to these intense conditions, it undergoes partial melting. The partially molten rock then cools and solidifies, preserving both the original metamorphic minerals and the newly formed igneous components. This process results in the unique banded or veined appearance of migmatite."
     },
     "characteristics": {
-      "colors": "Migmatite displays a wide range of colors, including shades of white, gray, pink, red, black, and brown. The colors are a result of the various minerals present in the rock, such as quartz, feldspar, mica, and amphibole.",
+      "color": "Migmatite displays a wide range of colors, including shades of white, gray, pink, red, black, and brown. The colors are a result of the various minerals present in the rock, such as quartz, feldspar, mica, and amphibole.",
       "composition": "Migmatite exhibits a distinctive banded or veined texture due to the coexistence of different mineral assemblages. The metamorphic and igneous components are often interlayered or intermixed, creating visually striking patterns.",
       "hardness": "Migmatite contains a combination of metamorphic minerals and igneous components. Common metamorphic minerals found in migmatite include quartz, feldspar, mica, and amphibole. The igneous components can include granite, granitic gneiss, or other types of igneous rocks.",
       "density": "The transition between the metamorphic and igneous portions of migmatite is often gradual and can display intermediate stages of melting and solidification. This transition zone provides valuable insights into the processes of partial melting and rock recrystallization. Migmatite generally exhibits good strength and durability. The presence of both metamorphic and igneous components contributes to its overall robustness and resistance to weathering and erosion.",

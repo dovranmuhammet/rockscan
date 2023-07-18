@@ -41,8 +41,20 @@ const RockList = () => {
   }
 
   const handleSearchChange = (event) => {
-    setSearchTerm(event.target.value)
-    setSelectedType('all') // Reset the selected type when the search term changes
+    const searchTerm = event.target.value
+    setSearchTerm(searchTerm)
+
+    // Find a rock whose name matches the search term
+    const matchedRock = rockData.find(
+      (rock) => rock.name.toLowerCase() === searchTerm.toLowerCase()
+    )
+
+    // Set the selected type based on the search term
+    if (matchedRock) {
+      setSelectedType(matchedRock.type)
+    } else {
+      setSelectedType('all')
+    }
   }
 
   const handleTypeChange = (event) => {

@@ -1035,5 +1035,120 @@
       "sculptures": "In rare cases, eclogite may contain gem-quality garnets. These garnets can be cut and polished to create unique and beautiful gemstones. However, due to their rarity and the difficulty of extraction, gem-quality eclogite garnets are not commonly available in the commercial market. Due to its striking appearance and unique composition, eclogite is sometimes used as a decorative stone in jewelry, sculptures, and ornamental objects. Its contrasting colors and patterns can create visually appealing designs."
     },
     "scientificSignificance": "Eclogite plays a significant role in geology and Earth sciences. Its formation provides evidence of the high-pressure conditions associated with subduction zones and plate tectonics. By studying eclogite, scientists gain insights into the dynamics of Earth's interior, the behavior of rocks under extreme pressure, and the processes involved in the formation and evolution of mountain belts."
+  },
+  {
+    "id": "46",
+    "name": "Soapstone",
+    "description": "Soapstone is a metamorphic rock known for its soft texture and high talc content. It is formed through the metamorphism of magnesium-rich rocks such as dolomite or magnesian limestone. Soapstone has been used for centuries due to its unique properties, including its ability to hold and radiate heat, resistance to acids and stains, and its softness, which allows for ease of carving and shaping.",
+    "wikiImage": "https://media.istockphoto.com/id/492254908/photo/talc.jpg?s=612x612&w=0&k=20&c=hTggN4IXyYLUnIVt1-SZTwwMV4rzYg6pSByofd43L5c=",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Soapstone forms through the metamorphism of magnesium-rich rocks, such as dolomite or magnesian limestone, under high pressure and temperature conditions. The presence of talc minerals is characteristic of soapstone and gives it its unique properties."
+    },
+    "characteristics": {
+      "color": "Soapstone comes in various shades of gray, ranging from light gray to dark charcoal. Some soapstones may have slight hints of green or blue due to the presence of other minerals.",
+      "composition": "The main mineral in soapstone is talc, which gives the rock its characteristic softness and smooth texture. It may also contain other minerals such as magnesite, chlorite, and amphibole, which can contribute to variations in color and texture.",
+      "hardness": "Soapstone is a relatively soft rock with a Mohs hardness rating of 1 to 2. It can be easily scratched with a fingernail or a knife.",
+      "density": "Soapstone has a density ranging from 2.6 to 2.8 grams per cubic centimeter, which is relatively low compared to many other rocks.",
+      "porosity": "Soapstone has a smooth and soapy texture due to its high talc content. It is often described as having a Greasy or Waxy feel. Soapstone is highly resistant to acids and stains, making it suitable for kitchen countertops and laboratory surfaces. Its non-porous nature prevents liquids and chemicals from seeping into the rock."
+    },
+    "applications": {
+      "construction": "Soapstone is commonly used for kitchen and bathroom countertops due to its heat resistance, non-porous nature, and smooth texture. It provides a unique and natural look to any space. Due to its excellent heat retention properties, soapstone is often used in the construction of fireplaces, wood-burning stoves, and hearths. It can withstand high temperatures without cracking or warping.",
+      "monuments": "Soapstone cookware, such as griddles and baking stones, is favored for its ability to distribute heat evenly and retain it for a long time. It is also non-reactive to acidic ingredients. Soapstone's softness and ease of carving make it a popular choice for sculptures and artistic creations. It has been used for centuries to create intricate figurines, statues, and decorative objects.",
+      "sculptures": "Soapstone is of scientific significance as it provides insights into the geological processes of metamorphism and the formation of talc-rich rocks. It is also studied for its physical properties, such as heat retention and chemical resistance, which have practical applications in various industries."
+    },
+    "scientificSignificance": "Soapstone is significant in geology and Earth sciences as it offers valuable insights into the processes of metamorphism, the formation of talc-rich rocks, and the behavior of minerals under high-pressure conditions. Its unique properties and widespread use have led to extensive research and study of soapstone in various scientific disciplines."
+  },
+  {
+    "id": "47",
+    "name": "Blueschist",
+    "description": "Blueschist is a metamorphic rock characterized by its blue color, which is primarily due to the presence of the mineral glaucophane. It forms under high-pressure, low-temperature conditions during the subduction of oceanic crust in a process called blueschist facies metamorphism. Blueschist has a unique mineral assemblage and texture that make it an important rock in understanding the geodynamic processes associated with subduction zones.",
+    "wikiImage": "https://i.pinimg.com/736x/ae/cc/b1/aeccb1871a0d2bcdc74ad5e8a23cc390--metamorphic-rock-minerals.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Blueschist forms through the metamorphism of oceanic crust during subduction. The high-pressure conditions and low temperatures result in the formation of minerals such as glaucophane, lawsonite, and jadeite, which are responsible for the blue color and unique characteristics of blueschist."
+    },
+    "characteristics": {
+      "color": "Blueschist is primarily characterized by its blue color, which is predominantly caused by the presence of glaucophane. However, it may also contain other minerals that contribute to variations in color, including green, gray, and black.",
+      "composition": "Blueschist is primarily composed of minerals such as glaucophane, lawsonite, jadeite, albite, and epidote. These minerals form under the specific pressure and temperature conditions associated with subduction zones. Blueschist typically exhibits a foliated texture characterized by the alignment of elongated minerals. This foliation is a result of the high-pressure conditions during its formation.",
+      "hardness": "Blueschist has a variable hardness depending on its mineral composition. Glaucophane has a hardness of 6 to 7 on the Mohs scale, while other minerals present in blueschist may have different hardness values.",
+      "density": "Blueschist has a density ranging from 2.7 to 3.1 grams per cubic centimeter, which is comparable to other metamorphic rocks.",
+      "porosity": "The presence of blueschist indicates past or present subduction activity in an area. It provides valuable information about the tectonic history and processes associated with convergent plate boundaries. Blueschist is commonly found in areas associated with subduction zones, where one tectonic plate is forced beneath another. It occurs in regions such as coastal mountain ranges, island arcs, and accretionary prisms."
+    },
+    "applications": {
+      "construction": "Blueschist is extensively studied in the field of geology and Earth sciences. Its presence and characteristics provide valuable insights into the processes of subduction, plate tectonics, and the formation of metamorphic rocks.",
+      "monuments": "Blueschist's unique blue color and attractive foliated texture make it a sought-after ornamental stone in architecture and design. It is used for interior and exterior applications, including countertops, flooring, wall cladding, and decorative features.",
+      "sculptures": "Certain varieties of blueschist, particularly those containing high-quality gem minerals like jadeite, may be cut and polished for use as gemstones. These gems are highly prized for their unique color and rarity."
+    },
+    "scientificSignificance": "Blueschist is of great scientific significance as it provides crucial information about the processes occurring in subduction zones and the associated geodynamic evolution of Earth's crust. Its unique mineral assemblage and texture make it a key indicator of subduction-related tectonic activities and are valuable for understanding the dynamics of plate tectonics."
+  },
+  {
+    "id": "48",
+    "name": "Greenstone",
+    "description": "Greenstone is a type of metamorphic rock characterized by its green color, which is predominantly due to the presence of minerals such as chlorite, actinolite, or epidote. It forms through the metamorphism of basalt or other mafic rocks under conditions of low to moderate temperature and pressure. Greenstone has been used by various cultures throughout history for tools, weapons, and ceremonial purposes.",
+    "wikiImage": "https://cdn.britannica.com/43/128543-050-1AD6F86C/Slate.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Greenstone forms through the metamorphism of basalt or other mafic rocks. During metamorphism, the minerals in the original rock recrystallize and transform into new minerals, resulting in the characteristic green color and distinctive texture of greenstone."
+    },
+    "characteristics": {
+      "color": "Greenstone is primarily known for its green color, which can range from light to dark shades. The specific mineral composition and degree of metamorphism determine the exact shade of green.",
+      "composition": "Greenstone is composed of minerals such as chlorite, actinolite, epidote, albite, and others. These minerals are typically formed during the metamorphic process from the original basalt or mafic rock. Greenstone exhibits a fine-grained texture, often displaying a distinct foliation or layered appearance. This texture is a result of the recrystallization and reorientation of minerals during metamorphism.",
+      "hardness": "The hardness of greenstone varies depending on its mineral composition. Generally, it falls within the range of 4 to 6 on the Mohs scale.",
+      "density": "Greenstone has a density ranging from 2.6 to 3.3 grams per cubic centimeter, which is similar to that of other metamorphic rocks.",
+      "porosity": "Greenstone is commonly found in regions with a geological history of volcanic activity and the presence of mafic rocks. It occurs in areas such as greenstone belts, island arcs, and ancient volcanic terranes."
+    },
+    "applications": {
+      "construction": "Greenstone has been historically used by various cultures for making tools, weapons, and ornaments. It has cultural and ceremonial significance in some indigenous communities.",
+      "monuments": "Certain varieties of greenstone, particularly those with attractive patterns or colors, are used in jewelry making. They are often carved into beads, pendants, or other decorative pieces.",
+      "sculptures": "Greenstone is of interest to geologists and researchers studying the Earth's history and ancient volcanic terranes. Its presence and characteristics provide insights into past geological events and tectonic processes."
+    },
+    "scientificSignificance": "Greenstone holds scientific significance in understanding the processes of metamorphism, ancient volcanic activity, and the evolution of the Earth's crust. Its presence and distribution can provide valuable clues about the geological history and tectonic settings of a particular region."
+  },
+  {
+    "id": "49",
+    "name": "Serpentinite",
+    "description": "Serpentinite is a metamorphic rock that forms through the metamorphism of ultramafic rocks, such as peridotite, under high-pressure and low-temperature conditions. It is characterized by its green color and a waxy or slippery texture. Serpentinite is composed mainly of serpentine minerals, such as antigorite, lizardite, and chrysotile. It is often associated with areas of tectonic activity and is known for its unique geological and environmental properties.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/serpentine.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Serpentinite forms when ultramafic rocks, such as peridotite, undergo metamorphism under high-pressure and low-temperature conditions. The process causes the minerals in the rock to re-crystallize, forming serpentine minerals and giving serpentinite its characteristic green color and texture."
+    },
+    "characteristics": {
+      "color": "Serpentinite is typically green, ranging from light green to dark green shades. The intensity of the green color is determined by the amount and composition of serpentine minerals present.",
+      "composition": "Serpentinite is primarily composed of serpentine minerals, such as antigorite, lizardite, and chrysotile. These minerals form as a result of the metamorphism of ultramafic rocks. Serpentinite has a unique waxy or slippery texture. It feels smooth to the touch and is often described as having a greasy or soapy appearance.",
+      "hardness": "The hardness of serpentinite varies depending on the specific serpentine minerals present. On the Mohs scale, it typically ranges from 2.5 to 4.5.",
+      "density": "Serpentinite has a density ranging from 2.5 to 2.7 grams per cubic centimeter, which is similar to other metamorphic rocks.",
+      "porosity": "Serpentinite is known for its resistance to weathering and erosion. It undergoes minimal chemical alteration and retains its original green color even after long exposure to the elements."
+    },
+    "applications": {
+      "construction": "Serpentinite is occasionally used in architecture and construction for decorative purposes. Its unique green color and texture can add aesthetic appeal to buildings and interior spaces.",
+      "monuments": "Due to its attractive green color and smooth texture, serpentinite is used as an ornamental stone in the production of sculptures, carvings, and jewelry.",
+      "sculptures": "Serpentinite is of significant interest to geologists and researchers studying processes related to subduction zones, plate tectonics, and the cycling of water and elements through the Earth's crust. It provides insights into the interaction between rocks, minerals, and fluids in these geological settings."
+    },
+    "scientificSignificance": "Serpentinite plays a crucial role in understanding subduction zone processes, plate tectonics, and the geochemistry of the Earth's crust. It serves as a source of water and elements, such as magnesium, and contributes to the formation of specific mineral deposits. Studying serpentinite helps in unraveling the complexities of the Earth's geological history and its dynamic nature."
+  },
+  {
+    "id": "50",
+    "name": "Hornfels",
+    "description": "Hornfels is a metamorphic rock that forms through the process of contact metamorphism. It is characterized by its fine-grained texture and the absence of foliation or layering. Hornfels typically has a dull appearance and can be found in various colors, including gray, brown, black, and green. It is known for its hardness and durability, making it a useful rock for certain applications.",
+    "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-hornfels-0721.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Hornfels forms when preexisting rocks, such as shale, limestone, or igneous rocks, undergo high-temperature metamorphism due to contact with hot magma or lava. The intense heat alters the mineralogy and texture of the rocks, resulting in the formation of hornfels."
+    },
+    "characteristics": {
+      "color": "Hornfels can exhibit a range of colors, including gray, brown, black, and green. The specific coloration depends on the composition of the original rock and the minerals present.",
+      "composition": "Hornfels has a fine-grained texture with a compact and dense structure. It lacks foliation or layering, giving it a homogeneous appearance.",
+      "hardness": "Hornfels is a hard rock with a Mohs hardness rating of 7 or higher. It is resistant to scratching and abrasion.",
+      "density": "The density of hornfels varies depending on its composition but generally ranges from 2.7 to 3.1 grams per cubic centimeter.",
+      "porosity": "Hornfels is known for its durability and resistance to weathering and erosion. It can withstand harsh environmental conditions and retain its integrity over time."
+    },
+    "applications": {
+      "construction": "Due to its hardness and durability, hornfels is used as a construction material for various applications, including building facades, flooring, and paving stones. Hornfels is sometimes used as railroad ballast, providing stability and support to railway tracks.",
+      "sculptures": "The durability and resistance of hornfels make it suitable for road construction, including the production of asphalt and concrete aggregates.",
+      "monuments": "Hornfels, with its fine-grained texture and range of colors, is used as an ornamental stone in landscaping and interior design applications."
+    },
+    "scientificSignificance": "Hornfels plays a significant role in the study of metamorphism and geology. Its formation through contact metamorphism provides insights into the thermal effects of intrusions and lava flows on the surrounding rocks. Hornfels is used as an indicator of past geological activity and can help reconstruct the geological history of a region."
   }
 ]

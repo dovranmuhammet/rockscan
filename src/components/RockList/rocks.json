@@ -1150,5 +1150,124 @@
       "monuments": "Hornfels, with its fine-grained texture and range of colors, is used as an ornamental stone in landscaping and interior design applications."
     },
     "scientificSignificance": "Hornfels plays a significant role in the study of metamorphism and geology. Its formation through contact metamorphism provides insights into the thermal effects of intrusions and lava flows on the surrounding rocks. Hornfels is used as an indicator of past geological activity and can help reconstruct the geological history of a region."
+  },
+  {
+    "id": "51",
+    "name": "Granulite",
+    "description": "Granulite is a high-grade metamorphic rock that forms under extreme heat and pressure. It is characterized by its coarse-grained texture and typically appears granular or sugary. Granulite commonly occurs in shades of light gray, pink, or brown. It is known for its high degree of crystallization and mineralogical changes resulting from intense metamorphism.",
+    "wikiImage": "https://geodil.dperkins.org/i/362.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Granulite forms through the metamorphism of preexisting rocks, such as basalt or sedimentary rocks, at high temperatures and pressures. The intense heat and pressure cause recrystallization and mineralogical changes, resulting in the formation of granulite."
+    },
+    "characteristics": {
+      "color": "Granulite commonly occurs in light gray, pink, or brown colors. The specific mineral composition determines the color variation.",
+      "composition": "Granulite is primarily composed of minerals such as feldspar, pyroxene, amphibole, and quartz. The exact mineral composition can vary depending on the protolith and the specific conditions of metamorphism. Granulite has a coarse-grained texture, often with interlocking mineral grains. The grains are typically large enough to be visible to the naked eye, giving the rock a granular or sugary appearance.",
+      "hardness": "Granulite is a hard rock with a Mohs hardness rating typically ranging from 6 to 7. It is resistant to scratching and abrasion.",
+      "density": "The density of granulite varies depending on its mineral composition but generally ranges from 2.7 to 3.2 grams per cubic centimeter.",
+      "porosity": "Granulite represents a high metamorphic grade, indicating that it has undergone significant heat and pressure during its formation. It is associated with regional or contact metamorphism under deep crustal conditions."
+    },
+    "applications": {
+      "construction": "Granulite is of great interest to geologists and researchers studying metamorphic processes and crustal evolution. It provides insights into the conditions and mechanisms of high-grade metamorphism and the tectonic history of the Earth's crust.",
+      "monuments": "Granulite with attractive colors and textures is occasionally used as an ornamental stone in applications such as countertops, flooring, and decorative features.",
+      "sculptures": "Due to its unique characteristics and rarity, granulite specimens are sought after by mineral collectors and enthusiasts."
+    },
+    "scientificSignificance": "Granulite has significant scientific significance in the field of geology. Its formation provides valuable information about the processes of high-grade metamorphism and the deep crustal conditions under which it occurs. The study of granulite contributes to our understanding of the complex processes that shape the Earth's crust and the evolution of mountain belts."
+  },
+  {
+    "id": "52",
+    "name": "Carbonatite",
+    "description": "Carbonatite is a unique type of igneous rock that is primarily composed of carbonate minerals, such as calcite, dolomite, and siderite. It is known for its high concentration of carbonate minerals, which distinguishes it from other rock types. Carbonatite often appears light in color and can exhibit various shades of white, gray, yellow, or brown. It is an uncommon rock type that is found in specific geological settings.",
+    "wikiImage": "https://lh3.googleusercontent.com/-vDVcHgvOncc/VeqvMtUv0lI/AAAAAAAAK7A/Sg-bgoZ_gJ0/s512/1421%25252020.06.15_9%252520carbonatite%2525208%252520cm.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Carbonatite forms through the intrusion or extrusion of carbonatite magma. The magma is rich in carbon dioxide (CO2) and carbonate minerals, leading to the crystallization of carbonate minerals upon cooling. The exact mechanisms of carbonatite formation are still a subject of scientific research and debate."
+    },
+    "characteristics": {
+      "color": "Carbonatite commonly appears light in color, ranging from white and gray to yellow or brown. The specific mineral composition and impurities present in the rock can influence its coloration.",
+      "composition": "Carbonatite is primarily composed of carbonate minerals, including calcite (CaCO3), dolomite (CaMg(CO3)2), and siderite (FeCO3). Other accessory minerals and elements may also be present, such as apatite, magnetite, pyrochlore, and rare-earth elements (REE).",
+      "hardness": "The texture of carbonatite can vary from fine-grained to coarse-grained. It often exhibits a granular or crystalline texture, with carbonate minerals forming distinct crystals.",
+      "density": "Carbonatite is often associated with the formation of carbonate veins, which are veins or dykes rich in carbonate minerals. These veins can extend from the main carbonatite body into the surrounding rocks",
+      "porosity": "Carbonatite is notable for its enrichment in rare elements, including rare-earth elements (REE), niobium, tantalum, and thorium. These elements have economic significance and make carbonatite deposits potential targets for mining."
+    },
+    "applications": {
+      "construction": "Carbonatite deposits are of economic importance for the extraction of rare elements, including rare-earth elements (REE) and niobium. These elements are used in various high-tech applications, such as electronics, magnets, catalysts, and renewable energy technologies.",
+      "monuments": "In some cases, carbonatite can be used as a source of crushed stone and aggregate for construction purposes. However, this application is limited due to the scarcity and specific geological occurrence of carbonatite deposits.",
+      "sculptures": "Carbonatite occurrences are relatively rare worldwide, but notable deposits are found in countries such as Canada, Russia, South Africa, Brazil, and Tanzania. These deposits are of economic interest due to the presence of rare elements and minerals."
+    },
+    "scientificSignificance": "Carbonatite has significant scientific significance due to its unique composition and association with rare elements. It provides insights into the processes of magma differentiation and the formation of rare-element deposits. The study of carbonatite contributes to our understanding of the Earth's mantle, mantle-crust interactions, and the geochemical cycles of carbon and other elements."
+  },
+  {
+    "id": "53",
+    "name": "Skarn",
+    "description": "Skarn is a type of metamorphic rock that forms through the interaction of hot fluids with existing rocks, typically carbonate-rich rocks such as limestone or dolomite. This interaction leads to the alteration of the original rock and the formation of new minerals. Skarns often exhibit distinct mineral assemblages and can display a range of colors and textures. They are commonly found in contact metamorphic zones associated with intrusive igneous rocks.",
+    "wikiImage": "https://i.pinimg.com/originals/40/76/fc/4076fcb3fb06d4810e4ff7e2e62a70bb.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Skarn forms through a process known as metasomatism, which involves the chemical alteration of rocks due to the introduction of hot fluids. These fluids, often derived from nearby igneous intrusions, interact with the surrounding rocks, causing chemical reactions and the replacement of minerals. The specific mineral assemblage in a skarn depends on factors such as the composition of the original rock, the nature of the fluid, and the temperature and pressure conditions."
+    },
+    "characteristics": {
+      "color": "Skarns can exhibit a wide range of colors, including shades of red, green, brown, gray, and black. The specific colors are determined by the minerals present in the rock.",
+      "composition": "Skarns are characterized by their distinct mineral assemblages, which can vary depending on the composition of the original rock and the nature of the fluid involved. Common minerals found in skarns include garnet, pyroxene, wollastonite, epidote, and calcite. The presence of specific minerals can provide clues about the temperature and pressure conditions during skarn formation.",
+      "hardness": "The texture of skarn can range from fine-grained to coarse-grained, depending on the size of the mineral grains and the rate of cooling during formation. Skarns often display a banded or layered appearance due to the alternating mineral assemblages.",
+      "density": "Skarns are commonly associated with contact metamorphism, which occurs when an intrusive igneous rock comes into contact with existing rocks. The heat and fluids released by the intruding magma trigger chemical reactions and alteration of the surrounding rocks, leading to the formation of skarns.",
+      "porosity": "Skarns are typically found in regions where there has been a history of igneous activity and the presence of carbonate-rich rocks. They commonly occur in contact zones between intrusive igneous rocks, such as granites or diorites, and carbonate rocks like limestone or dolomite. Skarns can also form in proximity to hydrothermal ore deposits, where fluids carrying mineral-rich solutions interact with the surrounding rocks."
+    },
+    "applications": {
+      "construction": "Skarns are important in the formation of hydrothermal ore deposits. The chemical reactions and alteration processes that occur during skarn formation can lead to the concentration of economically valuable minerals, such as copper, iron, zinc, tungsten, and tin. Skarn-related deposits are of interest to the mining industry for their potential as sources of these minerals.",
+      "monuments": "Certain types of skarn, particularly those with attractive colors and textures, can be used as ornamental stones. They are sometimes used for countertops, flooring, and decorative purposes.",
+      "sculptures": "Skarns are found in various locations around the world, including regions with significant tectonic activity and mountain-building processes. Notable occurrences of skarns can be found in countries such as Sweden, China, Canada, and the United States."
+    },
+    "scientificSignificance": "Skarns have significant scientific importance in understanding the processes of metasomatism, contact metamorphism, and the formation of hydrothermal ore deposits. Studying skarns provides insights into the chemical and physical interactions between rocks and fluids, the mobility of elements during metamorphism, and the evolution of Earth's crust in response to tectonic processes."
+  },
+  {
+    "id": "54",
+    "name": "Dunite",
+    "description": "Dunite is a type of ultramafic igneous rock composed primarily of the mineral olivine. It is named after the Scottish geologist Dunitz, who first identified the rock. Dunite is characterized by its high olivine content, typically exceeding 90% of the rock's composition. It is often associated with other ultramafic rocks such as peridotite and serpentinite. Dunite is primarily found in mantle-derived rocks and is rarely exposed at the Earth's surface.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/agglomerate.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Dunite forms deep within the Earth's mantle through the crystallization of magma or the solid-state transformation of peridotite. It is typically associated with the uppermost part of the mantle, known as the lithosphere. Dunite can be formed through processes such as partial melting, fractional crystallization, and magma intrusion into the lithosphere. Erosion and tectonic processes can then bring dunite to the surface."
+    },
+    "characteristics": {
+      "color": "Dunite is typically greenish-yellow to olive-green in color, resulting from the high olivine content. However, weathering and alteration can cause the rock to appear rusty or reddish-brown.",
+      "composition": "Dunite is composed primarily of the mineral olivine (Mg2SiO4), which gives the rock its characteristic green color. Minor accessory minerals such as chromite and pyroxenes may also be present. Dunite has a coarse-grained texture with a granular or sugary appearance. The olivine grains are often well-developed and may exhibit a crystallographic alignment, resulting in a preferred orientation known as foliation.",
+      "hardness": "Dunite has a hardness of approximately 6.5 to 7 on the Mohs scale, similar to that of quartz. It is relatively resistant to abrasion and erosion.",
+      "density": "Dunite has a density ranging from 2.9 to 3.3 grams per cubic centimeter, which is relatively low compared to other rocks.",
+      "porosity": "Dunite is commonly associated with other ultramafic rocks such as peridotite and serpentinite. These rocks share a similar mineral composition and are often found in the mantle or in areas where mantle-derived rocks have been brought to the surface."
+    },
+    "applications": {
+      "construction": "Dunite's high melting point and resistance to heat make it suitable for use as a refractory material. It is used in applications such as furnace linings, crucibles, and refractory bricks.",
+      "monuments": "In some cases, dunite with attractive color and texture may be used as a dimension stone for architectural and decorative purposes. However, its use as a dimension stone is less common compared to other rocks like granite and marble.",
+      "sculptures": "Dunite is an important source of olivine, which has various industrial applications. Olivine is used in the production of refractory materials, as a foundry sand, as a component in lightweight aggregates, and as a gemstone. Dunite occurrences can be found worldwide, particularly in regions with ophiolite complexes. Notable occurrences include the Troodos Mountains in Cyprus, the Oman ophiolite, the Appalachian Mountains in the United States, and the Ural Mountains in Russia."
+    },
+    "scientificSignificance": "Dunite plays a significant role in the study of the Earth's mantle and processes occurring within it. It provides valuable insights into the composition and dynamics of the uppermost part of the mantle, as well as the processes involved in mantle melting, magma generation, and tectonic interactions. Dunite also serves as an important source of olivine, a mineral that is extensively studied for its role in the Earth's mantle and its significance in planetary science."
+  },
+  {
+    "id": "55",
+    "name": "Aplite",
+    "description": "Aplite is a fine-grained igneous rock that is typically composed of quartz and feldspar minerals. It is closely related to granite and often occurs as a vein or dyke cutting through granite or other rocks. Aplite is known for its light color and high reflectivity, giving it a distinctive appearance. It is primarily used as a decorative stone and has been employed in various architectural and construction projects.",
+    "wikiImage": "https://www.virtualmicroscope.org/sites/default/files/hero-11AGT24a-Img11901.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Aplite forms during the final stages of magma crystallization when residual fluids enriched in silica and alkali elements separate from the crystallizing minerals. These fluids infiltrate fractures and spaces within existing rocks, including granite, and gradually solidify to form aplite veins. The slow cooling of the residual fluids results in the fine-grained texture and characteristic mineral composition of aplite."
+    },
+    "characteristics": {
+      "color": "Aplite is typically light-colored, ranging from white to light gray or pink. The specific mineral composition, particularly the feldspar content, can influence the color variation.",
+      "composition": "Aplite is primarily composed of quartz and feldspar minerals. The most common feldspar mineral in aplite is potassium feldspar, also known as orthoclase. Plagioclase feldspar may also be present in varying proportions. Aplite has a fine-grained texture with individual mineral grains that are often not visible to the naked eye. Its texture is typically granular or sugary, similar to that of granite.",
+      "hardness": "Aplite has a hardness of approximately 6 to 7 on the Mohs scale, similar to that of quartz. It is relatively resistant to scratching and abrasion.",
+      "density": "The density of aplite ranges from 2.6 to 2.7 grams per cubic centimeter, which is similar to that of granite.",
+      "porosity": "Aplite is known for its high reflectivity and can exhibit a sparkling or shimmering appearance when light interacts with its fine-grained surface."
+    },
+    "occurrence": {
+      "geologicalSettings": "Aplite commonly occurs as veins or dykes cutting through granite or other rocks. It is formed during the final stages of magmatic activity and can be found in various geological settings, including mountain ranges, granite plutons, and regions with extensive igneous activity.",
+      "globalOccurrences": ""
+    },
+    "applications": {
+      "construction": "Aplite is commonly used as a decorative stone in architecture and construction. Its light color and high reflectivity make it suitable for countertops, flooring, wall cladding, and decorative features. It is often polished to enhance its natural beauty and can be found in both interior and exterior applications.",
+      "monuments": "Aplite with desirable color and texture may be used as dimension stone for various architectural purposes. It can be cut into slabs, tiles, or other shapes and utilized in building facades, monuments, and sculptural elements.",
+      "sculptures": "Crushed aplite can be used as a construction aggregate in the production of concrete, asphalt, and other building materials. Its hardness and durability make it a suitable material for road construction, railroad ballast, and concrete aggregate. Aplite can be found in many parts of the world where granitic rocks are present. Notable occurrences include the Sierra Nevada in California, the Alps in Europe, the Andes in South America, and the Himalayas in Asia."
+    },
+    "scientificSignificance": "Aplite is of scientific significance as it provides valuable insights into the final stages of magma crystallization and the evolution of granitic systems. It helps in understanding the complex processes of magma differentiation and the formation of mineral-rich veins. Aplite's occurrence in association with granite and other rocks also contributes to the understanding of regional geological processes and the tectonic history of an area."
   }
 ]

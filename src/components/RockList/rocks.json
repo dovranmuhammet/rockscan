@@ -920,5 +920,120 @@
       "sculptures": "Schist is employed as a paving material for driveways, walkways, and patios. Its natural beauty, slip-resistant texture, and ability to withstand heavy foot traffic make it a practical choice for outdoor paving."
     },
     "scientificSignificance": "Schist is of great significance in geology and Earth sciences. Its formation provides valuable insights into the processes of regional metamorphism and the effects of temperature and pressure on rocks. Studying schist contributes to our understanding of Earth's geological history, tectonic processes, and the development of mineral resources."
+  },
+  {
+    "id": "41",
+    "name": "Gneiss",
+    "description": "Gneiss is a foliated metamorphic rock characterized by its banded appearance and distinctive mineral composition. It forms through the regional metamorphism of various rock types, such as granite, shale, and schist. Gneiss is renowned for its beauty, durability, and diverse color patterns, making it highly valued in both construction and decorative applications.",
+    "wikiImage": "https://media.istockphoto.com/id/152548053/photo/isolated-sample-of-gneiss.jpg?s=612x612&w=0&k=20&c=i1wdmmTp1Rgp0hknS4wSQyDgI18CWo4OTIl4t3CKFfE=",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Gneiss forms under high temperature and pressure conditions during regional metamorphism. The recrystallization of minerals and the rearrangement of mineral grains result in the development of distinct banding, foliation, and the segregation of light and dark minerals."
+    },
+    "characteristics": {
+      "color": "Gneiss exhibits a wide range of colors, including shades of gray, white, pink, red, and black. The coloration is influenced by the types and abundance of minerals present, such as quartz, feldspar, mica, and amphibole.",
+      "composition": "Gneiss is primarily composed of minerals such as quartz, feldspar, and mica. The proportions and arrangement of these minerals contribute to the rock's unique banding and foliation. Other minerals, such as amphibole, garnet, and pyroxene, may also be present, adding to the rock's variety and beauty. The texture of gneiss varies depending on its mineral composition and degree of metamorphism. It can range from coarse-grained to fine-grained, and it often exhibits a foliated structure characterized by the parallel alignment of mineral bands.",
+      "hardness": "Gneiss has a variable hardness depending on its mineral composition. It generally falls within the range of 6 to 7 on the Mohs scale, making it a relatively hard and durable rock.",
+      "density": "The density of gneiss varies depending on its mineral composition and porosity. It typically ranges from 2.6 to 2.9 grams per cubic centimeter.",
+      "porosity": "The prominent foliation in gneiss is a result of the alignment and segregation of minerals during metamorphism. It gives the rock its characteristic banded appearance and enhances its visual appeal. Gneiss exhibits distinct bands or layers of different mineral compositions and colors. These bands are often alternating layers of light-colored and dark-colored minerals, creating the rock's unique pattern and texture."
+    },
+    "applications": {
+      "construction": "Gneiss is widely used as a dimension stone for construction purposes. It is utilized as flooring, wall cladding, countertops, and other architectural elements. The unique patterns and durability of gneiss add aesthetic value and longevity to structures.",
+      "monuments": "Gneiss is employed in landscaping projects for pathways, garden features, and retaining walls. Its natural beauty, resistance to weathering, and variety of colors make it a favored choice for enhancing outdoor spaces. Gneiss is highly valued as a decorative stone due to its attractive color patterns and texture. It is used for interior decoration, such as countertops, tabletops, fireplace surrounds, and ornamental objects.",
+      "sculptures": "Gneiss has been used throughout history for sculpting statues and artistic creations. Its hardness, workability, and aesthetically pleasing appearance make it suitable for creating enduring sculptures. Gneiss is used as a paving material for driveways, walkways, and patios. Its durability, slip resistance, and range of colors make it an ideal choice for creating visually appealing and long-lasting paved surfaces."
+    },
+    "scientificSignificance": "Gneiss is of great significance in geology and Earth sciences. Its formation provides insights into the processes of regional metamorphism, the tectonic forces that shape the Earth's crust, and the interactions between different rock types. Studying gneiss contributes to our understanding of the Earth's dynamic history and the evolution of continents."
+  },
+  {
+    "id": "42",
+    "name": "Amphibolite",
+    "description": "Amphibolite is a metamorphic rock characterized by its high content of amphibole minerals, such as hornblende. It forms through the recrystallization of basaltic rocks under high temperature and pressure conditions. Amphibolite exhibits a distinctive foliated structure and often displays a dark green to black coloration. It is known for its durability, strength, and unique appearance, making it valuable for various applications.",
+    "wikiImage": "https://mineralseducationcoalition.org/wp-content/uploads/amphibole_56068876.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Amphibolite forms through the metamorphism of basaltic rocks, typically under regional metamorphic conditions. The original minerals in the basalt, such as pyroxene and plagioclase feldspar, undergo chemical and physical changes, transforming into amphibole minerals like hornblende. This recrystallization process results in the development of the characteristic foliation and mineral alignment observed in amphibolite."
+    },
+    "characteristics": {
+      "color": "Amphibolite commonly exhibits dark green to black colors due to the abundance of amphibole minerals. However, it may also contain lighter-colored minerals, such as feldspar, which contribute to variations in coloration.",
+      "composition": "The primary minerals in amphibolite are amphibole minerals, particularly hornblende. These minerals often form elongated grains that contribute to the rock's foliated texture. Other common minerals found in amphibolite include plagioclase feldspar and sometimes quartz. Amphibolite typically has a medium to coarse-grained texture. It displays a foliated structure characterized by the alignment of elongated mineral grains, giving it a banded or layered appearance.",
+      "hardness": "Amphibolite has a hardness ranging from 6 to 7 on the Mohs scale, similar to that of granite. This hardness makes it resistant to scratching and abrasion.",
+      "density": "The density of amphibolite ranges from 2.8 to 3.0 grams per cubic centimeter, depending on its mineral composition.",
+      "porosity": "Amphibolite exhibits a strong foliation resulting from the alignment of elongated mineral grains during metamorphism. This foliation gives the rock a banded or layered appearance and enhances its aesthetic appeal. Amphibolite is known for its strength and durability. Its high resistance to weathering, abrasion, and erosion makes it suitable for various construction and engineering applications."
+    },
+    "applications": {
+      "construction": "Amphibolite is used as a dimension stone for building materials such as countertops, flooring, and wall cladding. Its unique appearance, durability, and resistance to wear make it a desirable choice in architectural projects.",
+      "monuments": "Amphibolite is utilized in landscaping applications for pathways, garden features, and decorative walls. Its dark coloration and texture add a distinct visual element to outdoor spaces. Crushed amphibolite is employed as an aggregate in road construction, concrete production, and railroad ballast. Its durability and angular shape make it suitable for creating strong and stable foundations.",
+      "sculptures": "Amphibolite has been used in sculpting and artistic creations. Its strength, workability, and unique coloration allow sculptors to create striking and enduring pieces of art. Amphibolite with attractive patterns and sheen is sometimes used as a gemstone in jewelry. Polished cabochons or faceted stones can showcase its unique colors and luster."
+    },
+    "scientificSignificance": "Amphibolite has significant scientific importance in the field of geology and Earth sciences. It provides insights into the processes of regional metamorphism, the tectonic forces involved in mountain building, and the recrystallization of basaltic rocks. The study of amphibolite aids in understanding the complex history and evolution of Earth's crust and its dynamic geological processes."
+  },
+  {
+    "id": "43",
+    "name": "Phyllite",
+    "description": "Phyllite is a metamorphic rock characterized by its fine-grained texture and foliation. It forms from the metamorphism of shale or slate under moderate temperature and pressure conditions. Phyllite displays a silky or glossy sheen and often exhibits a dark gray or greenish coloration. It is valued for its attractive appearance, durability, and versatility in various applications.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/phyllite.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Phyllite forms through the metamorphism of shale or slate, typically under moderate temperature and pressure conditions. During this process, the minerals in the original rock recrystallize and align parallel to create a foliated structure. The fine-grained texture of phyllite results from the recrystallization of clay minerals and the formation of mica minerals."
+    },
+    "characteristics": {
+      "color": "Phyllite commonly exhibits dark gray or greenish colors, although it can vary depending on mineral composition. The presence of minerals such as chlorite, muscovite, and graphite contribute to its coloration.",
+      "composition": "Phyllite is primarily composed of fine-grained mica minerals, such as muscovite or sericite. It also contains minerals like chlorite, graphite, and quartz. These minerals give phyllite its characteristic texture and sheen. Phyllite has a fine-grained texture and displays a silky or glossy sheen on its surface. It exhibits a well-developed foliation, with minerals aligned parallel to each other",
+      "hardness": "Phyllite has a hardness ranging from 3 to 4 on the Mohs scale. It is relatively soft compared to other rocks and can be easily scratched with a knife or nail.",
+      "density": "The density of phyllite ranges from 2.7 to 3.0 grams per cubic centimeter, depending on its mineral composition.",
+      "porosity": "The silky or glossy sheen displayed by phyllite is a result of the alignment and reflection of light off the fine-grained mica minerals present in the rock. Phyllite exhibits good cleavage, allowing it to be easily split into thin, flat sheets. This property has made it useful for applications such as roofing material in the past. Phyllite is known for its durability and resistance to weathering and erosion. Its compact nature and well-developed foliation contribute to its strength and resistance to breakage."
+    },
+    "applications": {
+      "construction": "Phyllite is used as a decorative stone in various construction projects. It is suitable for interior flooring, wall cladding, and countertops, providing a unique and elegant appearance.",
+      "monuments": "In the past, phyllite was used as a roofing material due to its cleavage property. Its ability to be split into thin, flat sheets made it suitable for creating durable and weather-resistant roofs. Phyllite is utilized in landscaping applications for pathways, garden features, and decorative walls. Its smooth texture and attractive colors add a distinct visual element to outdoor spaces.",
+      "sculptures": "The fine-grained texture and attractive sheen of phyllite make it suitable for sculpting and artistic creations. Sculptors appreciate its workability and ability to hold intricate details. Phyllite is of significant interest in metamorphic studies as it represents a transitional stage between slate and schist. Its formation provides insights into the processes and conditions involved in regional metamorphism."
+    },
+    "scientificSignificance": "Phyllite holds scientific importance in the field of geology and Earth sciences. It provides valuable information about the metamorphic processes involved in the transformation of shale or slate. The study of phyllite contributes to a better understanding of regional metamorphism, rock deformation, and the evolution of Earth's crust."
+  },
+  {
+    "id": "44",
+    "name": "Migmatite",
+    "description": "Migmatite is a unique type of rock that displays characteristics of both metamorphic and igneous rocks. It is formed through the intense heat and pressure associated with regional metamorphism, which partially melts the rock. This partial melting results in the coexistence of metamorphic minerals and igneous components, creating a distinctive banded or veined appearance. Migmatite exhibits a wide range of colors and textures, making it visually striking and geologically fascinating.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/mylonite.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Migmatite forms under conditions of high temperature and pressure during regional metamorphism. As the rock is subjected to these intense conditions, it undergoes partial melting. The partially molten rock then cools and solidifies, preserving both the original metamorphic minerals and the newly formed igneous components. This process results in the unique banded or veined appearance of migmatite."
+    },
+    "characteristics": {
+      "colors": "Migmatite displays a wide range of colors, including shades of white, gray, pink, red, black, and brown. The colors are a result of the various minerals present in the rock, such as quartz, feldspar, mica, and amphibole.",
+      "composition": "Migmatite exhibits a distinctive banded or veined texture due to the coexistence of different mineral assemblages. The metamorphic and igneous components are often interlayered or intermixed, creating visually striking patterns.",
+      "hardness": "Migmatite contains a combination of metamorphic minerals and igneous components. Common metamorphic minerals found in migmatite include quartz, feldspar, mica, and amphibole. The igneous components can include granite, granitic gneiss, or other types of igneous rocks.",
+      "density": "The transition between the metamorphic and igneous portions of migmatite is often gradual and can display intermediate stages of melting and solidification. This transition zone provides valuable insights into the processes of partial melting and rock recrystallization. Migmatite generally exhibits good strength and durability. The presence of both metamorphic and igneous components contributes to its overall robustness and resistance to weathering and erosion.",
+      "porosity": "Migmatite is of significant geological importance as it provides valuable information about the processes of partial melting, rock deformation, and the complex interplay between metamorphism and magmatism. It offers insights into the conditions and dynamics of Earth's crust during episodes of intense regional metamorphism."
+    },
+    "applications": {
+      "construction": "Migmatite is extensively studied by geologists and researchers to gain a better understanding of the processes involved in partial melting and the formation of banded rocks. It provides insights into the geological history and evolution of specific regions.",
+      "monuments": "Due to its unique and visually appealing banded or veined patterns, migmatite is sometimes used as an ornamental stone. It can be polished and used for decorative purposes, such as countertops, flooring, and wall cladding.",
+      "sculptures": "Migmatite serves as an excellent educational tool for teaching about the complexities of rock formation and the interplay between metamorphism and magmatism. Its distinct features make it a captivating subject of study in earth science classrooms and geology museums. In some cases, migmatite is utilized in landscaping projects for its unique colors and patterns. It can be used to create visually appealing pathways, decorative walls, or as accent pieces in gardens or outdoor spaces."
+    },
+    "scientificSignificance": "Migmatite holds great scientific significance in the field of geology. It provides valuable insights into the processes of partial melting, rock recrystallization, and the interplay between metamorphic and igneous processes. By studying migmatite, scientists can gain a deeper understanding of the dynamic nature of Earth's crust and the complex interactions between heat, pressure, and rock deformation."
+  },
+  {
+    "id": "45",
+    "name": "Eclogite",
+    "description": "Eclogite is a metamorphic rock characterized by its distinct composition and high-pressure formation. It forms from the transformation of basaltic rocks subjected to extreme heat and pressure deep within the Earth's crust. Eclogite is known for its unique combination of dark-colored minerals, including green pyroxene and red garnet, giving it a striking appearance. It is an important rock in understanding the processes of plate tectonics and subduction zones.",
+    "wikiImage": "https://i.pinimg.com/originals/5d/c1/88/5dc1881230e07b746470a38b8511f063.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Eclogite forms through the process of regional metamorphism under high-pressure conditions. It typically originates from basaltic rocks that undergo subduction, where they are subjected to immense pressure and temperatures in the Earth's mantle. The transformation of minerals, such as pyroxene and plagioclase, results in the formation of eclogite with its characteristic composition and texture."
+    },
+    "characteristics": {
+      "color": "Eclogite is primarily composed of dark-colored minerals, with green pyroxene and red garnet being the most prominent. The combination of these minerals gives eclogite a distinct appearance and contrasts with the lighter-colored matrix.",
+      "composition": "The main minerals in eclogite include pyroxene, garnet, and, in some cases, amphibole. Pyroxene is usually a green mineral, while garnet appears as red or reddish-brown crystals. The presence of these minerals indicates the high-pressure conditions under which eclogite forms. Eclogite typically exhibits a coarse-grained texture due to the slow crystallization of minerals during regional metamorphism. The individual mineral grains are often visible to the naked eye and may display interlocking patterns.",
+      "density": "Eclogite has a relatively high density, ranging from 3.2 to 3.5 grams per cubic centimeter. The dense composition is a result of the high-pressure conditions during its formation.",
+      "hardness": "Eclogite is a hard rock with a Mohs hardness rating of 6.5 to 7, making it resistant to scratching and abrasion.",
+      "porosity": "Eclogite often occurs as lenses or layers within metamorphic terranes, particularly in areas associated with subduction zones and continental collisions. It can be found in mountain ranges and areas where tectonic forces have caused intense compression and metamorphism. Eclogite is of great geological significance as it provides evidence of the high-pressure conditions associated with subduction zones and plate tectonics. Its presence in certain rock formations and mountain belts offers insights into the complex processes involved in the formation and evolution of Earth's crust."
+    },
+    "applications": {
+      "construction": "Eclogite is extensively studied by geologists to understand the dynamics of subduction zones, plate tectonics, and deep Earth processes. Its presence in rock formations provides valuable information about past geologic events and the history of mountain building. Eclogite is utilized in educational settings to teach students about metamorphic rocks, plate tectonics, and the geological processes that shape the Earth's crust. Its distinct composition and geological significance make it an engaging subject for earth science education.",
+      "monuments": "Eclogite serves as an important rock for petrological research, providing insights into the mineral transformations and processes that occur under high-pressure conditions. Studying eclogite can help scientists understand the behavior of rocks at great depths within the Earth.",
+      "sculptures": "In rare cases, eclogite may contain gem-quality garnets. These garnets can be cut and polished to create unique and beautiful gemstones. However, due to their rarity and the difficulty of extraction, gem-quality eclogite garnets are not commonly available in the commercial market. Due to its striking appearance and unique composition, eclogite is sometimes used as a decorative stone in jewelry, sculptures, and ornamental objects. Its contrasting colors and patterns can create visually appealing designs."
+    },
+    "scientificSignificance": "Eclogite plays a significant role in geology and Earth sciences. Its formation provides evidence of the high-pressure conditions associated with subduction zones and plate tectonics. By studying eclogite, scientists gain insights into the dynamics of Earth's interior, the behavior of rocks under extreme pressure, and the processes involved in the formation and evolution of mountain belts."
   }
 ]

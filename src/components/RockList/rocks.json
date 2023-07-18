@@ -1384,5 +1384,351 @@
       "sculptures": "Lapis lazuli is believed to possess healing properties and is associated with enhancing wisdom, intuition, and spiritual awareness. It is often used in alternative and holistic therapies, such as crystal healing and energy work. Lapis lazuli has been ground into a powder to create ultramarine pigment, one of the most prized and expensive pigments used in art. It has been historically used in paintings and manuscripts."
     },
     "scientificSignificance": "Lapis lazuli is of scientific significance due to its geological formation process and cultural significance throughout history. Studying lapis lazuli provides insights into the metamorphic processes that create gemstones, as well as the cultural and artistic uses of gemstones in different civilizations."
+  },
+  {
+    "id": "61",
+    "name": "Lava Rock",
+    "description": "Lava rock, also known as volcanic rock, is an igneous rock that forms from solidified lava. It is commonly found in volcanic regions and has a porous and rough texture. Lava rock is typically dark in color, ranging from black to reddish-brown, and is known for its lightweight and heat-resistant properties.",
+    "wikiImage": "https://m.media-amazon.com/images/I/91eR-y7MsyL.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Lava rock forms when molten lava cools and solidifies rapidly on the Earth's surface or during volcanic eruptions. The rapid cooling process does not allow sufficient time for large mineral crystals to form, resulting in the rock's characteristic porous texture."
+    },
+    "characteristics": {
+      "color": "Lava rock is typically dark in color, ranging from black to reddish-brown. The specific composition of minerals and the degree of weathering can influence its color variation.",
+      "composition": "Lava rock is primarily composed of basalt, a fine-grained volcanic rock, along with other minerals such as olivine and pyroxene. The high iron content in basalt gives lava rock its dark color. Lava rock has a porous and rough texture due to the rapid cooling of lava. It often has voids and vesicles formed by gas bubbles trapped within the rock during solidification.",
+      "density": "Lava rock has a relatively low density, typically ranging from 0.9 to 2.8 grams per cubic centimeter, depending on its porosity and composition.",
+      "hardness": "Lava rock is highly heat-resistant and can withstand high temperatures without melting or deforming. This property makes it suitable for various applications in landscaping and fire features.",
+      "porosity": "Due to its porous nature, lava rock has good drainage properties and is often used in gardening and landscaping for soil aeration and moisture retention. Lava rock is lightweight compared to many other rocks, which makes it easy to handle and transport. Its lightness contributes to its popularity in landscaping projects."
+    },
+    "applications": {
+      "construction": "Lava rock has been used in construction for various purposes. It can be used as a lightweight aggregate in concrete and masonry, providing thermal insulation and reducing the overall weight of structures. Lava rock is also utilized as a decorative element in building facades and interior design.",
+      "monuments": "Lava rock is widely used in landscaping for decorative purposes. It is used as mulch in gardens and flower beds, providing weed suppression, moisture retention, and temperature regulation. Lava rock can also be used in pathways, rock gardens, and as a decorative element in water features. Lava rock is used in various crafts and jewelry making. It can be carved or polished into beads, pendants, and other decorative items. The unique texture and color of lava rock make it a popular choice for artistic creations.",
+      "sculptures": "Lava rock is popular in aquariums and fish tanks due to its natural and rugged appearance. It serves as a substrate for beneficial bacteria growth and provides hiding places for aquatic creatures. Due to its heat-resistant properties, lava rock is commonly used in fire features such as fire pits and fireplaces. It helps distribute heat evenly and provides a natural and aesthetic look to the fire feature."
+    },
+    "scientificSignificance": "Lava rock plays a significant role in geology and earth sciences. It provides valuable information about volcanic activity, eruptions, and the composition of magma. By studying lava rock, scientists can gain insights into the Earth's interior processes and the history of volcanic events."
+  },
+  {
+    "id": "62",
+    "name": "Porphyry",
+    "description": "Porphyry is a type of igneous rock characterized by its distinctive texture, which consists of large crystals embedded in a fine-grained matrix. It is formed through the slow cooling and crystallization of magma deep within the Earth's crust. Porphyry is known for its durability, attractive appearance, and historical significance in architectural and decorative applications.",
+    "wikiImage": "https://www.911metallurgist.com/blog/wp-content/uploads/2016/08/Types-of-Porphyritic-Rocks.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Porphyry forms when magma slowly cools and solidifies beneath the Earth's surface. The slow cooling allows large crystals, known as phenocrysts, to grow within a fine-grained matrix. This gives porphyry its characteristic texture and visual appeal."
+    },
+    "characteristics": {
+      "color": "Porphyry can exhibit a wide range of colors, including shades of red, purple, brown, green, and gray. The specific mineral composition and impurities present in the rock determine its color variation.",
+      "composition": "Porphyry is primarily composed of feldspar and quartz minerals, along with smaller amounts of other minerals such as biotite, amphibole, and pyroxene. The phenocrysts, which are larger crystals, can be composed of minerals like quartz, feldspar, or mica. The distinctive texture of porphyry is characterized by large, well-formed crystals (phenocrysts) embedded in a fine-grained groundmass. This creates a contrasting appearance and a visually striking pattern.",
+      "hardness": "Porphyry is a relatively hard rock with a Mohs hardness rating ranging from 6 to 7. This hardness contributes to its durability and suitability for various applications.",
+      "density": "Porphyry has a moderate to high density, typically ranging from 2.6 to 2.8 grams per cubic centimeter.",
+      "porosity": "Porphyry has relatively low porosity, which means it has few open pores or cracks. This property makes it resistant to moisture absorption and staining."
+    },
+    "applications": {
+      "construction": "Porphyry has a long history of use in architecture and construction. It has been used as a building stone for centuries, particularly in paving, walls, and facades. Its durability, attractive appearance, and ability to withstand weathering make it a preferred choice for architectural applications. ",
+      "sculptures": "The unique texture and color of porphyry make it a favored material for sculptures and artistic creations. Its ability to be carved and polished allows artists to create intricate and visually appealing sculptures.",
+      "monuments": "Porphyry is commonly used in landscaping projects due to its aesthetic appeal and durability. It is utilized in pathways, driveways, and outdoor paving. Porphyry's natural beauty and resistance to wear make it suitable for both residential and commercial landscapes. Porphyry has historical significance and has been used in various historical landmarks and monuments. It was favored by the ancient Romans and Greeks for their architectural works, such as columns, walls, and sculptures. Porphyry's use in historical structures highlights its enduring quality and aesthetic appeal."
+    },
+    "scientificSignificance": "Porphyry is of scientific importance in geology and Earth sciences. It provides insights into the processes of magma crystallization and the formation of intrusive igneous rocks. Studying porphyry helps scientists understand the dynamics of magma chambers, the cooling history of magma bodies, and the evolution of volcanic systems."
+  },
+  {
+    "id": "63",
+    "name": "Syenite",
+    "description": "Syenite is a coarse-grained igneous rock that is primarily composed of feldspar minerals, particularly orthoclase feldspar. It is formed through the solidification of magma deep within the Earth's crust. Syenite is known for its distinctive texture, attractive colors, and suitability for various applications in construction, architecture, and decorative arts.",
+    "wikiImage": "https://geologyscience.com/wp-content/uploads/2018/04/Syenite.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Syenite forms when magma slowly cools and solidifies beneath the Earth's surface. It is typically associated with alkaline igneous activity and is often found in association with granite and other related rocks."
+    },
+    "characteristics": {
+      "color": "Syenite commonly exhibits shades of pink, red, gray, and beige. The color variation is primarily due to the presence of different types and amounts of minerals, such as feldspar and hornblende.",
+      "composition": "Syenite is predominantly composed of feldspar minerals, particularly orthoclase feldspar, which gives it its characteristic light color. It may also contain other minerals such as hornblende, biotite, and quartz. Syenite has a coarse-grained texture, with individual mineral grains visible to the naked eye. The interlocking nature of the grains gives the rock its strength and durability.",
+      "hardness": "Syenite has a Mohs hardness rating ranging from 5 to 6, making it relatively hard and resistant to scratching and abrasion.",
+      "density": "The density of syenite typically ranges from 2.6 to 2.8 grams per cubic centimeter, similar to that of granite.",
+      "porosity": "Syenite is generally low in porosity, meaning it has few open pores or cracks. This property contributes to its durability and resistance to moisture absorption."
+    },
+    "applications": {
+      "construction": "Syenite is used in construction for various purposes, including countertops, flooring, wall cladding, and exterior facades. Its durability, attractive appearance, and resistance to weathering make it a popular choice in architectural projects.",
+      "monuments": "Syenite has been utilized in the construction of monuments and memorials due to its durability and ability to retain a polished appearance over time. It has been used in various historical and cultural landmarks.",
+      "sculptures": "Syenite is of geological significance as it provides insights into the processes of magma formation and crystallization. It is associated with alkaline igneous activity and can provide information about the composition and evolution of the Earth's crust."
+    },
+    "scientificSignificance": "Syenite is of scientific importance in the field of geology and Earth sciences. Studying syenite helps scientists understand the petrological processes involved in magma chamber formation, the generation of alkaline magmas, and the evolution of igneous systems."
+  },
+  {
+    "id": "64",
+    "name": "Trachyte",
+    "description": "Trachyte is a volcanic igneous rock that is composed mainly of alkali feldspar minerals, such as orthoclase or sanidine. It is formed from the solidification of lava or magma with a high silica content. Trachyte is known for its fine-grained texture, light color, and unique characteristics that make it suitable for various applications.",
+    "wikiImage": "https://geologyscience.com/wp-content/uploads/2018/04/Trachyte.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Trachyte forms when highly viscous lava or magma with a high silica content cools and solidifies relatively quickly near the Earth's surface. The rapid cooling prevents the formation of large mineral crystals, resulting in a fine-grained texture."
+    },
+    "characteristics": {
+      "color": "Trachyte typically exhibits light colors, including shades of gray, beige, and light brown. The specific mineral composition and impurities can cause color variations.",
+      "composition": "Trachyte is primarily composed of alkali feldspar minerals, such as orthoclase or sanidine. It may also contain small amounts of other minerals like quartz, biotite, and hornblende. Trachyte has a fine-grained texture with individual mineral grains that are too small to be visible to the naked eye. The rock often has a porphyritic texture, with larger phenocrysts embedded in the fine-grained matrix.",
+      "hardness": "Trachyte has a Mohs hardness rating of around 6, indicating its moderate hardness and resistance to scratching and abrasion.",
+      "density": "The density of trachyte ranges from 2.4 to 2.6 grams per cubic centimeter, which is relatively lower compared to other igneous rocks.",
+      "porosity": "Trachyte generally has low porosity, meaning it has few open pores or cracks. However, the presence of vesicles or gas bubbles is possible in some trachyte formations."
+    },
+    "applications": {
+      "construction": "Trachyte has been used as a building material in construction projects. Its durability, weather resistance, and attractive appearance make it suitable for cladding, flooring, and decorative elements. Due to its hardness and weather-resistant properties, trachyte has been utilized for paving applications. It is commonly used in sidewalks, pathways, and other outdoor areas.",
+      "monuments": "Trachyte has been used for creating monuments and memorials due to its ability to retain intricate details and withstand weathering. It has been employed in historical and cultural landmarks.",
+      "sculptures": "The fine-grained texture and workability of trachyte make it suitable for sculpting. Artists have used trachyte to create sculptures and artistic creations."
+    },
+    "scientificSignificance": "Trachyte is of scientific interest in the field of geology and Earth sciences. Studying trachyte helps scientists understand volcanic processes, magma evolution, and the formation of volcanic landforms."
+  },
+  {
+    "id": "65",
+    "name": "Dolerite",
+    "description": "Dolerite is a type of igneous rock that is commonly dark in color and has a medium to coarse-grained texture. It is formed from the solidification of magma deep within the Earth's crust. Dolerite is known for its durability, strength, and various applications in construction and engineering.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/2F2BC9072947470B8721B94F7AC0A34B.jpeg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Dolerite forms when magma intrudes into the Earth's crust and cools slowly underground. The slow cooling allows for the growth of large mineral grains, resulting in a medium to coarse-grained texture."
+    },
+    "characteristics": {
+      "color": "Dolerite is typically dark in color, ranging from black to dark gray. The presence of minerals such as olivine or pyroxene can give it a greenish or bluish tint.",
+      "composition": "Dolerite is primarily composed of plagioclase feldspar, pyroxene, and sometimes olivine. It may also contain small amounts of other minerals such as biotite or amphibole. Dolerite has a medium to coarse-grained texture, with visible mineral grains that are often interlocking. It can also exhibit a porphyritic texture, with larger crystals dispersed in a fine-grained matrix.",
+      "hardness": "Dolerite is a relatively hard rock with a Mohs hardness rating of around 6 to 7. It is resistant to scratching and abrasion.",
+      "density": "The density of dolerite typically ranges from 2.8 to 3.0 grams per cubic centimeter, which is higher than many other common rocks.",
+      "porosity": "Dolerite has low to moderate porosity, meaning it contains relatively few open pores or cracks. This property contributes to its durability and resistance to weathering."
+    },
+    "applications": {
+      "construction": "Dolerite is widely used in construction for various purposes. It is a preferred material for road base and asphalt pavement due to its high strength and durability. It is also used in the construction of buildings, bridges, and retaining walls. Due to its strength and durability, dolerite is commonly used as a building material in engineering projects. It is used for the construction of dams, breakwaters, and other structures requiring resistance to erosion and impact.",
+      "monuments": "Dolerite's toughness and resistance to weathering make it suitable for stone masonry applications. It has been used in the construction of stone walls, paving stones, and historical structures. Dolerite is commonly used as railway ballast, providing stability and support to railroad tracks. Its durable nature and ability to withstand heavy loads make it ideal for this application.",
+      "sculptures": "Dolerite is of geological significance as it represents the intrusion of magma into the Earth's crust. It provides insights into the formation of igneous rocks and the processes occurring beneath the Earth's surface."
+    },
+    "scientificSignificance": "Dolerite is of scientific interest in the field of geology and Earth sciences. It helps scientists understand the formation of igneous rocks, the behavior of magma intrusions, and the geodynamic processes occurring within the Earth's crust."
+  },
+  {
+    "id": "66",
+    "name": "Diamond",
+    "description": "Diamond is a precious gemstone known for its exceptional brilliance and hardness. It is composed of carbon atoms arranged in a crystal lattice structure. Diamonds are formed deep within the Earth's mantle under high pressure and temperature conditions. They are prized for their beauty and are widely used in jewelry and various industrial applications.",
+    "wikiImage": "https://a-z-animals.com/media/2022/05/Shutterstock_1216122388-1.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Diamonds are formed deep within the Earth's mantle, typically around 150 to 200 kilometers below the surface. They are created through a process called high-pressure high-temperature (HPHT) metamorphism, where carbon atoms are subjected to intense heat and pressure over millions of years."
+    },
+    "characteristics": {
+      "color": "Diamonds occur in a wide range of colors, including colorless, yellow, brown, blue, green, and pink. The color of a diamond is determined by the presence of impurities or structural defects.",
+      "composition": "Diamonds are composed of pure carbon. Each carbon atom is bonded to four neighboring carbon atoms in a strong tetrahedral structure, resulting in the exceptional hardness and durability of diamonds.",
+      "hardness": "Diamond is the hardest known natural substance with a Mohs hardness rating of 10. It is resistant to scratching and abrasion and can only be cut or polished by another diamond.",
+      "density": "The density of diamonds ranges from 3.5 to 3.53 grams per cubic centimeter, making them denser than most other minerals.",
+      "porosity": "Diamonds have a high refractive index, which contributes to their exceptional brilliance and ability to reflect light."
+    },
+    "applications": {
+      "construction": "Diamonds are highly valued and widely used in jewelry, particularly in engagement rings, necklaces, earrings, and bracelets. They are prized for their beauty, rarity, and symbol of luxury and commitment.",
+      "monuments": "Due to their exceptional hardness, diamonds are used as cutting tools in various industries. They are employed in cutting, grinding, and drilling applications for materials such as stone, metal, and glass.",
+      "sculptures": "Diamonds are utilized as industrial abrasives for polishing and grinding applications. They are used in the production of precision optics, computer hard disks, and semiconductor wafers."
+    },
+    "scientificSignificance": "Diamonds have great scientific significance and provide insights into Earth's deep geology. They are studied to understand the processes occurring within the Earth's mantle, such as plate tectonics, magma formation, and the carbon cycle. Diamonds also contain inclusions that provide valuable information about the Earth's history and the presence of rare minerals."
+  },
+  {
+    "id": "67",
+    "name": "Ruby",
+    "description": "Ruby is a precious gemstone known for its vibrant red color and exquisite beauty. It is a variety of the mineral corundum, which is primarily composed of aluminum oxide with trace amounts of chromium. The presence of chromium gives ruby its distinctive red hue, ranging from deep crimson to light pinkish-red shades.",
+    "wikiImage": "https://st4.depositphotos.com/1214496/20139/v/600/depositphotos_201390170-stock-illustration-red-rubies-white-background-gemstones.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Rubies are formed through the process of metamorphism, which involves the transformation of existing rocks under intense heat and pressure. The presence of specific geological conditions, such as high-grade regional metamorphism, contributes to the formation of corundum crystals that develop into rubies."
+    },
+    "characteristics": {
+      "color": "Ruby is renowned for its intense red color, which is caused by the presence of chromium impurities within the corundum crystal structure. The color can vary from deep red to lighter shades, and the finest rubies exhibit a rich, vibrant hue.",
+      "composition": "Ruby belongs to the corundum mineral species and is primarily composed of aluminum oxide (Al2O3). The presence of chromium atoms within the crystal lattice gives ruby its characteristic red color. Other trace elements and impurities can influence the color and quality of rubies.",
+      "hardness": "Ruby is an exceptionally hard gemstone, with a Mohs hardness rating of 9. This hardness makes ruby one of the most durable gemstones, second only to diamonds. Its hardness ensures long-lasting brilliance and resistance to scratches and abrasions.",
+      "density": "Rubies have a density ranging from 3.97 to 4.05 grams per cubic centimeter. The density, combined with the gemstone's refractive index, contributes to its brilliance and luster.",
+      "porosity": "Rubies are generally non-porous, meaning they have very low porosity. This characteristic makes them resistant to the absorption of liquids and less prone to damage from environmental factors."
+    },
+    "applications": {
+      "construction": "Ruby is highly prized for its beauty and is a popular gemstone used in jewelry. It is often featured in rings, necklaces, earrings, and bracelets, either as a centerpiece or as accent stones. Ruby jewelry is cherished for its vibrant color and association with love, passion, and wealth. Due to their rarity and value, rubies are sought after by gemstone collectors. Fine-quality rubies with exceptional color and clarity are highly coveted and can command high prices in the market. Collectors appreciate the beauty, rarity, and historical significance of these gemstones.",
+      "monuments": "Ruby has been revered in various cultures throughout history for its spiritual and symbolic meanings. It is associated with vitality, passion, and protection. In some traditions, ruby is believed to bring good fortune, prosperity, and courage to the wearer.",
+      "sculptures": "In alternative healing practices, rubies are believed to possess energizing and balancing properties. They are associated with enhancing vitality, stimulating the flow of life force energy, and promoting passion and enthusiasm in one's life."
+    },
+    "scientificSignificance": "Ruby holds scientific significance in the field of gemology and mineralogy. Its study contributes to a better understanding of geological processes involved in the formation of gemstones, including metamorphism and the influence of trace elements on their coloration. Ruby's properties, such as hardness, refractive index, and spectroscopic characteristics, are extensively researched to identify and authenticate these precious gemstones."
+  },
+  {
+    "id": "68",
+    "name": "Sapphire",
+    "description": "Sapphire is a precious gemstone prized for its stunning blue color and exceptional brilliance. It belongs to the corundum mineral species, composed primarily of aluminum oxide with trace elements such as iron and titanium. Sapphire is renowned for its durability, beauty, and association with royalty and elegance.",
+    "wikiImage": "https://gemstoneguru.com/wp-content/uploads/2013/05/Sapphire_32_Blue_Sapphire.png",
+    "type": "Mineral",
+    "formation": {
+      "description": "Sapphires are formed through the process of metamorphism, which involves the transformation of existing rocks under high heat and pressure. The presence of specific geological conditions, such as regional metamorphism and the incorporation of trace elements like iron and titanium, contributes to the formation of corundum crystals that develop into sapphires."
+    },
+    "characteristics": {
+      "color": "Sapphires are best known for their mesmerizing blue color, ranging from deep royal blue to light blue hues. However, sapphires can also occur in a variety of other colors, including pink, yellow, green, and orange. These different colors are caused by the presence of various impurities and trace elements within the corundum crystal lattice.",
+      "composition": "Sapphires are primarily composed of aluminum oxide (Al2O3), just like other corundum gemstones. The presence of trace elements, such as iron and titanium, gives sapphires their distinct color variations. The presence of these impurities also affects the gemstone's clarity and overall quality.",
+      "hardness": "Sapphire is one of the hardest gemstones, with a Mohs hardness rating of 9. This exceptional hardness contributes to its durability and resistance to scratches and abrasions, making it suitable for everyday wear and lasting beauty.",
+      "density": "Sapphires have a density ranging from 3.95 to 4.03 grams per cubic centimeter. The gemstone's density, combined with its refractive index, contributes to its brilliant luster and optical properties.",
+      "porosity": "Sapphires are generally non-porous and have low porosity. This characteristic makes them resistant to the absorption of liquids and less prone to damage from environmental factors."
+    },
+    "applications": {
+      "construction": "Sapphire is highly valued and widely used in jewelry. It is particularly sought after for engagement rings, necklaces, earrings, and bracelets. Blue sapphires are considered a classic choice for engagement rings, symbolizing loyalty, trust, and fidelity. Sapphires are also popular as accent stones in various types of jewelry designs.",
+      "monuments": "Due to their rarity, beauty, and historical significance, sapphires are often collected by gemstone enthusiasts and collectors. Fine-quality sapphires with exceptional color, clarity, and size command high prices in the market. Collectors appreciate the uniqueness, craftsmanship, and value of these precious gemstones.",
+      "sculptures": "Sapphire has held symbolic and spiritual significance in many cultures throughout history. It is associated with wisdom, royalty, and divine favor. In some traditions, sapphire is believed to bring spiritual enlightenment, inner peace, and protection against negative energies."
+    },
+    "scientificSignificance": "Sapphire is of scientific importance in the fields of gemology, mineralogy, and geology. Its study provides insights into the geological processes involved in the formation of gemstones, such as metamorphism and the influence of trace elements on their coloration. Sapphire's physical and optical properties, including its crystal structure, hardness, refractive index, and spectroscopic characteristics, are extensively researched to identify, authenticate, and differentiate these valuable gemstones."
+  },
+  {
+    "id": "69",
+    "name": "Topaz",
+    "description": "Topaz is a captivating gemstone known for its stunning colors and brilliant luster. It belongs to the silicate mineral group and is composed of aluminum and fluorine. Topaz is highly valued for its clarity, hardness, and vibrant hues, making it a popular choice in jewelry and decorative pieces.",
+    "wikiImage": "https://media.istockphoto.com/id/187095424/photo/raw-unpolished-citrine-gemstones-on-the-white-background.jpg?s=612x612&w=0&k=20&c=X7rGhDRmb8nvGWTRoyIsJru9VMIvM3wZFrj2dmMBPes=",
+    "type": "Mineral",
+    "formation": {
+      "description": "Topaz forms in various geological settings, including igneous rocks, pegmatites, and hydrothermal veins. It is created through the crystallization of hot fluids rich in fluorine and aluminum under high pressure and temperature conditions. Over time, these processes give rise to the formation of topaz crystals with their characteristic prismatic shape."
+    },
+    "characteristics": {
+      "color": "Topaz exhibits a wide range of colors, including blue, yellow, pink, peach, and colorless. The specific coloration is influenced by impurities within the crystal structure. Heat treatment can also enhance or modify the color of topaz.",
+      "composition": "Topaz has a chemical composition of aluminum silicate fluoride (Al2SiO4(F,OH)2). It belongs to the orthorhombic crystal system and has a distinct crystal habit with well-formed prismatic crystals.",
+      "hardness": "Topaz is relatively hard, with a Mohs hardness rating of 8. This makes it one of the hardest silicate minerals and suitable for use in jewelry and ornamental objects.",
+      "density": "The density of topaz typically ranges from 3.4 to 3.6 grams per cubic centimeter. This density, combined with its refractive index, contributes to its exceptional brilliance and sparkle.",
+      "porosity": "Topaz exhibits perfect basal cleavage, meaning it can be easily split along planes parallel to its basal structure. This property affects the gemstone's durability and faceting potential."
+    },
+    "applications": {
+      "construction": "Topaz is widely used in jewelry, including rings, earrings, necklaces, and bracelets. It is favored for its vibrant colors and exceptional brilliance. Blue topaz, in particular, is a popular choice for various types of jewelry.",
+      "monuments": "Topaz is also utilized in the creation of decorative objects, such as figurines, sculptures, and ornamental pieces. Its remarkable colors and luster make it a desirable material for these artistic applications.",
+      "sculptures": "Collectors appreciate topaz for its rarity, beauty, and historical significance. Fine-quality topaz specimens with exceptional color, clarity, and size are highly sought after in the collector's market."
+    },
+    "scientificSignificance": "Topaz holds scientific significance in the fields of mineralogy, gemology, and earth sciences. Its study provides insights into the geological processes involved in the formation of gemstones and the factors influencing their color variation. Topaz crystals are examined to understand the conditions under which they formed, such as temperature, pressure, and the presence of specific elements. Additionally, topaz is valuable in geochemical research and in the study of hydrothermal mineral deposits."
+  },
+  {
+    "id": "70",
+    "name": "Garnet",
+    "description": "Garnet is a group of silicate minerals with a diverse range of colors and properties. This gemstone has been treasured for centuries for its beauty and durability. With its wide variety of colors and types, garnet is used in jewelry, as an abrasive material, and as a mineral specimen for collectors.",
+    "wikiImage": "https://i.ebayimg.com/images/g/DdcAAOSwhhdj1R3h/s-l1200.webp",
+    "type": "Mineral",
+    "formation": {
+      "description": "Garnet forms under various geological conditions. It is typically found in metamorphic rocks, where high pressures and temperatures cause the minerals in the rock to recrystallize and form garnet crystals. Garnet can also form in igneous and sedimentary environments through different processes."
+    },
+    "characteristics": {
+      "color": "Garnet occurs in a wide range of colors, including red, orange, yellow, green, purple, brown, and black. The color variation is due to different chemical compositions within the garnet group.",
+      "composition": "Garnet is a group of minerals with similar crystal structures but varying chemical compositions. The most common type of garnet is the almandine-pyrope variety, which consists of a mix of iron, aluminum, and magnesium silicates.",
+      "hardness": "Garnet has a hardness rating of 6.5 to 7.5 on the Mohs scale, making it a relatively durable gemstone. It is resistant to scratching and has good toughness.",
+      "density": "The density of garnet ranges from 3.5 to 4.3 grams per cubic centimeter, depending on the specific type of garnet. The density can vary due to variations in composition.",
+      "porosity": "Garnet has a refractive index ranging from 1.71 to 1.89, depending on the type and composition of the garnet. This property contributes to the gemstone's brilliance and luster. Garnet has a vitreous to resinous luster, which enhances its attractiveness when used in jewelry."
+    },
+    "applications": {
+      "construction": "Garnet is widely used in jewelry, including rings, earrings, necklaces, and bracelets. It is valued for its range of colors, durability, and affordability. Different varieties of garnet, such as almandine, pyrope, spessartine, and tsavorite, are popular choices for gemstone jewelry.",
+      "monuments": "Garnet is widely used as an abrasive material in sandpaper, sandblasting, and waterjet cutting. Its hardness and sharpness make it effective in removing surface materials and shaping hard surfaces.",
+      "sculptures": "Garnet specimens with exceptional color and clarity are sought after by mineral collectors. Collectors appreciate the variety of garnet types and their unique properties."
+    },
+    "scientificSignificance": "Garnet is of scientific interest in geology, mineralogy, and earth sciences. Its presence and composition provide insights into the geological processes involved in the formation of metamorphic rocks. Garnet also serves as an indicator mineral for certain types of rock formations and can be used to study the evolution of mountain belts and the movements of tectonic plates."
+  },
+  {
+    "id": "71",
+    "name": "Opal",
+    "description": "Opal is a unique and captivating gemstone known for its vibrant play of colors. It is formed from hydrated silica gel that seeps into cracks and voids in sedimentary rocks, creating a solidified gel that forms opal. Opal's enchanting display of colors and its mystical properties have made it a highly sought-after gemstone for jewelry and collectors.",
+    "wikiImage": "https://www.parlegems.com/images/static/content/gemlore/Doublet/M-DBT-AAI_sq.png",
+    "type": "Mineral",
+    "formation": {
+      "description": "Opal forms through a process called deposition, where silica-rich fluids fill cavities in rocks over long periods of time. The unique conditions required for opal formation include a combination of water, silica, and specific geological environments. This process can take millions of years to complete."
+    },
+    "characteristics": {
+      "color": "Opal exhibits a remarkable play of colors known as opalescence. The colors can vary widely and include shades of white, blue, green, yellow, orange, red, and purple. The play of colors is caused by the diffraction and interference of light as it passes through the microstructure of the opal.",
+      "composition": "Opal is composed of hydrated silica (SiO2·nH2O), where n represents the variable water content. The water content gives opal its characteristic transparency and play of colors. The silica spheres within opal diffract light, creating the mesmerizing colors.",
+      "hardness": "Opal has a relatively low hardness, ranging from 5.5 to 6.5 on the Mohs scale. It is more susceptible to scratching and abrasion compared to harder gemstones.",
+      "density": "The density of opal ranges from 1.98 to 2.20 grams per cubic centimeter, which is relatively low compared to other gemstones.",
+      "porosity": "Opal has a refractive index that ranges from 1.37 to 1.47, depending on the specific type of opal. The refractive index contributes to the gemstone's unique optical properties and play of colors."
+    },
+    "applications": {
+      "construction": "Opal is highly valued and used in jewelry, including rings, earrings, necklaces, and pendants. Its unique play of colors and captivating appearance make it a popular choice for one-of-a-kind pieces.",
+      "monuments": "Opal specimens with exceptional play of colors and unique patterns are sought after by gemstone and mineral collectors. Opal is treasured for its beauty and rarity.",
+      "sculptures": "Opal is believed to possess various metaphysical properties. It is associated with emotional healing, creativity, inspiration, and positive energy. Opal is also considered a symbol of hope, love, and happiness."
+    },
+    "scientificSignificance": "Opal is of scientific interest in the fields of geology, mineralogy, and materials science. Its formation and unique optical properties provide insights into the processes of silica deposition, mineral growth, and the interaction of light with nanostructures. Opal also serves as a model material for studying amorphous solids and their physical properties."
+  },
+  {
+    "id": "72",
+    "name": "Azurite",
+    "description": "Azurite is a deep blue copper carbonate mineral that is prized for its intense color and beauty. It is often found in association with other copper minerals and is known for its distinctive crystal formations and rich blue hues. Azurite has been used as a pigment and a gemstone for centuries.",
+    "wikiImage": "https://cdn11.bigcommerce.com/s-74zp6w28re/images/stencil/1280x1280/products/8296/91634/new-moon-beginnings-azurite-malachite-tumbled-stone-grade-a-cts-aa607__49094.1648804740.jpg?c=1",
+    "type": "Mineral",
+    "formation": {
+      "description": "Azurite forms through the oxidation of copper ore deposits in the presence of carbon dioxide and water. It typically occurs in the upper oxidized portions of copper-rich ore bodies, where it crystallizes in cavities and fractures. The process of azurite formation is closely related to the leaching and alteration of copper minerals."
+    },
+    "characteristics": {
+      "color": "Azurite is renowned for its deep blue color, ranging from dark blue to azure blue. The intensity of the blue color is due to the presence of copper ions within the crystal structure.",
+      "composition": "Azurite is composed of copper carbonate (Cu3(CO3)2(OH)2), which is a combination of copper, carbon, oxygen, and hydrogen. It also contains traces of other elements and impurities that contribute to its unique properties.",
+      "hardness": "Azurite has a Mohs hardness rating of 3.5 to 4, which means it is relatively soft compared to other minerals. It can be easily scratched or damaged, so care must be taken when handling and wearing azurite gemstones.",
+      "density": "Azurite crystallizes in the monoclinic crystal system, forming prismatic or tabular crystals. It can also occur in botryoidal or stalactitic forms, where the crystals form rounded or bumpy aggregates.",
+      "luster": "Azurite has a vitreous to silky luster, giving it a smooth and somewhat reflective appearance. The silky luster is more prominent in fibrous or compact varieties of azurite.",
+      "porosity": "Azurite exhibits perfect cleavage in one direction, meaning it can be easily split into thin, flat fragments along that plane."
+    },
+    "applications": {
+      "construction": "Azurite has been used as a pigment since ancient times. Its intense blue color made it a popular choice for creating blue pigments used in paintings, dyes, and ceramics.",
+      "monuments": "Azurite is cut and polished into gemstones for use in jewelry. It is often used as a cabochon or carved into decorative pieces. Azurite gemstones are prized for their vibrant blue color and are considered collector's items.",
+      "sculptures": "Azurite specimens with their striking blue color and unique crystal formations are highly valued by mineral collectors. They are used in the creation of decorative items such as sculptures, display pieces, and lapidary works."
+    },
+    "scientificSignificance": "Azurite has scientific significance in the fields of mineralogy, geology, and archaeology. Its formation and occurrence provide insights into the geological processes of copper ore deposition and weathering. Azurite is also used as an indicator mineral in prospecting for copper deposits. In archaeology, azurite is used for dating and provenance studies, as it was a valuable material in ancient times and has been found in archaeological sites around the world."
+  },
+  {
+    "id": "73",
+    "name": "Hematite",
+    "description": "Hematite is a mineral that is known for its distinctive red-brown to black color and metallic luster. It is one of the most common iron minerals and has been used for various purposes throughout history. Hematite is often found in sedimentary rocks and is a valuable source of iron ore.",
+    "wikiImage": "https://cf.ltkcdn.net/feng-shui/images/orig/247627-2053x1461-hematite-stone.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Hematite forms through the precipitation of iron from aqueous solutions or the alteration of other iron minerals. It can be found in sedimentary, metamorphic, and igneous rocks. The formation of hematite is often associated with the presence of iron-rich minerals and the processes of weathering and hydrothermal alteration."
+    },
+    "characteristics": {
+      "color": "Hematite exhibits a range of colors, including red, brown, black, and silver-gray. The color variation is influenced by impurities and the presence of different iron oxide minerals.",
+      "composition": "Hematite is an iron oxide mineral with the chemical formula Fe2O3. It consists of iron and oxygen atoms arranged in a crystal lattice structure.",
+      "hardness": "Hematite has a Mohs hardness rating of 5.5 to 6.5, which means it is relatively hard compared to other minerals. It can scratch glass and most common materials.",
+      "density": "Hematite has a relatively high density, typically ranging from 4.9 to 5.3 grams per cubic centimeter.",
+      "porosity": "Hematite has a metallic luster, giving it a shiny and reflective appearance. However, weathered or powdered hematite may exhibit a dull or earthy luster."
+    },
+    "applications": {
+      "construction": "Hematite is an important source of iron ore, which is used to produce steel. It is mined and processed for its iron content, making it a valuable commodity in the steel industry. Hematite has been used as a pigment since ancient times. Its red and brown colors make it suitable for creating red ochre pigments used in paints, dyes, and cosmetics.",
+      "monuments": "Hematite is used as a gemstone in jewelry. It is often cut into beads or cabochons and used in bracelets, necklaces, and earrings. Hematite jewelry is admired for its metallic luster and unique color. Hematite exhibits weak magnetic properties and is used in various magnetic applications, such as magnetic recording media, magnetic coatings, and magnetic jewelry.",
+      "sculptures": "Hematite has scientific significance in the field of geology. Its presence in rocks and sediments provides clues about past environments and geological processes. Hematite can be used to study the history of sedimentary deposition and the alteration of iron-rich minerals."
+    },
+    "scientificSignificance": "Hematite has scientific significance in several fields of study, including geology, mineralogy, and archaeology. Its formation and occurrence provide insights into the processes of sedimentation, diagenesis, and hydrothermal alteration. Hematite is also used as an indicator mineral in prospecting for iron ore deposits. In archaeology, hematite has been found in ancient artifacts and cave paintings, offering clues about human history and cultural practices."
+  },
+  {
+    "id": "74",
+    "name": "Pyrite",
+    "description": "Pyrite is a mineral commonly known as 'fool's gold' due to its resemblance to gold in color and luster. It is a sulfide mineral with the chemical formula FeS2 and is found in a variety of geological environments. Pyrite has been used for ornamental and functional purposes throughout history.",
+    "wikiImage": "https://www.stonemania.co.uk/images/stories/virtuemart/product/iron-pyrite-mineral-yg.webp",
+    "type": "Mineral",
+    "formation": {
+      "description": "Pyrite forms under a range of conditions and can be found in sedimentary, metamorphic, and igneous rocks. It often occurs in association with other minerals, such as quartz and calcite. Pyrite is formed through the precipitation of iron and sulfur from hydrothermal fluids or through the alteration of pre-existing iron minerals."
+    },
+    "characteristics": {
+      "color": "Pyrite is typically brassy yellow in color, but it can also appear with a silvery or brownish coloration. The color is influenced by the presence of impurities and the crystal structure.",
+      "composition": "Pyrite is composed of iron and sulfur atoms arranged in a crystal lattice structure. It is a sulfide mineral and belongs to the pyrite group of minerals.",
+      "hardness": "Pyrite has a Mohs hardness rating of 6 to 6.5, which means it is relatively hard and can scratch glass and softer minerals.",
+      "density": "Pyrite has a relatively high density, typically ranging from 4.9 to 5.2 grams per cubic centimeter.",
+      "porosity": "Pyrite has a metallic luster, giving it a shiny and reflective appearance similar to gold. However, it may tarnish or weather to a dull or iridescent surface over time."
+    },
+    "applications": {
+      "construction": "Pyrite has been used as an ornamental stone and in jewelry since ancient times. Its metallic luster and resemblance to gold make it an attractive material for decorative objects, beads, and even faceted gemstones.",
+      "monuments": "Pyrite is a significant source of sulfur, and it has been mined for sulfur production. Sulfur extracted from pyrite is used in various industrial processes, including the production of sulfuric acid and fertilizers.",
+      "sculptures": "Pyrite's ability to produce sparks when struck against a hard surface has made it useful in early forms of fire-making and fireworks. Pyrite has scientific significance in the field of geology. Its presence in rocks can provide clues about past environments and geological processes. It is also used as an indicator mineral in prospecting for valuable metal deposits, such as gold."
+    },
+    "scientificSignificance": "Pyrite has scientific significance in various fields of study, including mineralogy, geochemistry, and environmental science. It provides insights into the formation and alteration of sulfide minerals, the cycling of sulfur in the Earth's crust, and the role of sulfide minerals in ore deposits. Pyrite is also studied for its potential environmental impact, as it can release acid mine drainage when exposed to air and water."
+  },
+  {
+    "id": "75",
+    "name": "Calcite",
+    "description": "Calcite is a carbonate mineral with the chemical formula CaCO3. It is one of the most common minerals on Earth and can be found in various geological environments. Calcite has a wide range of uses and is known for its distinctive crystal forms and optical properties.",
+    "wikiImage": "https://t4.ftcdn.net/jpg/01/00/88/73/360_F_100887351_tTSYi44mm66cKmxQ7Bw40XronNCUzy8j.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Calcite forms through the precipitation of calcium carbonate from solution. It can be found in sedimentary, metamorphic, and igneous rocks. Calcite crystals often grow in a variety of shapes, including rhombohedrons, scalenohedrons, and dogtooth spar."
+    },
+    "characteristics": {
+      "color": "Calcite occurs in a wide range of colors, including colorless, white, yellow, orange, red, green, blue, and brown. The color variations are due to impurities present in the crystal lattice.",
+      "composition": "Calcite is composed of calcium, carbon, and oxygen atoms arranged in a crystal lattice structure. It belongs to the carbonate mineral group.",
+      "hardness": "Calcite has a Mohs hardness rating of 3, which means it is relatively soft and can be easily scratched with a knife or nail.",
+      "density": "Calcite has a density ranging from 2.71 to 2.94 grams per cubic centimeter, depending on the specific crystal structure and impurities.",
+      "porosity": "Calcite exhibits perfect rhombohedral cleavage, which means it can be easily split into rhombohedral fragments."
+    },
+    "applications": {
+      "construction": "Calcite is used as a building material in the form of limestone and marble. It is widely used for flooring, countertops, wall cladding, and decorative purposes due to its attractive appearance and durability.",
+      "monuments": "Calcite is a key ingredient in the production of cement. Limestone, which contains calcite, is heated to produce lime (calcium oxide), which is then mixed with other materials to make cement. Due to its optical properties, calcite is used in the manufacture of lenses, prisms, and other optical instruments. It is particularly valued for its ability to polarize light.",
+      "sculptures": "Calcite is used to neutralize acidic water in various industrial and environmental applications. Its ability to react with acids helps to balance pH levels. Calcite is sometimes used as a soil conditioner in agriculture to help improve soil structure and provide essential calcium for plant growth."
+    },
+    "scientificSignificance": "Calcite is of great scientific significance and is extensively studied in the fields of mineralogy, crystallography, and geology. It provides valuable insights into crystal growth, the behavior of light in minerals, and the processes involved in the formation of sedimentary rocks. Calcite is also used as an index mineral for certain geological processes and as an indicator of past environmental conditions."
   }
 ]

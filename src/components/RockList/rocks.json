@@ -1730,5 +1730,350 @@
       "sculptures": "Calcite is used to neutralize acidic water in various industrial and environmental applications. Its ability to react with acids helps to balance pH levels. Calcite is sometimes used as a soil conditioner in agriculture to help improve soil structure and provide essential calcium for plant growth."
     },
     "scientificSignificance": "Calcite is of great scientific significance and is extensively studied in the fields of mineralogy, crystallography, and geology. It provides valuable insights into crystal growth, the behavior of light in minerals, and the processes involved in the formation of sedimentary rocks. Calcite is also used as an index mineral for certain geological processes and as an indicator of past environmental conditions."
+  },
+  {
+    "id": "76",
+    "name": "Fluorite",
+    "description": "Fluorite is a mineral composed of calcium and fluorine with the chemical formula CaF2. It is known for its wide range of vibrant colors and is often prized for its beautiful crystal formations. Fluorite is a popular mineral among collectors and has various industrial uses.",
+    "wikiImage": "https://cdn11.bigcommerce.com/s-74zp6w28re/images/stencil/1280x1280/products/6103/36658/new-moon-beginnings-raw-green-fluorite-crystal-crr-aa493__85979.1635554300.jpg?c=1",
+    "type": "Mineral",
+    "formation": {
+      "description": "Fluorite forms in hydrothermal veins and is associated with a variety of geological environments. It crystallizes in cubic or octahedral forms and can be found in various colors, including purple, blue, green, yellow, and colorless."
+    },
+    "characteristics": {
+      "color": "Fluorite exhibits a wide range of colors, including purple, blue, green, yellow, pink, and colorless. It can also exhibit multiple colors within a single crystal, commonly known as color zoning.",
+      "composition": "Fluorite is composed of calcium and fluorine atoms arranged in a cubic crystal lattice structure. It belongs to the halide mineral group.",
+      "hardness": "Fluorite has a Mohs hardness rating of 4, which means it is relatively soft and can be easily scratched with a knife.",
+      "density": "The density of fluorite ranges from 3.0 to 3.3 grams per cubic centimeter, depending on the specific composition and impurities.",
+      "porosity": "Fluorite exhibits perfect octahedral cleavage, which means it can be easily split into octahedral fragments."
+    },
+    "applications": {
+      "construction": "Fluorite is widely used as an ornamental stone and is highly valued for its vibrant colors and interesting crystal formations. It is often cut and polished into gemstones, beads, carvings, and decorative objects.",
+      "monuments": "Fluorite is used as a flux in the metallurgical industry to lower the melting point of metals during the smelting process.",
+      "sculptures": "Due to its high fluorine content, fluorite is a significant source of fluoride used in various industries, including the production of aluminum, steel, and hydrofluoric acid. Fluorite is used as a raw material in the production of hydrogen fluoride (HF) and fluorine gas (F2), which are essential chemicals in various industrial processes."
+    },
+    "scientificSignificance": "Fluorite is of scientific significance and is studied in the fields of mineralogy, crystallography, and solid-state chemistry. It provides insights into crystal growth, the behavior of light in minerals, and the effects of impurities on crystal structures. Fluorite is also used as a standard in X-ray crystallography and is important in the study of mineral fluorescence."
+  },
+  {
+    "id": "77",
+    "name": "Amazonite",
+    "description": "Amazonite is a green variety of microcline feldspar and is known for its vibrant and unique color. It is named after the Amazon River and has been used as a decorative stone for centuries. Amazonite is valued for its beauty and is often used in jewelry and ornamental carvings.",
+    "wikiImage": "https://m.media-amazon.com/images/I/61ZcqU+lK-L._AC_UF894,1000_QL80_.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Amazonite is formed in igneous rocks, typically granite pegmatites and miarolitic cavities. It occurs as a result of the crystallization of potassium-rich fluids during the late stages of granite formation."
+    },
+    "characteristics": {
+      "color": "Amazonite is typically green, ranging from pale green to a deep turquoise color. Its color is attributed to the presence of lead and other trace elements.",
+      "composition": "Amazonite is a variety of microcline, which is a potassium-rich feldspar mineral. It belongs to the alkali feldspar group.",
+      "hardness": "Amazonite has a hardness rating of 6 on the Mohs scale, making it relatively durable but still susceptible to scratching.",
+      "density": "The density of amazonite ranges from 2.56 to 2.58 grams per cubic centimeter.",
+      "porosity": "Amazonite exhibits good cleavage in two directions, which allows it to be easily split into thin sheets or flakes."
+    },
+    "applications": {
+      "construction": "Amazonite is highly valued as a gemstone and is commonly used in jewelry, including necklaces, bracelets, earrings, and pendants.",
+      "monuments": "Due to its beautiful color and relative softness, amazonite is frequently used in ornamental carvings, sculptures, and decorative objects.",
+      "sculptures": "Amazonite is a popular mineral among collectors due to its unique color and the aesthetic appeal of its crystal formations. Amazonite is believed to have metaphysical properties, including promoting calmness, enhancing communication, and balancing energies. It is often used in crystal healing and alternative therapies."
+    },
+    "scientificSignificance": "Amazonite is of scientific interest due to its association with granite pegmatites and its unique coloration. It provides insights into the geological processes involved in the formation of granite and the crystallization of potassium-rich fluids. Amazonite is also studied in the field of mineralogy to better understand the properties and behavior of feldspar minerals."
+  },
+  {
+    "id": "78",
+    "name": "Labradorite",
+    "description": "Labradorite is a feldspar mineral known for its captivating play of colors, which exhibits iridescent flashes of blue, green, gold, and other hues. It is named after the Labrador Peninsula in Canada, where it was first discovered. Labradorite is highly valued for its unique optical properties and is used in various forms of jewelry and ornamental objects.",
+    "wikiImage": "https://assets1.fossilera.com/sp/350721/labradorite/labradorite.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Labradorite is formed in igneous rocks, particularly in basalt and gabbro. It is a product of the crystallization of plagioclase feldspar under specific temperature and pressure conditions during the cooling of magma."
+    },
+    "characteristics": {
+      "color": "Labradorite displays a range of colors, including shades of blue, green, gold, yellow, and orange. The unique iridescence, known as labradorescence, is caused by light interference within the mineral's structure.",
+      "composition": "Labradorite belongs to the plagioclase feldspar group, with a composition of sodium calcium aluminum silicate. It contains a certain percentage of calcium and sodium in its crystal structure.",
+      "hardness": "Labradorite has a hardness rating of 6 to 6.5 on the Mohs scale, indicating moderate hardness. It can be scratched by harder materials such as quartz and topaz.",
+      "density": "Labradorite exhibits good cleavage in two directions, forming smooth, flat surfaces when broken or split.",
+      "porosity": "Labradorite is usually translucent to opaque, with varying degrees of transparency depending on the quality and thickness of the specimen."
+    },
+    "applications": {
+      "construction": "Labradorite is a popular gemstone used in various forms of jewelry, including rings, necklaces, earrings, and bracelets. Its unique play of colors adds an eye-catching element to jewelry designs",
+      "monuments": "Due to its captivating labradorescence and attractive appearance, labradorite is also used in the creation of ornamental objects, carvings, and decorative items. Labradorite specimens are sought after by mineral collectors and enthusiasts for their remarkable optical properties and visual appeal.",
+      "sculptures": "Labradorite is believed to possess metaphysical properties, including promoting intuition, spiritual growth, and protection against negative energies. It is often used in crystal healing and meditation practices."
+    },
+    "scientificSignificance": "Labradorite is of scientific interest due to its unique optical properties and its association with basalt and gabbro rocks. It provides insights into the formation and crystallization processes of plagioclase feldspar minerals and the geological history of volcanic environments. Labradorite is also studied in the field of mineralogy to better understand the structural and optical characteristics of feldspar minerals."
+  },
+  {
+    "id": "79",
+    "name": "Tiger's Eye",
+    "description": "Tiger's Eye is a captivating gemstone known for its unique chatoyancy, which displays a shimmering band of light that resembles the eye of a tiger. It is a member of the quartz group and is prized for its distinctive golden to reddish-brown color and silky luster. Tiger's Eye is popular in jewelry and is also used for decorative purposes and spiritual practices.",
+    "wikiImage": "https://brooklyncharm.com/wp-content/uploads/2017/09/tigers-eye-polished-rocks-and-pebbles-30-grams-ns841-59e7bb75.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Tiger's Eye forms through the alteration of crocidolite, a blue asbestos mineral. Over time, the crocidolite is replaced by quartz, while retaining its fibrous structure. This process creates the unique chatoyancy and golden-brown color characteristic of Tiger's Eye."
+    },
+    "characteristics": {
+      "color": "Tiger's Eye typically exhibits golden to reddish-brown color with chatoyancy, which is caused by the reflection of light off the parallel fibrous structure within the stone.",
+      "composition": "Tiger's Eye is composed mainly of quartz with embedded fibers of crocidolite mineral, also known as blue asbestos. The replacement of crocidolite by quartz gives Tiger's Eye its unique appearance.",
+      "hardness": "Tiger's Eye has a hardness rating of 7 on the Mohs scale, indicating good durability and resistance to scratching.",
+      "density": "Tiger's Eye has a silky to vitreous luster, giving it a smooth and reflective appearance when polished. The most distinctive feature of Tiger's Eye is its chatoyancy, also known as the 'eye' effect, which creates a moving band of light that resembles the eye of a tiger.",
+      "porosity": "Tiger's Eye is usually opaque, although thinner sections of the stone may exhibit some translucency."
+    },
+    "applications": {
+      "construction": "Tiger's Eye is widely used in jewelry, including rings, pendants, bracelets, and earrings. Its unique color and chatoyancy add an intriguing element to jewelry designs.",
+      "monuments": "Tiger's Eye is also used in the creation of decorative objects such as sculptures, vases, and figurines. Its striking appearance makes it a popular choice for ornamental purposes.",
+      "sculptures": "Tiger's Eye is associated with various metaphysical properties and is used in spiritual practices. It is believed to enhance courage, strength, and focus, and is often used in meditation and energy healing."
+    },
+    "scientificSignificance": "Tiger's Eye is of scientific interest due to its unique formation process involving the replacement of crocidolite by quartz. It provides insights into the mineralogical transformation processes that occur in natural environments. Additionally, the study of Tiger's Eye contributes to the understanding of chatoyancy and its optical properties in gemstones."
+  },
+  {
+    "id": "80",
+    "name": "Beryl",
+    "description": "Beryl is a mineral group that includes several gemstone varieties, such as emerald, aquamarine, and morganite. It is a silicate mineral composed of beryllium aluminum cyclosilicate. Beryl is prized for its vibrant colors, transparency, and excellent gemstone properties. It is used in jewelry, as well as in scientific and industrial applications.",
+    "wikiImage": "https://img.freepik.com/premium-photo/macro-mineral-stone-fluorite-white-background_254845-24458.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Beryl forms in pegmatite veins, which are formed during the late stages of magma crystallization. It typically occurs in granite and other granitic rocks. Beryl crystals develop when the right conditions of heat, pressure, and chemical composition are present."
+    },
+    "characteristics": {
+      "color": "Beryl occurs in a variety of colors, including green (emerald), blue (aquamarine), pink (morganite), yellow (heliodor), and colorless (goshenite). The color is influenced by impurities and trace elements present in the crystal structure.",
+      "composition": "Beryl is a cyclosilicate mineral composed of beryllium aluminum cyclosilicate. Its chemical formula is Be3Al2(Si6O18). The specific composition varies depending on the presence of impurities and color-causing elements.",
+      "hardness": "Beryl has a hardness of 7.5 to 8 on the Mohs scale, making it a durable gemstone suitable for everyday wear.",
+      "density": "Beryl is transparent to translucent, allowing light to pass through its crystal structure. Some varieties, such as emerald, can exhibit exceptional transparency.",
+      "porosity": "The refractive index of beryl ranges from approximately 1.57 to 1.60, contributing to its brilliance and sparkle when faceted."
+    },
+    "applications": {
+      "construction": "Beryl is highly valued as a gemstone and is used in various types of jewelry, including rings, necklaces, earrings, and bracelets. Emerald, aquamarine, and morganite are the most popular and sought-after beryl gemstones.",
+      "monuments": "Beryl is used in the manufacture of scientific instruments due to its exceptional clarity and transparency. It is used in lenses, prisms, and other optical components.",
+      "sculptures": "Certain varieties of beryl, such as aquamarine, are used in industrial applications. Aquamarine's resistance to chemicals and its ability to withstand high temperatures make it suitable for use in specialized equipment and machinery."
+    },
+    "scientificSignificance": "Beryl is of scientific significance due to its unique crystal structure and gemological properties. It provides insights into the formation processes of pegmatite veins and the behavior of beryllium in geological environments. Beryl is also studied for its optical properties and its role in the development of gemstones."
+  },
+  {
+    "id": "82",
+    "name": "Citrine",
+    "description": "Citrine is a variety of quartz that is known for its yellow to golden-brown color. It is a transparent gemstone that is highly valued for its beauty and affordability. Citrine is often used in jewelry and is considered a birthstone for November. It is also believed to possess positive energy and metaphysical properties.",
+    "wikiImage": "https://crystaldreamsworld.com/wp-content/uploads/2020/05/Aura-Quartz-citrine3-scaled.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Citrine is formed when amethyst, another variety of quartz, undergoes heat treatment. Natural citrine is rare, and most commercially available citrine is produced by heating amethyst crystals. The heat treatment changes the color from purple to yellow or orange-brown, resulting in citrine."
+    },
+    "characteristics": {
+      "color": "Citrine is typically yellow to golden-brown in color. It can range from pale yellow to deep amber hues. The color is caused by traces of iron in the crystal structure.",
+      "composition": "Citrine is a variety of quartz with a chemical formula of SiO2. It has the same composition as other varieties of quartz but with different coloration.",
+      "hardness": "Citrine has a hardness of 7 on the Mohs scale, making it relatively durable and suitable for everyday wear.",
+      "density": "Citrine is transparent to translucent, allowing light to pass through its crystal structure. The clarity of citrine can vary, with some specimens exhibiting excellent transparency.",
+      "porosity": "The refractive index of citrine ranges from approximately 1.54 to 1.55, contributing to its brilliance and sparkle when faceted."
+    },
+    "applications": {
+      "construction": "Citrine is popularly used in various types of jewelry, including rings, necklaces, earrings, and bracelets. Its warm yellow color is highly attractive and complements both casual and formal attire.",
+      "monuments": "Citrine is believed to possess metaphysical properties and is associated with abundance, prosperity, and positive energy. It is often used in crystal healing, meditation, and Feng Shui practices.",
+      "sculptures": "Citrine's vibrant color makes it suitable for decorative purposes. It can be used in home decor, such as in the form of polished crystals, geodes, or as part of mineral collections."
+    },
+    "scientificSignificance": "Citrine is of scientific significance in the study of gemstone formation and the behavior of quartz under different geological conditions. It provides insights into the processes of heat treatment and coloration in minerals. Citrine is also studied for its optical properties and its relationship to other quartz varieties."
+  },
+  {
+    "id": "83",
+    "name": "Tourmaline",
+    "description": "Tourmaline is a group of minerals that belong to the complex borosilicate family. It is known for its wide range of colors and its unique ability to generate electric charges when heated or subjected to pressure. Tourmaline is a popular gemstone and is used in various forms of jewelry and decorative items.",
+    "wikiImage": "https://m.media-amazon.com/images/I/81JssQtxMwL._SX1000_.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Tourmaline forms in various geological settings, including pegmatites, metamorphic rocks, and hydrothermal veins. It crystallizes from molten magma or precipitates from hot aqueous solutions. The presence of different chemical elements and geological conditions give rise to the diverse colors and varieties of tourmaline."
+    },
+    "characteristics": {
+      "color": "Tourmaline exhibits a wide range of colors, including black, brown, green, blue, red, pink, and multi-colored varieties. The color variation is due to the presence of different chemical elements in the crystal structure.",
+      "composition": "Tourmaline has a complex chemical composition that consists of varying proportions of aluminum, boron, silicon, and other elements. The exact composition determines the specific variety of tourmaline.",
+      "hardness": "Tourmaline has a hardness of 7 to 7.5 on the Mohs scale, making it relatively durable and suitable for jewelry use.",
+      "density": "Tourmaline has no cleavage and displays a conchoidal fracture.",
+      "porosity": "Tourmaline crystallizes in the trigonal crystal system and forms prismatic crystals with vertical striations. Tourmaline can be transparent to opaque, depending on the variety. Some transparent varieties, such as rubellite and green tourmaline, are highly valued as gemstones."
+    },
+    "applications": {
+      "construction": "Tourmaline is widely used in jewelry, including rings, necklaces, earrings, and bracelets. Its wide range of colors and varieties offers diverse options for creative designs.",
+      "monuments": "Tourmaline is believed to possess various metaphysical properties and is used in energy healing, meditation, and spiritual practices. Different colors of tourmaline are associated with specific energetic qualities and intentions.",
+      "sculptures": "Tourmaline's unique colors and crystal formations make it suitable for decorative purposes. It can be used as polished crystals, carved figurines, or as part of mineral and gemstone collections."
+    },
+    "scientificSignificance": "Tourmaline is of scientific significance due to its complex crystal structure, wide color variation, and ability to generate electric charges. It is studied to understand crystal growth processes, geological conditions of formation, and the behavior of borosilicate minerals under different environments."
+  },
+  {
+    "id": "84",
+    "name": "Rhodonite",
+    "description": "Rhodonite is a pink to reddish-brown manganese silicate mineral. It is known for its distinct pink color and often exhibits black manganese oxide veining. Rhodonite is valued as a gemstone and is also used in carvings, jewelry, and ornamental objects.",
+    "wikiImage": "https://www.rocktreasureswholesale.com/images/product_images/popup_images/65312_0.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Rhodonite forms in metamorphic environments when manganese-rich rocks undergo transformation due to heat and pressure. It typically occurs in association with other minerals such as pyroxenes and garnets."
+    },
+    "characteristics": {
+      "color": "Rhodonite is typically pink to reddish-brown in color, often with black veins or inclusions of manganese oxide.",
+      "composition": "Rhodonite is primarily composed of manganese, silicon, and oxygen atoms. It may also contain traces of iron, calcium, and other elements.",
+      "hardness": "Rhodonite has a hardness of 5.5 to 6.5 on the Mohs scale, making it relatively durable.",
+      "density": "The density of rhodonite ranges from 3.4 to 3.7 grams per cubic centimeter.",
+      "porosity": "Rhodonite exhibits distinct cleavage in two directions, allowing it to be split into thin sheets or flakes."
+    },
+    "uses": {
+      "construction": "Rhodonite is used as a gemstone in various forms of jewelry, including beads, cabochons, and carved ornaments. The attractive color and unique patterns of rhodonite make it suitable for carving into decorative objects, figurines, and sculptures.",
+      "monuments": "Rhodonite is believed to possess metaphysical properties that promote emotional healing, balance, and compassion. It is used in crystal healing and alternative medicine practices.",
+      "sculptures": "Rhodonite's attractive color and patterns make it popular for ornamental objects such as bookends, paperweights, and decorative tiles."
+    },
+    "scientificSignificance": "Rhodonite is of scientific significance due to its composition, formation processes, and occurrence in specific geological environments. Its study helps in understanding metamorphic processes, the behavior of manganese-bearing minerals, and the formation of manganese-rich rocks."
+  },
+  {
+    "id": "85",
+    "name": "Celestite",
+    "description": "Celestite, also known as celestine, is a mineral that is named after its sky-blue color. It is a strontium sulfate mineral that is often found in sedimentary rocks. Celestite is prized for its beautiful crystal formations and is used in various applications, including as a source of strontium, in crystal healing practices, and as a collector's mineral.",
+    "wikiImage": "https://trulyexperiences.com/blog/wp-content/uploads/2021/09/celestite-crystal-scaled.jpeg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Celestite forms in sedimentary environments, typically in association with evaporite deposits. It crystallizes when calcium-rich solutions containing strontium sulfate evaporate and precipitate out of water."
+    },
+    "characteristics": {
+      "color": "Celestite is commonly light blue, sky-blue, or colorless. It may also exhibit shades of white, gray, or yellow.",
+      "composition": "Celestite consists of strontium sulfate (SrSO4) and may contain trace amounts of other elements. Celestite crystallizes in the orthorhombic crystal system, forming prismatic or tabular crystals. It can also occur as granular or fibrous masses.",
+      "hardness": "Celestite has a hardness of 3 to 3.5 on the Mohs scale, indicating it is relatively soft.",
+      "density": "The density of celestite ranges from 3.9 to 4.0 grams per cubic centimeter.",
+      "porosity": "Celestite exhibits perfect cleavage in three directions, creating tabular or bladed fragments."
+    },
+    "applications": {
+      "construction": "Celestite is a primary source of strontium, which has various industrial applications, including the production of ceramics, glass, fireworks, and magnetic materials.",
+      "monuments": "Celestite is believed to have calming and soothing properties, promoting peace, mental clarity, and spiritual growth. It is used in crystal healing and metaphysical practices.",
+      "sculptures": "Due to its beautiful crystal formations and rarity in certain locations, celestite is sought after by mineral collectors and enthusiasts."
+    },
+    "scientificSignificance": "Celestite is of scientific significance as it provides insights into sedimentary processes, the formation of evaporite deposits, and the behavior of strontium in natural systems. Its study helps in understanding the geological history and environmental conditions of certain regions."
+  },
+  {
+    "id": "86",
+    "name": "Rhodochrosite",
+    "description": "Rhodochrosite is a beautiful mineral known for its pink to red color and distinct banding patterns. It is a manganese carbonate mineral that is often found in hydrothermal veins and sedimentary deposits. Rhodochrosite is highly valued as a gemstone and is also used in jewelry, mineral specimens, and as a source of manganese.",
+    "wikiImage": "https://i.etsystatic.com/9859922/r/il/937f64/4898016246/il_fullxfull.4898016246_11wx.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Rhodochrosite forms under a variety of geological conditions, including in hydrothermal veins associated with volcanic activity and in sedimentary deposits. It is often found in association with other minerals, such as quartz and sulfides."
+    },
+    "characteristics": {
+      "color": "Rhodochrosite is typically pink to red, with shades ranging from pale pink to deep red. It may exhibit banding or swirling patterns of different shades.",
+      "composition": "Rhodochrosite is composed of manganese carbonate (MnCO3) and may contain trace amounts of other elements, including iron and calcium. Rhodochrosite crystallizes in the trigonal crystal system, forming rhombohedral or scalenohedral crystals. It can also occur as botryoidal masses or granular aggregates.",
+      "hardness": "Rhodochrosite has a hardness of 3.5 to 4 on the Mohs scale, indicating it is relatively soft.",
+      "density": "The density of rhodochrosite ranges from 3.5 to 3.7 grams per cubic centimeter.",
+      "porosity": "Rhodochrosite exhibits perfect rhombohedral cleavage, creating rhomb-shaped fragments."
+    },
+    "applications": {
+      "construction": "Rhodochrosite is a popular gemstone due to its vibrant pink to red color. It is faceted and used in various types of jewelry, including rings, earrings, and pendants.",
+      "monuments": "Rhodochrosite specimens with attractive color and banding patterns are highly sought after by mineral collectors and enthusiasts.",
+      "sculptures": "Rhodochrosite is a source of manganese, an essential metal used in various industrial applications, including steel production, batteries, and alloy manufacturing."
+    },
+    "scientificSignificance": "Rhodochrosite is of scientific significance as it provides insights into the formation of hydrothermal mineral deposits, the behavior of manganese in geological systems, and the environmental conditions during its formation. Its study helps in understanding the geological history and processes of certain regions."
+  },
+  {
+    "id": "87",
+    "name": "Prehnite",
+    "description": "Prehnite is a translucent to transparent gemstone known for its pale green to yellow-green color. It belongs to the phyllosilicate group of minerals and is often found in association with other minerals such as zeolites. Prehnite is prized for its unique appearance and is used in jewelry, carvings, and as a mineral specimen.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/CA2CCEBB2A894991941E9B6A1974864F.jpeg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Prehnite forms in hydrothermal veins, as well as in cavities within basaltic rocks and other igneous formations. It is often found in association with zeolite minerals and may also occur in sedimentary deposits."
+    },
+    "characteristics": {
+      "color": "Prehnite ranges in color from pale green to yellow-green, with some specimens exhibiting a translucent to transparent appearance.",
+      "composition": "Prehnite is a calcium aluminum silicate mineral with the chemical formula Ca2Al2Si3O10(OH)2. It may contain small amounts of iron and other impurities. Prehnite crystallizes in the orthorhombic crystal system, typically forming prismatic or tabular crystals. It can also occur as botryoidal masses or crusts.",
+      "hardness": "Prehnite has a hardness of 6 to 6.5 on the Mohs scale, indicating it is relatively durable.",
+      "density": "The density of prehnite ranges from 2.80 to 2.95 grams per cubic centimeter.",
+      "porosity": "Prehnite exhibits poor cleavage in one direction, producing uneven to conchoidal fracture surfaces. Prehnite is typically translucent to transparent, allowing light to pass through its crystals."
+    },
+    "applications": {
+      "construction": "Prehnite is used as a gemstone and is often cut into cabochons, beads, and faceted stones for use in jewelry.",
+      "monuments": "Prehnite specimens with good transparency and color are highly sought after by mineral collectors and enthusiasts.",
+      "sculptures": "Prehnite's unique color and translucency make it a popular choice for carvings and decorative objects."
+    },
+    "scientificSignificance": "Prehnite has scientific significance as it provides insights into the geological processes associated with hydrothermal mineralization and the formation of zeolite minerals. Its study helps in understanding the geological history and conditions during its formation."
+  },
+  {
+    "id": "88",
+    "name": "Mylonite",
+    "description": "Mylonite is a type of metamorphic rock that forms under intense pressure and shear stress along fault zones. It is characterized by a fine-grained and foliated texture, resulting from the reorientation and recrystallization of minerals during deformation. Mylonite often exhibits a ribbon-like appearance with alternating light and dark bands.",
+    "wikiImage": "https://www.geologysuperstore.com/wp-content/uploads/2023/03/mylonite.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Mylonite forms through the process of mylonitization, which involves the mechanical shearing and grinding of rocks along fault zones. This process occurs under high temperatures and pressures, leading to the recrystallization and deformation of minerals."
+    },
+    "characteristics": {
+      "color": "Mylonite can have a wide range of colors, including shades of gray, brown, green, and black, depending on the mineral composition.",
+      "composition": "Mylonite has a fine-grained and foliated texture, with minerals aligned along planes of shear. It often exhibits a banded or streaky appearance due to the alternating light and dark mineral bands. The composition of mylonite varies depending on the parent rock that underwent deformation. Common minerals found in mylonite include quartz, feldspar, mica, and various types of metamorphic minerals.",
+      "hardness": "The hardness of mylonite can vary depending on the mineral composition but is generally in the range of 6 to 7 on the Mohs scale.",
+      "density": "The density of mylonite ranges from 2.6 to 2.8 grams per cubic centimeter.",
+      "porosity": "Mylonite is commonly found in shear zones, which are areas of intense deformation and movement along faults. These shear zones can be several meters to kilometers wide."
+    },
+    "applications": {
+      "construction": "Mylonite is extensively studied by geologists to understand the processes of faulting, deformation, and shear zone formation. It provides insights into the tectonic history and dynamics of the Earth's crust.",
+      "monuments": "In some cases, mylonite with suitable properties and appearance may be used as a decorative stone in construction projects and as a material for architectural purposes.",
+      "sculptures": "Mylonite's unique texture and banded appearance make it a popular choice for decorative purposes such as countertops, tiles, and ornamental carvings."
+    },
+    "scientificSignificance": "Mylonite can be found in various regions around the world, particularly in areas with active tectonic activity and significant faulting. It is often associated with mountain-building processes and regions of intense deformation."
+  },
+  {
+    "id": "89",
+    "name": "Dacite",
+    "description": "Dacite is a type of volcanic igneous rock that forms from the rapid cooling and solidification of magma or lava. It is characterized by its fine-grained texture and intermediate composition, which falls between rhyolite and andesite. Dacite often contains abundant quartz and feldspar minerals.",
+    "wikiImage": "https://rockhoundresource.com/wp-content/uploads/2022/09/Dacite-2-1024x683.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Dacite forms when silica-rich magma or lava erupts and cools quickly, preventing the growth of large mineral crystals. The rapid cooling results in a fine-grained texture and typically occurs in volcanic environments."
+    },
+    "characteristics": {
+      "color": "Dacite can have a variety of colors, including shades of gray, brown, tan, and pink, depending on the mineral composition.",
+      "composition": "Dacite is primarily composed of plagioclase feldspar, quartz, and small amounts of biotite or hornblende. It also contains trace amounts of other minerals such as amphibole and pyroxene. Dacite has a fine-grained texture, with individual mineral grains that are too small to be visible to the naked eye. However, under magnification, the minerals can be identified.",
+      "hardness": "Dacite has a Mohs hardness rating of 6 to 7, making it relatively hard and resistant to scratching.",
+      "density": "The density of dacite ranges from 2.4 to 2.8 grams per cubic centimeter, depending on its mineral composition.",
+      "porosity": "Dacite has low porosity, which means it has very few open pores or cracks. This property makes it less susceptible to water absorption and weathering compared to some other volcanic rocks."
+    },
+    "applications": {
+      "construction": "Dacite can be used as a construction material for various purposes, including building facades, flooring, and decorative elements. Its durability and attractive appearance make it suitable for both indoor and outdoor applications.",
+      "monuments": "Crushed dacite can be used as an aggregate in concrete and asphalt production. Its hardness and resistance to abrasion make it a suitable material for road construction and other infrastructure projects.",
+      "sculptures": "Dacite can be found in various volcanic regions around the world. It is commonly associated with explosive volcanic eruptions and can be found in volcanic arcs, calderas, and stratovolcanoes. Notable occurrences of dacite include the Yellowstone Caldera in the United States, Mount Saint Helens in Washington state, and the Taupo Volcanic Zone in New Zealand."
+    },
+    "scientificSignificance": "Dacite is of scientific significance as it provides insights into the eruptive processes of volcanoes and the behavior of intermediate-composition magmas. It is studied to understand the evolution of volcanic systems and the formation of volcanic landforms. "
+  },
+  {
+    "id": "90",
+    "name": "Phonolite",
+    "description": "Phonolite is a type of volcanic igneous rock with a fine-grained to porphyritic texture. It is known for its high silica content and alkaline composition, which gives it unique physical and chemical properties. Phonolite is commonly found in volcanic regions and has distinctive characteristics that make it valuable in various applications.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aegirine-phonolite2-2005.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Phonolite forms from the solidification of silica-rich magma or lava that is enriched in alkali elements such as sodium and potassium. It typically crystallizes from slowly cooling lava flows or shallow intrusive bodies."
+    },
+    "characteristics": {
+      "color": "Phonolite can exhibit a range of colors, including gray, brown, green, and black, depending on the mineral composition and weathering effects.",
+      "composition": "Phonolite is primarily composed of alkali feldspar minerals, such as orthoclase or sanidine, and a dark-colored mineral called nepheline. It may also contain other minerals like biotite, augite, or olivine. Phonolite has a fine-grained to porphyritic texture, with phenocrysts (larger visible crystals) embedded in a finer groundmass. The groundmass often has a sugary appearance due to the presence of small feldspar crystals.",
+      "hardness": "Phonolite has a Mohs hardness rating of 5 to 6, indicating moderate hardness.",
+      "density": "The density of phonolite ranges from 2.4 to 2.6 grams per cubic centimeter, depending on its mineral composition.",
+      "porosity": "Phonolite has relatively low porosity, which means it has few open pores or cracks. However, some phonolite varieties may exhibit vesicles or cavities formed by gas bubbles trapped during solidification."
+    },
+    "applications": {
+      "construction": "Phonolite is used as a dimension stone in construction and architectural applications. Its unique texture and color variations make it suitable for decorative purposes such as cladding, flooring, and countertops.",
+      "monuments": "Crushed phonolite can be used as an aggregate in concrete production. Its hardness and durability make it suitable for various construction projects, including roadways and building foundations. Phonolite's attractive appearance and workability make it a favored material for sculptures, carvings, and other artistic creations.",
+      "sculptures": "Phonolite is of geological interest due to its association with alkaline volcanism. It provides insights into the processes of magma generation and the evolution of volcanic systems."
+    },
+    "scientificSignificance": "Phonolite is of scientific significance as it helps in understanding the petrogenesis of alkaline rocks and the behavior of alkaline magmas. It provides valuable information about the chemical composition and mineralogical diversity of volcanic environments."
+  },
+  {
+    "id": "91",
+    "name": "Lamprophyre",
+    "description": "Lamprophyre is a type of mafic igneous rock characterized by its fine-grained texture and dark mineral composition. It is often associated with volcanic and intrusive activities and contains minerals such as biotite, hornblende, and pyroxene. Lamprophyre has distinct characteristics that make it valuable in various applications and provide important insights into geological processes.",
+    "wikiImage": "https://rockidentifier.com/wiki-image/1080/6880C19CB3B646D2A27DF384A78A9370.jpeg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Lamprophyre forms through the intrusion of magma into existing rock formations. It is typically generated by the interaction of mafic magma with the surrounding rocks, resulting in a hybrid rock composition. The magma cools and solidifies relatively quickly, leading to the fine-grained texture observed in lamprophyre."
+    },
+    "characteristics": {
+      "color": "Lamprophyre commonly exhibits dark colors, such as shades of green, brown, or black, due to the presence of minerals like biotite and hornblende.",
+      "composition": "Lamprophyre is primarily composed of dark-colored minerals, including biotite, hornblende, and pyroxene. It may also contain lighter minerals like feldspar and quartz, depending on the specific type of lamprophyre. Lamprophyre has a fine-grained texture, meaning the individual mineral grains are not easily visible to the naked eye. However, under magnification, the characteristic minerals can be identified.",
+      "hardness": "The hardness of lamprophyre varies depending on its mineral composition. It generally falls within the range of 5 to 7 on the Mohs hardness scale.",
+      "density": "Lamprophyre has a density ranging from 2.8 to 3.1 grams per cubic centimeter, depending on its mineralogy.",
+      "porosity": "Lamprophyre typically has low porosity, indicating that it has few open pores or cracks. Lamprophyre exhibits good weathering resistance, making it suitable for outdoor applications."
+    },
+    "applications": {
+      "construction": "Lamprophyre is sometimes used as a dimension stone in construction. Its dark color and fine-grained texture make it suitable for decorative purposes such as countertops, tiles, and flooring.",
+      "monuments": "Crushed lamprophyre can be used as an aggregate in concrete and road construction. Its hardness and durability contribute to the strength and stability of the resulting materials.",
+      "sculptures": "Lamprophyre is of significant geological interest as its formation provides insights into magmatic processes and the interaction between mafic magma and pre-existing rocks. Its occurrence and distribution help in understanding the tectonic history and evolution of specific geological regions."
+    },
+    "scientificSignificance": "Lamprophyre is of scientific significance as it contributes to our understanding of magmatic processes, mantle-derived magmas, and the behavior of mafic melts. It helps in unraveling the complex geological history and dynamics of volcanic and intrusive systems."
   }
 ]

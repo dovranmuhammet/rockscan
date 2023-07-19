@@ -165,6 +165,7 @@
     "name": "Diatomite",
     "description": "Diatomite, also known as diatomaceous earth, is a sedimentary rock primarily composed of the fossilized remains of diatoms, a type of microscopic algae. It forms through the accumulation of diatom shells over millions of years in freshwater or marine environments. Diatomite is valued for its unique properties, including its high porosity, low density, and abrasive nature, making it useful in various industrial applications.",
     "wikiImage": "https://outforia.com/wp-content/uploads/2021/07/Types-of-rocks-diatomite-0721.jpg",
+    "type": "Sedimentary",
     "formation": {
       "description": "Diatomite forms when diatoms, a type of single-celled algae, die and their silica-rich skeletons accumulate on the ocean or lake floor. Over time, these accumulated remains compact and cement together to form the sedimentary rock known as diatomite."
     },

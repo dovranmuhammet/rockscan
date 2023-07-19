@@ -49,6 +49,8 @@ function GeoWonder() {
     )
   }
 
+  const websiteLink = 'https://www.rockscanner.com'
+
   return (
     <div className='card-container'>
       <button
@@ -113,8 +115,8 @@ function GeoWonder() {
               }}
             >
               {item.showFullDescription
-                ? item.description
-                : item.description.split('. ').slice(0, 3).join('. ') + '.'}
+                ? `${item.description}`
+                : `${item.description.split('. ').slice(0, 3).join('. ')}.`}
             </Typography>
 
             {item.description.split('. ').length > 1 && (
@@ -211,7 +213,7 @@ function GeoWonder() {
                   href={`mailto:?subject=${encodeURIComponent(
                     item.topic
                   )}&body=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}\n\n`
+                    `${item.topic}\n\n${item.description}\n\nVisit my website at ${websiteLink}\n\n`
                   )}`}
                   className='share-button'
                   target='_blank'
@@ -222,7 +224,7 @@ function GeoWonder() {
 
                 <a
                   href={`whatsapp://send?text=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}\n\n${item.link}`
+                    `${item.topic}\n\n${item.description}\n\nVisit my website at ${websiteLink}\n\n`
                   )}`}
                   className='share-button'
                   target='_blank'
@@ -235,7 +237,7 @@ function GeoWonder() {
                   href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(
                     `${item.link}`
                   )}&text=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}`
+                    `${item.topic}\n\n${item.description}\n\nVisit my website at ${websiteLink}`
                   )}`}
                   className='share-button'
                   target='_blank'
@@ -248,7 +250,7 @@ function GeoWonder() {
                   href={`https://www.instagram.com/share?url=${encodeURIComponent(
                     `${item.link}`
                   )}&caption=${encodeURIComponent(
-                    `${item.topic}\n\n${item.description}`
+                    `${item.topic}\n\n${item.description}\n\nVisit my website at ${websiteLink}`
                   )}`}
                   className='share-button'
                   target='_blank'

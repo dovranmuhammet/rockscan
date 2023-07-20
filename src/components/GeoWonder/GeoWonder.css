@@ -123,9 +123,6 @@
 
 /* GeoWonder.Title */
 
-/* Header */
-/* GeoWonder.css */
-
 .header {
   text-align: center;
   position: absolute;
@@ -140,7 +137,12 @@
   z-index: -1;
 }
 
-/* Add any other styling or adjustments as needed */
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .header {
+    display: none; /* Hide the background image on mobile devices */
+  }
+}
 
 /* Add the animated fun_fact section */
 

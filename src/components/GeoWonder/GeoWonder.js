@@ -60,10 +60,7 @@ function GeoWonder() {
 
   return (
     <div className='card-container'>
-      <div className='header'>
-        <h1>GeoWonder</h1>
-        <p>Explore fascinating wonders of the Earth</p>
-      </div>
+      <div className='header'></div>
       <button
         className='up-button'
         onClick={handleScrollToTop}
@@ -88,7 +85,6 @@ function GeoWonder() {
       >
         <ArrowUpwardIcon style={{ fontSize: '24px' }} />
       </button>
-
       <FormControl variant='outlined' className='topic-select-container'>
         <InputLabel>Topics</InputLabel>
         <Select

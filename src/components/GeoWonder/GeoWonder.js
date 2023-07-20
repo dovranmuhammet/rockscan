@@ -10,12 +10,12 @@ import OpenInNewIcon from '@mui/icons-material/OpenInNew'
 import './GeoWonder.css'
 import geoinfo from './geoinfo.json'
 import { FaWhatsapp, FaInstagram, FaTwitter, FaEnvelope } from 'react-icons/fa'
-import { FormControl, InputLabel, MenuItem, Select } from '@mui/material'
+import { FormControl, InputLabel, Select } from '@mui/material'
 
 function GeoWonder() {
   const [geoInfo, setGeoInfo] = useState(geoinfo)
   const [sharePopup, setSharePopup] = useState(null)
-  const [selectedTopic, setSelectedTopic] = useState(null)
+  const [selectedTopic, setSelectedTopic] = useState('all_topics_option')
 
   const handleHeartClick = (itemId) => {
     setGeoInfo((prevGeoInfo) =>
@@ -94,7 +94,7 @@ function GeoWonder() {
           label='Topics'
           className='topic-select'
         >
-          <option value='selectedTopic'>Select a topic</option>
+          <option value='all_topics_option'>All Topic</option>
           {geoInfo.map((item) => (
             <option key={item.id} value={item.topic}>
               {item.topic}
@@ -104,7 +104,11 @@ function GeoWonder() {
       </FormControl>
 
       {geoInfo
-        .filter((item) => !selectedTopic || item.topic === selectedTopic)
+        .filter(
+          (item) =>
+            selectedTopic === 'all_topics_option' ||
+            item.topic === selectedTopic
+        )
         .map((item) => (
           <Card
             key={item.id}

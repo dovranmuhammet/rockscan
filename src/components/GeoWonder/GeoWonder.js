@@ -60,6 +60,10 @@ function GeoWonder() {
 
   return (
     <div className='card-container'>
+      <div className='header'>
+        <h1>GeoWonder</h1>
+        <p>Explore fascinating wonders of the Earth</p>
+      </div>
       <button
         className='up-button'
         onClick={handleScrollToTop}

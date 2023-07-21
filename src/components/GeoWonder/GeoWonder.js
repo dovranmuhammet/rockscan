@@ -86,7 +86,9 @@ function GeoWonder() {
         <ArrowUpwardIcon style={{ fontSize: '24px' }} />
       </button>
       <FormControl variant='outlined' className='topic-select-container'>
-        <InputLabel>Topics</InputLabel>
+        <InputLabel style={{ color: 'rgb(34, 68, 123)', fontWeight: 'bold' }}>
+          Topics
+        </InputLabel>
         <Select
           native
           value={selectedTopic}

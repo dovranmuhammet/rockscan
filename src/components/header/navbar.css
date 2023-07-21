@@ -141,6 +141,15 @@
   }
 }
 
+/* Mobile Styles */
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .home-faq {
+    display: none;
+  }
+}
+
 .toggle-button {
   position: absolute;
   top: 0.75rem;

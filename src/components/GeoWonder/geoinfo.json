@@ -702,7 +702,7 @@
     "id": 30,
     "topic": "Unveiling the Hidden Stories of Earth's Ancient Rocks: What tales do they tell about the planet's tumultuous past?",
     "description": "Earth's rocks are like pages in a history book, revealing the stories of our planet's ancient past. Each layer holds clues about the environments, climates, and geological events that shaped the Earth over millions of years. From the rugged cliffs of the Grand Canyon to the serene layers of sedimentary rocks, these geological records offer glimpses into the rise and fall of ancient civilizations, the evolution of life, and the forces that shaped continents. Geologists decipher these hidden tales using techniques like stratigraphy and paleontology, painting a vivid picture of Earth's tumultuous journey through time. Join us as we embark on a geological expedition through the ages, unraveling the mysteries that lie within the rocks beneath our feet.",
-    "img": "https://example.com/ancient-rocks-image.jpg",
+    "img": "https://www.nps.gov/common/uploads/grid_builder/geology/crop16_9/735B9342-1DD8-B71B-0B49867CE6AF1439.jpg?width=1300&quality=90&mode=crop",
     "fun_fact": "The Great Unconformity, found in many locations worldwide, represents a significant gap in the geological record where ancient rocks are missing. It has puzzled geologists for centuries and offers a unique opportunity to study Earth's history.",
     "external_links": [
       {
@@ -726,7 +726,7 @@
     "id": 31,
     "topic": "Unearthing the Secrets of Earth's Ancient Supercontinents: How did they form and break apart?",
     "description": "Throughout Earth's history, continents have come together and drifted apart multiple times, forming vast supercontinents and breaking into fragments. But what were the driving forces behind these colossal geological events? The formation of supercontinents like Pangaea and Gondwana involved the collision and aggregation of various landmasses over millions of years. As these supercontinents grew, they dramatically reshaped the planet's landscapes and influenced the course of evolution. However, the forces that led to their eventual fragmentation and the formation of today's continents remain a subject of intense study and debate among geologists. By unlocking the secrets of ancient supercontinents, we gain valuable insights into the dynamic processes that have shaped Earth's geologic history and continue to shape the world around us.",
-    "img": "https://example.com/supercontinents-image.jpg",
+    "img": "https://cdn.mos.cms.futurecdn.net/yzxGQrsNXDzWDcTKPFqFFf-1200-80.jpg",
     "fun_fact": "Pangaea, the most recent supercontinent, existed during the late Paleozoic and early Mesozoic eras. It is believed to have started breaking apart around 175 million years ago, giving rise to the modern continents we see today.",
     "external_links": [
       {
@@ -737,12 +737,12 @@
       {
         "id": 2,
         "title": "Pangaea: Ancient Supercontinent",
-        "url": "https://www.britannica.com/place/Pangaea"
+        "url": "https://phys.org/news/2020-05-earth-supercontinent-broke-world-today.html"
       },
       {
         "id": 3,
         "title": "Gondwana: The Supercontinent",
-        "url": "https://www.bbc.co.uk/bitesize/guides/z4g6tfr/revision/1"
+        "url": "https://www.earth.com/earthpedia-articles/supercontinents-101-pannotia-gondwana-and-pangea/"
       }
     ]
   },

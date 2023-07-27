@@ -486,7 +486,7 @@
     "id": 21,
     "topic": "What stories do Earth's glacial landscapes tell us about its ancient climate and the powerful forces that shaped the terrain?",
     "description": "Glacial landscapes are stunning evidence of our planet's dynamic past, shaped by the relentless force of ice over millennia. Vast glaciers once covered large portions of the Earth, leaving behind awe-inspiring features such as U-shaped valleys, moraines, and cirques. But what stories do these glacial landforms tell us about Earth's ancient climate and the powerful forces that carved the landscape? The study of glacial geology reveals clues about past ice ages, the shifting of continents, and the interactions between ice and rock. As we explore the frozen remnants of these ancient glaciers, we unveil the secret history of Earth's glacial landscapes, showcasing the ever-changing face of our planet.",
-    "img": "https://example.com/glacial-landscapes-image.jpg",
+    "img": "https://images.twnmm.com/c55i45ef3o2a/59DkaVribxG3xnQ27JHYoj/ca04e659c03dc5961a6da4f494144f13/1600px-153_-_Glacier_Perito_Moreno_-_Grotte_glaciaire_-_Janvier_2010.jpg",
     "fun_fact": "During the last ice age, approximately 20,000 years ago, glaciers covered about 30% of Earth's land area. As the climate warmed and the glaciers receded, they left behind a legacy of captivating landforms that still shape the terrain we see today.",
     "external_links": [
       {
@@ -497,12 +497,12 @@
       {
         "id": 2,
         "title": "Exploring Glaciers: Past and Present",
-        "url": "https://www.nationalgeographic.org/article/exploring-glaciers-past-and-present/"
+        "url": "https://eos.org/editors-vox/glacier-structures-history-written-in-the-ice"
       },
       {
         "id": 3,
         "title": "The Power of Ice: How Glaciers Shape the World",
-        "url": "https://earthobservatory.nasa.gov/features/glaciers"
+        "url": "https://opengeology.org/textbook/14-glaciers/"
       }
     ]
   },

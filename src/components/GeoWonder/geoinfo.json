@@ -316,6 +316,30 @@
   },
   {
     "id": 14,
+    "topic": "What are the enigmatic processes behind the formation of Earth's breathtaking caves?",
+    "description": "Caves are mesmerizing underground wonders that have fascinated explorers and scientists for centuries. These hidden chambers, adorned with stunning stalactites and stalagmites, are formed through intricate geological processes. Rainwater, enriched with carbon dioxide, forms a weak carbonic acid that slowly dissolves limestone and other soluble rocks, creating cavities over thousands of years. Drips of mineral-rich water leave behind mineral deposits, shaping the intricate cave formations. The underground world also holds evidence of past climate changes, ancient art, and mysterious species adapted to darkness. As we venture deep into the subterranean realm, we unravel the enigmatic formation of Earth's breathtaking caves and their importance in preserving geological and cultural heritage.",
+    "img": "https://example.com/caves-image.jpg",
+    "fun_fact": "Mammoth Cave in Kentucky, USA, is the world's longest known cave system, with over 650 kilometers (404 miles) of explored passageways. It remains an ongoing exploration site and a treasure trove of geological wonders.",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Formation of Caves",
+        "url": "https://geology.com/stories/10/formation-of-caves/"
+      },
+      {
+        "id": 2,
+        "title": "Exploring the Hidden Worlds: Caves and Karst",
+        "url": "https://pubs.usgs.gov/gip/7000111/article/world.html"
+      },
+      {
+        "id": 3,
+        "title": "Cave Art: A Journey to Our Prehistoric Past",
+        "url": "https://www.nationalgeographic.com/culture/article/ancient-cave-art-may-be-a-form-of-prehistoric-sy"
+      }
+    ]
+  },
+  {
+    "id": 14,
     "topic": "What is the term for the bending or folding of rock layers due to tectonic forces?",
     "description": "The term for the bending or folding of rock layers due to tectonic forces is called deformation. Deformation occurs when rocks experience stress from tectonic forces, such as plate collisions or movements, and respond by changing their shape. The two main types of deformation are folding and faulting. Folding refers to the bending or curving of rock layers, resulting in structures like anticlines (upward-arching folds) and synclines (downward-arching folds). This process typically occurs in areas of compressional stress, where rocks are pushed together. The folding of rock layers can be gentle or tight, depending on the intensity of the forces involved. Deformation can have significant geological implications, including the creation of mountain ranges and the formation of structural traps for natural resources like oil and gas. It provides valuable insights into the history of plate tectonics and the dynamics of the Earth's crust. Geologists study the patterns and characteristics of folded rocks to understand the processes that shaped the Earth's surface and to interpret the subsurface structures.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Folding_of_alternate_layers_of_limestone_layers_with_chert_layers.jpg",

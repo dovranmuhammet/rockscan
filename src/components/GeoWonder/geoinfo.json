@@ -1585,5 +1585,29 @@
         "url": "https://geology.com/stories/10/how-fossils-are-formed/"
       }
     ]
+  },
+  {
+    "id": 67,
+    "topic": "The Dance of Earth and Fire: What Causes Volcanic Hotspots to Erupt in Unexpected Places?",
+    "description": "Volcanic hotspots are enigmatic geological phenomena that give rise to breathtaking volcanic islands and geological features. But what causes these intense plumes of molten rock to erupt from deep within the Earth's mantle? While most volcanoes form at tectonic plate boundaries, volcanic hotspots defy convention, erupting in the middle of tectonic plates. One theory suggests that they result from mantle plumes—narrow streams of hot rock rising from deep within the Earth. These mantle plumes punch through the Earth's crust, creating massive eruptions that form volcanic islands, such as Hawaii and Iceland. Join us as we delve into the fascinating dance between Earth and fire, exploring the origins and behavior of volcanic hotspots.",
+    "img": "https://example.com/volcanic-hotspots-image.jpg",
+    "fun_fact": "The Yellowstone Caldera in the United States is one of the most famous volcanic hotspots on Earth. This supervolcano has experienced three massive eruptions in the past 2.1 million years, leaving behind a vast and stunning volcanic landscape.",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Volcanic Hotspots: A Window into Earth's Mantle",
+        "url": "https://www.sciencedaily.com/releases/2017/08/170824152401.htm"
+      },
+      {
+        "id": 2,
+        "title": "The Formation and Evolution of Volcanic Islands",
+        "url": "https://www.nationalgeographic.org/encyclopedia/volcanic-island/"
+      },
+      {
+        "id": 3,
+        "title": "Yellowstone Caldera Supervolcano",
+        "url": "https://volcanoes.usgs.gov/observatories/yvo/"
+      }
+    ]
   }
 ]

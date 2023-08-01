@@ -2099,5 +2099,34 @@
       "sculptures": "Chlorite is used in various industrial applications, including oil drilling, ceramics, and as a filler in paints and plastics. Its soft and flexible nature makes it suitable for certain industrial uses."
     },
     "scientificSignificance": "Chlorite plays a significant role in geological studies, particularly in understanding the metamorphic processes and conditions that rocks undergo deep within the Earth's crust. Its presence in rocks and its association with other minerals provide clues to the geological history and evolution of different regions. Geologists study chlorite to gain insights into the complex interactions of minerals and the geological forces that shape the Earth's crust over time."
+  },
+  {
+    "id": "93",
+    "name": "Columbite",
+    "description": "Columbite is a black, metallic mineral that holds great significance due to its role as an ore of tantalum and niobium. This mineral is an important source of these rare metals, which have critical applications in various industries, including electronics, aerospace, and medical technology. Columbite is typically found in granite pegmatites and alluvial deposits, making it a valuable resource in modern technological advancements.",
+    "wikiImage": "https://example.com/columbite-image.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Columbite forms when molten magma cools and solidifies over long periods of time. The slow cooling allows large mineral crystals to form, resulting in Columbite's distinctive prismatic crystals with a black or brownish-black appearance."
+    },
+    "characteristics": {
+      "color": "Columbite is typically black or brownish-black, and its streak is black.",
+      "composition": "Columbite is primarily composed of iron, manganese, tantalum, and niobium, with tantalum and niobium being the most sought-after components.",
+      "hardness": "Columbite has a hardness of 6 on the Mohs scale, making it relatively resistant to scratching.",
+      "density": "Columbite has a density ranging from 5.2 to 7.7 grams per cubic centimeter, depending on its composition.",
+      "luster": "Columbite exhibits a submetallic to metallic luster, giving it a shiny appearance.",
+      "crystalSystem": "Columbite belongs to the orthorhombic crystal system, forming prismatic crystals with a short, stubby appearance."
+    },
+    "occurrence": {
+      "environments": "Columbite is commonly found in granite pegmatites, where it forms as an accessory mineral alongside other rare minerals. It is also found in alluvial deposits, which are sediments deposited by running water in riverbeds or floodplains.",
+      "locations": "Major columbite deposits are found in countries like Brazil, Nigeria, China, Canada, Australia, and the Democratic Republic of the Congo."
+    },
+    "uses": {
+      "industrialApplications": "Columbite is a critical source of tantalum and niobium, which are essential in the production of electronic components, superalloys, and high-strength materials used in the aerospace industry. Tantalum capacitors, in particular, are widely used in electronic devices like smartphones, computers, and medical implants.",
+      "medicalApplications": "Tantalum is biocompatible and corrosion-resistant, making it valuable in medical implants such as bone screws, plates, and joint replacements. Niobium finds applications in MRI scanners, as it provides excellent imaging capabilities.",
+      "aerospaceApplications": "Columbite-derived tantalum and niobium are crucial for aerospace applications, including the production of jet engine components, rocket nozzles, and heat-resistant materials for spacecraft."
+    },
+    "funFact": "Columbite is often found together with Tantalite, and the two minerals are collectively referred to as Coltan, a vital source of tantalum used in the electronics industry.",
+    "scientificSignificance": "Columbite's scientific significance lies in its role as a major source of tantalum and niobium, elements that have become indispensable in modern technology and industrial applications. The mineral's presence in specific geological settings and its association with other rare minerals provide valuable insights into geological processes and the formation of economically significant mineral deposits. Moreover, columbite is studied for its role in advancing electronic devices, aerospace technology, and medical applications, contributing to the progress of human civilization."
   }
 ]

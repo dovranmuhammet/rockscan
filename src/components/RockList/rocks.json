@@ -2134,22 +2134,16 @@
     },
     "characteristics": {
       "color": "Zoisite exhibits a wide range of colors, including green, blue, pink, purple, and brown. The variation in color is due to trace elements and impurities present during its formation.",
-      "crystalSystem": "Zoisite belongs to the orthorhombic crystal system, forming prismatic crystals or massive aggregates.",
+      "composition": "Zoisite belongs to the orthorhombic crystal system, forming prismatic crystals or massive aggregates.",
       "hardness": "Zoisite has a hardness of 6.5 to 7 on the Mohs scale, making it relatively durable and suitable for various jewelry applications.",
-      "transparency": "Zoisite can be transparent to translucent, allowing light to pass through and creating attractive gemstones.",
-      "cleavage": "Zoisite exhibits distinct cleavage planes, making it susceptible to breakage along specific directions.",
-      "luster": "Zoisite has a vitreous to greasy luster, contributing to its attractive appearance."
+      "density": "Zoisite can be transparent to translucent, allowing light to pass through and creating attractive gemstones.",
+      "porosity": "Zoisite exhibits distinct cleavage planes, making it susceptible to breakage along specific directions."
     },
-    "occurrence": {
-      "environments": "Zoisite is commonly found in metamorphic rocks, such as schists and gneisses. It also occurs in hydrothermal veins and can be associated with other minerals like garnet, kyanite, and quartz.",
-      "locations": "Notable deposits of zoisite are found in Tanzania (known as Tanzanite), Austria, India, Kenya, Norway, Switzerland, and the United States."
+    "applications": {
+      "construction": "Zoisite, particularly the blue variety known as Tanzanite, is a highly prized gemstone. It is often faceted or cut en cabochon and used in various types of jewelry, including rings, earrings, pendants, and bracelets.",
+      "monuments": "Due to its striking colors and favorable hardness, zoisite is a popular choice for ornamental carvings and sculptures. Intricate carvings and figurines are often crafted from this unique mineral.",
+      "sculptures": "Zoisite's beauty and rarity make it a sought-after mineral specimen for collectors and enthusiasts. High-quality crystals and vibrant colors are especially valued in the collector's market."
     },
-    "uses": {
-      "gemstone": "Zoisite, particularly the blue variety known as Tanzanite, is a highly prized gemstone. It is often faceted or cut en cabochon and used in various types of jewelry, including rings, earrings, pendants, and bracelets.",
-      "carvings": "Due to its striking colors and favorable hardness, zoisite is a popular choice for ornamental carvings and sculptures. Intricate carvings and figurines are often crafted from this unique mineral.",
-      "collectorSpecimens": "Zoisite's beauty and rarity make it a sought-after mineral specimen for collectors and enthusiasts. High-quality crystals and vibrant colors are especially valued in the collector's market."
-    },
-    "funFact": "Tanzanite, a rare blue variety of zoisite, is found exclusively in the Merelani Hills of Tanzania, making it one of the world's most geographically limited gemstones.",
     "scientificSignificance": "Zoisite holds scientific importance in the field of mineralogy and geology due to its role in metamorphic processes and its association with specific rock types. Its distinct crystal formations and vibrant colors make it an intriguing subject of study for researchers and collectors alike. Additionally, Tanzanite's rarity and unique geographical occurrence in Tanzania have contributed to the mineral's cultural and economic significance in the region."
   }
 ]

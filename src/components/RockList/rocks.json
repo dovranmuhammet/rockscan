@@ -2157,11 +2157,10 @@
     },
     "characteristics": {
       "color": "Andradite exhibits a range of colors, including shades of green, yellow, brown, and black. Its color variations are due to trace elements and impurities present during crystallization.",
-      "crystalSystem": "Andradite belongs to the cubic crystal system, forming dodecahedral and trapezohedral crystals.",
+      "composition": "Andradite belongs to the cubic crystal system, forming dodecahedral and trapezohedral crystals.",
       "hardness": "Andradite has a hardness of 6.5 to 7 on the Mohs scale, making it a durable and suitable gemstone.",
-      "transparency": "Andradite is generally transparent to translucent, allowing light to pass through and enhancing its gemstone quality.",
-      "luster": "Andradite has a vitreous to resinous luster, contributing to its attractive appearance.",
-      "cleavage": "Andradite exhibits no cleavage planes, and its fracture is conchoidal."
+      "density": "Andradite is generally transparent to translucent, allowing light to pass through and enhancing its gemstone quality.",
+      "porosity": "Andradite has a vitreous to resinous luster, contributing to its attractive appearance."
     },
     "occurrence": {
       "environments": "Andradite is commonly found in contact metamorphic rocks, skarns, and hydrothermal veins. It can also occur in metamorphosed limestone and serpentine.",

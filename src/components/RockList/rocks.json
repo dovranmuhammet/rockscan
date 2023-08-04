@@ -2145,5 +2145,34 @@
       "sculptures": "Zoisite's beauty and rarity make it a sought-after mineral specimen for collectors and enthusiasts. High-quality crystals and vibrant colors are especially valued in the collector's market."
     },
     "scientificSignificance": "Zoisite holds scientific importance in the field of mineralogy and geology due to its role in metamorphic processes and its association with specific rock types. Its distinct crystal formations and vibrant colors make it an intriguing subject of study for researchers and collectors alike. Additionally, Tanzanite's rarity and unique geographical occurrence in Tanzania have contributed to the mineral's cultural and economic significance in the region."
+  },
+  {
+    "id": "95",
+    "name": "Andradite",
+    "description": "Andradite is a mineral belonging to the garnet group, known for its striking colors and luster. It forms in a variety of environments, including contact metamorphic rocks, skarns, and hydrothermal veins. Andradite is valued for its gem-quality varieties and is also widely used as an abrasive material due to its exceptional hardness.",
+    "wikiImage": "https://example.com/andradite-image.jpg",
+    "type": "Nesosilicate",
+    "formation": {
+      "description": "Andradite forms under high-temperature and pressure conditions, commonly found in contact metamorphic settings and skarn deposits. It occurs through the reaction of calcium-rich minerals with silica-rich fluids."
+    },
+    "characteristics": {
+      "color": "Andradite exhibits a range of colors, including shades of green, yellow, brown, and black. Its color variations are due to trace elements and impurities present during crystallization.",
+      "crystalSystem": "Andradite belongs to the cubic crystal system, forming dodecahedral and trapezohedral crystals.",
+      "hardness": "Andradite has a hardness of 6.5 to 7 on the Mohs scale, making it a durable and suitable gemstone.",
+      "transparency": "Andradite is generally transparent to translucent, allowing light to pass through and enhancing its gemstone quality.",
+      "luster": "Andradite has a vitreous to resinous luster, contributing to its attractive appearance.",
+      "cleavage": "Andradite exhibits no cleavage planes, and its fracture is conchoidal."
+    },
+    "occurrence": {
+      "environments": "Andradite is commonly found in contact metamorphic rocks, skarns, and hydrothermal veins. It can also occur in metamorphosed limestone and serpentine.",
+      "locations": "Notable deposits of andradite are found in regions including the Ural Mountains in Russia, Italy, Namibia, Mexico, and the United States."
+    },
+    "uses": {
+      "gemstone": "Andradite, particularly the green variety known as Demantoid, is a highly prized gemstone. It is often faceted and used in various jewelry pieces, including rings, earrings, and necklaces.",
+      "industrial": "Due to its exceptional hardness and abrasive qualities, andradite is used as an abrasive material in sandpapers and other industrial applications.",
+      "collectibles": "Fine-quality andradite specimens, especially those with exceptional color and transparency, are sought after by mineral collectors and enthusiasts."
+    },
+    "funFact": "Demantoid, a green gem-quality variety of andradite, is one of the rarest and most valuable gemstones in the world, known for its remarkable brilliance and dispersion.",
+    "scientificSignificance": "Andradite is of scientific interest to geologists and mineralogists due to its occurrence in a wide range of geological settings and its role in metamorphic processes. Its gem-quality varieties, such as Demantoid, are particularly significant for their beauty and rarity. Additionally, andradite's use as an abrasive material in industrial applications makes it economically valuable."
   }
 ]

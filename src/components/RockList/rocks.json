@@ -2168,5 +2168,26 @@
       "sculptures": "Fine-quality andradite specimens, especially those with exceptional color and transparency, are sought after by mineral collectors and enthusiasts."
     },
     "scientificSignificance": "Andradite is of scientific interest to geologists and mineralogists due to its occurrence in a wide range of geological settings and its role in metamorphic processes. Its gem-quality varieties, such as Demantoid, are particularly significant for their beauty and rarity. Additionally, andradite's use as an abrasive material in industrial applications makes it economically valuable."
+  },
+  {
+    "id": "96",
+    "name": "Stephanite",
+    "description": "Stephanite is a silver antimony sulfosalt mineral that belongs to the wider group of sulfide minerals. It is known for its striking metallic luster and blackish-gray to silver-gray color. Stephanite is an important ore of silver and is commonly found in hydrothermal veins associated with other silver-bearing minerals.",
+    "wikiImage": "https://example.com/stephanite-image.jpg",
+    "type": "Sulfosalt",
+    "composition": "Ag5SbS4",
+    "crystalSystem": "Orthorhombic",
+    "hardness": "2 to 2.5 on the Mohs scale",
+    "density": "6.3 to 6.4 g/cm³",
+    "occurrence": {
+      "environments": "Stephanite is commonly found in hydrothermal veins associated with other silver and sulfide minerals. It forms at moderate to low temperatures in epithermal and mesothermal ore deposits.",
+      "locations": "Notable deposits of stephanite are found in regions including Mexico, Peru, Bolivia, Chile, Germany, and the United States."
+    },
+    "uses": {
+      "oreOfSilver": "Stephanite is an important ore of silver. It contains a significant amount of silver and is mined for its precious metal content.",
+      "collectibles": "Stephanite specimens with well-formed crystals and attractive luster are highly valued by mineral collectors and enthusiasts."
+    },
+    "funFact": "Stephanite was named in honor of the Austrian mineralogist, Stephan Endlicher, who made significant contributions to the field of mineralogy in the 19th century.",
+    "scientificSignificance": "Stephanite is of scientific interest to mineralogists and economic geologists due to its occurrence as a silver ore and its association with other valuable minerals in hydrothermal ore deposits. Studying stephanite and its crystallographic properties provides insights into the formation and processes of ore deposits containing silver and antimony."
   }
 ]

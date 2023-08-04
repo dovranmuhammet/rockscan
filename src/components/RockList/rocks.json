@@ -2162,10 +2162,10 @@
       "density": "Andradite is generally transparent to translucent, allowing light to pass through and enhancing its gemstone quality.",
       "porosity": "Andradite has a vitreous to resinous luster, contributing to its attractive appearance."
     },
-    "uses": {
-      "gemstone": "Andradite, particularly the green variety known as Demantoid, is a highly prized gemstone. It is often faceted and used in various jewelry pieces, including rings, earrings, and necklaces.",
-      "industrial": "Due to its exceptional hardness and abrasive qualities, andradite is used as an abrasive material in sandpapers and other industrial applications.",
-      "collectibles": "Fine-quality andradite specimens, especially those with exceptional color and transparency, are sought after by mineral collectors and enthusiasts."
+    "applications": {
+      "construction": "Andradite, particularly the green variety known as Demantoid, is a highly prized gemstone. It is often faceted and used in various jewelry pieces, including rings, earrings, and necklaces.",
+      "monuments": "Due to its exceptional hardness and abrasive qualities, andradite is used as an abrasive material in sandpapers and other industrial applications.",
+      "sculptures": "Fine-quality andradite specimens, especially those with exceptional color and transparency, are sought after by mineral collectors and enthusiasts."
     },
     "scientificSignificance": "Andradite is of scientific interest to geologists and mineralogists due to its occurrence in a wide range of geological settings and its role in metamorphic processes. Its gem-quality varieties, such as Demantoid, are particularly significant for their beauty and rarity. Additionally, andradite's use as an abrasive material in industrial applications makes it economically valuable."
   }

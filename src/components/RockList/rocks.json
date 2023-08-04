@@ -2168,5 +2168,29 @@
       "sculptures": "Fine-quality andradite specimens, especially those with exceptional color and transparency, are sought after by mineral collectors and enthusiasts."
     },
     "scientificSignificance": "Andradite is of scientific interest to geologists and mineralogists due to its occurrence in a wide range of geological settings and its role in metamorphic processes. Its gem-quality varieties, such as Demantoid, are particularly significant for their beauty and rarity. Additionally, andradite's use as an abrasive material in industrial applications makes it economically valuable."
+  },
+  {
+    "id": "96",
+    "name": "Novaculite",
+    "description": "Novaculite is a type of metamorphic rock known for its exceptional hardness and sharpness. It is formed from sedimentary chert through a process of recrystallization and metamorphism. Novaculite has been used for centuries as a sharpening stone and whetstone due to its abrasive properties and fine-grained texture.",
+    "wikiImage": "https://example.com/novaculite-image.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Novaculite is formed when sedimentary chert undergoes metamorphism due to the effects of heat and pressure. The original silica-rich sediment recrystallizes into a dense and fine-grained rock."
+    },
+    "characteristics": {
+      "color": "Novaculite comes in various colors, including gray, black, white, and brown, depending on its mineral impurities and geographic location.",
+      "composition": "Novaculite is primarily composed of microcrystalline quartz. Its high silica content contributes to its hardness and sharpness.",
+      "hardness": "Novaculite is extremely hard and ranks around 6.5 to 7 on the Mohs hardness scale.",
+      "density": "Novaculite has a density ranging from 2.3 to 2.4 grams per cubic centimeter.",
+      "porosity": "Novaculite is generally non-porous and has low water absorption, which makes it suitable for sharpening and grinding applications."
+    },
+    "applications": {
+      "sharpening_stones": "Novaculite is widely known for its use as a sharpening stone. It is used to sharpen blades, knives, and other cutting tools due to its abrasive nature.",
+      "whetstones": "Whetstones made from Novaculite are popular for achieving razor-sharp edges on blades and tools.",
+      "abrasives": "Novaculite is also used as an abrasive material in various industries, such as in grinding and polishing applications.",
+      "decorative": "In addition to its functional uses, Novaculite is sometimes used as a decorative stone in landscaping and architecture."
+    },
+    "scientificSignificance": "Novaculite has scientific significance in the study of metamorphic processes and the formation of hard, dense rocks. Its use as a sharpening stone and whetstone reflects the ingenuity of ancient civilizations in utilizing natural resources for practical purposes."
   }
 ]

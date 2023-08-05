@@ -2191,5 +2191,33 @@
       "sculptures": "Novaculite is also used as an abrasive material in various industries, such as in grinding and polishing applications. In addition to its functional uses, Novaculite is sometimes used as a decorative stone in landscaping and architecture."
     },
     "scientificSignificance": "Novaculite has scientific significance in the study of metamorphic processes and the formation of hard, dense rocks. Its use as a sharpening stone and whetstone reflects the ingenuity of ancient civilizations in utilizing natural resources for practical purposes."
+  },
+  {
+    "id": "97",
+    "name": "Greenschist",
+    "description": "Greenschist is a common type of metamorphic rock that forms under moderate temperature and pressure conditions. It gets its name from its green color, which is often due to the presence of minerals such as chlorite, actinolite, or epidote. Greenschist has a characteristic schistose texture and is known for its attractive appearance and potential for various applications.",
+    "wikiImage": "https://www.mineralienatlas.de/VIEWmaxFULL.php/param/1398543256-Sphen-xx-auf-Chloritschiefermatrix-Titanite-greenschist.jpg",
+    "type": "Metamorphic",
+    "formation": {
+      "description": "Greenschist forms from the metamorphism of pre-existing rocks, such as shale or basalt, under relatively low to moderate temperature and pressure conditions. During metamorphism, the minerals in the original rock recrystallize, and new minerals like chlorite and actinolite grow, giving the rock its green color and schistose texture."
+    },
+    "characteristics": {
+      "color": "Greenschist is typically green in color, ranging from pale green to dark green, depending on the mineral composition.",
+      "composition": "Greenschist is primarily composed of minerals such as chlorite, actinolite, epidote, and sometimes talc. These minerals give the rock its characteristic green color and schistose texture.",
+      "hardness": "Greenschist generally has a hardness ranging from 3 to 4 on the Mohs scale.",
+      "density": "The density of greenschist varies depending on its mineral composition and can range from 2.7 to 3.2 grams per cubic centimeter.",
+      "foliation": "Greenschist exhibits a well-developed foliation, with the minerals aligned in parallel layers that give the rock its schistose texture.",
+      "metamorphicGrade": "Greenschist is classified as a low-grade metamorphic rock, indicating that it has undergone moderate metamorphic conditions.",
+      "occurrence": "Greenschist is commonly found in regions with tectonic activity, such as mountain belts or areas associated with the contact between igneous intrusions and surrounding rocks."
+    },
+    "applications": {
+      "architecture": "Greenschist's attractive green color and schistose texture make it a favored material for decorative purposes in architecture and building facades.",
+      "ornaments": "Greenschist is often used for ornamental purposes, such as in interior design, landscaping, and as polished tiles or slabs.",
+      "sculptures": "Its workability and attractive appearance make greenschist a suitable material for sculptures and artistic creations.",
+      "flooring": "Greenschist's durability and appealing color make it a popular choice for flooring in both residential and commercial settings.",
+      "jewelry": "Some varieties of greenschist with high-quality minerals, such as jadeite, are used in jewelry and gemstones."
+    },
+    "geologicalImportance": "Greenschist is of geological importance as it provides valuable information about the processes of regional metamorphism and the tectonic history of the Earth's crust. It is often associated with the subduction zones and the formation of mountain ranges, contributing to our understanding of plate tectonics and geological dynamics.",
+    "interestingFact": "In some regions, greenschist is known as 'Verde Antique' and has been used in historic buildings and monuments for its unique color and historical significance."
   }
 ]

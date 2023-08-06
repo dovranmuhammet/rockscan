@@ -2206,18 +2206,13 @@
       "composition": "Greenschist is primarily composed of minerals such as chlorite, actinolite, epidote, and sometimes talc. These minerals give the rock its characteristic green color and schistose texture.",
       "hardness": "Greenschist generally has a hardness ranging from 3 to 4 on the Mohs scale.",
       "density": "The density of greenschist varies depending on its mineral composition and can range from 2.7 to 3.2 grams per cubic centimeter.",
-      "foliation": "Greenschist exhibits a well-developed foliation, with the minerals aligned in parallel layers that give the rock its schistose texture.",
-      "metamorphicGrade": "Greenschist is classified as a low-grade metamorphic rock, indicating that it has undergone moderate metamorphic conditions.",
-      "occurrence": "Greenschist is commonly found in regions with tectonic activity, such as mountain belts or areas associated with the contact between igneous intrusions and surrounding rocks."
+      "porosity": "Greenschist is classified as a low-grade metamorphic rock, indicating that it has undergone moderate metamorphic conditions. Greenschist is commonly found in regions with tectonic activity, such as mountain belts or areas associated with the contact between igneous intrusions and surrounding rocks."
     },
     "applications": {
-      "architecture": "Greenschist's attractive green color and schistose texture make it a favored material for decorative purposes in architecture and building facades.",
-      "ornaments": "Greenschist is often used for ornamental purposes, such as in interior design, landscaping, and as polished tiles or slabs.",
-      "sculptures": "Its workability and attractive appearance make greenschist a suitable material for sculptures and artistic creations.",
-      "flooring": "Greenschist's durability and appealing color make it a popular choice for flooring in both residential and commercial settings.",
-      "jewelry": "Some varieties of greenschist with high-quality minerals, such as jadeite, are used in jewelry and gemstones."
+      "construction": "Greenschist's attractive green color and schistose texture make it a favored material for decorative purposes in architecture and building facades.",
+      "monuments": "Greenschist is often used for ornamental purposes, such as in interior design, landscaping, and as polished tiles or slabs.",
+      "sculptures": "Its workability and attractive appearance make greenschist a suitable material for sculptures and artistic creations. Greenschist's durability and appealing color make it a popular choice for flooring in both residential and commercial settings. Some varieties of greenschist with high-quality minerals, such as jadeite, are used in jewelry and gemstones."
     },
-    "geologicalImportance": "Greenschist is of geological importance as it provides valuable information about the processes of regional metamorphism and the tectonic history of the Earth's crust. It is often associated with the subduction zones and the formation of mountain ranges, contributing to our understanding of plate tectonics and geological dynamics.",
-    "interestingFact": "In some regions, greenschist is known as 'Verde Antique' and has been used in historic buildings and monuments for its unique color and historical significance."
+    "scientificSignificance": "Greenschist is of geological importance as it provides valuable information about the processes of regional metamorphism and the tectonic history of the Earth's crust. It is often associated with the subduction zones and the formation of mountain ranges, contributing to our understanding of plate tectonics and geological dynamics."
   }
 ]

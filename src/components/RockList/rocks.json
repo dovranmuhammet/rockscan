@@ -2214,5 +2214,30 @@
       "sculptures": "Its workability and attractive appearance make greenschist a suitable material for sculptures and artistic creations. Greenschist's durability and appealing color make it a popular choice for flooring in both residential and commercial settings. Some varieties of greenschist with high-quality minerals, such as jadeite, are used in jewelry and gemstones."
     },
     "scientificSignificance": "Greenschist is of geological importance as it provides valuable information about the processes of regional metamorphism and the tectonic history of the Earth's crust. It is often associated with the subduction zones and the formation of mountain ranges, contributing to our understanding of plate tectonics and geological dynamics."
+  },
+  {
+    "id": "98",
+    "name": "Gravel",
+    "description": "Gravel is a type of sedimentary rock composed of small fragments of various minerals and rocks. It forms through the accumulation of rounded, water-worn pebbles and stones in riverbeds, stream valleys, or glacial deposits. With its natural water drainage properties and versatility, Gravel has numerous applications in construction, landscaping, and road building.",
+    "wikiImage": "https://example.com/images/gravel.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Gravel forms through the erosional process of weathering and transportation of rocks. As water moves over these rocks, it gradually wears them down, resulting in the formation of small, rounded pebbles and stones that make up Gravel deposits."
+    },
+    "characteristics": {
+      "color": "Gravel comes in various colors, including shades of brown, gray, white, and red. The color is determined by the composition of the rocks and minerals present in the gravel.",
+      "composition": "Gravel is primarily composed of fragments of rocks and minerals such as quartz, granite, limestone, and basalt. The rounded nature of the fragments is a distinctive feature of gravel.",
+      "size": "Gravel particles can range in size from 2mm to over 75mm, with the most common size being between 2mm and 64mm.",
+      "texture": "Gravel has a coarse and granular texture due to the presence of rounded pebbles and stones.",
+      "porosity": "Gravel typically has low porosity, allowing water to drain quickly through the spaces between the particles."
+    },
+    "applications": {
+      "construction": "Gravel is widely used in construction as a cost-effective and durable material for roadways, foundations, and backfill.",
+      "landscaping": "In landscaping, gravel is used for pathways, driveways, and garden features due to its aesthetic appeal and excellent drainage properties.",
+      "concrete": "Gravel is a key component in concrete production, providing strength and stability to the construction material.",
+      "drainage": "Due to its low porosity, gravel is an excellent material for drainage systems and stormwater management.",
+      "railroad ballast": "Gravel is used as a foundation material for railroad tracks to provide stability and support."
+    },
+    "scientificSignificance": "Gravel provides valuable insights into the geological history and processes of erosion and sedimentation. Studying gravel deposits can help understand ancient river systems, glaciation, and landscape evolution."
   }
 ]

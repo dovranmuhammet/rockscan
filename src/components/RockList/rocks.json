@@ -2227,16 +2227,14 @@
     "characteristics": {
       "color": "Gravel comes in various colors, including shades of brown, gray, white, and red. The color is determined by the composition of the rocks and minerals present in the gravel.",
       "composition": "Gravel is primarily composed of fragments of rocks and minerals such as quartz, granite, limestone, and basalt. The rounded nature of the fragments is a distinctive feature of gravel.",
-      "size": "Gravel particles can range in size from 2mm to over 75mm, with the most common size being between 2mm and 64mm.",
-      "texture": "Gravel has a coarse and granular texture due to the presence of rounded pebbles and stones.",
+      "hardness": "Gravel particles can range in size from 2mm to over 75mm, with the most common size being between 2mm and 64mm.",
+      "density": "Gravel has a coarse and granular texture due to the presence of rounded pebbles and stones.",
       "porosity": "Gravel typically has low porosity, allowing water to drain quickly through the spaces between the particles."
     },
     "applications": {
-      "construction": "Gravel is widely used in construction as a cost-effective and durable material for roadways, foundations, and backfill.",
-      "landscaping": "In landscaping, gravel is used for pathways, driveways, and garden features due to its aesthetic appeal and excellent drainage properties.",
-      "concrete": "Gravel is a key component in concrete production, providing strength and stability to the construction material.",
-      "drainage": "Due to its low porosity, gravel is an excellent material for drainage systems and stormwater management.",
-      "railroad ballast": "Gravel is used as a foundation material for railroad tracks to provide stability and support."
+      "construction": "Gravel is widely used in construction for cost-effective and durable applications such as roadways, foundations, backfill, and as a foundation material for railroad tracks, providing stability and support.",
+      "monuments": "In landscaping, gravel is used for pathways, driveways, and garden features due to its aesthetic appeal and excellent drainage properties.",
+      "sculptures": "Gravel is a key component in concrete production, providing strength and stability to the construction material."
     },
     "scientificSignificance": "Gravel provides valuable insights into the geological history and processes of erosion and sedimentation. Studying gravel deposits can help understand ancient river systems, glaciation, and landscape evolution."
   }

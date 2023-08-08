@@ -2237,5 +2237,27 @@
       "sculptures": "Gravel is a key component in concrete production, providing strength and stability to the construction material."
     },
     "scientificSignificance": "Gravel provides valuable insights into the geological history and processes of erosion and sedimentation. Studying gravel deposits can help understand ancient river systems, glaciation, and landscape evolution."
+  },
+  {
+    "id": "99",
+    "name": "Conglomerate",
+    "description": "Conglomerate is a sedimentary rock composed of rounded gravel and pebble-sized clasts cemented together. It forms through the accumulation and cementation of these coarse particles, often in riverbeds and alluvial fans. Conglomerate rocks provide valuable insights into past sedimentary environments and the processes of erosion, transportation, and deposition.",
+    "wikiImage": "https://images.example.com/conglomerate.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Conglomerate forms when gravel and pebble-sized particles are transported by water and then deposited. Over time, the deposited particles become compacted and cemented by minerals, creating a solid rock mass."
+    },
+    "characteristics": {
+      "clasts": "Conglomerates contain visible clasts, which are rounded rock fragments of various sizes and types. The size of the clasts can provide information about the energy of the transporting agent.",
+      "cement": "The clasts in conglomerate are typically cemented together by minerals like calcite, silica, or iron oxide. This cementation helps to bind the clasts and create a cohesive rock structure.",
+      "color": "Conglomerates come in a variety of colors depending on the composition of the clasts and the cementing minerals. Common colors include gray, brown, and reddish hues.",
+      "texture": "The texture of conglomerate can range from coarse to very coarse, reflecting the size of the clasts. It often has a rough and pebbly appearance."
+    },
+    "applications": {
+      "construction": "Conglomerate is not commonly used in construction due to its variable composition and lack of widespread availability. However, some well-cemented conglomerates can be used for decorative purposes.",
+      "geologicalStudies": "Conglomerates are important for understanding ancient sedimentary environments, depositional processes, and the history of erosion and transportation. Geologists study conglomerates to reconstruct past landscapes and sedimentary sequences.",
+      "reservoirRocks": "In some cases, well-cemented conglomerates can act as reservoir rocks for hydrocarbons, as they can have sufficient pore space to hold fluids like oil and gas."
+    },
+    "scientificSignificance": "Conglomerate rocks provide valuable information about past geological conditions and processes. They can indicate the energy of ancient rivers and the history of sediment transport. Studying conglomerates contributes to a better understanding of Earth's geological history."
   }
 ]

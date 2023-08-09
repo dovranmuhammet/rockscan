@@ -2260,5 +2260,29 @@
       "sculptures": "In some cases, well-cemented conglomerates can act as reservoir rocks for hydrocarbons, as they can have sufficient pore space to hold fluids like oil and gas."
     },
     "scientificSignificance": "Conglomerate rocks provide valuable information about past geological conditions and processes. They can indicate the energy of ancient rivers and the history of sediment transport. Studying conglomerates contributes to a better understanding of Earth's geological history."
+  },
+  {
+    "id": "1",
+    "name": "Dolostone",
+    "description": "Dolostone, also known as dolomite rock, is a sedimentary rock composed primarily of the mineral dolomite. It forms through a process called dolomitization, where calcium carbonate in limestone is replaced by magnesium carbonate.",
+    "wikiImage": "https://images.example.com/dolostone.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Dolostone forms through the chemical alteration of limestone. In this process, calcium carbonate is partially or completely replaced by magnesium carbonate, resulting in the formation of dolomite crystals."
+    },
+    "characteristics": {
+      "color": "Dolostone can come in various colors, including shades of gray, brown, pink, and white. The color depends on impurities and mineral content.",
+      "composition": "Dolostone is primarily composed of the mineral dolomite (CaMg(CO3)2), formed through the replacement of calcium carbonate in limestone.",
+      "texture": "Dolostone can have a fine-grained to coarse-grained texture, often with visible dolomite crystals. It can range from relatively soft to quite hard.",
+      "hardness": "Dolostone hardness varies, but it is generally less hard than granite, with a Mohs hardness rating ranging from 3.5 to 4.5.",
+      "porosity": "Dolostone can have varying porosity levels, depending on factors like grain size and compaction. It is less porous than some other sedimentary rocks.",
+      "fossils": "Fossils can sometimes be found in dolostone, indicating its formation in marine environments. However, dolomitization can alter or destroy fossils."
+    },
+    "applications": {
+      "construction": "Dolostone is used in construction for road aggregates, concrete, and railroad ballast due to its durability and resistance to weathering.",
+      "industry": "It is used in the production of lime, magnesium, and dolomite refractory materials. It also serves as a decorative stone in landscaping.",
+      "geologicalUses": "Dolostone provides insights into paleoenvironmental conditions and diagenetic processes. It is important for understanding ancient marine settings and the carbon cycle."
+    },
+    "scientificSignificance": "Dolostone's formation sheds light on diagenesis and the alteration of sedimentary rocks. It is also significant in the study of Earth's carbon and magnesium cycles."
   }
 ]

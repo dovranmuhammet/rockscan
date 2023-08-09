@@ -2262,10 +2262,10 @@
     "scientificSignificance": "Conglomerate rocks provide valuable information about past geological conditions and processes. They can indicate the energy of ancient rivers and the history of sediment transport. Studying conglomerates contributes to a better understanding of Earth's geological history."
   },
   {
-    "id": "1",
+    "id": "100",
     "name": "Dolostone",
     "description": "Dolostone, also known as dolomite rock, is a sedimentary rock composed primarily of the mineral dolomite. It forms through a process called dolomitization, where calcium carbonate in limestone is replaced by magnesium carbonate.",
-    "wikiImage": "https://images.example.com/dolostone.jpg",
+    "wikiImage": "https://m.media-amazon.com/images/I/81h8zVRIZWL.jpg",
     "type": "Sedimentary",
     "formation": {
       "description": "Dolostone forms through the chemical alteration of limestone. In this process, calcium carbonate is partially or completely replaced by magnesium carbonate, resulting in the formation of dolomite crystals."

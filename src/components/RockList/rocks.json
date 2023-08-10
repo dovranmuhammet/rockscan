@@ -2283,11 +2283,12 @@
       "sculptures": "Dolostone provides insights into paleoenvironmental conditions and diagenetic processes. It is important for understanding ancient marine settings and the carbon cycle."
     },
     "scientificSignificance": "Dolostone's formation sheds light on diagenesis and the alteration of sedimentary rocks. It is also significant in the study of Earth's carbon and magnesium cycles."
-  }, {
-    "id": "1",
+  },
+  {
+    "id": "101",
     "name": "Marl",
     "description": "Marl is a type of sedimentary rock that consists of a mixture of clay and carbonate minerals, often forming in aquatic environments such as lakes or shallow seas. It has distinctive properties that make it useful for various purposes.",
-    "wikiImage": "https://images.example.com/marl.jpg",
+    "wikiImage": "https://www.ualberta.ca/earth-sciences/media-library/minerals-of-alberta/marl",
     "type": "Sedimentary",
     "formation": {
       "description": "Marl is formed from the accumulation of fine-grained sediments, primarily clay and carbonate materials, in aquatic settings with moderate energy. The mixing of clay and calcium carbonate leads to the unique properties of marl."
@@ -2306,5 +2307,4 @@
     },
     "scientificSignificance": "Marl plays a role in understanding ancient ecosystems and sedimentation processes in aquatic environments, contributing to the study of Earth's history and the conditions that shaped it."
   }
-
 ]

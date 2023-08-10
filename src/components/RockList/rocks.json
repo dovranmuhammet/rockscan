@@ -2296,14 +2296,14 @@
     "characteristics": {
       "color": "Marl can range in color, typically gray, brown, or green, depending on the proportion of clay and carbonate content. It may exhibit variations due to local mineral and organic matter content.",
       "composition": "Marl consists of a significant proportion of clay minerals (such as kaolinite or illite) mixed with variable amounts of calcium carbonate (calcite or aragonite). This mixture gives marl its unique characteristics.",
-      "texture": "Marl often has a fine-grained texture, with a relatively soft and smooth feel. It can be compacted into a solid rock or remain relatively loose, depending on its compaction level.",
-      "porosity": "Marl has varying porosity, influenced by factors like compaction and the presence of organic matter. Its porosity can impact its permeability and water-holding capacity.",
-      "fossils": "Marl is often rich in fossils, particularly in ancient lake or shallow sea deposits. Fossils of aquatic plants, shells, and small animals can be well-preserved in marl layers."
+      "hardness": "Marl often has a fine-grained texture, with a relatively soft and smooth feel. It can be compacted into a solid rock or remain relatively loose, depending on its compaction level.",
+      "density": "Marl is often rich in fossils, particularly in ancient lake or shallow sea deposits. Fossils of aquatic plants, shells, and small animals can be well-preserved in marl layers.",
+      "porosity": "Marl has varying porosity, influenced by factors like compaction and the presence of organic matter. Its porosity can impact its permeability and water-holding capacity."
     },
     "applications": {
-      "agriculture": "Marl is sometimes used in agriculture as a soil conditioner due to its calcium carbonate content, which can help raise soil pH and improve fertility.",
       "construction": "While not as commonly used as some other rocks, marl can be used as a construction material for low-stress applications, such as fill material or as a component in cement production.",
-      "geologicalUses": "Marl has geological significance in paleoenvironmental reconstructions, helping researchers understand past aquatic environments and the interactions between clay and carbonate sedimentation."
+      "monuments": "Marl is sometimes used in agriculture as a soil conditioner due to its calcium carbonate content, which can help raise soil pH and improve fertility.",
+      "sculptures": "Marl has geological significance in paleoenvironmental reconstructions, helping researchers understand past aquatic environments and the interactions between clay and carbonate sedimentation."
     },
     "scientificSignificance": "Marl plays a role in understanding ancient ecosystems and sedimentation processes in aquatic environments, contributing to the study of Earth's history and the conditions that shaped it."
   }

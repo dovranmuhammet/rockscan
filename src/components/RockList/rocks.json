@@ -2306,5 +2306,30 @@
       "sculptures": "Marl has geological significance in paleoenvironmental reconstructions, helping researchers understand past aquatic environments and the interactions between clay and carbonate sedimentation."
     },
     "scientificSignificance": "Marl plays a role in understanding ancient ecosystems and sedimentation processes in aquatic environments, contributing to the study of Earth's history and the conditions that shaped it."
+  },
+  {
+    "id": "102",
+    "name": "Graywacke",
+    "description": "Graywacke is a type of sedimentary rock that is commonly found in ancient sedimentary basins, characterized by a mix of fine-grained matrix material and larger particles, such as sand and gravel. Its unique composition and properties make it a significant rock in geology.",
+    "wikiImage": "https://images.example.com/graywacke.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Graywacke forms through the accumulation of sediment in marine environments with high-energy currents. The mixture of fine particles and larger clasts results in a distinctive texture and structure."
+    },
+    "characteristics": {
+      "color": "Graywacke is typically gray or grayish-brown, although it can exhibit a range of colors based on the mineral content and origin. The presence of darker minerals may impart subtle variations in color.",
+      "composition": "Graywacke is composed of a mix of fine-grained clay or silt-sized particles (matrix) and larger fragments, such as sand and gravel-sized grains (clasts). The clasts are often angular, indicating limited transport.",
+      "texture": "Graywacke has a gritty texture due to the presence of coarse-grained clasts embedded in the finer matrix material. This texture is often described as \"dirty\" due to the mix of grain sizes.",
+      "hardness": "The hardness of graywacke varies based on the mineral content of the clasts and matrix, typically falling within a moderate range on the Mohs hardness scale.",
+      "porosity": "Graywacke's porosity depends on the degree of cementation and compaction. It may have moderate to low porosity, impacting its water-holding capacity and permeability.",
+      "bedding": "Graywacke often exhibits distinct bedding or layering, reflecting the changing sedimentary conditions during its deposition.",
+      "fossils": "While fossils are not as common in graywacke as in some other sedimentary rocks, it can occasionally preserve fossils, particularly in interbedded layers with different sediment types."
+    },
+    "applications": {
+      "construction": "Graywacke has been used as a construction material for building facades, walls, and other decorative elements. Its unique texture and durability make it suitable for certain architectural uses.",
+      "geologicalUses": "Graywacke is important in understanding sedimentary processes, ancient marine environments, and the history of tectonic and erosional events in regions where it occurs.",
+      "landscaping": "Graywacke's distinctive appearance and durability make it suitable for landscaping projects, including garden pathways, rock gardens, and retaining walls."
+    },
+    "scientificSignificance": "Graywacke provides insights into past depositional environments and tectonic activity, contributing to the understanding of Earth's geological history and the complex processes that shape sedimentary basins."
   }
 ]

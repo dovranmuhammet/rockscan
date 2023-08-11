@@ -2330,5 +2330,29 @@
     },
     "scientificSignificance": "Graywacke provides insights into past depositional environments and tectonic activity, contributing to the understanding of Earth's geological history and the complex processes that shape sedimentary basins."
   },
-  { "id": "102" }
+  {
+    "id": "103",
+    "name": "Micrite",
+    "description": "Micrite is a type of sedimentary rock that forms from the accumulation of fine-grained carbonate particles, often composed of calcite or aragonite. It is commonly found in limestone and plays a significant role in sedimentary geology.",
+    "wikiImage": "https://images.example.com/micrite.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Micrite forms in aquatic environments, particularly in shallow marine conditions with slow rates of sedimentation. The accumulation of microcrystalline carbonate particles results in the formation of micrite."
+    },
+    "characteristics": {
+      "color": "Micrite is typically light in color, ranging from pale gray to beige, and it can exhibit subtle variations in color based on impurities and mineral content.",
+      "composition": "Micrite is primarily composed of fine-grained carbonate particles, often microcrystalline calcite or aragonite. These small grains are typically indistinguishable to the naked eye.",
+      "texture": "Micrite has a fine-grained texture with particles too small to be seen without magnification. It may feel smooth to the touch.",
+      "hardness": "Micrite is relatively soft, with a hardness that falls within a low range on the Mohs hardness scale.",
+      "porosity": "Micrite can have variable porosity based on factors such as cementation and compaction. It may have low to moderate porosity, impacting its water-holding capacity and permeability.",
+      "bedding": "Micrite is often found in association with other carbonate rocks, and it can exhibit distinct bedding layers within limestone formations.",
+      "fossils": "Micrite may preserve fossils, particularly in limestone beds where it forms. Fossils such as microorganisms, foraminifera, and small shells can be found in micritic limestone."
+    },
+    "applications": {
+      "geologicalUses": "Micrite is important in understanding ancient marine environments, sedimentation rates, and the formation of limestone rocks. It provides insights into the history of past oceans.",
+      "buildingMaterials": "While not a common construction material on its own, micritic limestone is sometimes used for decorative purposes, such as in architecture and landscaping.",
+      "scientificResearch": "Micrite is extensively studied by geologists to reconstruct past depositional settings, analyze carbonate sedimentation, and interpret the paleoenvironmental conditions of limestone formations."
+    },
+    "scientificSignificance": "Micrite contributes to the understanding of sedimentary processes, carbonate deposition, and the preservation of microfossils. Its study aids in deciphering Earth's history and the evolution of marine ecosystems."
+  }
 ]

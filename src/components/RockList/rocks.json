@@ -2352,5 +2352,30 @@
       "sculptures": "Micrite is extensively studied by geologists to reconstruct past depositional settings, analyze carbonate sedimentation, and interpret the paleoenvironmental conditions of limestone formations."
     },
     "scientificSignificance": "Micrite contributes to the understanding of sedimentary processes, carbonate deposition, and the preservation of microfossils. Its study aids in deciphering Earth's history and the evolution of marine ecosystems."
+  },
+  {
+    "id": "104",
+    "name": "Claystone",
+    "description": "Claystone is a fine-grained sedimentary rock composed primarily of clay minerals. It is a common rock type with various applications in construction, geology, and other fields.",
+    "wikiImage": "https://images.example.com/claystone.jpg",
+    "type": "Sedimentary",
+    "formation": {
+      "description": "Claystone forms from the accumulation and compaction of very fine clay particles, often mixed with silt. These particles settle in quiet water environments and become compacted over time to form claystone."
+    },
+    "characteristics": {
+      "color": "Claystone can exhibit a range of colors, including shades of gray, brown, red, and green. The color is influenced by mineral impurities and organic material.",
+      "composition": "Claystone is primarily composed of clay minerals, such as kaolinite, illite, and montmorillonite. These fine-grained minerals give claystone its distinctive properties.",
+      "texture": "Claystone has a smooth and dense texture due to the small size of its clay particles. It may feel slightly slippery or soapy to the touch.",
+      "hardness": "Claystone is relatively soft on the Mohs hardness scale, with a hardness that is lower than many other rock types.",
+      "porosity": "Claystone has low porosity, which means it has very few open pores or cracks. This property makes it less permeable to water and fluids.",
+      "fissility": "Claystone often exhibits fissility, meaning it can be easily split into thin sheets or layers. This property is due to the alignment of clay minerals.",
+      "weathering": "Claystone is susceptible to weathering, and it can break down into smaller particles when exposed to the elements over time."
+    },
+    "applications": {
+      "construction": "Claystone is used as a construction material for making bricks, tiles, and pottery. Its plasticity when wet makes it suitable for molding.",
+      "geologicalUses": "Claystone is significant in sedimentary geology, as it provides insights into past sedimentation in quiet water environments, such as lakes and floodplains.",
+      "ceramics": "Claystone is an essential material for producing ceramics, including pottery, porcelain, and earthenware. Its fine particles make it ideal for shaping and firing."
+    },
+    "scientificSignificance": "Claystone plays a crucial role in understanding sedimentary processes, soil formation, and the preservation of ancient environments. It is studied in geology and archaeology."
   }
 ]

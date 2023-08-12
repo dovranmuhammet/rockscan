@@ -2365,16 +2365,14 @@
     "characteristics": {
       "color": "Claystone can exhibit a range of colors, including shades of gray, brown, red, and green. The color is influenced by mineral impurities and organic material.",
       "composition": "Claystone is primarily composed of clay minerals, such as kaolinite, illite, and montmorillonite. These fine-grained minerals give claystone its distinctive properties.",
-      "texture": "Claystone has a smooth and dense texture due to the small size of its clay particles. It may feel slightly slippery or soapy to the touch.",
       "hardness": "Claystone is relatively soft on the Mohs hardness scale, with a hardness that is lower than many other rock types.",
-      "porosity": "Claystone has low porosity, which means it has very few open pores or cracks. This property makes it less permeable to water and fluids.",
-      "fissility": "Claystone often exhibits fissility, meaning it can be easily split into thin sheets or layers. This property is due to the alignment of clay minerals.",
-      "weathering": "Claystone is susceptible to weathering, and it can break down into smaller particles when exposed to the elements over time."
+      "density": "Claystone has a smooth and dense texture due to the small size of its clay particles. It may feel slightly slippery or soapy to the touch.",
+      "porosity": "Claystone has low porosity, which means it has very few open pores or cracks. This property makes it less permeable to water and fluids."
     },
     "applications": {
       "construction": "Claystone is used as a construction material for making bricks, tiles, and pottery. Its plasticity when wet makes it suitable for molding.",
-      "geologicalUses": "Claystone is significant in sedimentary geology, as it provides insights into past sedimentation in quiet water environments, such as lakes and floodplains.",
-      "ceramics": "Claystone is an essential material for producing ceramics, including pottery, porcelain, and earthenware. Its fine particles make it ideal for shaping and firing."
+      "monuments": "Claystone is significant in sedimentary geology, as it provides insights into past sedimentation in quiet water environments, such as lakes and floodplains.",
+      "sculptures": "Claystone is an essential material for producing ceramics, including pottery, porcelain, and earthenware. Its fine particles make it ideal for shaping and firing."
     },
     "scientificSignificance": "Claystone plays a crucial role in understanding sedimentary processes, soil formation, and the preservation of ancient environments. It is studied in geology and archaeology."
   }

@@ -2388,14 +2388,14 @@
     "characteristics": {
       "color": "Tufa can vary in color, with shades of white, beige, tan, or light gray being common. The color is influenced by the minerals present in the water during the precipitation process.",
       "composition": "Tufa is primarily composed of calcium carbonate (calcite) deposited by the water. It often contains organic material and may have a porous or sponge-like texture.",
-      "texture": "Tufa has a unique texture characterized by its porosity. It often appears as a porous rock with voids and open spaces created by the trapping of gas bubbles during mineral precipitation.",
-      "porosity": "Tufa is highly porous, with a significant number of open pores and voids. This property makes it capable of absorbing and holding water, which can be important in certain ecological contexts.",
-      "softness": "Tufa is relatively soft compared to other rock types. It can be easily cut or shaped, which has made it useful in various historical and artistic applications."
+      "hardness": "Tufa has a unique texture characterized by its porosity. It often appears as a porous rock with voids and open spaces created by the trapping of gas bubbles during mineral precipitation.",
+      "density": "Tufa is relatively soft compared to other rock types. It can be easily cut or shaped, which has made it useful in various historical and artistic applications.",
+      "porosity": "Tufa is highly porous, with a significant number of open pores and voids. This property makes it capable of absorbing and holding water, which can be important in certain ecological contexts."
     },
     "applications": {
-      "architecture": "Tufa has been historically used in architecture and construction, especially in regions where it is abundant. It was utilized for building materials and decorative elements.",
-      "sculpture": "The softness and porous nature of tufa have made it a popular choice for sculptors. Its ability to hold intricate details and patterns makes it appealing for artistic creations.",
-      "ecological Uses": "Tufa's porosity and ability to hold water make it useful in ecological applications, such as creating habitats for aquatic organisms in aquatic garden features or providing mineral-rich environments for certain plants."
+      "construction": "Tufa has been historically used in architecture and construction, especially in regions where it is abundant. It was utilized for building materials and decorative elements.",
+      "monuments": "The softness and porous nature of tufa have made it a popular choice for sculptors. Its ability to hold intricate details and patterns makes it appealing for artistic creations.",
+      "sculptures": "Tufa's porosity and ability to hold water make it useful in ecological applications, such as creating habitats for aquatic organisms in aquatic garden features or providing mineral-rich environments for certain plants."
     },
     "scientificSignificance": "Tufa deposits provide valuable information about the history of water sources, mineral precipitation processes, and ancient environments. They are studied in geology, hydrogeology, and paleoclimatology."
   }

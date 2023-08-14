@@ -2398,5 +2398,29 @@
       "sculptures": "Tufa's porosity and ability to hold water make it useful in ecological applications, such as creating habitats for aquatic organisms in aquatic garden features or providing mineral-rich environments for certain plants."
     },
     "scientificSignificance": "Tufa deposits provide valuable information about the history of water sources, mineral precipitation processes, and ancient environments. They are studied in geology, hydrogeology, and paleoclimatology."
+  },
+  {
+    "id": "106",
+    "name": "Peat",
+    "description": "Peat is an accumulation of partially decayed organic matter that forms in waterlogged environments such as swamps and bogs. It is often used as a fuel source and has ecological significance.",
+    "wikiImage": "https://images.example.com/peat.jpg",
+    "type": "Organic",
+    "formation": {
+      "description": "Peat forms when dead plant material, such as mosses, grasses, and leaves, accumulates in waterlogged areas. The waterlogged conditions slow down decomposition, leading to the accumulation of organic matter."
+    },
+    "characteristics": {
+      "color": "Peat can range in color from light brown to dark brown, depending on the types of plants and degree of decomposition. Fresher peat tends to be lighter in color.",
+      "composition": "Peat is primarily composed of undecomposed plant material, such as cellulose, lignin, and other organic compounds. It has a high carbon content and low mineral content.",
+      "texture": "Peat has a fibrous and spongy texture due to the presence of plant fibers and organic matter. It can hold a significant amount of water.",
+      "flammability": "Due to its high carbon content, peat is flammable and can be used as a fuel source. It has historically been used as a source of heat in some regions.",
+      "porosity": "Peat is highly porous and can hold a large amount of water. It is often used for water filtration and retention in gardening and horticulture."
+    },
+    "applications": {
+      "fuel": "Peat has been historically used as a fuel source, especially in areas where other energy sources were scarce. It can be burned for heat and energy.",
+      "gardening": "Peat is widely used in gardening and horticulture as a soil amendment and growing medium. Its high water-holding capacity makes it useful for retaining moisture.",
+      "archaeology": "Peat bogs have preserved archaeological artifacts and ancient human remains due to the waterlogged and anaerobic conditions that slow down decomposition.",
+      "ecology": "Peatlands serve as important habitats for various plant and animal species. They also store carbon, making them ecologically significant for carbon sequestration."
+    },
+    "scientificSignificance": "Peat deposits offer insights into past environmental conditions, vegetation history, and climate changes. They are studied to understand past ecosystems and their response to climate shifts."
   }
 ]

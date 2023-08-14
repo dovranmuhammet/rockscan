@@ -2398,31 +2398,5 @@
       "sculptures": "Tufa's porosity and ability to hold water make it useful in ecological applications, such as creating habitats for aquatic organisms in aquatic garden features or providing mineral-rich environments for certain plants."
     },
     "scientificSignificance": "Tufa deposits provide valuable information about the history of water sources, mineral precipitation processes, and ancient environments. They are studied in geology, hydrogeology, and paleoclimatology."
-  },
-  {
-    "id": "106",
-    "name": "Phyllonite",
-    "description": "Phyllonite is a type of metamorphic rock characterized by its foliated texture and high content of fine-grained minerals. It forms from the recrystallization of pre-existing rock under high pressure and temperature conditions.",
-    "wikiImage": "https://example.com/images/phyllonite.jpg",
-    "type": "Metamorphic",
-    "formation": {
-      "description": "Phyllonite forms through the process of metamorphism, where existing rocks like shale or slate are subjected to intense heat and pressure, causing minerals to recrystallize and align into a foliated structure."
-    },
-    "characteristics": {
-      "texture": "Phyllonite has a foliated texture due to the alignment of its fine-grained minerals, giving it a layered appearance.",
-      "mineralComposition": "It typically contains minerals such as mica, chlorite, talc, graphite, and quartz. The exact mineral composition varies depending on the parent rock and metamorphic conditions.",
-      "color": "Phyllonite often appears dark gray, greenish, or black due to the presence of mafic minerals like chlorite and biotite.",
-      "foliation": "The rock's foliation is a result of mineral alignment, giving it a characteristic sheet-like structure that is often visible to the naked eye.",
-      "hardness": "Phyllonite's hardness varies depending on its mineral content but generally falls within the range of 2.5 to 4 on the Mohs scale.",
-      "cleavage": "Cleavage planes can be observed due to the alignment of platy minerals in the rock's foliated structure.",
-      "sheen": "Certain types of phyllonite can exhibit a shiny or silvery sheen due to the presence of mica minerals."
-    },
-    "applications": {
-      "construction": "Phyllonite is sometimes used in construction as a decorative stone for walls, floors, and countertops.",
-      "ornamental": "Its unique texture and appearance make it a choice for ornamental purposes such as sculptures and carvings.",
-      "roofing": "In some regions, phyllonite is used as a roofing material due to its layered structure and resistance to weathering.",
-      "cultural": "Phyllonite holds cultural significance in certain regions where it is used for traditional art or craftsmanship."
-    },
-    "scientificSignificance": "Phyllonite provides insights into the metamorphic processes that occur within the Earth's crust, helping geologists understand the conditions under which rocks undergo recrystallization and develop foliation."
   }
 ]

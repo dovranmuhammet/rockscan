@@ -2411,14 +2411,13 @@
     "characteristics": {
       "color": "Spilite is typically dark in color, ranging from dark gray to black. Phenocrysts of plagioclase feldspar may be visible in the matrix.",
       "composition": "The main mineral components of spilite include plagioclase feldspar, pyroxene, and sometimes olivine. These minerals contribute to its basaltic composition.",
-      "texture": "Spilite has a fine-grained texture due to its rapid cooling process.",
       "hardness": "Spilite is relatively hard with a Mohs hardness rating of around 6.",
       "density": "Spilite has a density ranging from 2.6 to 2.9 grams per cubic centimeter.",
       "porosity": "Spilite is generally not very porous, as its fine-grained nature restricts the presence of open spaces."
     },
     "applications": {
-      "construction": "Spilite is used as a decorative stone and occasionally in construction due to its durability and appealing appearance.",
-      "scientificSignificance": "Spilite has scientific significance as it provides insights into past volcanic activities and geological processes related to basaltic magmatism."
-    }
+      "construction": "Spilite is used as a decorative stone and occasionally in construction due to its durability and appealing appearance."
+    },
+    "scientificSignificance": "Spilite has scientific significance as it provides insights into past volcanic activities and geological processes related to basaltic magmatism."
   }
 ]

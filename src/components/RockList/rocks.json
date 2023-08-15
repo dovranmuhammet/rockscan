@@ -2416,7 +2416,9 @@
       "porosity": "Spilite is generally not very porous, as its fine-grained nature restricts the presence of open spaces."
     },
     "applications": {
-      "construction": "Spilite is used as a decorative stone and occasionally in construction due to its durability and appealing appearance."
+      "construction": "Spilite is used as a decorative stone and occasionally in construction due to its durability and appealing appearance.",
+      "monuments": "Crushed and graded spilite can be used as road aggregates in construction projects, providing a durable and stable foundation for roads and highways.",
+      "sculptures": "Spilite's dark color and fine-grained texture make it suitable for architectural applications such as facades, interior flooring, and decorative elements."
     },
     "scientificSignificance": "Spilite has scientific significance as it provides insights into past volcanic activities and geological processes related to basaltic magmatism."
   }

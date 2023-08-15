@@ -2398,5 +2398,27 @@
       "sculptures": "Tufa's porosity and ability to hold water make it useful in ecological applications, such as creating habitats for aquatic organisms in aquatic garden features or providing mineral-rich environments for certain plants."
     },
     "scientificSignificance": "Tufa deposits provide valuable information about the history of water sources, mineral precipitation processes, and ancient environments. They are studied in geology, hydrogeology, and paleoclimatology."
+  },
+  {
+    "id": "106",
+    "name": "Spilite",
+    "description": "Spilite is a fine-grained igneous rock with a basaltic composition, often containing phenocrysts of plagioclase feldspar. It is commonly associated with volcanic activity and is found in various geological settings.",
+    "wikiImage": "https://example.com/images/spilite.jpg",
+    "type": "Igneous",
+    "formation": {
+      "description": "Spilite forms from the rapid cooling and solidification of basaltic lava flows. The quick cooling leads to the development of small mineral grains, giving it a fine-grained texture."
+    },
+    "characteristics": {
+      "color": "Spilite is typically dark in color, ranging from dark gray to black. Phenocrysts of plagioclase feldspar may be visible in the matrix.",
+      "composition": "The main mineral components of spilite include plagioclase feldspar, pyroxene, and sometimes olivine. These minerals contribute to its basaltic composition.",
+      "texture": "Spilite has a fine-grained texture due to its rapid cooling process.",
+      "hardness": "Spilite is relatively hard with a Mohs hardness rating of around 6.",
+      "density": "Spilite has a density ranging from 2.6 to 2.9 grams per cubic centimeter.",
+      "porosity": "Spilite is generally not very porous, as its fine-grained nature restricts the presence of open spaces."
+    },
+    "applications": {
+      "construction": "Spilite is used as a decorative stone and occasionally in construction due to its durability and appealing appearance.",
+      "scientificSignificance": "Spilite has scientific significance as it provides insights into past volcanic activities and geological processes related to basaltic magmatism."
+    }
   }
 ]

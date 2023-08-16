@@ -1609,5 +1609,29 @@
         "url": "https://education.nationalgeographic.org/resource/hot-spot-volcanism/"
       }
     ]
+  },
+  {
+    "id": 68,
+    "topic": "What is the relationship between rocks and minerals?",
+    "description": "Rocks and minerals are fundamental components of the Earth's crust, and they are closely interconnected. Minerals are naturally occurring inorganic substances with a specific chemical composition and atomic arrangement. They are the building blocks of rocks. When minerals combine and crystallize under various geological conditions, they form rocks. Rocks, on the other hand, are aggregates of minerals, mineraloids, or organic materials. They come in various types, such as igneous, sedimentary, and metamorphic, depending on their origin and the processes that formed them. The study of rocks and minerals, known as petrology and mineralogy, respectively, provides insights into the Earth's history, processes, and the conditions that have shaped its surface over billions of years.",
+    "img": "https://example.com/images/rock_mineral.jpg",
+    "fun_fact": "Did you know that minerals can have various properties, such as color, hardness, cleavage, and fluorescence? These properties help scientists identify and classify different minerals.",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Introduction to Minerals",
+        "url": "https://www.minerals.net/mineral/intro.aspx"
+      },
+      {
+        "id": 2,
+        "title": "Rocks and the Rock Cycle",
+        "url": "https://www.usgs.gov/media/images/rock-cycle"
+      },
+      {
+        "id": 3,
+        "title": "Petrology and Mineralogy",
+        "url": "https://www.britannica.com/science/petrology"
+      }
+    ]
   }
 ]

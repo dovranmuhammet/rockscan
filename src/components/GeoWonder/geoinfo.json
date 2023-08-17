@@ -1633,5 +1633,29 @@
         "url": "https://www.bgs.ac.uk/discovering-geology/rocks-and-minerals/#:~:text=What%20are%20minerals%3F&text=A%20mineral%20is%20a%20naturally,mixed%20up%20through%20geological%20processes."
       }
     ]
+  },
+  {
+    "id": 69,
+    "topic": "How do earthquakes shape the Earth's surface and impact human civilizations?",
+    "description": "Earthquakes are powerful geological events that can significantly shape the Earth's surface and impact human societies. These natural phenomena occur when there is a sudden release of energy along fault lines in the Earth's crust. The seismic waves generated during an earthquake can cause the ground to shake, resulting in surface ruptures, landslides, and the formation of new geological features. Over time, repeated earthquakes can alter landscapes, create new valleys, and change the course of rivers. Moreover, earthquakes can trigger tsunamis when they occur underwater, leading to devastating coastal flooding. Understanding earthquake patterns and their effects is crucial for designing resilient infrastructure and disaster preparedness strategies in earthquake-prone regions.",
+    "img": "https://example.com/images/earthquake_impact.jpg",
+    "fun_fact": "Did you know that the largest recorded earthquake occurred in Chile in 1960? This megathrust earthquake had a magnitude of 9.5 and triggered tsunamis that affected coastlines across the Pacific Ocean.",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Earthquakes and Plate Tectonics",
+        "url": "https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes-and-plate-tectonics"
+      },
+      {
+        "id": 2,
+        "title": "Tsunamis: The Great Waves",
+        "url": "https://www.nationalgeographic.org/encyclopedia/tsunami/"
+      },
+      {
+        "id": 3,
+        "title": "Earthquake Safety Tips",
+        "url": "https://www.ready.gov/earthquakes"
+      }
+    ]
   }
 ]

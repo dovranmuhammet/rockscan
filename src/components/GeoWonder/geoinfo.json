@@ -1739,8 +1739,8 @@
     "external_links": [
       {
         "id": 1,
-        "title": "Rocks and Minerals",
-        "url": "https://www.dkfindout.com/us/earth/rocks-and-minerals/"
+        "title": "Newfound meteorite could help unlock secrets of the solar system",
+        "url": "https://www.nationalgeographic.com/science/article/newfound-meteorite-could-help-unlock-secrets-of-the-solar-system"
       },
       {
         "id": 2,
@@ -1751,6 +1751,30 @@
         "id": 3,
         "title": "Sedimentary Rocks",
         "url": "https://geology.com/rocks/sedimentary-rocks.shtml"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "topic": "How Does Radiometric Dating Unravel Earth's Ancient Mysteries?",
+    "description": "Radiometric dating is a crucial technique that allows scientists to estimate the age of rocks, minerals, and even the Earth itself. This method relies on the decay of radioactive isotopes within these materials over time. By measuring the ratio of parent isotopes to their decay products, scientists can calculate the time that has elapsed since the formation of the rock or mineral. One of the most widely used radiometric dating methods is uranium-lead dating, which is particularly effective for dating rocks that formed in the early Earth. Through this technique, scientists have determined that the Earth is around 4.54 billion years old. Radiometric dating not only helps us understand Earth's history but also provides insights into the chronology of events in the solar system's evolution.",
+    "img": "https://example.com/images/radiometric_dating.jpg",
+    "fun_fact": "Did you know that radiometric dating has revealed the ages of some of the oldest rocks on Earth to be over 4 billion years old? These ancient rocks provide glimpses into the distant past and offer valuable clues about the conditions that prevailed on our planet's early surface.",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Radiometric Dating",
+        "url": "https://www.britannica.com/science/radiometric-dating"
+      },
+      {
+        "id": 2,
+        "title": "Uranium-Lead Dating",
+        "url": "https://www.earthtime.org/uranium-lead-dating"
+      },
+      {
+        "id": 3,
+        "title": "Radiometric Dating - Geological Time",
+        "url": "https://geology.com/usgs/radiometric-dating/"
       }
     ]
   }

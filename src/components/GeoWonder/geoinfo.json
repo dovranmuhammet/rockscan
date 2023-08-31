@@ -1801,5 +1801,29 @@
         "url": "https://education.nationalgeographic.org/resource/igneous-rocks/"
       }
     ]
+  },
+  {
+    "id": 37,
+    "topic": "What are the Formation, Features, and Mysteries of Caves: Unveiling the Hidden World?",
+    "description": "Caves, also known as caverns, are natural underground spaces formed through various geological processes. They can be found all around the world and hold a unique charm and mystery. Caves are created through processes such as dissolution, erosion, and chemical reactions, often involving water and minerals. Some caves feature stunning formations like stalactites, stalagmites, and flowstones, which form over thousands of years. These formations provide insights into the geological history of the Earth and how water shapes the landscape. Caves are not only geological wonders but also serve as important ecosystems and archaeological sites, offering clues about ancient civilizations and extinct species.",
+    "img": "https://example.com/images/cave_formation.jpg",
+    "fun_fact": "Did you know that the Mammoth Cave System in Kentucky, USA, is the longest known cave system in the world, spanning over 400 miles (644 kilometers) of interconnected passages?",
+    "external_links": [
+      {
+        "id": 1,
+        "title": "Cave Formation and Speleogenesis",
+        "url": "https://www.britannica.com/science/cave-geology"
+      },
+      {
+        "id": 2,
+        "title": "Mammoth Cave National Park",
+        "url": "https://www.nps.gov/maca/index.htm"
+      },
+      {
+        "id": 3,
+        "title": "Caves and Karst",
+        "url": "https://www.nature.com/scitable/knowledge/library/caves-and-karst-14/"
+      }
+    ]
   }
 ]

@@ -2442,10 +2442,10 @@
     "history": {
       "description": "Turquoise has a rich history dating back thousands of years. It was highly prized by ancient civilizations, including the Egyptians, Persians, and Native American tribes, for its beauty and spiritual significance. Many cultures used turquoise in jewelry, amulets, and religious rituals."
     },
-    "uses": {
-      "jewelry": "Turquoise is a popular choice for jewelry, including rings, necklaces, bracelets, and earrings. It is often used in both traditional and contemporary designs.",
-      "art": "Artists have used turquoise in various forms, including as inlay in sculptures, paintings, and pottery. Its vibrant color adds a distinctive element to artwork.",
-      "spiritual": "Turquoise has spiritual significance in many cultures. It is believed to bring protection, healing, and positive energy to those who wear or carry it."
+    "applications": {
+      "construction": "Turquoise is a popular choice for jewelry, including rings, necklaces, bracelets, and earrings. It is often used in both traditional and contemporary designs.",
+      "monuments": "Artists have used turquoise in various forms, including as inlay in sculptures, paintings, and pottery. Its vibrant color adds a distinctive element to artwork.",
+      "sculptures": "Turquoise has spiritual significance in many cultures. It is believed to bring protection, healing, and positive energy to those who wear or carry it."
     },
     "scientificSignificance": "Turquoise has cultural and historical importance and is also valuable in the field of mineralogy. It provides insights into the geological processes that form secondary mineral deposits. The study of turquoise helps researchers understand the conditions under which certain minerals precipitate from groundwater."
   }

@@ -2421,5 +2421,35 @@
       "sculptures": "Spilite's dark color and fine-grained texture make it suitable for architectural applications such as facades, interior flooring, and decorative elements."
     },
     "scientificSignificance": "Spilite has scientific significance as it provides insights into past volcanic activities and geological processes related to basaltic magmatism."
+  },
+  {
+    "id": "21",
+    "name": "Turquoise",
+    "description": "Turquoise is a blue-green mineral known for its stunning color and historical significance. It has been cherished for centuries for its use in jewelry, art, and cultural ceremonies.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Turquoise-40031.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Turquoise forms in dry, arid regions when water containing copper minerals percolates through rocks. It can be found as veins or nodules within host rocks."
+    },
+    "characteristics": {
+      "color": "Turquoise is best known for its vibrant blue and green colors, which can range from sky blue to deep green. The exact shade depends on the presence of copper and iron.",
+      "composition": "Turquoise is a hydrous phosphate mineral composed of copper, aluminum, and phosphorus. It often contains intricate veining patterns.",
+      "hardness": "Turquoise has a moderate hardness on the Mohs scale, typically ranging from 5 to 6. This makes it suitable for use in jewelry and art but also means it requires care to prevent scratching.",
+      "transparency": "Turquoise is typically opaque but can sometimes exhibit translucency.",
+      "lustre": "It has a waxy to subvitreous lustre, giving it a unique and attractive sheen.",
+      "cleavage": "Turquoise lacks cleavage and has a conchoidal fracture pattern when broken."
+    },
+    "history": {
+      "description": "Turquoise has a rich history dating back thousands of years. It was highly prized by ancient civilizations, including the Egyptians, Persians, and Native American tribes, for its beauty and spiritual significance. Many cultures used turquoise in jewelry, amulets, and religious rituals."
+    },
+    "uses": {
+      "jewelry": "Turquoise is a popular choice for jewelry, including rings, necklaces, bracelets, and earrings. It is often used in both traditional and contemporary designs.",
+      "art": "Artists have used turquoise in various forms, including as inlay in sculptures, paintings, and pottery. Its vibrant color adds a distinctive element to artwork.",
+      "spiritual": "Turquoise has spiritual significance in many cultures. It is believed to bring protection, healing, and positive energy to those who wear or carry it."
+    },
+    "mining": {
+      "description": "Turquoise is mined in several countries, including the United States, Mexico, Iran, and China. High-quality turquoise is extracted from mines, while lower-grade material is often obtained from surface deposits."
+    },
+    "scientificSignificance": "Turquoise has cultural and historical importance and is also valuable in the field of mineralogy. It provides insights into the geological processes that form secondary mineral deposits. The study of turquoise helps researchers understand the conditions under which certain minerals precipitate from groundwater."
   }
 ]

@@ -2435,9 +2435,8 @@
       "color": "Turquoise is best known for its vibrant blue and green colors, which can range from sky blue to deep green. The exact shade depends on the presence of copper and iron.",
       "composition": "Turquoise is a hydrous phosphate mineral composed of copper, aluminum, and phosphorus. It often contains intricate veining patterns.",
       "hardness": "Turquoise has a moderate hardness on the Mohs scale, typically ranging from 5 to 6. This makes it suitable for use in jewelry and art but also means it requires care to prevent scratching.",
-      "transparency": "Turquoise is typically opaque but can sometimes exhibit translucency.",
-      "lustre": "It has a waxy to subvitreous lustre, giving it a unique and attractive sheen.",
-      "cleavage": "Turquoise lacks cleavage and has a conchoidal fracture pattern when broken."
+      "density": "Turquoise is typically opaque but can sometimes exhibit translucency.",
+      "porosity": "It has a waxy to subvitreous lustre, giving it a unique and attractive sheen."
     },
     "applications": {
       "construction": "Turquoise is a popular choice for jewelry, including rings, necklaces, bracelets, and earrings. It is often used in both traditional and contemporary designs.",

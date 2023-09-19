@@ -2444,5 +2444,27 @@
       "sculptures": "Turquoise has spiritual significance in many cultures. It is believed to bring protection, healing, and positive energy to those who wear or carry it."
     },
     "scientificSignificance": "Turquoise has cultural and historical importance and is also valuable in the field of mineralogy. It provides insights into the geological processes that form secondary mineral deposits. The study of turquoise helps researchers understand the conditions under which certain minerals precipitate from groundwater."
-  }
+  }, {
+  "id": "2",
+  "name": "Aquamarine",
+  "description": "Aquamarine is a blue to green-blue variety of the mineral beryl. It is prized for its stunning oceanic hues and is often used as a gemstone in jewelry.",
+  "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aquamarine%2C_Uruacu%2C_Goias%2C_Brazil_-_Bauru_Sp%2C_Brazil_-_2016-03-15%2C_DD_64.JPG/800px-Aquamarine%2C_Uruacu%2C_Goias%2C_Brazil_-_Bauru_Sp%2C_Brazil_-_2016-03-15%2C_DD_64.JPG",
+  "type": "Mineral",
+  "formation": {
+    "description": "Aquamarine is formed in pegmatite rocks, which are a type of igneous rock. It develops as large, hexagonal prismatic crystals with a distinct pale blue to greenish-blue coloration."
+  },
+  "characteristics": {
+    "color": "Aquamarine gets its name from the Latin words 'aqua' (water) and 'marina' (of the sea) due to its captivating ocean-like colors.",
+    "composition": "Aquamarine is composed of beryl, a mineral that includes beryllium aluminum cyclosilicate. Its color is attributed to traces of iron present during its formation.",
+    "hardness": "Aquamarine has a hardness rating of 7.5 to 8 on the Mohs scale, making it durable and suitable for use in jewelry.",
+    "density": "The density of aquamarine typically ranges from 2.6 to 2.8 grams per cubic centimeter.",
+    "porosity": "Aquamarine is not porous and has low permeability, making it resistant to moisture absorption and staining."
+  },
+  "applications": {
+    "jewelry": "Aquamarine is a popular gemstone for jewelry, including rings, necklaces, and earrings, due to its exquisite color and relative hardness.",
+    "collectibles": "Collectors often seek high-quality aquamarine specimens for their mineral collections.",
+    "spiritual": "Aquamarine is believed to have spiritual and metaphysical properties, including calming energies and the ability to enhance communication."
+  },
+  "scientificSignificance": "In addition to its use in jewelry and collectibles, aquamarine is studied for its mineralogical and geological significance. It helps scientists understand the conditions under which pegmatite minerals form."
+}
 ]

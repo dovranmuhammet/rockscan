@@ -2467,5 +2467,28 @@
       "sculptures": "Aquamarine is believed to have spiritual and metaphysical properties, including calming energies and the ability to enhance communication."
     },
     "scientificSignificance": "In addition to its use in jewelry and collectibles, aquamarine is studied for its mineralogical and geological significance. It helps scientists understand the conditions under which pegmatite minerals form."
+  },
+  {
+    "id": "3",
+    "name": "Malachite",
+    "description": "Malachite is a vibrant green mineral known for its striking color and distinctive banding patterns. It has been prized for centuries for both its ornamental and spiritual significance.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Malachite_Stufe.jpg/800px-Malachite_Stufe.jpg",
+    "type": "Mineral",
+    "formation": {
+      "description": "Malachite is formed through the weathering of copper ore deposits. It commonly occurs as botryoidal masses, fibrous aggregates, and stalactites in the upper oxidized zones of copper deposits."
+    },
+    "characteristics": {
+      "color": "Malachite exhibits a vibrant green color, ranging from light green to deep emerald green. It is known for its beautiful banded patterns that resemble concentric circles or rings.",
+      "composition": "Malachite is a copper carbonate mineral with the chemical formula Cu2(CO3)(OH)2. Its striking green color is due to the presence of copper.",
+      "hardness": "Malachite has a relatively moderate hardness rating of 3.5 to 4 on the Mohs scale, making it susceptible to scratching and abrasion.",
+      "density": "The density of malachite typically ranges from 3.6 to 4.0 grams per cubic centimeter.",
+      "porosity": "Malachite has low porosity and is generally non-porous, which makes it suitable for use in jewelry and ornaments."
+    },
+    "applications": {
+      "jewelry": "Malachite is often used in the creation of jewelry, including cabochons, beads, and pendants, due to its captivating green color and unique patterns.",
+      "ornaments": "Carvings, sculptures, and decorative objects made from malachite have been cherished for their aesthetic appeal and cultural significance.",
+      "spiritual": "Malachite is believed to have spiritual and healing properties. It is associated with transformation, protection, and positive energy."
+    },
+    "scientificSignificance": "Malachite is of geological interest as it forms in the oxidation zone of copper deposits. It provides insights into the weathering and alteration processes of copper minerals."
   }
 ]

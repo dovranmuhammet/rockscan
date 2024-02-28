@@ -35,8 +35,8 @@ const Footer = () => {
           <div className='col-md-3'>
             <h1 className={Classes.footerTitle}>Download (Coming soon)</h1>
             <ul className={`${Classes.infoList} list-unstyled`}>
-              <li>iPhone</li>
               <li>Android</li>
+              <li>iPhone</li>
             </ul>
           </div>
         </div>

@@ -2490,5 +2490,28 @@
       "sculptures": "Malachite is believed to have spiritual and healing properties. It is associated with transformation, protection, and positive energy."
     },
     "scientificSignificance": "Malachite is of geological interest as it forms in the oxidation zone of copper deposits. It provides insights into the weathering and alteration processes of copper minerals."
+  },
+  {
+    "id": "110",
+    "name": "Emerald",
+    "description": "Emerald is a green gemstone known for its stunning color and cultural significance. It has been cherished for centuries for its use in jewelry, art, and cultural ceremonies.",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/Emerald_%28gemstone%29.jpg",
+    "type": "Gemstone",
+    "formation": {
+      "description": "Emerald forms in metamorphic rocks, particularly those with high levels of beryllium and aluminum. It is often found in veins or crystalline masses within host rocks."
+    },
+    "characteristics": {
+      "color": "Emerald is best known for its rich green color, which can range from light to dark hues. The intensity of the green depends on the presence of chromium and vanadium.",
+      "composition": "Emerald is a variety of the mineral beryl, composed of beryllium, aluminum, silicon, and oxygen. It often contains inclusions known as 'jardin,' which are internal fractures or impurities that give it character.",
+      "hardness": "Emerald has a hardness of 7.5 to 8 on the Mohs scale, making it relatively durable and suitable for use in jewelry.",
+      "density": "Emerald is typically transparent to translucent, with a vitreous luster that enhances its brilliance.",
+      "porosity": "It has a high refractive index, giving it exceptional brilliance and sparkle."
+    },
+    "applications": {
+      "jewelry": "Emerald is highly valued in the jewelry industry, often used in rings, necklaces, earrings, and bracelets. Its vibrant green color adds elegance and sophistication to any piece.",
+      "art": "Artists and craftsmen have used emerald throughout history in various forms, including as adornments in sculptures, paintings, and decorative objects. Its beauty and rarity make it a prized material for artistic expression.",
+      "culturalSignificance": "Emerald has been revered in many cultures as a symbol of love, prosperity, and rebirth. It is often associated with royalty and has been worn by kings, queens, and other nobility throughout history."
+    },
+    "scientificSignificance": "In addition to its cultural significance, emerald has scientific importance in the field of gemology and mineralogy. Studying emerald provides insights into the geological processes that create gem deposits and the conditions under which they form."
   }
 ]

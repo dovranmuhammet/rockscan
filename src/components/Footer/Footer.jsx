@@ -16,16 +16,18 @@ const Footer = () => {
             </ul>
           </div>
           <div className='col-md-3'>
-            <h1 className={Classes.footerTitle}>Privacy & Terms</h1>
+            <li className={Classes.footerTitle}>Privacy & Terms</li>
             <ul className={`${Classes.infoList} list-unstyled`}>
-              <a href='Privacy_policy.jsx' target='_blank'>
-                {' '}
+              <li>
+                <Link to='/terms' target='_blank'>
+                  Terms of Use
+                </Link>
+              </li>
+              <li>
                 <Link to='/privacy-policy' target='_blank'>
                   Privacy Policy
                 </Link>
-              </a>
-              <li>Terms of Use</li>
-              <li>Cookies Setting</li>
+              </li>
             </ul>
           </div>
           <div className='col-md-3'>
